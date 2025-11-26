@@ -90,43 +90,43 @@ def get_transcript(
     - **preserve_formatting**: Preservar formatação (padrão: False)
     """
     try:
-        # Buscar transcrição
-        if request.languages:
-            transcript_list = YouTubeTranscriptApi.list_transcripts(request.video_id)
-            try:
-                # Tentar pegar transcrição manual primeiro
-                transcript = transcript_list.find_manually_created_transcript(
-                    request.languages
-                )
-            except:
-                # Se não encontrar manual, pegar gerada automaticamente
-                transcript = transcript_list.find_generated_transcript(
-                    request.languages
-                )
-            transcript_data = transcript.fetch()
-            language = transcript.language_code
-        else:
-            # Pegar transcrição padrão
-            transcript_data = YouTubeTranscriptApi.get_transcript(request.video_id)
-            language = "auto"
+        # Instanciar a API
+        ytt_api = YouTubeTranscriptApi()
 
-        # Formatar snippets
+        # Buscar transcrição usando a nova API
+        if request.languages:
+            # Buscar lista de transcrições disponíveis
+            transcript_list = ytt_api.list(request.video_id)
+            # Encontrar transcrição no idioma desejado
+            transcript = transcript_list.find_transcript(request.languages)
+            # Fetch com preserve_formatting
+            fetched = transcript.fetch(preserve_formatting=request.preserve_formatting)
+        else:
+            # Buscar transcrição padrão diretamente
+            fetched = ytt_api.fetch(
+                request.video_id,
+                preserve_formatting=request.preserve_formatting
+            )
+
+        # Converter para o formato de resposta
         snippets = [
             TranscriptSnippet(
-                text=item["text"], start=item["start"], duration=item["duration"]
+                text=snippet.text,
+                start=snippet.start,
+                duration=snippet.duration
             )
-            for item in transcript_data
+            for snippet in fetched.snippets
         ]
 
         # Gerar texto completo
         if request.preserve_formatting:
-            full_text = "\n".join([item["text"] for item in transcript_data])
+            full_text = "\n".join([snippet.text for snippet in fetched.snippets])
         else:
-            full_text = " ".join([item["text"] for item in transcript_data])
+            full_text = " ".join([snippet.text for snippet in fetched.snippets])
 
         return TranscriptResponse(
-            video_id=request.video_id,
-            language=language,
+            video_id=fetched.video_id,
+            language=fetched.language_code,
             transcript=snippets,
             full_text=full_text,
         )
