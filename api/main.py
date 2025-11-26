@@ -54,25 +54,32 @@ def fetch_with_ytdlp(video_id: str, languages: Optional[List[str]] = None):
     """Fallback usando yt-dlp para vídeos bloqueados ou de membros"""
     video_url = f"https://www.youtube.com/watch?v={video_id}"
 
-    ydl_opts = {
-        'skip_download': True,
-        'writesubtitles': True,
-        'writeautomaticsub': True,
-        'quiet': True,
-        'no_warnings': True,
-    }
-
     # Adicionar cookies se disponíveis
     cookies_file = get_cookies_file()
     if cookies_file:
+        logger.info(f"Using cookies file: {cookies_file}")
+    else:
+        logger.warning("No cookies file available - members-only videos may fail")
+
+    ydl_opts = {
+        'skip_download': True,  # NÃO baixar vídeo
+        'writesubtitles': True,  # Baixar legendas manuais
+        'writeautomaticsub': True,  # Baixar legendas automáticas
+        'quiet': True,  # Silenciar output
+        'no_warnings': True,  # Sem warnings
+    }
+
+    # Adicionar cookies para vídeos de membros
+    if cookies_file:
         ydl_opts['cookiefile'] = cookies_file
 
-    # Configurar idiomas
+    # Configurar idiomas preferidos
     if languages:
         ydl_opts['subtitleslangs'] = languages
 
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            logger.info(f"Extracting subtitles for video {video_id} with yt-dlp")
             info = ydl.extract_info(video_url, download=False)
 
             # Tentar pegar legendas nos idiomas solicitados
