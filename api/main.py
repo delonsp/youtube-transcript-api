@@ -65,9 +65,9 @@ def fetch_with_ytdlp(video_id: str, languages: Optional[List[str]] = None):
         'skip_download': True,  # NÃO baixar vídeo
         'writesubtitles': True,  # Baixar legendas manuais
         'writeautomaticsub': True,  # Baixar legendas automáticas
-        'quiet': False,  # Mostrar output para debug
-        'no_warnings': False,  # Mostrar warnings
-        'verbose': True,  # Modo verbose para debug completo
+        'quiet': True,  # Silenciar output
+        'no_warnings': True,  # Sem warnings
+        # Node.js será detectado automaticamente pelo yt-dlp
     }
 
     # Adicionar cookies para vídeos de membros

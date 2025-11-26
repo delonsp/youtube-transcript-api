@@ -4,10 +4,18 @@ FROM python:3.12-slim
 # Define diretório de trabalho
 WORKDIR /app
 
+# Instala Node.js (necessário para yt-dlp extrair alguns formatos do YouTube)
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    nodejs \
+    npm \
+    ca-certificates \
+    && rm -rf /var/lib/apt/lists/*
+
 # Copia arquivos de dependências
 COPY requirements.txt .
 
-# Instala dependências
+# Instala dependências Python
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copia a biblioteca youtube-transcript-api
