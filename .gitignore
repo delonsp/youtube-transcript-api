@@ -9,3 +9,14 @@ upload_new_version.sh
 .coverage
 coverage.xml
 .DS_STORE
+
+# Environment variables
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
