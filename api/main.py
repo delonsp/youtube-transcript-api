@@ -67,11 +67,14 @@ def fetch_with_ytdlp(video_id: str, languages: Optional[List[str]] = None):
         'writeautomaticsub': True,  # Baixar legendas automáticas
         'quiet': True,  # Silenciar output
         'no_warnings': True,  # Sem warnings
+        'ignoreerrors': True,  # Ignorar erros de formato
+        'nocheckcertificate': True,  # Ignorar erros SSL
     }
 
     # Adicionar cookies para vídeos de membros
     if cookies_file:
         ydl_opts['cookiefile'] = cookies_file
+        logger.info(f"Cookie file size: {os.path.getsize(cookies_file)} bytes")
 
     # Configurar idiomas preferidos
     if languages:
@@ -81,6 +84,11 @@ def fetch_with_ytdlp(video_id: str, languages: Optional[List[str]] = None):
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             logger.info(f"Extracting subtitles for video {video_id} with yt-dlp")
             info = ydl.extract_info(video_url, download=False)
+
+            if not info:
+                raise Exception("yt-dlp returned None - video may not be accessible")
+
+            logger.info(f"Video info extracted. Available keys: {list(info.keys())[:10]}")
 
             # Tentar pegar legendas nos idiomas solicitados
             subtitles = info.get('subtitles', {})
