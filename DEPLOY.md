@@ -29,6 +29,7 @@
 
 No painel do Dokploy, adicione as seguintes variáveis:
 
+#### **Obrigatória:**
 ```bash
 API_KEY=sua-chave-secreta-aqui-gere-uma-forte
 ```
@@ -37,6 +38,29 @@ API_KEY=sua-chave-secreta-aqui-gere-uma-forte
 ```bash
 openssl rand -hex 32
 ```
+
+#### **Opcional (para vídeos de membros):**
+```bash
+YOUTUBE_COOKIES=<cookies-em-base64>
+```
+
+📝 **Como gerar YOUTUBE_COOKIES:**
+
+1. **Exportar cookies do YouTube:**
+   - Instale a extensão [Get cookies.txt LOCALLY](https://chrome.google.com/webstore/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc) (Chrome/Edge)
+   - Acesse youtube.com (logado como membro)
+   - Clique na extensão e salve `youtube_cookies.txt`
+
+2. **Converter para Base64:**
+   ```bash
+   cat youtube_cookies.txt | base64
+   ```
+
+3. **Adicionar ao Dokploy:**
+   - Copie todo o output base64
+   - Cole no valor da variável `YOUTUBE_COOKIES`
+
+⚠️ **Aviso:** Usar cookies do YouTube pode resultar em ban da conta. Use com moderação!
 
 ### 4. Configurar Domínio
 
