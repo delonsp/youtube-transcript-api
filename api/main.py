@@ -98,10 +98,17 @@ def fetch_with_ytdlp(video_id: str, languages: Optional[List[str]] = None):
         ydl_opts['cookiefile'] = cookies_file
         logger.info(f"Cookie file size: {os.path.getsize(cookies_file)} bytes")
 
-        # Verificar se arquivo existe e tem conteúdo
+        # Verificar conteúdo do arquivo
         with open(cookies_file, 'r') as f:
-            first_line = f.readline().strip()
-            logger.info(f"Cookie file first line: {first_line[:50]}...")
+            content = f.read()
+            # Verificar se tem cookies críticos do YouTube
+            critical_cookies = ['SAPISID', '__Secure-1PSID', '__Secure-3PSID', 'SSID']
+            found_cookies = [c for c in critical_cookies if c in content]
+            logger.info(f"Critical cookies found: {found_cookies}")
+
+            if len(found_cookies) < len(critical_cookies):
+                missing = set(critical_cookies) - set(found_cookies)
+                logger.warning(f"Missing critical cookies: {missing}")
     else:
         logger.warning("No cookies - this will likely fail for members-only videos")
 
