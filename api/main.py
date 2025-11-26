@@ -79,14 +79,16 @@ def fetch_with_ytdlp(video_id: str, languages: Optional[List[str]] = None):
 
     ydl_opts = {
         'skip_download': True,  # NÃO baixar vídeo
+        'format': 'worst',  # Pegar o pior formato (mais simples) para não processar
         'writesubtitles': True,  # Baixar legendas manuais
         'writeautomaticsub': True,  # Baixar legendas automáticas
         'quiet': True,  # Silenciar output
         'no_warnings': True,  # Sem warnings
+        'ignoreerrors': True,  # Ignorar erros de formato de vídeo
         'extractor_args': {
             'youtube': {
-                'player_client': ['android', 'web'],  # Usar clients que não precisam JS
-                'skip': ['hls', 'dash'],  # Pular formatos que precisam de processamento
+                'player_client': ['android'],  # Android é o mais simples
+                'skip': ['hls', 'dash'],
             }
         },
     }
