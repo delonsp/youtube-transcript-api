@@ -40,13 +40,29 @@ def get_cookies_file():
         return None
 
     try:
+        # Decodificar base64
         cookies_content = base64.b64decode(YOUTUBE_COOKIES_B64).decode('utf-8')
+
+        # Log para debug
+        lines = cookies_content.split('\n')
+        logger.info(f"Decoded {len(lines)} lines from base64")
+        logger.info(f"First 3 lines: {lines[:3]}")
+
+        # Contar cookies válidos (linhas que não começam com # e não são vazias)
+        valid_cookies = [line for line in lines if line.strip() and not line.startswith('#')]
+        logger.info(f"Valid cookie entries: {len(valid_cookies)}")
+
+        # Salvar em arquivo temporário
         temp_file = tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt')
         temp_file.write(cookies_content)
         temp_file.flush()
+        temp_file.close()
+
+        logger.info(f"Cookies saved to: {temp_file.name}")
         return temp_file.name
     except Exception as e:
         logger.error(f"Error decoding cookies: {e}")
+        logger.error(f"Base64 string length: {len(YOUTUBE_COOKIES_B64)}")
         return None
 
 
