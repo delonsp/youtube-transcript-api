@@ -240,9 +240,9 @@ def get_transcript(
             full_text=full_text,
         )
 
-    except (InvalidVideoId, VideoUnavailable, TranscriptsDisabled, NoTranscriptFound) as e:
-        # Tentar fallback com yt-dlp
-        print(f"youtube-transcript-api failed: {e}. Trying yt-dlp fallback...")
+    except Exception as e:
+        # Tentar fallback com yt-dlp para qualquer erro
+        print(f"youtube-transcript-api failed: {type(e).__name__}: {e}. Trying yt-dlp fallback...")
         try:
             result = fetch_with_ytdlp(request.video_id, request.languages)
 
@@ -262,6 +262,8 @@ def get_transcript(
             else:
                 full_text = " ".join([s['text'] for s in result['snippets']])
 
+            print(f"✅ yt-dlp fallback succeeded! Retrieved {len(snippets)} snippets")
+
             return TranscriptResponse(
                 video_id=result['video_id'],
                 language=result['language'],
@@ -270,7 +272,10 @@ def get_transcript(
             )
 
         except Exception as ytdlp_error:
-            # Se yt-dlp também falhar, retornar erro original
+            # Se yt-dlp também falhar, retornar ambos os erros
+            print(f"❌ yt-dlp fallback also failed: {ytdlp_error}")
+
+            # Retornar erro específico baseado no erro original
             if isinstance(e, InvalidVideoId):
                 raise HTTPException(status_code=400, detail="Invalid video ID format")
             elif isinstance(e, VideoUnavailable):
@@ -283,14 +288,17 @@ def get_transcript(
                     status_code=403,
                     detail=f"Transcripts are disabled for this video. yt-dlp also failed: {str(ytdlp_error)}"
                 )
-            else:
+            elif isinstance(e, NoTranscriptFound):
                 raise HTTPException(
                     status_code=404,
                     detail=f"No transcript found. yt-dlp also failed: {str(ytdlp_error)}"
                 )
-
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Internal server error: {str(e)}")
+            else:
+                # Erro genérico
+                raise HTTPException(
+                    status_code=500,
+                    detail=f"Both methods failed. youtube-transcript-api: {str(e)}. yt-dlp: {str(ytdlp_error)}"
+                )
 
 
 if __name__ == "__main__":
