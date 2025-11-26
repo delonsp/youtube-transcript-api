@@ -65,10 +65,9 @@ def fetch_with_ytdlp(video_id: str, languages: Optional[List[str]] = None):
         'skip_download': True,  # NÃO baixar vídeo
         'writesubtitles': True,  # Baixar legendas manuais
         'writeautomaticsub': True,  # Baixar legendas automáticas
-        'quiet': True,  # Silenciar output
-        'no_warnings': True,  # Sem warnings
-        'ignoreerrors': True,  # Ignorar erros de formato
-        'nocheckcertificate': True,  # Ignorar erros SSL
+        'quiet': False,  # Mostrar output para debug
+        'no_warnings': False,  # Mostrar warnings
+        'verbose': True,  # Modo verbose para debug completo
     }
 
     # Adicionar cookies para vídeos de membros
@@ -76,19 +75,30 @@ def fetch_with_ytdlp(video_id: str, languages: Optional[List[str]] = None):
         ydl_opts['cookiefile'] = cookies_file
         logger.info(f"Cookie file size: {os.path.getsize(cookies_file)} bytes")
 
+        # Verificar se arquivo existe e tem conteúdo
+        with open(cookies_file, 'r') as f:
+            first_line = f.readline().strip()
+            logger.info(f"Cookie file first line: {first_line[:50]}...")
+    else:
+        logger.warning("No cookies - this will likely fail for members-only videos")
+
     # Configurar idiomas preferidos
     if languages:
         ydl_opts['subtitleslangs'] = languages
 
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            logger.info(f"Extracting subtitles for video {video_id} with yt-dlp")
+            logger.info(f"Attempting yt-dlp extraction for {video_id}")
+            logger.info(f"yt-dlp options: {ydl_opts}")
+
             info = ydl.extract_info(video_url, download=False)
 
             if not info:
-                raise Exception("yt-dlp returned None - video may not be accessible")
+                raise Exception("yt-dlp returned None - likely authentication failure")
 
-            logger.info(f"Video info extracted. Available keys: {list(info.keys())[:10]}")
+            logger.info(f"✅ Video info extracted successfully!")
+            logger.info(f"Available subtitle languages: {list(info.get('subtitles', {}).keys())}")
+            logger.info(f"Available automatic captions: {list(info.get('automatic_captions', {}).keys())}")
 
             # Tentar pegar legendas nos idiomas solicitados
             subtitles = info.get('subtitles', {})
