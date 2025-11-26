@@ -83,7 +83,12 @@ def fetch_with_ytdlp(video_id: str, languages: Optional[List[str]] = None):
         'writeautomaticsub': True,  # Baixar legendas automáticas
         'quiet': True,  # Silenciar output
         'no_warnings': True,  # Sem warnings
-        # Node.js será detectado automaticamente pelo yt-dlp
+        'extractor_args': {
+            'youtube': {
+                'player_client': ['android', 'web'],  # Usar clients que não precisam JS
+                'skip': ['hls', 'dash'],  # Pular formatos que precisam de processamento
+            }
+        },
     }
 
     # Adicionar cookies para vídeos de membros
