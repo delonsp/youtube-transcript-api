@@ -6,6 +6,7 @@ import os
 import base64
 import tempfile
 import yt_dlp
+import logging
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import (
     TranscriptsDisabled,
@@ -13,6 +14,13 @@ from youtube_transcript_api._errors import (
     VideoUnavailable,
     InvalidVideoId,
 )
+
+# Configurar logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 app = FastAPI(
     title="YouTube Transcript API",
@@ -38,7 +46,7 @@ def get_cookies_file():
         temp_file.flush()
         return temp_file.name
     except Exception as e:
-        print(f"Error decoding cookies: {e}")
+        logger.error(f"Error decoding cookies: {e}")
         return None
 
 
@@ -242,7 +250,7 @@ def get_transcript(
 
     except Exception as e:
         # Tentar fallback com yt-dlp para qualquer erro
-        print(f"youtube-transcript-api failed: {type(e).__name__}: {e}. Trying yt-dlp fallback...")
+        logger.warning(f"youtube-transcript-api failed: {type(e).__name__}: {e}. Trying yt-dlp fallback...")
         try:
             result = fetch_with_ytdlp(request.video_id, request.languages)
 
@@ -262,7 +270,7 @@ def get_transcript(
             else:
                 full_text = " ".join([s['text'] for s in result['snippets']])
 
-            print(f"✅ yt-dlp fallback succeeded! Retrieved {len(snippets)} snippets")
+            logger.info(f"✅ yt-dlp fallback succeeded! Retrieved {len(snippets)} snippets")
 
             return TranscriptResponse(
                 video_id=result['video_id'],
@@ -273,7 +281,7 @@ def get_transcript(
 
         except Exception as ytdlp_error:
             # Se yt-dlp também falhar, retornar ambos os erros
-            print(f"❌ yt-dlp fallback also failed: {ytdlp_error}")
+            logger.error(f"❌ yt-dlp fallback also failed: {ytdlp_error}")
 
             # Retornar erro específico baseado no erro original
             if isinstance(e, InvalidVideoId):
