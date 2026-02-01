@@ -1,39 +1,36 @@
-# Usa imagem Python slim para reduzir tamanho
 FROM python:3.12-slim
 
-# Define diretório de trabalho
 WORKDIR /app
 
-# Instala Node.js (necessário para yt-dlp extrair alguns formatos do YouTube)
+# Instala cron, Node.js (necessario para yt-dlp) e utilitarios
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
+    cron \
     nodejs \
     npm \
     ca-certificates \
     && rm -rf /var/lib/apt/lists/*
 
-# Copia arquivos de dependências
-COPY requirements.txt .
+# Dependencias Python
+COPY requirements_local.txt .
+RUN pip install --no-cache-dir -r requirements_local.txt
 
-# Instala dependências Python
-RUN pip install --no-cache-dir -r requirements.txt
-
-# Copia a biblioteca youtube-transcript-api
+# Copiar biblioteca e scripts
 COPY youtube_transcript_api/ ./youtube_transcript_api/
+COPY transcript_processor.py .
+COPY batch_process_videos.py .
+COPY fill_doc_summaries.py .
+COPY estudos_avancados_processor.py .
+COPY download_via_api.py .
+COPY run_estudos_avancados.py .
+COPY google_docs_manager.py .
 
-# Copia a API
-COPY api/ ./api/
+# Crontab e entrypoint
+COPY crontab.txt .
+COPY entrypoint-cron.sh .
+RUN chmod +x entrypoint-cron.sh
 
-# Expõe porta 8000
-EXPOSE 8000
-
-# Define variável de ambiente para Python não criar arquivos .pyc
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
-# Health check
-HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
-    CMD python -c "import requests; requests.get('http://localhost:8000/health')" || exit 1
-
-# Comando para iniciar a aplicação
-CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["/app/entrypoint-cron.sh"]

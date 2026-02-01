@@ -1,0 +1,12 @@
+services:
+  cron:
+    build: .
+    environment:
+      - YOUTUBE_COOKIES
+      - DEEPSEEK_API_KEY
+      - ANTHROPIC_API_KEY
+      - CLIENT_SECRETS_B64
+      - TOKEN_PICKLE_B64
+      - TOKEN_CAPTIONS_B64
+      - TOKEN_DOCS_B64
+      - TOKEN_ESTUDOS_B64

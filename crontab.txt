@@ -1,0 +1,12 @@
+# Download transcricoes - 6h diariamente
+0 6 * * * cd /app && python download_via_api.py --max 500 --delay 2 --output ./transcripts >> /var/log/cron.log 2>&1
+
+# Batch timestamps - 7h diariamente
+0 7 * * * cd /app && echo "sim" | python batch_process_videos.py --max-videos 300 >> /var/log/cron.log 2>&1
+
+# Fill doc summaries - 8h diariamente
+0 8 * * * cd /app && python fill_doc_summaries.py --since 2024-11-20 --process --max 10 >> /var/log/cron.log 2>&1
+
+# Estudos Avancados - 9h diariamente
+0 9 * * * cd /app && python run_estudos_avancados.py >> /var/log/cron.log 2>&1
+

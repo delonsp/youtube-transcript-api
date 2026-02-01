@@ -1,0 +1,19 @@
+# Core transcript extraction
+youtube-transcript-api>=0.6.0
+yt-dlp>=2025.1.1
+requests>=2.31.0
+
+# YouTube Data API
+google-auth-oauthlib>=1.0.0
+google-api-python-client>=2.100.0
+
+# AI Providers (install what you need)
+openai>=1.0.0              # For OpenAI and DeepSeek (compatible API)
+anthropic>=0.40.0          # For Anthropic Claude
+# ollama is installed via brew, no pip package needed
+
+# Secure credential storage
+keyring>=24.0.0
+
+# Utilities
+defusedxml>=0.7.1

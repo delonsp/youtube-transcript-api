@@ -106,12 +106,33 @@ except Exception as e:
 
 ### Cookie Authentication for Members-Only Videos
 
-Members-only videos require authentication cookies:
+Members-only videos require authentication cookies. There are two methods:
+
+**Method 1 - Direct Browser Extraction (Recommended for local scripts)**
+
+yt-dlp can extract cookies directly from browsers. Pass the browser name instead of a file path:
+
+```python
+# In local_workflow.py / fill_doc_summaries.py
+downloader = TranscriptDownloader(cookies_file='chrome')  # or 'firefox', 'edge', 'safari', 'opera'
+```
+
+```bash
+# Command line
+python local_workflow.py VIDEO_ID --members  # Defaults to chrome
+python local_workflow.py VIDEO_ID --cookies firefox
+```
+
+**Method 2 - Cookie File (Required for Docker/cloud deployment)**
 
 1. Export cookies from browser using "Get cookies.txt LOCALLY" extension
-2. Convert to base64: `cat youtube_cookies.txt | base64`
+2. For Docker: Convert to base64: `cat youtube_cookies.txt | base64`
 3. Set as environment variable: `YOUTUBE_COOKIES=<base64-string>`
 4. The API decodes and creates temporary cookie file for yt-dlp
+
+**Which to use:**
+- **Local development**: Use browser extraction (`--cookies chrome`) - always fresh, no maintenance
+- **Docker/Dokploy**: Use cookie file method - browser extraction doesn't work in containers
 
 ### yt-dlp Configuration
 
@@ -144,9 +165,18 @@ ydl_opts = {
 │   └── proxies.py              # Proxy configuration (Webshare, generic)
 ├── api/                        # FastAPI wrapper (custom)
 │   └── main.py                 # REST API with fallback logic
+├── local_workflow.py           # Local processing: transcript → AI timestamps → YouTube comment
+├── batch_process_videos.py     # Batch process multiple videos for timestamps
+├── google_docs_manager.py      # Manage Google Docs for live summaries (stub entries)
+├── fill_doc_summaries.py       # Fill Google Docs with AI-generated summaries + Q&A
 ├── test_local.py               # Quick local testing script
 ├── DEPLOY.md                   # Dokploy deployment guide
-└── requirements.txt            # Production dependencies (FastAPI, yt-dlp)
+├── requirements.txt            # Production dependencies (FastAPI, yt-dlp)
+├── requirements_local.txt      # Local development dependencies
+├── youtube_cookies.txt         # Cookies for members-only videos (local only)
+├── client_secrets.json         # OAuth credentials for YouTube Data API
+├── token.pickle                # YouTube API OAuth token
+└── token_docs.pickle           # Google Docs API OAuth token
 ```
 
 ## Important API Usage Patterns
@@ -257,3 +287,218 @@ Required for production deployment:
 3. **Don't use `print()` in production** - use `logging` module
 4. **Don't push to `origin`** - always push to `origin-new`
 5. **Don't assume cookies work with youtube-transcript-api** - they're currently broken, use yt-dlp fallback
+6. **Video IDs starting with hyphen** - Use `--` separator in argparse (e.g., `python script.py -- -YMooVl3oms`)
+
+## Local Automation Scripts
+
+### local_workflow.py - Single Video Processing
+
+Processes a single video: downloads transcript → generates timestamps with AI → posts comment to YouTube.
+
+```bash
+# Process a public video
+python local_workflow.py VIDEO_ID
+
+# Process a members-only video (requires cookies)
+python local_workflow.py VIDEO_ID --members
+
+# Video ID starting with hyphen
+python local_workflow.py --members -- -YMooVl3oms
+```
+
+**Features:**
+- Uses DeepSeek API for timestamp generation
+- Detects sibling videos (landscape/portrait versions of same live)
+- Updates description AND posts pinned comment
+- Checks for existing timestamps before processing
+
+### batch_process_videos.py - Batch Processing
+
+Scans channel videos and processes those missing timestamps.
+
+```bash
+# Scan last 300 videos (dry run - shows what would be processed)
+python batch_process_videos.py --max-videos 300
+
+# Process with confirmation
+echo "sim" | python batch_process_videos.py --max-videos 300
+```
+
+**Features:**
+- Filters members-only lives only
+- Groups sibling videos (📱 portrait + landscape)
+- Detects existing timestamps in description AND comments
+- Prevents duplicate timestamp comments
+
+### google_docs_manager.py - Live Summaries Document (Stubs)
+
+Manages Google Doc with live summaries - lists undocumented lives and creates entry templates (stubs).
+
+```bash
+# List lives not documented since Nov 2024
+python google_docs_manager.py --since 2024-11-20
+
+# Add stub entries to document
+python google_docs_manager.py --since 2024-11-20 --add
+```
+
+### fill_doc_summaries.py - Generate Full Summaries
+
+Downloads transcripts and generates AI summaries + Q&A for undocumented lives.
+
+```bash
+# Dry run - list what would be processed
+python fill_doc_summaries.py --since 2024-11-20
+
+# Process and generate summaries (max 10)
+python fill_doc_summaries.py --since 2024-11-20 --process --max 10
+```
+
+**Features:**
+- Uses cookies directly from Chrome browser (no cookies.txt needed)
+- Groups sibling videos (📱 portrait + landscape)
+- Generates summary + Q&A with DeepSeek API
+- Inserts formatted entries with proper spacing
+- Requires: `DEEPSEEK_API_KEY` environment variable
+
+**Requires (both scripts):**
+- Google Docs API enabled in Cloud Console
+- `client_secrets.json` with OAuth credentials
+- First run opens browser for authentication
+
+## Timestamp Detection Logic
+
+The scripts check for existing timestamps in multiple places:
+
+1. **Description**: Looks for 3+ timestamps (pattern `\d{1,2}:\d{2}`)
+2. **Channel owner comments**: Checks comments by video owner for:
+   - 3+ timestamps, OR
+   - 1+ timestamp + keywords: "timestamps", "key points", "🎯", "📌", "marcações"
+
+## YouTube Data API Usage
+
+### Posting Comments
+
+```python
+from googleapiclient.discovery import build
+import pickle
+
+# Load OAuth credentials
+with open('token.pickle', 'rb') as f:
+    creds = pickle.load(f)
+
+youtube = build('youtube', 'v3', credentials=creds)
+
+# Post comment
+youtube.commentThreads().insert(
+    part='snippet',
+    body={
+        'snippet': {
+            'videoId': video_id,
+            'topLevelComment': {
+                'snippet': {'textOriginal': comment_text}
+            }
+        }
+    }
+).execute()
+```
+
+### Updating Video Description
+
+```python
+youtube.videos().update(
+    part='snippet',
+    body={
+        'id': video_id,
+        'snippet': {
+            'title': current_title,
+            'description': new_description,
+            'categoryId': category_id
+        }
+    }
+).execute()
+```
+
+## Library Versions & Documentation
+
+Key libraries used (verified with context7):
+
+| Library | Version | Documentation |
+|---------|---------|---------------|
+| youtube-transcript-api | latest | [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) |
+| yt-dlp | latest | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) |
+| FastAPI | 0.115+ | [fastapi.tiangolo.com](https://fastapi.tiangolo.com) |
+| google-api-python-client | latest | [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) |
+| DeepSeek API | V3.2-Exp | [api-docs.deepseek.com](https://api-docs.deepseek.com) |
+
+### DeepSeek API Models (Updated Sep 2025)
+
+| Model Name | Points To | Use Case |
+|------------|-----------|----------|
+| `deepseek-chat` | DeepSeek-V3.2-Exp (non-thinking) | General chat, summaries, timestamps |
+| `deepseek-reasoner` | DeepSeek-V3.2-Exp (thinking) | Complex reasoning, math, code |
+
+**Note:** Model names auto-upgrade to latest version. No need to change `deepseek-chat` in scripts.
+
+**API Key Storage:** Use keyring (recommended) or environment variable:
+```python
+# Set key (one time)
+import keyring
+keyring.set_password('deepseek', 'api_key', 'sk-...')
+
+# Scripts auto-retrieve from keyring, fallback to env var
+api_key = keyring.get_password('deepseek', 'api_key') or os.getenv('DEEPSEEK_API_KEY')
+```
+
+### youtube-transcript-api Key Methods
+
+```python
+ytt_api = YouTubeTranscriptApi()
+
+# Fetch with language priority
+fetched = ytt_api.fetch(video_id, languages=['pt', 'en'])
+
+# List available transcripts
+transcript_list = ytt_api.list(video_id)
+transcript = transcript_list.find_transcript(['pt', 'en'])
+transcript = transcript_list.find_manually_created_transcript(['pt'])
+transcript = transcript_list.find_generated_transcript(['en'])
+
+# Translate transcript
+translated = transcript.translate('en').fetch()
+
+# Use proxy
+from youtube_transcript_api.proxies import GenericProxyConfig
+ytt_api = YouTubeTranscriptApi(
+    proxy_config=GenericProxyConfig(
+        http_url="http://user:pass@proxy:port",
+        https_url="https://user:pass@proxy:port"
+    )
+)
+```
+
+### yt-dlp Python Embedding
+
+```python
+import yt_dlp
+
+ydl_opts = {
+    'skip_download': True,
+    'writesubtitles': True,
+    'writeautomaticsub': True,
+    'subtitleslangs': ['pt', 'en'],
+    'quiet': True,
+}
+
+# Authentication: choose ONE method
+# Method 1: Direct browser extraction (local development)
+ydl_opts['cookiesfrombrowser'] = ('chrome',)  # or 'firefox', 'edge', 'safari', 'opera'
+
+# Method 2: Cookie file (Docker/cloud)
+# ydl_opts['cookiefile'] = 'youtube_cookies.txt'
+
+with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+    info = ydl.extract_info(url, download=False)
+    subtitles = info.get('subtitles', {})
+    automatic_captions = info.get('automatic_captions', {})
+```
