@@ -4,7 +4,7 @@ Estudos Avancados Processor
 ===========================
 
 Processador dedicado para lives de membros nivel 2 (Estudos Avancados).
-Usa Claude Opus 4.5 para gerar resumos detalhados e timestamps precisos.
+Usa DeepSeek para gerar resumos detalhados e timestamps precisos.
 
 Padrao de titulo: "Estudos Avancados - Live #XX"
 
@@ -56,8 +56,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Modelo Claude Haiku 4.5 (rapido e economico)
-CLAUDE_MODEL = "claude-haiku-4-5-20251001"
+# Modelo DeepSeek (rapido e economico)
+DEEPSEEK_MODEL = "deepseek-chat"
 
 # Google Docs - Documento de resumos Estudos Avancados
 ESTUDOS_AVANCADOS_DOC_ID = '1fpGZwBDDwT4aZ7NMNo_X2etuX95FSOxDf1EmgaaRhpA'
@@ -240,36 +240,34 @@ class GoogleDocsManager:
         logger.info(f"Added entry to Google Docs: {date_str} - {video_title}")
 
 
-class ClaudeOpusProcessor:
-    """Processador AI usando Claude Opus 4.5 para analises detalhadas."""
+class DeepSeekProcessor:
+    """Processador AI usando DeepSeek para analises detalhadas."""
 
     def __init__(self):
         self.client = None
         self._init_client()
 
     def _init_client(self):
-        """Inicializa cliente Anthropic."""
-        from anthropic import Anthropic
+        """Inicializa cliente DeepSeek (API compativel com OpenAI)."""
+        from openai import OpenAI
         import keyring
 
-        # Tentar diferentes combinacoes de keyring
         api_key = (
-            keyring.get_password('ANTHROPIC_API_KEY', 'alain_dutra') or
-            keyring.get_password('anthropic', 'api_key') or
-            os.getenv('ANTHROPIC_API_KEY')
+            keyring.get_password('deepseek', 'api_key') or
+            os.getenv('DEEPSEEK_API_KEY')
         )
         if not api_key:
             raise ValueError(
-                "Anthropic API key not found. Set it with:\n"
-                "python -c \"import keyring; keyring.set_password('ANTHROPIC_API_KEY', 'alain_dutra', 'sk-ant-...')\""
+                "DeepSeek API key not found. Set it with:\n"
+                "python -c \"import keyring; keyring.set_password('deepseek', 'api_key', 'sk-...')\""
             )
 
-        self.client = Anthropic(api_key=api_key)
-        logger.info(f"Initialized Claude Opus 4.5 ({CLAUDE_MODEL})")
+        self.client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
+        logger.info(f"Initialized DeepSeek ({DEEPSEEK_MODEL})")
 
     def generate_detailed_analysis(self, transcript_data: Dict, video_title: str) -> Dict:
         """
-        Gera analise completa da live usando Claude Opus 4.5.
+        Gera analise completa da live usando DeepSeek.
 
         Retorna:
         {
@@ -322,17 +320,17 @@ Gere uma analise COMPLETA em JSON com:
 
 Responda APENAS com JSON valido, sem texto adicional antes ou depois."""
 
-        logger.info("Sending request to Claude Opus 4.5...")
+        logger.info("Sending request to DeepSeek...")
 
-        message = self.client.messages.create(
-            model=CLAUDE_MODEL,
+        response = self.client.chat.completions.create(
+            model=DEEPSEEK_MODEL,
             max_tokens=16000,
             messages=[
                 {"role": "user", "content": prompt}
             ]
         )
 
-        response_text = message.content[0].text
+        response_text = response.choices[0].message.content
 
         # Extrair JSON da resposta
         try:
@@ -423,7 +421,7 @@ class EstudosAvancadosManager:
 
     def __init__(self, credentials_file: str = 'client_secrets.json'):
         self.transcript_downloader = TranscriptDownloader(cookies_file='youtube_cookies.txt')
-        self.ai_processor = ClaudeOpusProcessor()
+        self.ai_processor = DeepSeekProcessor()
         self.youtube_manager = YouTubeManager(credentials_file=credentials_file)
         self.docs_manager = GoogleDocsManager()
 
@@ -441,7 +439,7 @@ class EstudosAvancadosManager:
         logger.info("=" * 60)
         logger.info("ESTUDOS AVANCADOS PROCESSOR")
         logger.info(f"Video ID: {video_id}")
-        logger.info(f"AI Model: Claude Opus 4.5")
+        logger.info(f"AI Model: DeepSeek")
         logger.info("=" * 60)
 
         # 1. Baixar transcricao
@@ -454,8 +452,8 @@ class EstudosAvancadosManager:
         logger.info(f"   Duracao: {int(duration // 60)} minutos")
         logger.info(f"   Metodo: {transcript_data['method']}")
 
-        # 2. Gerar analise com Claude Opus 4.5
-        logger.info("\n[2/5] Gerando analise com Claude Opus 4.5...")
+        # 2. Gerar analise com DeepSeek
+        logger.info("\n[2/5] Gerando analise com DeepSeek...")
 
         # Obter titulo do video
         self.youtube_manager.authenticate()
