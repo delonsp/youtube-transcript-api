@@ -12,8 +12,8 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '8451611143:AAEpRSapS0mcfRez1stz9W9UaFOCCFllR1c')
-TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID', '1727040437')
+TELEGRAM_BOT_TOKEN = os.environ['TELEGRAM_BOT_TOKEN']
+TELEGRAM_CHAT_ID = os.environ['TELEGRAM_CHAT_ID']
 
 # Members-only video to test authentication
 TEST_VIDEO_ID = '53Ft9fLaiCE'  # Estudos Avançados - Live 4
