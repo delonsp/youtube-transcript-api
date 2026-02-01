@@ -23,6 +23,7 @@ COPY fill_doc_summaries.py .
 COPY estudos_avancados_processor.py .
 COPY download_via_api.py .
 COPY run_estudos_avancados.py .
+COPY check_cookies_health.py .
 COPY google_docs_manager.py .
 
 # Crontab e entrypoint

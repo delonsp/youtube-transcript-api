@@ -10,3 +10,6 @@
 # Estudos Avancados - 9h diariamente
 0 9 * * * cd /app && python run_estudos_avancados.py >> /var/log/cron.log 2>&1
 
+# Cookie health check - 10h diariamente
+0 10 * * * cd /app && python check_cookies_health.py >> /var/log/cron.log 2>&1
+

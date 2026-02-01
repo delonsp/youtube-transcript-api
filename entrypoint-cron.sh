@@ -35,7 +35,7 @@ if [ -n "$YOUTUBE_COOKIES" ]; then
 fi
 
 # Cron nao herda env vars - exportar para arquivo que o cron le
-printenv | grep -E '^(DEEPSEEK_API_KEY|ANTHROPIC_API_KEY|PYTHONPATH|PATH|HOME)=' > /app/.env.cron
+printenv | grep -E '^(DEEPSEEK_API_KEY|ANTHROPIC_API_KEY|TELEGRAM_BOT_TOKEN|TELEGRAM_CHAT_ID|PYTHONPATH|PATH|HOME)=' > /app/.env.cron
 echo "OK: env vars exportadas para /app/.env.cron"
 
 # Prefixar cada job do crontab com source do .env
