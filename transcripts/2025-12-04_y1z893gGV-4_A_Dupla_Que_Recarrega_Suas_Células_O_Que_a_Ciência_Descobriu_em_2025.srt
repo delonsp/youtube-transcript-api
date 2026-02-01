@@ -1,0 +1,1336 @@
+1
+00:00:00,000 --> 00:00:04,839
+Você já teve a sensação de acordar
+
+2
+00:00:02,639 --> 00:00:06,720
+cansado ou cansada mesmo depois de
+
+3
+00:00:04,839 --> 00:00:09,160
+dormir a noite inteira, como se a
+
+4
+00:00:06,720 --> 00:00:11,639
+bateria do corpo tivesse viciado? Depois
+
+5
+00:00:09,160 --> 00:00:14,160
+dos 40 anos, isso fica cada vez mais
+
+6
+00:00:11,639 --> 00:00:16,840
+comum e não é frescura nem falta de
+
+7
+00:00:14,160 --> 00:00:19,039
+força de vontade. Em boa parte dos casos
+
+8
+00:00:16,840 --> 00:00:21,439
+é um problema mitocondrial. Suas usinas
+
+9
+00:00:19,039 --> 00:00:24,480
+de energia estão falhando. Nos últimos
+
+10
+00:00:21,439 --> 00:00:27,720
+anos, uma combinação especial começou a
+
+11
+00:00:24,480 --> 00:00:30,199
+se destacar na literatura científica PQQ
+
+12
+00:00:27,720 --> 00:00:32,160
+com coenzima Q10. Em um estudo recente,
+
+13
+00:00:30,199 --> 00:00:35,200
+a combinação dos dois aumentou a
+
+14
+00:00:32,160 --> 00:00:37,120
+densidade mitocondrial em torno de 37%
+
+15
+00:00:35,200 --> 00:00:39,360
+em poucas semanas e melhorou
+
+16
+00:00:37,120 --> 00:00:42,120
+significativamente a fadiga em adultos
+
+17
+00:00:39,360 --> 00:00:44,440
+entre 40 e 70 anos. Hoje eu vou te
+
+18
+00:00:42,120 --> 00:00:46,559
+explicar de forma direta como esse combo
+
+19
+00:00:44,440 --> 00:00:49,120
+funciona, porque tomar só com enzima Q10
+
+20
+00:00:46,559 --> 00:00:50,879
+muitas vezes decepciona. E qual é um
+
+21
+00:00:49,120 --> 00:00:53,320
+protocolo prático de suporte que eu
+
+22
+00:00:50,879 --> 00:00:55,559
+utilizo na prática clínica com doses,
+
+23
+00:00:53,320 --> 00:00:57,960
+forma correta e contexto de uso. Se a
+
+24
+00:00:55,559 --> 00:01:00,879
+sua energia despenca no meio da tarde,
+
+25
+00:00:57,960 --> 00:01:03,519
+se a memória está falhando e se você
+
+26
+00:01:00,879 --> 00:01:07,320
+sente que envelheceu 10 anos em dois,
+
+27
+00:01:03,519 --> 00:01:09,960
+fica comigo até o final.
+
+28
+00:01:07,320 --> 00:01:11,640
+Vamos começar com uma imagem simples.
+
+29
+00:01:09,960 --> 00:01:14,479
+Imagina que o seu corpo é uma cidade
+
+30
+00:01:11,640 --> 00:01:16,840
+enorme, tipo São Paulo. Cada célula é um
+
+31
+00:01:14,479 --> 00:01:18,439
+prédio. Dentro de cada prédio existem
+
+32
+00:01:16,840 --> 00:01:20,439
+pequenas usinas que mantém tudo
+
+33
+00:01:18,439 --> 00:01:22,520
+funcionando. Luz, elevador, ar
+
+34
+00:01:20,439 --> 00:01:25,200
+condicionado. Essas usinas são as
+
+35
+00:01:22,520 --> 00:01:27,720
+mitocôndrias. Quando você é jovem, esses
+
+36
+00:01:25,200 --> 00:01:29,920
+geradores são novos, limpos, funcionando
+
+37
+00:01:27,720 --> 00:01:32,079
+todo o vapor. É por isso que criança
+
+38
+00:01:29,920 --> 00:01:35,200
+corre o dia inteiro, dorme um pouco e no
+
+39
+00:01:32,079 --> 00:01:37,280
+dia seguinte tá zerada. Só que com tempo
+
+40
+00:01:35,200 --> 00:01:39,840
+e com estresse, malimentação,
+
+41
+00:01:37,280 --> 00:01:42,840
+sedentarismo, toxinas ambientais e
+
+42
+00:01:39,840 --> 00:01:45,000
+noites mal dormidas, duas coisas começam
+
+43
+00:01:42,840 --> 00:01:47,439
+a acontecer ao mesmo tempo. As usinas
+
+44
+00:01:45,000 --> 00:01:49,840
+que você já tem vão enferrujando pelo
+
+45
+00:01:47,439 --> 00:01:51,479
+estresse oxidativo e ao mesmo tempo a
+
+46
+00:01:49,840 --> 00:01:54,439
+quantidade de mitocôndrias por célula
+
+47
+00:01:51,479 --> 00:01:56,799
+diminui. Onde você tinha 10 geradores,
+
+48
+00:01:54,439 --> 00:01:59,280
+ficam dois tentando segurar a cidade
+
+49
+00:01:56,799 --> 00:02:01,560
+inteira. Resultado, você faz exame de
+
+50
+00:01:59,280 --> 00:02:03,880
+sangue, o laboratório escreve tudo
+
+51
+00:02:01,560 --> 00:02:06,479
+dentro da referência, o clínico diz que
+
+52
+00:02:03,880 --> 00:02:09,440
+tá tudo normal, mas você sente na pele
+
+53
+00:02:06,479 --> 00:02:11,720
+que não está, acorda cansado, tem nerva
+
+54
+00:02:09,440 --> 00:02:13,920
+mental, perde performance física e
+
+55
+00:02:11,720 --> 00:02:16,000
+profissional. E é aqui que entra a visão
+
+56
+00:02:13,920 --> 00:02:18,120
+funcional. Em vez de apenas empurrar
+
+57
+00:02:16,000 --> 00:02:20,160
+estimulante para você, a ideia é
+
+58
+00:02:18,120 --> 00:02:22,640
+restaurar a capacidade das suas usinas
+
+59
+00:02:20,160 --> 00:02:25,160
+de energia. E aqui aparece o erro que eu
+
+60
+00:02:22,640 --> 00:02:27,720
+vejo o tempo todo. A estratégia me
+
+61
+00:02:25,160 --> 00:02:30,640
+falaram que co enzima Q10 é bom, então
+
+62
+00:02:27,720 --> 00:02:32,800
+comecei a tomar por conta. A coesima Q10
+
+63
+00:02:30,640 --> 00:02:34,480
+é de fato fundamental. Dentro da
+
+64
+00:02:32,800 --> 00:02:36,920
+mitocôndria. Ela atua na cadeia
+
+65
+00:02:34,480 --> 00:02:38,879
+transportadora de elétrons, permitindo a
+
+66
+00:02:36,920 --> 00:02:41,000
+produção de ATP, que é a moeda de
+
+67
+00:02:38,879 --> 00:02:44,120
+energia do corpo. Sem com enzima Q10
+
+68
+00:02:41,000 --> 00:02:46,800
+suficiente, a geração de ATP despenca e
+
+69
+00:02:44,120 --> 00:02:49,480
+até aqui tudo certo. O problema é que a
+
+70
+00:02:46,800 --> 00:02:51,720
+COCED 10 sozinha é como um combustível
+
+71
+00:02:49,480 --> 00:02:54,760
+premium. Ela melhora o funcionamento da
+
+72
+00:02:51,720 --> 00:02:56,879
+usina que já existe, mas ela não manda
+
+73
+00:02:54,760 --> 00:02:58,720
+construir novas usinas. Se você tem
+
+74
+00:02:56,879 --> 00:03:01,680
+poucas mitocôndrias, seu parque
+
+75
+00:02:58,720 --> 00:03:04,000
+industrial está reduzido, entupa, com
+
+76
+00:03:01,680 --> 00:03:06,440
+combustível caro, não resolve o problema
+
+77
+00:03:04,000 --> 00:03:08,440
+de base. É aqui que entra o outro
+
+78
+00:03:06,440 --> 00:03:10,879
+personagem dessa história, o PQQ, a
+
+79
+00:03:08,440 --> 00:03:12,799
+pirrolo, quinolina, quinona. Eu gosto de
+
+80
+00:03:10,879 --> 00:03:16,480
+explicar assim, a cor que 10 é o
+
+81
+00:03:12,799 --> 00:03:19,040
+combustível, o PQQ é o arquiteto. Ele é
+
+82
+00:03:16,480 --> 00:03:21,560
+o sinal que diz ao seu DNA: "Construa
+
+83
+00:03:19,040 --> 00:03:24,159
+novas usinas de energia". O nome técnico
+
+84
+00:03:21,560 --> 00:03:26,760
+disso é biogênese mitocondrial. E
+
+85
+00:03:24,159 --> 00:03:29,720
+estudos clínicos comparando PQQ isolado,
+
+86
+00:03:26,760 --> 00:03:32,200
+Coquedia isolada e a combinação dos dois
+
+87
+00:03:29,720 --> 00:03:34,439
+mostra um padrão muito interessante. Os
+
+88
+00:03:32,200 --> 00:03:37,200
+grupos que usam só um dos suplementos
+
+89
+00:03:34,439 --> 00:03:40,159
+até melhoram, mas o grupo que usa o
+
+90
+00:03:37,200 --> 00:03:42,879
+combo costuma ter melhora bem maior na
+
+91
+00:03:40,159 --> 00:03:44,680
+fadiga, na disposição e até em
+
+92
+00:03:42,879 --> 00:03:47,040
+marcadoras objetivos como densidade
+
+93
+00:03:44,680 --> 00:03:49,000
+mitocondrial e inflamação. Em um dos
+
+94
+00:03:47,040 --> 00:03:51,439
+ensaios, por exemplo, o grupo combinado
+
+95
+00:03:49,000 --> 00:03:54,799
+teve melhora de mais de 40% nos escoros
+
+96
+00:03:51,439 --> 00:03:58,400
+de fadiga, enquanto os grupos isolados
+
+97
+00:03:54,799 --> 00:04:00,079
+ficaram ali na casa do 18 a 23%. Quando
+
+98
+00:03:58,400 --> 00:04:02,439
+mediram diretamente a densidade
+
+99
+00:04:00,079 --> 00:04:04,879
+mitocondrial em músculo, o aumento
+
+100
+00:04:02,439 --> 00:04:08,239
+expressivo apareceu só no grupo que usou
+
+101
+00:04:04,879 --> 00:04:11,439
+os dois juntos. Além disso, o combo PQ e
+
+102
+00:04:08,239 --> 00:04:14,439
+COQ10 reduziu marcadores inflamatórios
+
+103
+00:04:11,439 --> 00:04:16,479
+comit leucina 6 e peroxidação lipídica,
+
+104
+00:04:14,439 --> 00:04:19,560
+que é aquela ferrugem das membranas
+
+105
+00:04:16,479 --> 00:04:22,120
+celulares. Na prática, isso significa
+
+106
+00:04:19,560 --> 00:04:24,440
+inflamação crônica silenciosa e menos
+
+107
+00:04:22,120 --> 00:04:26,639
+dano cumulativo nas células. Vamos
+
+108
+00:04:24,440 --> 00:04:28,680
+detalhar um pouco mais cada peça dessa
+
+109
+00:04:26,639 --> 00:04:30,600
+engrenhagem.
+
+110
+00:04:28,680 --> 00:04:32,479
+A qualquer 10 existem duas formas
+
+111
+00:04:30,600 --> 00:04:34,840
+principais, o bikinona, que é a forma
+
+112
+00:04:32,479 --> 00:04:37,080
+oxidada, e o bikquinol, que é reduzida e
+
+113
+00:04:34,840 --> 00:04:38,639
+ativa. Quando você jovem saudável, o
+
+114
+00:04:37,080 --> 00:04:40,680
+corpo converte o bikquinona em o
+
+115
+00:04:38,639 --> 00:04:43,240
+biquinol sem grandes dificuldades. Só
+
+116
+00:04:40,680 --> 00:04:45,960
+que depois dos 40 e principalmente quem
+
+117
+00:04:43,240 --> 00:04:48,320
+usa estatinas, essa conversão começa a
+
+118
+00:04:45,960 --> 00:04:49,919
+falhar. Estatinas como atorvastatina,
+
+119
+00:04:48,320 --> 00:04:53,600
+cinvastatina, rosovastatina,
+
+120
+00:04:49,919 --> 00:04:55,320
+pitavastatina bloqueiam a mesma via que
+
+121
+00:04:53,600 --> 00:04:58,199
+produz qualquer 10 endógena. a
+
+122
+00:04:55,320 --> 00:05:00,880
+consequência direta da fadiga, mialgia,
+
+123
+00:04:58,199 --> 00:05:03,720
+que é dor muscular, perda de performance
+
+124
+00:05:00,880 --> 00:05:06,440
+muscular de forma geral. Em estudos com
+
+125
+00:05:03,720 --> 00:05:08,479
+usuários de estatinas, dose de 200 a 300
+
+126
+00:05:06,440 --> 00:05:10,840
+mg de coquez reduziram
+
+127
+00:05:08,479 --> 00:05:13,039
+significativamente as queixas de dor
+
+128
+00:05:10,840 --> 00:05:15,120
+muscular e cansaço. Por isso, para
+
+129
+00:05:13,039 --> 00:05:17,800
+suporte mitocondrial, eu prefiro
+
+130
+00:05:15,120 --> 00:05:20,680
+trabalhar com biquinol, que já está na
+
+131
+00:05:17,800 --> 00:05:22,479
+forma ativa, custa mais caro, sim, mas
+
+132
+00:05:20,680 --> 00:05:24,160
+você está pagando por algo que o corpo
+
+133
+00:05:22,479 --> 00:05:26,319
+aproveita de forma mais eficiente, em
+
+134
+00:05:24,160 --> 00:05:28,840
+vez de depender de uma conversão que
+
+135
+00:05:26,319 --> 00:05:31,759
+muitas vezes tá falhando. Já o PQ, além
+
+136
+00:05:28,840 --> 00:05:35,919
+da biogênese mitocondrial, via ativação
+
+137
+00:05:31,759 --> 00:05:38,479
+de PGC1 alfa, tem efeito neuroprotetor.
+
+138
+00:05:35,919 --> 00:05:40,080
+Estudos recentes sugerem que ele ajuda a
+
+139
+00:05:38,479 --> 00:05:43,039
+proteger neurônios contra estresse
+
+140
+00:05:40,080 --> 00:05:45,319
+oxidativo associado, por exemplo, a
+
+141
+00:05:43,039 --> 00:05:47,919
+proteínas como betamloide envolvidas no
+
+142
+00:05:45,319 --> 00:05:50,800
+Alzheimer. Isso não significa que PQQ
+
+143
+00:05:47,919 --> 00:05:52,600
+trata doença neurodegenerativa, mas abre
+
+144
+00:05:50,800 --> 00:05:54,960
+uma linha interessante prevenção de
+
+145
+00:05:52,600 --> 00:05:56,919
+declínio incognitivo, especialmente na
+
+146
+00:05:54,960 --> 00:05:59,319
+combinação com os pilares de estilo de
+
+147
+00:05:56,919 --> 00:06:02,360
+vida. Agora vamos ao que todo mundo quer
+
+148
+00:05:59,319 --> 00:06:04,840
+saber. Protocolo prático. Em termos de
+
+149
+00:06:02,360 --> 00:06:09,080
+dose, a faixa que mais aparece na
+
+150
+00:06:04,840 --> 00:06:12,039
+literatura para PQQ é de 10 a 20 mg por
+
+151
+00:06:09,080 --> 00:06:14,479
+dia. Abaixo disso, o efeito tende a ser
+
+152
+00:06:12,039 --> 00:06:16,160
+modesto. Acima disso, raramente se vê
+
+153
+00:06:14,479 --> 00:06:18,440
+benefício adicional proporcional ao
+
+154
+00:06:16,160 --> 00:06:22,000
+custo. Na minha experiência clínica, 20
+
+155
+00:06:18,440 --> 00:06:23,880
+mg manhã funciona bem para a maioria dos
+
+156
+00:06:22,000 --> 00:06:25,880
+casos em que o objetivo é suporte de
+
+157
+00:06:23,880 --> 00:06:29,199
+energia, cognição e envelhecimento
+
+158
+00:06:25,880 --> 00:06:32,360
+saudável. Para coquez na falma biquinol,
+
+159
+00:06:29,199 --> 00:06:33,919
+a faixa de 200 a 300 mg dia é a mais
+
+160
+00:06:32,360 --> 00:06:36,199
+utilizada em protocolo de suporte
+
+161
+00:06:33,919 --> 00:06:38,639
+mitocondrial em adultos acima de 40
+
+162
+00:06:36,199 --> 00:06:40,720
+anos, especialmente quem usa estatina,
+
+163
+00:06:38,639 --> 00:06:43,120
+tem fadiga persistente ou tem histórico
+
+164
+00:06:40,720 --> 00:06:45,319
+de doença cardiovascular. Doses menores
+
+165
+00:06:43,120 --> 00:06:47,280
+podem ser usadas para manutenção, mas
+
+166
+00:06:45,319 --> 00:06:49,479
+quando o objetivo é mudar o jogo, eu
+
+167
+00:06:47,280 --> 00:06:52,440
+prefiro começar na faixa mais robusta. E
+
+168
+00:06:49,479 --> 00:06:54,080
+como tomar a cor que é 10 liposolúvel
+
+169
+00:06:52,440 --> 00:06:56,440
+precisa de gordura para ser absorvida
+
+170
+00:06:54,080 --> 00:06:58,440
+adequadamente? Então o ideal é tomar
+
+171
+00:06:56,440 --> 00:07:01,360
+junto com uma refeição que contém a
+
+172
+00:06:58,440 --> 00:07:04,960
+gordura saudável. Ovos, abacate, azeite
+
+173
+00:07:01,360 --> 00:07:07,240
+de oliva extravirgem, oleaginosas. O PQ
+
+174
+00:07:04,960 --> 00:07:09,560
+tolera bem esse mesmo horário. Eu
+
+175
+00:07:07,240 --> 00:07:11,800
+costumo orientar o uso pela manhã junto
+
+176
+00:07:09,560 --> 00:07:13,759
+ao café da manhã, o que muitas pessoas
+
+177
+00:07:11,800 --> 00:07:15,520
+percebem um aumento de energia e se
+
+178
+00:07:13,759 --> 00:07:17,680
+forem tomar a noite podem ter
+
+179
+00:07:15,520 --> 00:07:20,199
+dificuldade de pegar no sono. Mas e por
+
+180
+00:07:17,680 --> 00:07:22,000
+quanto tempo? Em geral eu não avalio o
+
+181
+00:07:20,199 --> 00:07:23,960
+protocolo mitocondrial antes de 8
+
+182
+00:07:22,000 --> 00:07:26,240
+semanas. É o tempo biológico para
+
+183
+00:07:23,960 --> 00:07:29,160
+remodelar usinas, reduzir estresse
+
+184
+00:07:26,240 --> 00:07:31,639
+oxidativo e ajustar vias metabólicas.
+
+185
+00:07:29,160 --> 00:07:34,280
+Porém, muitos pacientes relatam melhor
+
+186
+00:07:31,639 --> 00:07:36,440
+objetivos de disposição, clareza mental
+
+187
+00:07:34,280 --> 00:07:38,599
+e tolerância ao esforço já a partir da
+
+188
+00:07:36,440 --> 00:07:41,319
+terceira ou quarta semana. Em termos de
+
+189
+00:07:38,599 --> 00:07:44,039
+segurança, tanto PQQ quanto 10 tem um
+
+190
+00:07:41,319 --> 00:07:46,319
+perfil muito favorável nas doses usuais.
+
+191
+00:07:44,039 --> 00:07:48,520
+Eventuais desconfortos digestivos
+
+192
+00:07:46,319 --> 00:07:52,680
+aparecem mais com doses muito altas de
+
+193
+00:07:48,520 --> 00:07:55,599
+comenzema Q10 a partir de 400, 600 mg em
+
+194
+00:07:52,680 --> 00:07:57,360
+pessoas sensíveis. No caso do PQ, existe
+
+195
+00:07:55,599 --> 00:08:00,000
+uma preocupação teórica em quem tem
+
+196
+00:07:57,360 --> 00:08:02,319
+histórico de cálculos renais de oxalato,
+
+197
+00:08:00,000 --> 00:08:05,120
+porque alguns metabólitos podem seguir
+
+198
+00:08:02,319 --> 00:08:06,960
+essa rota. Então, é um ponto de atenção.
+
+199
+00:08:05,120 --> 00:08:09,560
+Em usuários de anticoagulantes como a
+
+200
+00:08:06,960 --> 00:08:12,599
+vafarina, a coenzima Q10 pode, em alguns
+
+201
+00:08:09,560 --> 00:08:15,039
+casos, interferir no NR por ter
+
+202
+00:08:12,599 --> 00:08:16,759
+semelhança estrutural com a vitamina K.
+
+203
+00:08:15,039 --> 00:08:19,560
+Então esse grupo tem que ter
+
+204
+00:08:16,759 --> 00:08:21,199
+monitorização mais cuidadosa. Eu quero
+
+205
+00:08:19,560 --> 00:08:23,840
+ilustrar isso com um caso real e
+
+206
+00:08:21,199 --> 00:08:26,360
+simplificado. Pacientes de 52 anos no
+
+207
+00:08:23,840 --> 00:08:29,159
+executivo relatando fadiga debilitante
+
+208
+00:08:26,360 --> 00:08:31,199
+há mais de 2 anos, exames normais,
+
+209
+00:08:29,159 --> 00:08:34,120
+testosterona limítrofe, sono
+
+210
+00:08:31,199 --> 00:08:36,200
+aparentemente adequado, nada gritando na
+
+211
+00:08:34,120 --> 00:08:37,880
+investigação convencional. Iniciamos o
+
+212
+00:08:36,200 --> 00:08:39,599
+protocolo com ajuste de sono,
+
+213
+00:08:37,880 --> 00:08:41,519
+alimentação com redução forte de
+
+214
+00:08:39,599 --> 00:08:44,000
+ultraprocessados, introdução de
+
+215
+00:08:41,519 --> 00:08:45,320
+exercícios em zona dois três vezes por
+
+216
+00:08:44,000 --> 00:08:48,760
+semana.
+
+217
+00:08:45,320 --> 00:08:51,560
+mais supação com 20 mg de PQ e 300 mg de
+
+218
+00:08:48,760 --> 00:08:53,440
+biquinol ao dia. Em cerca de 6 semanas,
+
+219
+00:08:51,560 --> 00:08:56,200
+o relato subjetivo dele foi de melhor
+
+220
+00:08:53,440 --> 00:08:59,120
+50% na disposição, redução da neva
+
+221
+00:08:56,200 --> 00:09:01,120
+mental e maior tolerância a dias puxados
+
+222
+00:08:59,120 --> 00:09:03,079
+de trabalho. Em exames complementares,
+
+223
+00:09:01,120 --> 00:09:05,720
+marcadoras de estresse oxidativo, como
+
+224
+00:09:03,079 --> 00:09:08,120
+mal de aldeído, caíram de forma
+
+225
+00:09:05,720 --> 00:09:10,120
+significativa e a proteína ser reativa
+
+226
+00:09:08,120 --> 00:09:12,640
+ultrassensível também reduziu. Não foi
+
+227
+00:09:10,120 --> 00:09:14,600
+milagre, foi fisiologia respeitada. É
+
+228
+00:09:12,640 --> 00:09:17,200
+importante entender que esse combo não é
+
+229
+00:09:14,600 --> 00:09:19,959
+bala de prata. Se a pessoa dorme 4 horas
+
+230
+00:09:17,200 --> 00:09:23,360
+por noite, vive em hiperglicemia, açúcar
+
+231
+00:09:19,959 --> 00:09:25,600
+do sangue alto, come açúcar, começados,
+
+232
+00:09:23,360 --> 00:09:27,320
+farinha, o dia inteiro, não se movimenta
+
+233
+00:09:25,600 --> 00:09:30,160
+e acha que vai resolver tudo com duas
+
+234
+00:09:27,320 --> 00:09:31,880
+cápsulas, tá se enganando feio. O
+
+235
+00:09:30,160 --> 00:09:34,279
+excesso de glicose insulina, por
+
+236
+00:09:31,880 --> 00:09:36,760
+exemplo, bloqueia justamente as vias que
+
+237
+00:09:34,279 --> 00:09:38,800
+o PQ tenta ativar para estimular a
+
+238
+00:09:36,760 --> 00:09:40,880
+biogênese mitocondrial. Então é jogar
+
+239
+00:09:38,800 --> 00:09:43,120
+dinheiro fora. Se você realmente quer
+
+240
+00:09:40,880 --> 00:09:45,440
+extrair o máximo desse protocolo, três
+
+241
+00:09:43,120 --> 00:09:47,200
+pilares fazem muita diferença. Primeiro,
+
+242
+00:09:45,440 --> 00:09:49,279
+movimento. Exercício em zona dois,
+
+243
+00:09:47,200 --> 00:09:51,959
+aquela caminhada firme que você consegue
+
+244
+00:09:49,279 --> 00:09:53,800
+conversar, mas não consegue cantar. É um
+
+245
+00:09:51,959 --> 00:09:56,240
+dos estímulos mais poderosos para
+
+246
+00:09:53,800 --> 00:09:58,000
+aumentar a demanda energética saudável e
+
+247
+00:09:56,240 --> 00:10:00,040
+sinalizar pro corpo que vale a pena
+
+248
+00:09:58,000 --> 00:10:02,160
+produzir mais mitocôndrias. Segundo,
+
+249
+00:10:00,040 --> 00:10:04,640
+exposição controlada ao frio. Para quem
+
+250
+00:10:02,160 --> 00:10:07,120
+tolera banho mais frio no final da
+
+251
+00:10:04,640 --> 00:10:08,839
+chuveirada, por exemplo, o frio aumenta
+
+252
+00:10:07,120 --> 00:10:10,839
+a demanda de energia para manter a
+
+253
+00:10:08,839 --> 00:10:12,839
+temperatura e isso também conversa com
+
+254
+00:10:10,839 --> 00:10:15,640
+as vias de biogênis mitocondrial.
+
+255
+00:10:12,839 --> 00:10:18,200
+Terceiro, nutrição de base. Magnésio
+
+256
+00:10:15,640 --> 00:10:20,920
+como cofator enzimático em centenas de
+
+257
+00:10:18,200 --> 00:10:22,920
+reações, inclusive na produção de ATP.
+
+258
+00:10:20,920 --> 00:10:25,279
+Vitaminas do complexo B para alimentar o
+
+259
+00:10:22,920 --> 00:10:27,440
+ciclo de crebes. Ômega-3 para manter a
+
+260
+00:10:25,279 --> 00:10:29,680
+fluidez nas membranas mitocondriais.
+
+261
+00:10:27,440 --> 00:10:31,880
+Elcarnitina para transportar ácidos
+
+262
+00:10:29,680 --> 00:10:33,800
+grásos para dentro da mitocôndria. O PQQ
+
+263
+00:10:31,880 --> 00:10:36,440
+enzima Q10 são peças importantes, mas
+
+264
+00:10:33,800 --> 00:10:38,639
+fazem parte de um ecossistema. Resumindo
+
+265
+00:10:36,440 --> 00:10:40,800
+de forma prática, para suporte de
+
+266
+00:10:38,639 --> 00:10:42,880
+energia e envelhecimento saudável, um
+
+267
+00:10:40,800 --> 00:10:46,639
+protocolo típico pode ser algo como 20
+
+268
+00:10:42,880 --> 00:10:49,320
+mg de PQQ pela manhã, mais 200 a 300 mg
+
+269
+00:10:46,639 --> 00:10:51,360
+de coenzima Q10 na forma biquinol, junto
+
+270
+00:10:49,320 --> 00:10:53,639
+a uma refeição com gordura boa por pelo
+
+271
+00:10:51,360 --> 00:10:55,920
+menos 8 semanas. Em usuário de estatina,
+
+272
+00:10:53,639 --> 00:10:58,360
+esse suporte de cozema Q10 deixa de ser
+
+273
+00:10:55,920 --> 00:11:00,760
+luxo e passa a ser quase obrigatório do
+
+274
+00:10:58,360 --> 00:11:02,920
+ponto de vista bioquímico para minimizar
+
+275
+00:11:00,760 --> 00:11:04,880
+o dano mitocondrial. Se você sente que
+
+276
+00:11:02,920 --> 00:11:07,160
+sua energia caiu, que seu cérebro não
+
+277
+00:11:04,880 --> 00:11:09,079
+rende como antes e que a idade biológica
+
+278
+00:11:07,160 --> 00:11:11,160
+para estar correndo mais rápido do que o
+
+279
+00:11:09,079 --> 00:11:13,040
+calendário, olhar com o carinho paraas
+
+280
+00:11:11,160 --> 00:11:15,000
+suas mitocôndrias é um dos lugares mais
+
+281
+00:11:13,040 --> 00:11:16,160
+inteligentes para começar. Agora, se
+
+282
+00:11:15,000 --> 00:11:17,839
+você quer continuar nessa linha de
+
+283
+00:11:16,160 --> 00:11:20,040
+raciocínio, existe um outro nutriente
+
+284
+00:11:17,839 --> 00:11:22,480
+com papel muito especial no cérebro, o
+
+285
+00:11:20,040 --> 00:11:24,120
+magnésio tronato, uma das formas com
+
+286
+00:11:22,480 --> 00:11:26,079
+maior capacidade de atravessar a
+
+287
+00:11:24,120 --> 00:11:28,519
+barreira imatocefálica e atuar
+
+288
+00:11:26,079 --> 00:11:30,480
+diretamente em cognição e plastidade
+
+289
+00:11:28,519 --> 00:11:32,320
+sináptica. Eu tenho um vídeo específico
+
+290
+00:11:30,480 --> 00:11:34,920
+só sobre ele, onde eu aprofundo essa
+
+291
+00:11:32,320 --> 00:11:36,519
+questão da energia cerebral e memória.
+
+292
+00:11:34,920 --> 00:11:39,680
+Vale a pena você assistir em seguida
+
+293
+00:11:36,519 --> 00:11:41,560
+para conectar os pontos e para fechar
+
+294
+00:11:39,680 --> 00:11:43,360
+uma verdade incômoda. O YouTube e o
+
+295
+00:11:41,560 --> 00:11:45,720
+próprio ambiente regulatório me obrigam
+
+296
+00:11:43,360 --> 00:11:47,600
+a simplificar muita coisa aqui. Eu
+
+297
+00:11:45,720 --> 00:11:49,519
+preciso cortar detalhes de dose,
+
+298
+00:11:47,600 --> 00:11:51,639
+suavizar protocolos mais avançados e
+
+299
+00:11:49,519 --> 00:11:53,600
+evitar combinações of label que na
+
+300
+00:11:51,639 --> 00:11:55,120
+prática clínica fazem diferença real.
+
+301
+00:11:53,600 --> 00:11:57,120
+Então, dentro da comunidade fechada, eu
+
+302
+00:11:55,120 --> 00:11:58,639
+não preciso colocar esse filtro. Lá eu
+
+303
+00:11:57,120 --> 00:12:00,600
+compartilho exatamente os protocolos que
+
+304
+00:11:58,639 --> 00:12:02,880
+eu uso em consultório, casos de reversão
+
+305
+00:12:00,600 --> 00:12:05,160
+que pareciam impossíveis se eu contasse
+
+306
+00:12:02,880 --> 00:12:07,120
+insoltos, combinações avançadas e
+
+307
+00:12:05,160 --> 00:12:08,800
+fornecedores confiáveis, além
+
+308
+00:12:07,120 --> 00:12:11,160
+interpretação fina de exames e
+
+309
+00:12:08,800 --> 00:12:13,040
+atualizações de artigos linha por linha.
+
+310
+00:12:11,160 --> 00:12:15,639
+É praticamente ter acesso direto ao meu
+
+311
+00:12:13,040 --> 00:12:18,399
+raciocínio clínico. Temos dois níveis
+
+312
+00:12:15,639 --> 00:12:20,199
+nesse nosso grupo. Temos lives semanais,
+
+313
+00:12:18,399 --> 00:12:23,000
+materiais em PDF com dezenas de
+
+314
+00:12:20,199 --> 00:12:25,120
+protocolos e grupo exclusivo no
+
+315
+00:12:23,000 --> 00:12:27,480
+WhatsApp. Você deixa de ser um
+
+316
+00:12:25,120 --> 00:12:29,399
+espectador passivo e passa a fazer parte
+
+317
+00:12:27,480 --> 00:12:31,320
+do ciclo interno que está realmente
+
+318
+00:12:29,399 --> 00:12:34,000
+comprometido em dominar a medicina
+
+319
+00:12:31,320 --> 00:12:36,360
+funcional aplicada com profundidade, sem
+
+320
+00:12:34,000 --> 00:12:38,360
+superficialidade de rede social. Se isso
+
+321
+00:12:36,360 --> 00:12:40,279
+faz sentido para você, o botão seja
+
+322
+00:12:38,360 --> 00:12:42,320
+membro está aqui embaixo. Poucos têm
+
+323
+00:12:40,279 --> 00:12:44,160
+coragem de dar esse passo. A pergunta é:
+
+324
+00:12:42,320 --> 00:12:46,120
+você está entre esses poucos?
+
+325
+00:12:44,160 --> 00:12:48,120
+Agradecimentos especiais a nossos
+
+326
+00:12:46,120 --> 00:12:50,199
+membros queridos dos estudos avançados
+
+327
+00:12:48,120 --> 00:12:52,920
+da comunidade fechada do YouTube. Nível
+
+328
+00:12:50,199 --> 00:12:55,800
+dois, Dr. Ana Paulo Rodrigues, José
+
+329
+00:12:52,920 --> 00:12:58,880
+Fortunato Burtinho, Fernando Machado,
+
+330
+00:12:55,800 --> 00:13:01,760
+Sou Jucioli, Cristina Carol, Romana
+
+331
+00:12:58,880 --> 00:13:04,880
+Moraril, Estela Mares, Eloterapias
+
+332
+00:13:01,760 --> 00:13:07,480
+Integrativas, Luís Anselmo Neves, antes
+
+333
+00:13:04,880 --> 00:13:10,480
+da Doença, eu agradeço de coração pelo
+
+334
+00:13:07,480 --> 00:13:10,480
+apoio prestado. Ah.
+

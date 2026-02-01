@@ -1,0 +1,808 @@
+1
+00:00:00,120 --> 00:00:04,600
+Sabe aquele café da manhã inocente?
+
+2
+00:00:02,360 --> 00:00:07,200
+Pãozinho, queijinho, cafezinho com
+
+3
+00:00:04,600 --> 00:00:09,840
+leite? E se eu te disser que esse como
+
+4
+00:00:07,200 --> 00:00:12,040
+pode estar abrindo pequenas frestas no
+
+5
+00:00:09,840 --> 00:00:14,519
+seu intestino, virando uma chave
+
+6
+00:00:12,040 --> 00:00:17,600
+inflamatória e bagunçando seus hormônios
+
+7
+00:00:14,519 --> 00:00:19,840
+ao longo do dia? Calma, não é drama.
+
+8
+00:00:17,600 --> 00:00:22,920
+Mais de 30% das pessoas têm dificuldade
+
+9
+00:00:19,840 --> 00:00:25,880
+de gerir lactose e o glúten, mesmo em
+
+10
+00:00:22,920 --> 00:00:27,640
+que não éíaco, pode aumentar
+
+11
+00:00:25,880 --> 00:00:30,119
+temporariamente a permeabilidade
+
+12
+00:00:27,640 --> 00:00:33,120
+intestinal. Já a caseína, proteína do
+
+13
+00:00:30,119 --> 00:00:35,520
+leite, em alguns perfis aciona sinais
+
+14
+00:00:33,120 --> 00:00:38,079
+inflamatórios no intestino. Hoje eu vou
+
+15
+00:00:35,520 --> 00:00:40,559
+te mostrar de forma simples e prática
+
+16
+00:00:38,079 --> 00:00:43,559
+como identificar se esse trio, glúten,
+
+17
+00:00:40,559 --> 00:00:46,559
+lactose e casina é o seu sabotador
+
+18
+00:00:43,559 --> 00:00:49,320
+oculto e o que fazer a partir de agora.
+
+19
+00:00:46,559 --> 00:00:51,120
+Fica comigo, deixa te situar como
+
+20
+00:00:49,320 --> 00:00:53,760
+história real de consultório, no
+
+21
+00:00:51,120 --> 00:00:56,800
+jeitinho como a gente gosta, gente como
+
+22
+00:00:53,760 --> 00:00:59,559
+a gente. A Ana, 34 anos, vivia com
+
+23
+00:00:56,800 --> 00:01:02,239
+barriga estofada. À tarde, cérebro
+
+24
+00:00:59,559 --> 00:01:04,320
+embotado depois do almoço e um sobe e
+
+25
+00:01:02,239 --> 00:01:07,280
+déce de energia que parecia montanha
+
+26
+00:01:04,320 --> 00:01:09,920
+russa. Trocaram o leite por sem lactose
+
+27
+00:01:07,280 --> 00:01:12,320
+e nada. Cortar o açúcar melhorou um
+
+28
+00:01:09,920 --> 00:01:15,240
+pouco. O pulo do gato veio quando
+
+29
+00:01:12,320 --> 00:01:18,240
+testamos duas coisas separado, pão de
+
+30
+00:01:15,240 --> 00:01:20,360
+manhã e laticínios. Pastou uma janela de
+
+31
+00:01:18,240 --> 00:01:22,680
+30 dias organizada para ela dizer:
+
+32
+00:01:20,360 --> 00:01:25,040
+"Doutor, parece que tiraram o algodão da
+
+33
+00:01:22,680 --> 00:01:27,600
+minha cabeça e não foi sorte, foi
+
+34
+00:01:25,040 --> 00:01:29,799
+método." Vamos por partes. O glúten é um
+
+35
+00:01:27,600 --> 00:01:32,360
+conjunto de proteínas do trigo, senteio
+
+36
+00:01:29,799 --> 00:01:34,040
+e cevada. A fração chamada gleadina
+
+37
+00:01:32,360 --> 00:01:36,759
+conversa com uma molécula do seu
+
+38
+00:01:34,040 --> 00:01:40,159
+intestino chamada zonulina. Pense nela
+
+39
+00:01:36,759 --> 00:01:42,680
+como o porteiro dos portões entre as
+
+40
+00:01:40,159 --> 00:01:45,280
+células da mucosa. Quando a zonuín
+
+41
+00:01:42,680 --> 00:01:47,880
+sobem, esses portões afrouxam, entra
+
+42
+00:01:45,280 --> 00:01:50,159
+mais coisa do que devia e seu sistema
+
+43
+00:01:47,880 --> 00:01:52,320
+imune fica em alerta. Em pessoas com
+
+44
+00:01:50,159 --> 00:01:54,680
+doença celíaca, esse processo é intenso
+
+45
+00:01:52,320 --> 00:01:57,200
+e crônico. E não celíacos pode ser
+
+46
+00:01:54,680 --> 00:01:59,600
+transitório, mas suficiente para gerar
+
+47
+00:01:57,200 --> 00:02:01,960
+sintomas em subgrupos suscetíveis.
+
+48
+00:01:59,600 --> 00:02:05,200
+Tradução: Nem todo mundo sofre com
+
+49
+00:02:01,960 --> 00:02:07,439
+glúten, mas quem sofre sofre de verdade.
+
+50
+00:02:05,200 --> 00:02:10,039
+E tem novidade boa. Um teste de sangue
+
+51
+00:02:07,439 --> 00:02:13,560
+recente mede a liberação de ter leucina
+
+52
+00:02:10,039 --> 00:02:15,560
+2 após a exposição glúten em tubo e
+
+53
+00:02:13,560 --> 00:02:17,120
+mostrou alta sensibilidade,
+
+54
+00:02:15,560 --> 00:02:19,319
+especificidade.
+
+55
+00:02:17,120 --> 00:02:22,319
+Promessa de diagnóstico mais fácil para
+
+56
+00:02:19,319 --> 00:02:24,840
+celos sem precisar voltar a comer glúten
+
+57
+00:02:22,319 --> 00:02:28,200
+por semanas. Isso muda o jogo para quem
+
+58
+00:02:24,840 --> 00:02:29,760
+sempre adção por medo de passar mal. Por
+
+59
+00:02:28,200 --> 00:02:32,239
+enquanto não tá disponível no Brasil,
+
+60
+00:02:29,760 --> 00:02:34,200
+pessoal. Então tem que ter paciência.
+
+61
+00:02:32,239 --> 00:02:37,160
+Agora, um detalhe que quase todo mundo
+
+62
+00:02:34,200 --> 00:02:40,080
+erra, lactose é um açúcar, caseína é uma
+
+63
+00:02:37,160 --> 00:02:43,120
+proteína. Problemas com lactose geram
+
+64
+00:02:40,080 --> 00:02:45,040
+fermentação, gás de extensão, diarreia,
+
+65
+00:02:43,120 --> 00:02:47,760
+porque faltou lactase para quebrar esse
+
+66
+00:02:45,040 --> 00:02:50,480
+açúcar. Isso é comum no mundo e atinge
+
+67
+00:02:47,760 --> 00:02:53,599
+mais de 1/3 dos atos nos Estados Unidos.
+
+68
+00:02:50,480 --> 00:02:56,319
+Só que trocar para leite sem lactosa não
+
+69
+00:02:53,599 --> 00:02:58,360
+resolve se o problema for a caseína. E
+
+70
+00:02:56,319 --> 00:03:00,360
+tem nuance da caseína que pouca gente
+
+71
+00:02:58,360 --> 00:03:02,720
+comenta, a variante A1, que é a
+
+72
+00:03:00,360 --> 00:03:05,080
+predominante comum no leite vaca
+
+73
+00:03:02,720 --> 00:03:06,680
+convencional, pode algumas pessoas
+
+74
+00:03:05,080 --> 00:03:08,920
+aumentar marcadoras inflamatórias
+
+75
+00:03:06,680 --> 00:03:11,480
+intestinais e piorar o desconforto,
+
+76
+00:03:08,920 --> 00:03:13,879
+enquanto o leite com beta caseina 2
+
+77
+00:03:11,480 --> 00:03:16,040
+parece provocar menos sintomas
+
+78
+00:03:13,879 --> 00:03:19,680
+indivíduos sensíveis. Não é modinha do
+
+79
+00:03:16,040 --> 00:03:22,159
+mercado. Ensaios clínicos duplo cego t
+
+80
+00:03:19,680 --> 00:03:24,480
+mostrado essas diferenças, tá, doutor? E
+
+81
+00:03:22,159 --> 00:03:27,000
+onde entram os hormônios nessa história?
+
+82
+00:03:24,480 --> 00:03:29,120
+Bora lá. Laticínios, especialmente o
+
+83
+00:03:27,000 --> 00:03:31,920
+leite, tendem a elevar os níveis
+
+84
+00:03:29,120 --> 00:03:33,760
+circulantes de GF1, um hormônio de
+
+85
+00:03:31,920 --> 00:03:36,720
+crescimento que conversa com vias
+
+86
+00:03:33,760 --> 00:03:40,519
+metabólicas e de proliferação celular. é
+
+87
+00:03:36,720 --> 00:03:43,200
+o chamado insulin growth factor. Não é
+
+88
+00:03:40,519 --> 00:03:46,400
+bem ou mal por definição, mas em pessoas
+
+89
+00:03:43,200 --> 00:03:49,159
+predispostas, esse empurrão no GF1 pode
+
+90
+00:03:46,400 --> 00:03:51,480
+ser a peça que faltava para explicar
+
+91
+00:03:49,159 --> 00:03:53,879
+oleosidade, acne, dificuldade de
+
+92
+00:03:51,480 --> 00:03:56,480
+controlar fome em certos horários ou
+
+93
+00:03:53,879 --> 00:03:59,079
+performance que despenca a tarde. É por
+
+94
+00:03:56,480 --> 00:04:01,599
+isso que na visão funcional a gente olha
+
+95
+00:03:59,079 --> 00:04:04,040
+alimento como sinal biológico, não só
+
+96
+00:04:01,599 --> 00:04:06,079
+como caloria. Há também um elo conhecido
+
+97
+00:04:04,040 --> 00:04:08,239
+entre gluten e tireoide. Pessoas com
+
+98
+00:04:06,079 --> 00:04:11,360
+doença celíaca tem risco maior de
+
+99
+00:04:08,239 --> 00:04:13,480
+doenças da tireoide, especialmente as
+
+100
+00:04:11,360 --> 00:04:16,519
+autoimunes. Se você tem tiroidite,
+
+101
+00:04:13,480 --> 00:04:18,519
+rachimoto e sintomas gastrointestinais,
+
+102
+00:04:16,519 --> 00:04:20,720
+ignorar o intestino é pedir para
+
+103
+00:04:18,519 --> 00:04:23,639
+patinar. Importante, nem todo
+
+104
+00:04:20,720 --> 00:04:25,680
+desconforto com trigo é por glúten. Em
+
+105
+00:04:23,639 --> 00:04:28,080
+muita gente com intestino irritável, os
+
+106
+00:04:25,680 --> 00:04:30,800
+frutanos, um tipo de fod map presente no
+
+107
+00:04:28,080 --> 00:04:33,039
+trigo, cebola e alho, são os verdadeiros
+
+108
+00:04:30,800 --> 00:04:35,680
+vilões do inchaço. Em estudos com
+
+109
+00:04:33,039 --> 00:04:37,360
+desafio alimentar controlado, frutanos
+
+110
+00:04:35,680 --> 00:04:40,039
+provocaram mais sintomas do que o
+
+111
+00:04:37,360 --> 00:04:42,919
+próprio glúten em pessoas que juravam
+
+112
+00:04:40,039 --> 00:04:44,720
+ter sensibilidade ao glúten. Ou seja, às
+
+113
+00:04:42,919 --> 00:04:47,160
+vezes você pode estar brigando com o
+
+114
+00:04:44,720 --> 00:04:49,919
+jogador errado. Como transformar tudo
+
+115
+00:04:47,160 --> 00:04:51,320
+isso em ação sem nó na cabeça? Passo a
+
+116
+00:04:49,919 --> 00:04:52,919
+passo do jeitinho que eu faço na
+
+117
+00:04:51,320 --> 00:04:55,280
+clínica. Primeiro, se você desconfia
+
+118
+00:04:52,919 --> 00:04:57,560
+fortemente doença celica, histórico
+
+119
+00:04:55,280 --> 00:05:01,199
+familiar, perda de peso sem explicação,
+
+120
+00:04:57,560 --> 00:05:03,600
+diarreia crônica ou anemia teimosa, você
+
+121
+00:05:01,199 --> 00:05:07,000
+pode cortar o glúten
+
+122
+00:05:03,600 --> 00:05:09,400
+ficar 30 dias sem consumir, mas converse
+
+123
+00:05:07,000 --> 00:05:11,840
+com seu médico sobre os testes corretos.
+
+124
+00:05:09,400 --> 00:05:14,759
+Se não há sinais de alarme, propõe a si
+
+125
+00:05:11,840 --> 00:05:17,759
+mesmo um experimento pessoal de 21 a 30
+
+126
+00:05:14,759 --> 00:05:19,560
+dias. Não é para virar refém da dieta, é
+
+127
+00:05:17,759 --> 00:05:22,680
+para gerar dados do seu corpo. Durante
+
+128
+00:05:19,560 --> 00:05:26,280
+esse período, tire o trio de frente,
+
+129
+00:05:22,680 --> 00:05:29,039
+trigo, glúten, leite derivados bobinos
+
+130
+00:05:26,280 --> 00:05:31,120
+comuns. Se precisar de lácteos, teste e
+
+131
+00:05:29,039 --> 00:05:34,639
+pequenas quantidades, opções com casina
+
+132
+00:05:31,120 --> 00:05:39,280
+A2, que será leite de cabra ou ovelha ou
+
+133
+00:05:34,639 --> 00:05:41,440
+determinados bovinos. E observe, lembre,
+
+134
+00:05:39,280 --> 00:05:43,840
+sem lactose não é a mesma coisa que sem
+
+135
+00:05:41,440 --> 00:05:46,280
+caseína. Evite cair na pegadinha dos
+
+136
+00:05:43,840 --> 00:05:48,520
+ultra processados sem glúten, tipo tem
+
+137
+00:05:46,280 --> 00:05:50,840
+rótulo bonito, farinha refinada do mesmo
+
+138
+00:05:48,520 --> 00:05:53,120
+jeito, por exemplo, farinha de arroz que
+
+139
+00:05:50,840 --> 00:05:56,479
+vai dar pico glicêmico e pode dar também
+
+140
+00:05:53,120 --> 00:05:58,840
+fome de rebote. Anote sono, energia,
+
+141
+00:05:56,479 --> 00:06:00,759
+gases, trânsito intestinal, pele e no
+
+142
+00:05:58,840 --> 00:06:03,440
+caso das mulheres o ciclo. Isso não é
+
+143
+00:06:00,759 --> 00:06:05,720
+frescura, é método. Depois reintroduza
+
+144
+00:06:03,440 --> 00:06:08,479
+de forma separada. No fim de semana
+
+145
+00:06:05,720 --> 00:06:11,000
+tranquilo, teste trigo puro, por
+
+146
+00:06:08,479 --> 00:06:15,880
+exemplo, pão de fermentação longa e
+
+147
+00:06:11,000 --> 00:06:18,199
+observe 48 a 72 horas. Em outro momento,
+
+148
+00:06:15,880 --> 00:06:20,319
+teste laticínios específicos. Seu corpo
+
+149
+00:06:18,199 --> 00:06:22,520
+vai entregar o veredito. Erros comuns
+
+150
+00:06:20,319 --> 00:06:25,039
+que sabotam teste. Achar que tirar só o
+
+151
+00:06:22,520 --> 00:06:27,919
+queijo resolve se você toma cappuccino
+
+152
+00:06:25,039 --> 00:06:30,440
+duas vezes por dia. Confundir melhora de
+
+153
+00:06:27,919 --> 00:06:32,680
+inflamação com efeito placebo e voltar
+
+154
+00:06:30,440 --> 00:06:35,240
+pro mesmo padrão na segunda-feira e
+
+155
+00:06:32,680 --> 00:06:37,000
+acreditar que se o seu amigo come pizza
+
+156
+00:06:35,240 --> 00:06:39,639
+sem sofrer, você também deveria
+
+157
+00:06:37,000 --> 00:06:42,120
+aguentar. Cada metabolismo é um CEP. Se
+
+158
+00:06:39,639 --> 00:06:44,400
+o seu intestino reclama, escute. E se
+
+159
+00:06:42,120 --> 00:06:46,520
+você quer um norte resumido para hoje
+
+160
+00:06:44,400 --> 00:06:50,000
+mesmo, troque café com leite com café
+
+161
+00:06:46,520 --> 00:06:53,199
+preto, chá a um latê de amêndoas ou
+
+162
+00:06:50,000 --> 00:06:55,319
+aveia sem açúcar por 30 dias para ver.
+
+163
+00:06:53,199 --> 00:06:57,360
+Faça o teste do pão por três a qu
+
+164
+00:06:55,319 --> 00:07:00,080
+semanas sem trigo e depois reintroduza
+
+165
+00:06:57,360 --> 00:07:01,919
+com método. Se melhorar muito, mantenha
+
+166
+00:07:00,080 --> 00:07:04,319
+o que funciona na maior parte da semana
+
+167
+00:07:01,919 --> 00:07:06,960
+e deixe sessões para eventos sociais uma
+
+168
+00:07:04,319 --> 00:07:09,520
+ou duas vezes por mês sem culpa.
+
+169
+00:07:06,960 --> 00:07:11,879
+Abordagem integrativa sem sofrimentos
+
+170
+00:07:09,520 --> 00:07:14,000
+excessivos. Moral da história, glúten
+
+171
+00:07:11,879 --> 00:07:16,319
+lactose e casina formma um trio que em
+
+172
+00:07:14,000 --> 00:07:18,800
+parte da população acende inflamação e
+
+173
+00:07:16,319 --> 00:07:21,280
+mexe em eixos hormonais. A boa notícia é
+
+174
+00:07:18,800 --> 00:07:23,680
+que com o experimento orientado em um
+
+175
+00:07:21,280 --> 00:07:25,639
+olhar de causa a tal visão funcional,
+
+176
+00:07:23,680 --> 00:07:28,240
+você descobre rapidamente se eles são
+
+177
+00:07:25,639 --> 00:07:31,280
+seus vilões ou apenas codantes.
+
+178
+00:07:28,240 --> 00:07:33,360
+Informação, teste e ajuste fino. É assim
+
+179
+00:07:31,280 --> 00:07:35,759
+que a gente tira o intestino do sufoco e
+
+180
+00:07:33,360 --> 00:07:37,000
+os hormônios agradecem. Saia do vídeo
+
+181
+00:07:35,759 --> 00:07:38,599
+agora. Se você gosta de ficar no
+
+182
+00:07:37,000 --> 00:07:40,759
+superficial, eu vou te contar uma
+
+183
+00:07:38,599 --> 00:07:42,759
+verdade inconveniente. O YouTube e o
+
+184
+00:07:40,759 --> 00:07:45,319
+conselho de medicina me limitam. Aqui eu
+
+185
+00:07:42,759 --> 00:07:47,560
+preciso simplificar, censurar dosagens,
+
+186
+00:07:45,319 --> 00:07:49,560
+omitir protocolos controversos. Na
+
+187
+00:07:47,560 --> 00:07:51,159
+comunidade fechada não tem esse filtro.
+
+188
+00:07:49,560 --> 00:07:52,840
+Eu compartilho os exatos protocolos que
+
+189
+00:07:51,159 --> 00:07:54,639
+eu uso na minha clínica. Casos de
+
+190
+00:07:52,840 --> 00:07:56,680
+reversão que pareciam impossíveis,
+
+191
+00:07:54,639 --> 00:07:59,080
+combinações label que funcionam,
+
+192
+00:07:56,680 --> 00:08:01,599
+fornecedores confiáveis, interpretação
+
+193
+00:07:59,080 --> 00:08:03,159
+avançada de exames e basicamente ter
+
+194
+00:08:01,599 --> 00:08:05,240
+acesso ao meu cérebro médico sem
+
+195
+00:08:03,159 --> 00:08:07,800
+intermediários. Temos lives semanais
+
+196
+00:08:05,240 --> 00:08:09,599
+respondendo perguntas, PDF com 47
+
+197
+00:08:07,800 --> 00:08:11,479
+protocolos exclusivos e grupo no
+
+198
+00:08:09,599 --> 00:08:14,280
+WhatsApp. Se você quer a visão funcional
+
+199
+00:08:11,479 --> 00:08:16,120
+real, sem simplificação para massas,
+
+200
+00:08:14,280 --> 00:08:18,400
+clique em seja membro. Não é para
+
+201
+00:08:16,120 --> 00:08:20,520
+curiosos, é para quem quer resultados.
+
+202
+00:08:18,400 --> 00:08:20,520
+M.
+

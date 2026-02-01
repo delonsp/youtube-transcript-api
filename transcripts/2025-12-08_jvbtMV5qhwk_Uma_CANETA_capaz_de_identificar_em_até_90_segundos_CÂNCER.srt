@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:03,080
+Olha essa tecnologia que acabou de
+
+2
+00:00:01,760 --> 00:00:04,799
+chegar ao Brasil e que pode mudar
+
+3
+00:00:03,080 --> 00:00:06,279
+completamente o jeito como operamos
+
+4
+00:00:04,799 --> 00:00:08,400
+câncer. Sério, quando eu vi isso, eu
+
+5
+00:00:06,279 --> 00:00:11,360
+fiquei impressionado. É uma caneta. Isso
+
+6
+00:00:08,400 --> 00:00:13,639
+mesmo, uma caneta chamada Mass Spec Pen,
+
+7
+00:00:11,360 --> 00:00:15,839
+que consegue identificar em tempo real
+
+8
+00:00:13,639 --> 00:00:17,640
+se um tecido é saudável ou cancerígeno
+
+9
+00:00:15,839 --> 00:00:19,920
+durante a cirurgia. Então, o cirurgião
+
+10
+00:00:17,640 --> 00:00:21,640
+encosta a ponta da caneta no tecido, ela
+
+11
+00:00:19,920 --> 00:00:24,199
+libera uma gotinha de água estére,
+
+12
+00:00:21,640 --> 00:00:25,760
+coleta moléculas da superfície, em até
+
+13
+00:00:24,199 --> 00:00:27,519
+90 segundos a inteligência artificial
+
+14
+00:00:25,760 --> 00:00:29,720
+analisa tudo e dá o resultado ali na
+
+15
+00:00:27,519 --> 00:00:30,960
+hora. Agora veja bem, porque isso é tão
+
+16
+00:00:29,720 --> 00:00:32,920
+importante. Durante uma cirurgia de
+
+17
+00:00:30,960 --> 00:00:34,640
+câncer, a gente sempre tem aquela
+
+18
+00:00:32,920 --> 00:00:36,719
+dúvida, será que eu tirei tudo? Será que
+
+19
+00:00:34,640 --> 00:00:38,680
+não tirei demais? Com essa caneta, essa
+
+20
+00:00:36,719 --> 00:00:41,079
+decisão fica muito mais precisa. Você
+
+21
+00:00:38,680 --> 00:00:42,800
+remove só o que precisa e preserva o
+
+22
+00:00:41,079 --> 00:00:44,399
+tecido saudável. Isso significa menos
+
+23
+00:00:42,800 --> 00:00:46,239
+chance de deixar células cancerígenas
+
+24
+00:00:44,399 --> 00:00:48,320
+para trás e ao mesmo tempo menos
+
+25
+00:00:46,239 --> 00:00:50,239
+mutilação do paciente. Pois é, o melhor
+
+26
+00:00:48,320 --> 00:00:52,160
+dos dois mundos. Agora a caneta entra em
+
+27
+00:00:50,239 --> 00:00:53,559
+fase de testes clínicos aqui no Brasil
+
+28
+00:00:52,160 --> 00:00:55,559
+com paciente de câncer de pulmão
+
+29
+00:00:53,559 --> 00:00:57,120
+antireoide. Se tudo der certo, a gente
+
+30
+00:00:55,559 --> 00:01:00,399
+pode estar vendo o futuro da cirurgia
+
+31
+00:00:57,120 --> 00:01:00,399
+oncológica acontecendo bem aqui.
+

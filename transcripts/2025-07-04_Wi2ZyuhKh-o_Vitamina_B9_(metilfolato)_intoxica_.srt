@@ -1,0 +1,680 @@
+1
+00:00:00,760 --> 00:00:06,000
+Existe toxicidade se o metfolato estiver
+
+2
+00:00:03,520 --> 00:00:08,519
+acima do valor de referência? Olha só,
+
+3
+00:00:06,000 --> 00:00:10,480
+pessoal, hoje vamos bater um papo sobre
+
+4
+00:00:08,519 --> 00:00:12,719
+uma questão que tem aparecido muito no
+
+5
+00:00:10,480 --> 00:00:15,320
+consultório e que pode estar acontecendo
+
+6
+00:00:12,719 --> 00:00:18,439
+com você também, a vitamina B9, o ácido
+
+7
+00:00:15,320 --> 00:00:20,279
+fólico e tá nas alturas, aí bate aquela
+
+8
+00:00:18,439 --> 00:00:22,439
+preocupação, né? Será que isso é
+
+9
+00:00:20,279 --> 00:00:24,119
+perigoso? Então vem comigo que eu vou
+
+10
+00:00:22,439 --> 00:00:26,599
+explicar tudinho de um jeito que você
+
+11
+00:00:24,119 --> 00:00:29,279
+não vai deixar de entender, vai entender
+
+12
+00:00:26,599 --> 00:00:31,920
+perfeitamente. Imagina que o medifolato
+
+13
+00:00:29,279 --> 00:00:34,520
+é tipo aquele tempero especial da vovó.
+
+14
+00:00:31,920 --> 00:00:36,800
+Você precisa dele pra receita ficar boa,
+
+15
+00:00:34,520 --> 00:00:39,040
+mas se você exagerar na mão, pode
+
+16
+00:00:36,800 --> 00:00:41,559
+estragar tudo. O medifolato é a forma
+
+17
+00:00:39,040 --> 00:00:43,680
+ativa da vitamina B9, aquele folato que
+
+18
+00:00:41,559 --> 00:00:45,640
+a gente tanto ouve falar. É como se
+
+19
+00:00:43,680 --> 00:00:47,520
+fosse a versão turbinada, pronta para
+
+20
+00:00:45,640 --> 00:00:49,680
+usar, que nosso corpo consegue
+
+21
+00:00:47,520 --> 00:00:52,559
+aproveitar direto, sem precisar fazer
+
+22
+00:00:49,680 --> 00:00:54,719
+aquela conversão complicada. Agora vamos
+
+23
+00:00:52,559 --> 00:00:56,960
+ao que interessa. Quando falamos de
+
+24
+00:00:54,719 --> 00:00:59,559
+valores de referência, a coisa fica
+
+25
+00:00:56,960 --> 00:01:01,480
+interessante. Diferente do ácido fólico
+
+26
+00:00:59,559 --> 00:01:04,439
+comum, que tem um limite estabelecido de
+
+27
+00:01:01,480 --> 00:01:07,360
+1000 mg por dia, o metilfolato é um
+
+28
+00:01:04,439 --> 00:01:10,560
+bicho diferente. Estudos mostram que
+
+29
+00:01:07,360 --> 00:01:13,119
+doses de até 15 mg por dia, olha só,
+
+30
+00:01:10,560 --> 00:01:15,560
+isso é 15 vezes mais que o limite do
+
+31
+00:01:13,119 --> 00:01:18,400
+ácido fólico comum. São geralmente
+
+32
+00:01:15,560 --> 00:01:21,439
+seguras essas doses e bem toleradas. Mas
+
+33
+00:01:18,400 --> 00:01:23,159
+calma lá, isso não significa que você
+
+34
+00:01:21,439 --> 00:01:25,799
+pode sair tomando etifolato como se
+
+35
+00:01:23,159 --> 00:01:27,600
+fosse água, não. O lance é o seguinte,
+
+36
+00:01:25,799 --> 00:01:29,880
+nosso corpo tem os seus mecanismos de
+
+37
+00:01:27,600 --> 00:01:32,040
+proteção natural, tipo aqueles alarmes
+
+38
+00:01:29,880 --> 00:01:34,360
+de casa. Quando você toma ácido fólico
+
+39
+00:01:32,040 --> 00:01:36,200
+comum, ele passa por várias etapas de
+
+40
+00:01:34,360 --> 00:01:38,159
+conversão e seu corpo consegue controlar
+
+41
+00:01:36,200 --> 00:01:40,640
+direitinho quanto vai usar. Já o
+
+42
+00:01:38,159 --> 00:01:42,799
+metiofolato, meu amigo, ele pula essas
+
+43
+00:01:40,640 --> 00:01:45,560
+etapas todas. É como entrar pela porta
+
+44
+00:01:42,799 --> 00:01:48,560
+dos fundos direto na cozinha. Por isso
+
+45
+00:01:45,560 --> 00:01:50,439
+que às vezes a coisa pode desandar.
+
+46
+00:01:48,560 --> 00:01:53,000
+Deixa te contar uma história real que
+
+47
+00:01:50,439 --> 00:01:55,520
+ilustra bem isso. Uma paciente de 61
+
+48
+00:01:53,000 --> 00:01:57,880
+anos estava há 20 anos sem nenhuma crise
+
+49
+00:01:55,520 --> 00:02:01,399
+de psoriase. Aí descobriu que tinha uma
+
+50
+00:01:57,880 --> 00:02:04,280
+mutação no GNMT HFR e começou a tomar 15
+
+51
+00:02:01,399 --> 00:02:07,640
+mg de metifolato por dia. Em poucos
+
+52
+00:02:04,280 --> 00:02:09,679
+dias, tcharã, a psorias voltou com tudo.
+
+53
+00:02:07,640 --> 00:02:12,120
+É como se o corpo dela tivesse dito:
+
+54
+00:02:09,679 --> 00:02:14,080
+"Opa, pera aí, isso tá demais para mim".
+
+55
+00:02:12,120 --> 00:02:15,519
+E os sintomas de excesso, rapaz, isso é
+
+56
+00:02:14,080 --> 00:02:17,840
+uma lista que você precisa ficar
+
+57
+00:02:15,519 --> 00:02:19,760
+esperto. Tem gente que começa a sentir
+
+58
+00:02:17,840 --> 00:02:22,000
+uma irritabilidade do nada, tipo quando
+
+59
+00:02:19,760 --> 00:02:25,480
+você tá no trânsito e qualquer coisinha
+
+60
+00:02:22,000 --> 00:02:27,440
+já tá ficando nervoso. Outros relatam
+
+61
+00:02:25,480 --> 00:02:30,360
+insônia, aquela sensação de estar ligado
+
+62
+00:02:27,440 --> 00:02:32,840
+um 220 o tempo todo, dor muscular, dor
+
+63
+00:02:30,360 --> 00:02:35,800
+nas juntas, confusão mental, é como se
+
+64
+00:02:32,840 --> 00:02:37,519
+seu corpo entrasse em overdrive. OK? O
+
+65
+00:02:35,800 --> 00:02:40,720
+mais curioso é que tem gente que se
+
+66
+00:02:37,519 --> 00:02:43,519
+sente maravilhoso na primeira semana.
+
+67
+00:02:40,720 --> 00:02:47,080
+Energia lá em cima, memória fiada, humor
+
+68
+00:02:43,519 --> 00:02:49,360
+nas alturas. Aí na segunda semana, bum,
+
+69
+00:02:47,080 --> 00:02:51,000
+os sintomas desagradáveis
+
+70
+00:02:49,360 --> 00:02:53,200
+aparecem.
+
+71
+00:02:51,000 --> 00:02:55,280
+É tipo quando você exagera no café, no
+
+72
+00:02:53,200 --> 00:02:57,680
+começo é tudo lindo, depois vem a
+
+73
+00:02:55,280 --> 00:02:59,560
+tremedeira e ansiedade. Tem um detalhe
+
+74
+00:02:57,680 --> 00:03:02,280
+que descobri pesquisando. Pessoas com
+
+75
+00:02:59,560 --> 00:03:05,959
+certas condições, como a disfunção do
+
+76
+00:03:02,280 --> 00:03:08,640
+eixo hipófise adrenal, a antiga fadiga
+
+77
+00:03:05,959 --> 00:03:11,000
+adrenal, são especialmente sensíveis ao
+
+78
+00:03:08,640 --> 00:03:13,280
+mitifolato. É como ter alergia a
+
+79
+00:03:11,000 --> 00:03:14,879
+camarão. Para alguns não faz nada, para
+
+80
+00:03:13,280 --> 00:03:16,799
+outros é um problemão. E olha que
+
+81
+00:03:14,879 --> 00:03:18,959
+interessante, tem gente que reage mal
+
+82
+00:03:16,799 --> 00:03:22,000
+até com doses pequenininhas. enquanto
+
+83
+00:03:18,959 --> 00:03:24,239
+outros toleram doses maiores, uma boa. A
+
+84
+00:03:22,000 --> 00:03:26,640
+questão da metilação é fundamental aqui.
+
+85
+00:03:24,239 --> 00:03:28,720
+Pensa assim, a metilação é como sistema
+
+86
+00:03:26,640 --> 00:03:31,400
+de reciclagem do seu corpo. Quando você
+
+87
+00:03:28,720 --> 00:03:33,720
+tomafolato demais, é como jogar material
+
+88
+00:03:31,400 --> 00:03:35,799
+demais na reciclagem de uma vez só e o
+
+89
+00:03:33,720 --> 00:03:37,959
+sistema pode ficar sobrecarregado. Isso
+
+90
+00:03:35,799 --> 00:03:40,519
+afeta a produção de neurotransmissores,
+
+91
+00:03:37,959 --> 00:03:43,000
+aqueles mensageiros químicos do corpo,
+
+92
+00:03:40,519 --> 00:03:45,720
+do nosso cérebro. E aí que a coisa
+
+93
+00:03:43,000 --> 00:03:48,080
+complica. Uma coisa que poucos sabem, o
+
+94
+00:03:45,720 --> 00:03:50,519
+metifolato não acumula no corpo do mesmo
+
+95
+00:03:48,080 --> 00:03:52,879
+jeito que outras vitaminas. O excesso
+
+96
+00:03:50,519 --> 00:03:55,120
+geralmente é eliminado pela urina, mas o
+
+97
+00:03:52,879 --> 00:03:57,599
+problema não é o acúmulo em si, é o
+
+98
+00:03:55,120 --> 00:03:59,400
+efeito imediato de terfolato demais
+
+99
+00:03:57,599 --> 00:04:01,480
+circulando de uma vez. É como a
+
+100
+00:03:59,400 --> 00:04:04,239
+diferença entre beber água devagar
+
+101
+00:04:01,480 --> 00:04:06,959
+durante o dia e tentar tomar 2 L de uma
+
+102
+00:04:04,239 --> 00:04:08,959
+vez. Para quem tem a mutação MTH FR, a
+
+103
+00:04:06,959 --> 00:04:10,879
+situação ainda mais delicada. Se as
+
+104
+00:04:08,959 --> 00:04:13,120
+pessoas já têm dificuldade para
+
+105
+00:04:10,879 --> 00:04:15,599
+converter o ácido fólico comum, então
+
+106
+00:04:13,120 --> 00:04:18,040
+tifolato parece solução perfeita, mas aí
+
+107
+00:04:15,599 --> 00:04:20,079
+que tá. Começar com doses altas pode ser
+
+108
+00:04:18,040 --> 00:04:22,759
+como dar um banho de água gelada em quem
+
+109
+00:04:20,079 --> 00:04:25,919
+já tá com febre. O choque pode ser forte
+
+110
+00:04:22,759 --> 00:04:28,360
+demais. Agora, como evitar problemas?
+
+111
+00:04:25,919 --> 00:04:30,680
+Primeiro, nunca, mas nunca mesmo, comece
+
+112
+00:04:28,360 --> 00:04:32,560
+a tomar metifolato por conta própria, só
+
+113
+00:04:30,680 --> 00:04:35,160
+porque o exame deu alterado. Cada
+
+114
+00:04:32,560 --> 00:04:36,520
+organismo é único e o que funciona pro
+
+115
+00:04:35,160 --> 00:04:39,440
+seu vizinho pode não funcionar para
+
+116
+00:04:36,520 --> 00:04:41,520
+você. Segundo, se você já toma e começou
+
+117
+00:04:39,440 --> 00:04:43,759
+a sentir sintomas estranhos, não
+
+118
+00:04:41,520 --> 00:04:46,639
+insista. O seu corpo tá tentando te
+
+119
+00:04:43,759 --> 00:04:49,400
+avisar alguma coisa. O ideal é começar
+
+120
+00:04:46,639 --> 00:04:51,600
+com doses baixinhas, tipo 400 a 800
+
+121
+00:04:49,400 --> 00:04:53,840
+microg e aumentando aos poucos se
+
+122
+00:04:51,600 --> 00:04:56,320
+necessário. É como entrar numa piscina
+
+123
+00:04:53,840 --> 00:04:58,639
+fria, você vai se adaptando devagar e
+
+124
+00:04:56,320 --> 00:05:00,759
+sempre, sempre mesmo, com acompanhamento
+
+125
+00:04:58,639 --> 00:05:02,639
+profissional. Tem médicos que recomendam
+
+126
+00:05:00,759 --> 00:05:05,880
+até fazer pausa no tratamento quando
+
+127
+00:05:02,639 --> 00:05:08,199
+você tá se sentindo bem, porque mais nem
+
+128
+00:05:05,880 --> 00:05:09,479
+sempre é melhor. Uma dica de ouro. Se
+
+129
+00:05:08,199 --> 00:05:12,360
+você começar a sentir efeitos
+
+130
+00:05:09,479 --> 00:05:14,639
+colaterais, alguns profissionais sugerem
+
+131
+00:05:12,360 --> 00:05:17,759
+tomar uma dose pequena de neacina, tipo
+
+132
+00:05:14,639 --> 00:05:20,240
+10 a 50 mg. É como apertar o botão de
+
+133
+00:05:17,759 --> 00:05:22,720
+reset no sistema, mas olha, isso é
+
+134
+00:05:20,240 --> 00:05:24,720
+paliativo. O importante é ajustar a dose
+
+135
+00:05:22,720 --> 00:05:26,919
+ou até parar se for necessário.
+
+136
+00:05:24,720 --> 00:05:29,319
+Concluindo nossa conversa, metifolato
+
+137
+00:05:26,919 --> 00:05:31,440
+acima dos valores de referência não é
+
+138
+00:05:29,319 --> 00:05:33,440
+necessariamente tóxico no sentido
+
+139
+00:05:31,440 --> 00:05:35,720
+clássico da palavra. Não é como um
+
+140
+00:05:33,440 --> 00:05:38,120
+veneno que vai te derrubar na hora, mas
+
+141
+00:05:35,720 --> 00:05:39,520
+pode sim causar um desequilíbrio no seu
+
+142
+00:05:38,120 --> 00:05:41,880
+sistema que traz sintomas bem
+
+143
+00:05:39,520 --> 00:05:43,960
+desagradáveis. Em alguns casos pode até
+
+144
+00:05:41,880 --> 00:05:46,080
+reativar condições que estavam
+
+145
+00:05:43,960 --> 00:05:48,880
+controladas, como vimos no caso da
+
+146
+00:05:46,080 --> 00:05:51,120
+pessoriase. E sempre, pessoal, o segredo
+
+147
+00:05:48,880 --> 00:05:53,280
+está no equilíbrio na personalização do
+
+148
+00:05:51,120 --> 00:05:55,039
+tratamento e principalmente em ouvir o
+
+149
+00:05:53,280 --> 00:05:57,960
+que seu corpo está dizendo. Se você tá
+
+150
+00:05:55,039 --> 00:06:00,080
+tomando o etifolato e tá sentindo ótimo,
+
+151
+00:05:57,960 --> 00:06:03,280
+maravilha. Se começou a sentir coisas
+
+152
+00:06:00,080 --> 00:06:05,120
+estranhas, é hora de reavaliar. E se o
+
+153
+00:06:03,280 --> 00:06:06,880
+exame deu alto, mas você não toma
+
+154
+00:06:05,120 --> 00:06:09,479
+suplemento, pode ser que sua alimentação
+
+155
+00:06:06,880 --> 00:06:11,800
+esteja rica em folatas naturais ou que
+
+156
+00:06:09,479 --> 00:06:14,479
+você tenha uma capacidade aumentada de
+
+157
+00:06:11,800 --> 00:06:17,199
+produção. Nem sempre isso é um problema.
+
+158
+00:06:14,479 --> 00:06:19,280
+Lembra, cada corpo é universo único. O
+
+159
+00:06:17,199 --> 00:06:20,680
+que serve para um pode não servir pro
+
+160
+00:06:19,280 --> 00:06:23,080
+outro. Por isso, a medicina
+
+161
+00:06:20,680 --> 00:06:24,880
+personalizada é tão importante. Não é
+
+162
+00:06:23,080 --> 00:06:27,080
+sobre seguir protocolos inessados, é
+
+163
+00:06:24,880 --> 00:06:29,440
+sobre encontrar o que funciona
+
+164
+00:06:27,080 --> 00:06:31,520
+especificamente para você. E isso, meus
+
+165
+00:06:29,440 --> 00:06:33,960
+amigos, só dá para fazer com
+
+166
+00:06:31,520 --> 00:06:35,599
+acompanhamento profissional adequado e
+
+167
+00:06:33,960 --> 00:06:39,360
+muita observação dos sinais que o seu
+
+168
+00:06:35,599 --> 00:06:44,080
+corpo dá. Compartilhe os vídeos, faça
+
+169
+00:06:39,360 --> 00:06:51,199
+bem. A vida de alguém pode mudar também
+
+170
+00:06:44,080 --> 00:06:51,199
+no canal do além do se envolva. Ah.
+

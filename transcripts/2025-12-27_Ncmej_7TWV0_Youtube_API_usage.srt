@@ -1,0 +1,180 @@
+1
+00:00:00,960 --> 00:00:07,279
+Hi, I'm Alan. I'm owner of a healthy
+
+2
+00:00:03,439 --> 00:00:08,880
+YouTube channel with over 900,000
+
+3
+00:00:07,279 --> 00:00:12,400
+subscribers.
+
+4
+00:00:08,880 --> 00:00:15,679
+So, uh, this is my N workflow that
+
+5
+00:00:12,400 --> 00:00:19,439
+monitors comments on my videos. So, it
+
+6
+00:00:15,679 --> 00:00:23,600
+fetches new comments. So, he searchs for
+
+7
+00:00:19,439 --> 00:00:26,600
+the last published video here using this
+
+8
+00:00:23,600 --> 00:00:26,600
+API.
+
+9
+00:00:27,760 --> 00:00:35,760
+After that, get the video ID
+
+10
+00:00:31,920 --> 00:00:38,239
+and search for comments
+
+11
+00:00:35,760 --> 00:00:42,600
+in this video.
+
+12
+00:00:38,239 --> 00:00:42,600
+So, it fetches new comments,
+
+13
+00:00:43,440 --> 00:00:50,920
+sends send them to the DeepSc AI for
+
+14
+00:00:47,360 --> 00:00:50,920
+response generation.
+
+15
+00:00:52,399 --> 00:00:58,719
+This is the filter for the nonresponded
+
+16
+00:00:55,760 --> 00:01:04,280
+comments.
+
+17
+00:00:58,719 --> 00:01:04,280
+classify and prepare the answers.
+
+18
+00:01:07,280 --> 00:01:15,840
+So some of the comments are responded
+
+19
+00:01:11,119 --> 00:01:18,799
+based on the content of the message of
+
+20
+00:01:15,840 --> 00:01:20,640
+the comment and other ones they are sent
+
+21
+00:01:18,799 --> 00:01:26,119
+to the
+
+22
+00:01:20,640 --> 00:01:26,119
+to a AI agent to answer them.
+
+23
+00:01:27,840 --> 00:01:34,400
+This is in Portuguese. So answer this
+
+24
+00:01:30,640 --> 00:01:37,840
+comment in a personalized manner and
+
+25
+00:01:34,400 --> 00:01:40,880
+also useful. So it must generate a
+
+26
+00:01:37,840 --> 00:01:42,400
+genuine emp and pic and professional
+
+27
+00:01:40,880 --> 00:01:46,240
+response
+
+28
+00:01:42,400 --> 00:01:51,159
+but do not be so specific in the answer
+
+29
+00:01:46,240 --> 00:01:51,159
+especially in polymic themes.
+
+30
+00:01:51,600 --> 00:01:58,759
+Okay. So, I'm going to run this to so
+
+31
+00:01:54,159 --> 00:01:58,759
+you can see how it goes.
+
+32
+00:02:05,439 --> 00:02:10,399
+This Python script uh downloads
+
+33
+00:02:07,840 --> 00:02:14,599
+transcripts from my own videos using the
+
+34
+00:02:10,399 --> 00:02:14,599
+YouTube captions API.
+
+35
+00:02:16,000 --> 00:02:21,200
+In this case, we have already downloaded
+
+36
+00:02:19,200 --> 00:02:23,040
+228
+
+37
+00:02:21,200 --> 00:02:26,959
+transcripts.
+
+38
+00:02:23,040 --> 00:02:30,319
+So in this run, we didn't got get any
+
+39
+00:02:26,959 --> 00:02:36,360
+new video new any transcripts. I'm going
+
+40
+00:02:30,319 --> 00:02:36,360
+to show the the transcripts folder.
+
+41
+00:02:36,879 --> 00:02:46,040
+So uh here we have the so we have all
+
+42
+00:02:41,040 --> 00:02:46,040
+the files from the transcripts.
+
+43
+00:02:48,720 --> 00:02:56,560
+So this workflow detects new videos and
+
+44
+00:02:51,840 --> 00:03:00,440
+sends the links to my WhatsApp
+
+45
+00:02:56,560 --> 00:03:00,440
+health community groups.
+

@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:03,879
+Olha essa notícia que saiu agora e que
+
+2
+00:00:02,240 --> 00:00:05,879
+vai mudar completamente como você
+
+3
+00:00:03,879 --> 00:00:07,919
+enxerga a medicina. A inteligência
+
+4
+00:00:05,879 --> 00:00:10,519
+artificial já está diagnosticando
+
+5
+00:00:07,919 --> 00:00:12,799
+doenças melhor que muitos especialistas.
+
+6
+00:00:10,519 --> 00:00:14,559
+Pois é, não estou exagerando. Estudos
+
+7
+00:00:12,799 --> 00:00:17,359
+mostram que algoritmos já conseguem
+
+8
+00:00:14,559 --> 00:00:19,279
+detectar glaucoma, heimer, parkson,
+
+9
+00:00:17,359 --> 00:00:21,720
+doenças cardíacas e até diabetes com uma
+
+10
+00:00:19,279 --> 00:00:24,680
+precisão impressionante. Um exemplo, a
+
+11
+00:00:21,720 --> 00:00:27,439
+IA diagnostica diabetes tipo 2 com 89%
+
+12
+00:00:24,680 --> 00:00:29,679
+de precisão, apenas analisando a voz do
+
+13
+00:00:27,439 --> 00:00:30,880
+paciente. Isso mesmo, só pela voz. Veja
+
+14
+00:00:29,679 --> 00:00:33,040
+bem, o que acontece é que esses
+
+15
+00:00:30,880 --> 00:00:34,640
+algoritmos processam milhões de dados
+
+16
+00:00:33,040 --> 00:00:37,079
+que o nosso olho humano não consegue
+
+17
+00:00:34,640 --> 00:00:39,360
+captar. Eles identificam padrões sutis
+
+18
+00:00:37,079 --> 00:00:41,239
+em exames de imagem, alterações mínimas
+
+19
+00:00:39,360 --> 00:00:42,760
+no nervo óptico para glaucoma ou
+
+20
+00:00:41,239 --> 00:00:44,879
+mudanças imperceptíveis em
+
+21
+00:00:42,760 --> 00:00:47,480
+eletrocardiogramas. A tecnologia não
+
+22
+00:00:44,879 --> 00:00:49,039
+substitui nossa experiência clínica, mas
+
+23
+00:00:47,480 --> 00:00:51,000
+potencializa nossa capacidade
+
+24
+00:00:49,039 --> 00:00:53,000
+diagnóstica de forma extraordinária.
+
+25
+00:00:51,000 --> 00:00:55,320
+Então fica a reflexão, será que já não
+
+26
+00:00:53,000 --> 00:00:58,800
+está na hora de integrarmos mais essas
+
+27
+00:00:55,320 --> 00:00:58,800
+ferramentas do nosso dia a dia? Yeah.
+

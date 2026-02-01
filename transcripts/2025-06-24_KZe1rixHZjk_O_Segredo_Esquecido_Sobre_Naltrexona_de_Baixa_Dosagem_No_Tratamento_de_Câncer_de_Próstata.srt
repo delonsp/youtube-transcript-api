@@ -1,0 +1,416 @@
+1
+00:00:00,199 --> 00:00:05,120
+Alterxona de baixa dosagem, né, o
+
+2
+00:00:01,959 --> 00:00:08,519
+chamado LDN, seria uma boa alternativa
+
+3
+00:00:05,120 --> 00:00:11,360
+para câncer de próstata. Então, LDN é
+
+4
+00:00:08,519 --> 00:00:13,480
+uma opção terapêutica promissora para o
+
+5
+00:00:11,360 --> 00:00:15,440
+tratamento e também prevenção de vários
+
+6
+00:00:13,480 --> 00:00:16,880
+cânceres, inclusive de próstata. E vou
+
+7
+00:00:15,440 --> 00:00:21,519
+aqui apresentar para vocês algumas
+
+8
+00:00:16,880 --> 00:00:24,480
+evidências desse elemento do LDN lowxone
+
+9
+00:00:21,519 --> 00:00:26,279
+pro tratamento do câncer de próstata.
+
+10
+00:00:24,480 --> 00:00:29,080
+Os estudos disponíveis mostram
+
+11
+00:00:26,279 --> 00:00:31,960
+resultados encorajadores do uso do LDN
+
+12
+00:00:29,080 --> 00:00:34,200
+nesse contexto de câncer de próstata.
+
+13
+00:00:31,960 --> 00:00:36,840
+Teve um estudo científico em que um
+
+14
+00:00:34,200 --> 00:00:38,879
+paciente com câncer de próstata tratado
+
+15
+00:00:36,840 --> 00:00:40,280
+com LDN, que é a sigla de natalxona de
+
+16
+00:00:38,879 --> 00:00:41,680
+baixa dosagem, vou usar essa sigla
+
+17
+00:00:40,280 --> 00:00:43,120
+agora, tá?
+
+18
+00:00:41,680 --> 00:00:46,120
+Nesse caso, ele apresentou uma
+
+19
+00:00:43,120 --> 00:00:48,160
+diminuição de mais de 20% no PSA, que é
+
+20
+00:00:46,120 --> 00:00:51,039
+o marcador que a gente usa mais para
+
+21
+00:00:48,160 --> 00:00:53,480
+acompanhar essa doença.
+
+22
+00:00:51,039 --> 00:00:56,239
+Isso em dois meses de tratamento. E após
+
+23
+00:00:53,480 --> 00:00:58,519
+6 meses, houve nova redução, sugerindo
+
+24
+00:00:56,239 --> 00:01:01,359
+que, pelo menos nesse caso, o LDN teve
+
+25
+00:00:58,519 --> 00:01:03,359
+um papel fundamental na estabilização da
+
+26
+00:01:01,359 --> 00:01:05,479
+progressão do câncer prostático. Então,
+
+27
+00:01:03,359 --> 00:01:07,200
+dados assim de relatos, né, em medicina
+
+28
+00:01:05,479 --> 00:01:08,600
+a gente chama isso de dados anóticos,
+
+29
+00:01:07,200 --> 00:01:11,439
+né, que parece piada, mas não é
+
+30
+00:01:08,600 --> 00:01:13,840
+anedótico no sentido de ser relatos. não
+
+31
+00:01:11,439 --> 00:01:16,799
+tão científicos. Então, esses dados
+
+32
+00:01:13,840 --> 00:01:19,520
+anedóticos indicam que todos os casos de
+
+33
+00:01:16,799 --> 00:01:23,600
+câncer de próstata que não haviam sido
+
+34
+00:01:19,520 --> 00:01:27,200
+submetido a tratamentos hormonais
+
+35
+00:01:23,600 --> 00:01:29,400
+entraram em remissão com uso de LDN. Eu
+
+36
+00:01:27,200 --> 00:01:31,400
+recomendo usar LDN isoladamente para
+
+37
+00:01:29,400 --> 00:01:34,240
+qualquer paciente, de maneira nenhuma.
+
+38
+00:01:31,400 --> 00:01:36,520
+Ele ajuda e na maioria dos pacientes não
+
+39
+00:01:34,240 --> 00:01:39,680
+é suficiente usar só isso, tá? Então o
+
+40
+00:01:36,520 --> 00:01:41,399
+LDN ele tem um potencial para prevenção
+
+41
+00:01:39,680 --> 00:01:42,880
+e tratamento precoce, sim, do câncer de
+
+42
+00:01:41,399 --> 00:01:44,719
+próstata e eu prescrevo para meus
+
+43
+00:01:42,880 --> 00:01:46,600
+pacientes. E quais são então os
+
+44
+00:01:44,719 --> 00:01:49,880
+mecanismos de ação anticâncer? Ele tem
+
+45
+00:01:46,600 --> 00:01:51,360
+basicamente sete mecanismos de ação
+
+46
+00:01:49,880 --> 00:01:53,119
+antitumoral. Aí vou falar um pouquinho
+
+47
+00:01:51,360 --> 00:01:55,439
+difícil agora, eu peço desculpa para
+
+48
+00:01:53,119 --> 00:01:58,039
+vocês, mas é rápido, tá?
+
+49
+00:01:55,439 --> 00:02:01,759
+bloqueio do eixo receptor do fator de
+
+50
+00:01:58,039 --> 00:02:04,119
+crescimento opio que é o OGF OGFR,
+
+51
+00:02:01,759 --> 00:02:05,799
+inibição da proliferação celular,
+
+52
+00:02:04,119 --> 00:02:07,280
+promoção da apoptose, que é a morte
+
+53
+00:02:05,799 --> 00:02:10,800
+celular programada através do
+
+54
+00:02:07,280 --> 00:02:16,360
+rebalanceamento da razão das moléculas
+
+55
+00:02:10,800 --> 00:02:17,879
+BX e BCl2, supressão da via P3K,
+
+56
+00:02:16,360 --> 00:02:20,040
+modulação das funções das células
+
+57
+00:02:17,879 --> 00:02:23,239
+imunológicas, ação antiinflamatória,
+
+58
+00:02:20,040 --> 00:02:25,480
+inibição de receptores TLR e redução da
+
+59
+00:02:23,239 --> 00:02:27,840
+produção de teleocina Pronto, parei de
+
+60
+00:02:25,480 --> 00:02:30,239
+falar falar difícil agora. Então, quais
+
+61
+00:02:27,840 --> 00:02:31,959
+são as dosagens e a maneira de
+
+62
+00:02:30,239 --> 00:02:33,599
+administrar?
+
+63
+00:02:31,959 --> 00:02:35,160
+Dosagem, você sabe que é crucial um
+
+64
+00:02:33,599 --> 00:02:37,239
+tratamento oncológico. Estudos
+
+65
+00:02:35,160 --> 00:02:39,480
+demonstram que o LDN, quando
+
+66
+00:02:37,239 --> 00:02:41,760
+administrado em baixa dose e de maneira
+
+67
+00:02:39,480 --> 00:02:44,120
+intermitente, pode prolongar a sobrevida
+
+68
+00:02:41,760 --> 00:02:46,080
+e promover a resolução das metástases
+
+69
+00:02:44,120 --> 00:02:48,760
+devido à ligação do fator de crescimento
+
+70
+00:02:46,080 --> 00:02:51,000
+opiódico que eu comentei, né, o OGF ao
+
+71
+00:02:48,760 --> 00:02:52,720
+receptor, causando uma administão,
+
+72
+00:02:51,000 --> 00:02:54,680
+então, desenvolvimento moral.
+
+73
+00:02:52,720 --> 00:02:58,000
+Encontrarxona
+
+74
+00:02:54,680 --> 00:02:59,920
+em altas doses contínuas, que seria uso
+
+75
+00:02:58,000 --> 00:03:01,599
+aí do Reva, que nós estamos não estamos
+
+76
+00:02:59,920 --> 00:03:04,400
+falando disso agora. Revia para outra
+
+77
+00:03:01,599 --> 00:03:07,159
+finalidade. Nesses casos, altas doses
+
+78
+00:03:04,400 --> 00:03:08,840
+poderiam acelerar a metástumal. Então, o
+
+79
+00:03:07,159 --> 00:03:11,319
+LDN tem sido estudado principalmente
+
+80
+00:03:08,840 --> 00:03:13,480
+como adjuvante, né, ou seja, como um
+
+81
+00:03:11,319 --> 00:03:15,480
+esquema adicional
+
+82
+00:03:13,480 --> 00:03:17,599
+em esquemas convencionais de
+
+83
+00:03:15,480 --> 00:03:19,640
+quimioterapia e imunoterapia por
+
+84
+00:03:17,599 --> 00:03:21,159
+demonstrar alto potencial anticâncer,
+
+85
+00:03:19,640 --> 00:03:24,280
+especialmente em tumores de origem
+
+86
+00:03:21,159 --> 00:03:27,400
+epitelial que expressam esse receptor
+
+87
+00:03:24,280 --> 00:03:29,799
+OGFR. Então, a evidência sugere que o
+
+88
+00:03:27,400 --> 00:03:32,280
+LDN pode sensibilizar células
+
+89
+00:03:29,799 --> 00:03:34,400
+cancerígenas resistentes ao tratamento
+
+90
+00:03:32,280 --> 00:03:36,840
+aplicado e permitir então uma
+
+91
+00:03:34,400 --> 00:03:39,560
+farmacoterapia mais efetiva com doses
+
+92
+00:03:36,840 --> 00:03:42,720
+menores de drogas citotóxicas.
+
+93
+00:03:39,560 --> 00:03:45,480
+E é importante ressaltar que
+
+94
+00:03:42,720 --> 00:03:46,720
+apesar do LDN ser muito promissor, ainda
+
+95
+00:03:45,480 --> 00:03:48,080
+tem necessidade de mais estudos
+
+96
+00:03:46,720 --> 00:03:50,280
+clínicos, que é um grande desafio,
+
+97
+00:03:48,080 --> 00:03:52,400
+porque é uma droga que perdeu patente.
+
+98
+00:03:50,280 --> 00:03:54,519
+Então, necessitaríamos de mais clínicos
+
+99
+00:03:52,400 --> 00:03:57,799
+em grandes grupos de pacientes para
+
+100
+00:03:54,519 --> 00:04:01,319
+poder confirmar a questão do LDN na
+
+101
+00:03:57,799 --> 00:04:03,720
+terapia do câncer. OK? Compartilhe os
+
+102
+00:04:01,319 --> 00:04:07,560
+vídeos, faça bem.
+
+103
+00:04:03,720 --> 00:04:14,040
+A vida de alguém pode mudar também no
+
+104
+00:04:07,560 --> 00:04:14,040
+canal do Dort além do Tr se volvar.
+

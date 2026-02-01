@@ -1,0 +1,1248 @@
+1
+00:00:00,000 --> 00:00:06,200
+Você sabia que existe um fator de risco
+
+2
+00:00:02,879 --> 00:00:08,760
+cardíaco que afeta 1,5
+
+3
+00:00:06,200 --> 00:00:11,120
+bilhão de pessoas no mundo? É mais
+
+4
+00:00:08,760 --> 00:00:12,960
+perigoso que o colesterol alto e a
+
+5
+00:00:11,120 --> 00:00:15,960
+maioria dos médicos simplesmente não
+
+6
+00:00:12,960 --> 00:00:19,439
+mede? Uma metaanálise de 2025 com mais
+
+7
+00:00:15,960 --> 00:00:22,080
+de 145.000 vi participantes mostrou que
+
+8
+00:00:19,439 --> 00:00:24,960
+as estatinas, aquele remédio que tanta
+
+9
+00:00:22,080 --> 00:00:27,960
+gente toma pro colesterol, não faz
+
+10
+00:00:24,960 --> 00:00:30,199
+absolutamente nada contra esse vilão. Na
+
+11
+00:00:27,960 --> 00:00:32,279
+verdade, pode até piorar a situação em
+
+12
+00:00:30,199 --> 00:00:35,960
+alguns casos. Hoje eu vou te mostrar o
+
+13
+00:00:32,279 --> 00:00:38,760
+que é a lipoproteína A, por que que ela
+
+14
+00:00:35,960 --> 00:00:41,039
+é tão perigosa e quais são as opções de
+
+15
+00:00:38,760 --> 00:00:43,200
+tratamento, incluindo comentários sobre
+
+16
+00:00:41,039 --> 00:00:46,320
+cinco novas drogas que estão em fase
+
+17
+00:00:43,200 --> 00:00:48,920
+final de testes e ainda não sabemos se
+
+18
+00:00:46,320 --> 00:00:51,280
+vão de fato revolucionar o tratamento ou
+
+19
+00:00:48,920 --> 00:00:54,960
+se vão simplesmente acrescentar muitos
+
+20
+00:00:51,280 --> 00:00:57,120
+efeitos colaterais ainda não previstos.
+
+21
+00:00:54,960 --> 00:00:58,640
+Olha,
+
+22
+00:00:57,120 --> 00:01:00,480
+antes de continuar, eu preciso te contar
+
+23
+00:00:58,640 --> 00:01:03,120
+uma coisa que me deixa genuinamente
+
+24
+00:01:00,480 --> 00:01:06,280
+frustrado. Eu atendo pacientes a
+
+25
+00:01:03,120 --> 00:01:08,040
+praticamente 30 anos e o número de
+
+26
+00:01:06,280 --> 00:01:10,040
+pessoas que chegam no meu consultório
+
+27
+00:01:08,040 --> 00:01:13,960
+sem nunca terem ouvido falar de
+
+28
+00:01:10,040 --> 00:01:15,840
+lipoproteína A é realmente assustador.
+
+29
+00:01:13,960 --> 00:01:19,680
+Semana passada mesmo eu atendi um
+
+30
+00:01:15,840 --> 00:01:22,880
+executivo de 52 anos, infartou do nada,
+
+31
+00:01:19,680 --> 00:01:25,720
+segundo ele. LDL controlado, pressão
+
+32
+00:01:22,880 --> 00:01:29,000
+boa, não fumava, fazia exercício. Quando
+
+33
+00:01:25,720 --> 00:01:31,119
+eu pedi o exame de LPA, deu 180
+
+34
+00:01:29,000 --> 00:01:33,360
+nanomoles por litro, muito, muito
+
+35
+00:01:31,119 --> 00:01:35,680
+elevado. Ninguém tinha medido antes. Ele
+
+36
+00:01:33,360 --> 00:01:37,479
+ficou revoltado e com razão. Estamos
+
+37
+00:01:35,680 --> 00:01:40,439
+falando de um exame que custa menos de
+
+38
+00:01:37,479 --> 00:01:42,520
+R$ 100, que você precisa fazer uma única
+
+39
+00:01:40,439 --> 00:01:45,040
+vez na vida, porque os níveis são
+
+40
+00:01:42,520 --> 00:01:47,520
+geneticamente determinados e não mudam e
+
+41
+00:01:45,040 --> 00:01:49,640
+que pode literalmente salvar sua vida.
+
+42
+00:01:47,520 --> 00:01:52,920
+Mas a medicina ortodoxa muitas vezes
+
+43
+00:01:49,640 --> 00:01:55,759
+simplesmente ignora. Então vamos começo.
+
+44
+00:01:52,920 --> 00:01:57,880
+O que diabos é a lipoproteína A? Pensa
+
+45
+00:01:55,759 --> 00:02:01,759
+comigo. Você provavelmente ouve falar do
+
+46
+00:01:57,880 --> 00:02:04,520
+LDL, o famoso colesterol ruim. A
+
+47
+00:02:01,759 --> 00:02:06,759
+lipoproteína A ou LPA, como a gente
+
+48
+00:02:04,520 --> 00:02:09,360
+chama, é como se fosse o primo malvado
+
+49
+00:02:06,759 --> 00:02:12,440
+do LDL. é uma partícula parecida com
+
+50
+00:02:09,360 --> 00:02:15,920
+LDL, mas com adicional perigoso, uma
+
+51
+00:02:12,440 --> 00:02:18,720
+proteína chamada apolipoproteína A
+
+52
+00:02:15,920 --> 00:02:21,640
+grudada nela. Então, lipoproteína é uma
+
+53
+00:02:18,720 --> 00:02:23,879
+coisa e apolipoproteína A é outra.
+
+54
+00:02:21,640 --> 00:02:26,440
+Então, a LPA na sua composição tem a
+
+55
+00:02:23,879 --> 00:02:28,440
+apolipoproteína agregada. E essa
+
+56
+00:02:26,440 --> 00:02:31,360
+proteína adicional faz toda a diferença.
+
+57
+00:02:28,440 --> 00:02:33,599
+Ela carrega fosfolipídeos oxidados que
+
+58
+00:02:31,360 --> 00:02:34,840
+promovem inflamação aterosclerose e
+
+59
+00:02:33,599 --> 00:02:38,120
+formação de coágulos. Então, é uma
+
+60
+00:02:34,840 --> 00:02:40,640
+combinação tripla mortal. E aqui está o
+
+61
+00:02:38,120 --> 00:02:42,560
+problema diferente do colesterol comum
+
+62
+00:02:40,640 --> 00:02:46,400
+que você consegue controlar com dieta,
+
+63
+00:02:42,560 --> 00:02:48,519
+exercício e medicamentos. A LPA é 70 90%
+
+64
+00:02:46,400 --> 00:02:50,959
+determinada pela genética, pelos seus
+
+65
+00:02:48,519 --> 00:02:53,440
+genes. Isso mesmo. Não adianta correr
+
+66
+00:02:50,959 --> 00:02:56,000
+maratona, comer brócolis todo dia ou
+
+67
+00:02:53,440 --> 00:02:59,519
+tomar estatina. Se você herdou genes que
+
+68
+00:02:56,000 --> 00:03:01,760
+produzem LP alta, você vai ter LP alta,
+
+69
+00:02:59,519 --> 00:03:03,640
+ponto final. E é por isso que tantos
+
+70
+00:03:01,760 --> 00:03:06,319
+pacientes ficam frustrados e muitos
+
+71
+00:03:03,640 --> 00:03:07,959
+cardiologistas também ficam, porque eles
+
+72
+00:03:06,319 --> 00:03:10,840
+não têm um remédio muito efetivo para
+
+73
+00:03:07,959 --> 00:03:13,799
+isso. Os pacientes fazem tudo certinho,
+
+74
+00:03:10,840 --> 00:03:16,640
+o LDL baixa, mas o risco cardíaco
+
+75
+00:03:13,799 --> 00:03:18,760
+persiste. Agora, quanto é considerado
+
+76
+00:03:16,640 --> 00:03:23,840
+alto? Vou te dar os números. Anota aí.
+
+77
+00:03:18,760 --> 00:03:27,440
+Abaixo de 30 mg dl ou 75 nanomoles por L
+
+78
+00:03:23,840 --> 00:03:31,400
+é considerado desejável. entre 30 e 50
+
+79
+00:03:27,440 --> 00:03:34,840
+mg dil é limítrofe, já merece atenção. E
+
+80
+00:03:31,400 --> 00:03:36,640
+acima de 50 já é elevado. Acima de 70 é
+
+81
+00:03:34,840 --> 00:03:39,480
+muito elevado e coloca você em risco
+
+82
+00:03:36,640 --> 00:03:41,720
+significativo para infarto, AVC e até
+
+83
+00:03:39,480 --> 00:03:44,680
+calcificação da válvula órtica. Se você
+
+84
+00:03:41,720 --> 00:03:47,159
+fez o exame veio em nanomoles por litro,
+
+85
+00:03:44,680 --> 00:03:50,319
+é só dividir por 2,5 para ter uma ideia
+
+86
+00:03:47,159 --> 00:03:52,280
+aproximada em miligram por dclilro. Bem,
+
+87
+00:03:50,319 --> 00:03:53,680
+tá, doutor, mas se é genético e nada
+
+88
+00:03:52,280 --> 00:03:56,519
+funciona, por que que eu deveria me
+
+89
+00:03:53,680 --> 00:03:58,079
+preocupar? Ótima pergunta. É aqui que as
+
+90
+00:03:56,519 --> 00:04:00,599
+coisas ficam interessantes. Primeiro,
+
+91
+00:03:58,079 --> 00:04:02,959
+porque existem sim algumas opções que
+
+92
+00:04:00,599 --> 00:04:05,480
+funcionam parcialmente hoje. Segundo,
+
+93
+00:04:02,959 --> 00:04:07,439
+porque estamos vivendo uma revolução.
+
+94
+00:04:05,480 --> 00:04:09,799
+Pelo menos nós pensamos que seja há
+
+95
+00:04:07,439 --> 00:04:12,400
+cinco drogas novas em fase três de
+
+96
+00:04:09,799 --> 00:04:14,480
+testes e os resultados começam a sair já
+
+97
+00:04:12,400 --> 00:04:17,680
+nesse ano de 2026. Então, estamos
+
+98
+00:04:14,480 --> 00:04:20,320
+literalmente às portas de uma nova era
+
+99
+00:04:17,680 --> 00:04:23,919
+no tratamento cardiovascular. Esperemos
+
+100
+00:04:20,320 --> 00:04:25,840
+isso. Vamos falar do que funciona hoje
+
+101
+00:04:23,919 --> 00:04:28,919
+dentro de uma abordagem que eu trabalho,
+
+102
+00:04:25,840 --> 00:04:31,320
+que é a abordagem funcional integrativa.
+
+103
+00:04:28,919 --> 00:04:34,160
+A niaacina, que é a vitamina B3, B de
+
+104
+00:04:31,320 --> 00:04:36,440
+bola 3 em doses terapêuticas, é o único
+
+105
+00:04:34,160 --> 00:04:39,400
+tratamento tradicional com evidência de
+
+106
+00:04:36,440 --> 00:04:43,160
+redução da LPA. Houve uma metaanálise
+
+107
+00:04:39,400 --> 00:04:46,520
+2025 com 147 estudos e mais de 145.000
+
+108
+00:04:43,160 --> 00:04:50,639
+pessoas que foi demonstrado a Nacina
+
+109
+00:04:46,520 --> 00:04:53,880
+reduz a LPA em média 37%. cerca de 7 mg
+
+110
+00:04:50,639 --> 00:04:56,240
+por dcl. Isso é significativo. E qual
+
+111
+00:04:53,880 --> 00:04:57,600
+que seria o problema? É o sintoma ruim
+
+112
+00:04:56,240 --> 00:05:00,000
+que muitas vezes acompanha o uso na
+
+113
+00:04:57,600 --> 00:05:02,960
+niaacina, que é o flush. É um calorão no
+
+114
+00:05:00,000 --> 00:05:05,240
+rosto que incomoda muita gente, mas
+
+115
+00:05:02,960 --> 00:05:07,759
+existe formas de liberação prolongada
+
+116
+00:05:05,240 --> 00:05:09,919
+que minimizam isso e tomar uma aspirina
+
+117
+00:05:07,759 --> 00:05:12,600
+meia hora antes também ajuda. Outro
+
+118
+00:05:09,919 --> 00:05:14,479
+suplemento promissor é licarnitina. Uma
+
+119
+00:05:12,600 --> 00:05:17,880
+metaanálise publicada na Nature
+
+120
+00:05:14,479 --> 00:05:20,440
+Scientific Reports mostrou redução média
+
+121
+00:05:17,880 --> 00:05:22,919
+de quase 9 mg dcl nos liv n livros de
+
+122
+00:05:20,440 --> 00:05:25,240
+LPA. Parece pouco, mas para quem está
+
+123
+00:05:22,919 --> 00:05:28,319
+com níveis limítrofes pode fazer a
+
+124
+00:05:25,240 --> 00:05:31,880
+diferença. A dose estudada foi de 1 a 2
+
+125
+00:05:28,319 --> 00:05:33,759
+g por dia, vi oral. A coenzima Kés
+
+126
+00:05:31,880 --> 00:05:38,479
+também aparece nos estudos com uma
+
+127
+00:05:33,759 --> 00:05:40,680
+redução modesta de cerca de 3,5 mg dl. E
+
+128
+00:05:38,479 --> 00:05:44,080
+o interessante é que ela funciona melhor
+
+129
+00:05:40,680 --> 00:05:46,400
+justamente em quem tem LPA mais elevado,
+
+130
+00:05:44,080 --> 00:05:49,039
+ou seja, quem mais precisa é quem mais
+
+131
+00:05:46,400 --> 00:05:51,000
+se beneficia. E tem um bônus, coisas
+
+132
+00:05:49,039 --> 00:05:52,960
+ajuda na função mitocondrial e
+
+133
+00:05:51,000 --> 00:05:54,680
+hidotelial, então você ganha em várias
+
+134
+00:05:52,960 --> 00:05:57,000
+frentes. A dose que eu costumo
+
+135
+00:05:54,680 --> 00:05:59,639
+recomendar é de 100 a 200 mg por dia,
+
+136
+00:05:57,000 --> 00:06:03,000
+preferencialmente na forma ubiquinol,
+
+137
+00:05:59,639 --> 00:06:05,479
+que é a forma reduzida e a forma mais
+
+138
+00:06:03,000 --> 00:06:07,240
+bem absorvida. Um ponto importante que
+
+139
+00:06:05,479 --> 00:06:08,800
+pouca a gente sabe, existe uma sinergia
+
+140
+00:06:07,240 --> 00:06:10,319
+interessante quando você combina esses
+
+141
+00:06:08,800 --> 00:06:12,639
+suplementos.
+
+142
+00:06:10,319 --> 00:06:14,560
+Um estudo com pacientes hemodiálise
+
+143
+00:06:12,639 --> 00:06:17,280
+mostrou que a combinação de carnitina
+
+144
+00:06:14,560 --> 00:06:20,199
+com cozema Q10 teve efeito superior ao
+
+145
+00:06:17,280 --> 00:06:22,919
+uso isolado. É a velha história. Na
+
+146
+00:06:20,199 --> 00:06:25,199
+bioquímica raramente uma substância
+
+147
+00:06:22,919 --> 00:06:29,160
+trabalha sozinha. Agora, se você está em
+
+148
+00:06:25,199 --> 00:06:31,560
+risco alto, os inibidores de PCSK9,
+
+149
+00:06:29,160 --> 00:06:34,599
+como Evolvolocumab
+
+150
+00:06:31,560 --> 00:06:37,240
+e o Alirocumabem
+
+151
+00:06:34,599 --> 00:06:38,800
+a LPA em cerca de 27%.
+
+152
+00:06:37,240 --> 00:06:41,400
+Não é uma redução dramática, mas
+
+153
+00:06:38,800 --> 00:06:44,720
+combinada com a redução brutal que fazem
+
+154
+00:06:41,400 --> 00:06:46,639
+no LDL, pode ser uma ferramenta valiosa
+
+155
+00:06:44,720 --> 00:06:48,599
+para alguns pacientes selecionados. Mas
+
+156
+00:06:46,639 --> 00:06:51,440
+vamos comentar sobre as novas drogas.
+
+157
+00:06:48,599 --> 00:06:53,599
+temos cinco em desenvolvimento avançado
+
+158
+00:06:51,440 --> 00:06:56,240
+e os resultados aparentemente são
+
+159
+00:06:53,599 --> 00:07:00,039
+impressionantes se não houver pegadinhas
+
+160
+00:06:56,240 --> 00:07:02,280
+escondidas aí o pela carc da Novartes é
+
+161
+00:07:00,039 --> 00:07:06,280
+o mais avançado. É uma injeção mensal
+
+162
+00:07:02,280 --> 00:07:08,720
+reduz LPA em até 92%. O estudo LPA
+
+163
+00:07:06,280 --> 00:07:10,360
+horizon acompanha mais de 8.000
+
+164
+00:07:08,720 --> 00:07:15,199
+pacientes com doença cardiovascular
+
+165
+00:07:10,360 --> 00:07:17,520
+estabelecida e LP acima de 70 mg dcl. Os
+
+166
+00:07:15,199 --> 00:07:20,560
+resultados desfechos cardiovasculares
+
+167
+00:07:17,520 --> 00:07:22,199
+devem sair no primeiro semestre de 2026.
+
+168
+00:07:20,560 --> 00:07:25,160
+Esse vai ser o primeiro estudo da
+
+169
+00:07:22,199 --> 00:07:27,960
+história nos dizer definitivamente se
+
+170
+00:07:25,160 --> 00:07:30,319
+reduzir o LPA realmente vai prevenir
+
+171
+00:07:27,960 --> 00:07:34,280
+infartos. E é o marco, estamos todos de
+
+172
+00:07:30,319 --> 00:07:36,599
+olho. O Opaciran da AMGEN é uma injeção
+
+173
+00:07:34,280 --> 00:07:38,919
+a cada 12 semanas que reduz LPA em mais
+
+174
+00:07:36,599 --> 00:07:41,000
+de 95%.
+
+175
+00:07:38,919 --> 00:07:45,479
+Resultados são esperados para ano que
+
+176
+00:07:41,000 --> 00:07:47,400
+vem, 2027. O lepodisiranda erilili é
+
+177
+00:07:45,479 --> 00:07:50,800
+ainda mais impressionante, uma injeção
+
+178
+00:07:47,400 --> 00:07:52,919
+semestral que reduzpa em 97%.
+
+179
+00:07:50,800 --> 00:07:55,520
+O estudo acompanha quase 17.000
+
+180
+00:07:52,919 --> 00:07:57,599
+pacientes. É o maior estudo de LPA já
+
+181
+00:07:55,520 --> 00:08:00,400
+realizado com resultados previstos para
+
+182
+00:07:57,599 --> 00:08:01,919
+2029. E aí que vem a grande surpresa, o
+
+183
+00:08:00,400 --> 00:08:03,639
+MVLAPLIM
+
+184
+00:08:01,919 --> 00:08:06,080
+também da Elil Lili, que é um
+
+185
+00:08:03,639 --> 00:08:09,560
+comprimido, um tratamento oral.
+
+186
+00:08:06,080 --> 00:08:12,199
+Finalmente, nada de injeções, nada de ir
+
+187
+00:08:09,560 --> 00:08:14,599
+ao hospital para tomar esses remédios
+
+188
+00:08:12,199 --> 00:08:16,560
+que provavelmente vão ser caríssimos. Um
+
+189
+00:08:14,599 --> 00:08:19,440
+comprimido por dia e pronto, reduz LPA
+
+190
+00:08:16,560 --> 00:08:21,960
+em até 86% com efeito visível já nas
+
+191
+00:08:19,440 --> 00:08:25,879
+primeiras 24 horas. O estudo Kraken
+
+192
+00:08:21,960 --> 00:08:28,240
+mostrou que 97% dos pacientes atingiram
+
+193
+00:08:25,879 --> 00:08:30,360
+níveis adequados de LPA. O estudo de
+
+194
+00:08:28,240 --> 00:08:32,360
+fase três com mais de 10.000 pacientes
+
+195
+00:08:30,360 --> 00:08:35,120
+está em andamento com resultados
+
+196
+00:08:32,360 --> 00:08:38,399
+esperados para 2031. Mas olha, se o
+
+197
+00:08:35,120 --> 00:08:41,320
+Pelacarcen ou Opaziran mostrarem
+
+198
+00:08:38,399 --> 00:08:44,640
+benefício nos estudos de 26 e 27, a
+
+199
+00:08:41,320 --> 00:08:46,839
+aprovação de todas essas drogas deve ser
+
+200
+00:08:44,640 --> 00:08:48,760
+acelerada. Então o que que você faz
+
+201
+00:08:46,839 --> 00:08:51,560
+enquanto essas drogas não chegam ao
+
+202
+00:08:48,760 --> 00:08:54,760
+mercado? Primeiro faça o exame, peça ao
+
+203
+00:08:51,560 --> 00:08:57,320
+médico para medir a lipoproteína A. Se
+
+204
+00:08:54,760 --> 00:08:59,480
+ele não conhecer, troque de médico.
+
+205
+00:08:57,320 --> 00:09:02,079
+Brincadeira, não tô brincando, mas não
+
+206
+00:08:59,480 --> 00:09:04,079
+muito, né? Segundo, se estiver elevada,
+
+207
+00:09:02,079 --> 00:09:07,480
+otimize todos os outros fatores de
+
+208
+00:09:04,079 --> 00:09:10,000
+risco. Baixe o LDL ao máximo, controle a
+
+209
+00:09:07,480 --> 00:09:12,320
+pressão, controle a glicemia. Terceiro,
+
+210
+00:09:10,000 --> 00:09:14,800
+converse sobre niacina, pode ser
+
+211
+00:09:12,320 --> 00:09:17,440
+niaacina de liberação lenta também para
+
+212
+00:09:14,800 --> 00:09:20,519
+não dar o flush. E suplementação com com
+
+213
+00:09:17,440 --> 00:09:24,519
+enzima Q10 e el cararnitina. Quarto,
+
+214
+00:09:20,519 --> 00:09:26,040
+considere os inibidores de PCSK9
+
+215
+00:09:24,519 --> 00:09:28,600
+se você se encaixar num perfil de
+
+216
+00:09:26,040 --> 00:09:31,200
+altíssimo risco. E quinto, fique de
+
+217
+00:09:28,600 --> 00:09:34,360
+olho, já estamos em 2026 e pode ser esse
+
+218
+00:09:31,200 --> 00:09:36,320
+o ano que muda tudo na cardiologia. Se
+
+219
+00:09:34,360 --> 00:09:38,560
+não der, grandes efeitos colaterais.
+
+220
+00:09:36,320 --> 00:09:39,920
+Vamos torcer para que não haja. Saia do
+
+221
+00:09:38,560 --> 00:09:41,800
+vídeo agora. Se você gosta de ficar no
+
+222
+00:09:39,920 --> 00:09:43,920
+superficial, eu vou contar uma verdade
+
+223
+00:09:41,800 --> 00:09:46,440
+conveniente. A plataforma aqui e o
+
+224
+00:09:43,920 --> 00:09:48,600
+conselho me limitam. Aqui eu preciso
+
+225
+00:09:46,440 --> 00:09:50,959
+simplificar, censurar dosagem, omitir
+
+226
+00:09:48,600 --> 00:09:52,519
+protocolos controversos. Sobre a LPA,
+
+227
+00:09:50,959 --> 00:09:54,519
+por exemplo, não posso falar abertamente
+
+228
+00:09:52,519 --> 00:09:56,720
+sobre as dosagens exatas de linhacina
+
+229
+00:09:54,519 --> 00:09:58,560
+que eu uso na clínica, as combinações
+
+230
+00:09:56,720 --> 00:10:00,240
+específicas de suplementos e os
+
+231
+00:09:58,560 --> 00:10:02,360
+fenótipos genéticos que respondem
+
+232
+00:10:00,240 --> 00:10:04,399
+melhor. Na comunidade fechada não tem
+
+233
+00:10:02,360 --> 00:10:06,480
+esse filtro. Eu compartilho os
+
+234
+00:10:04,399 --> 00:10:08,959
+protocolos que eu uso na minha clínica,
+
+235
+00:10:06,480 --> 00:10:11,079
+incluindo o protocolo completo para LPA.
+
+236
+00:10:08,959 --> 00:10:13,279
+com dosais precisas, fornecedores
+
+237
+00:10:11,079 --> 00:10:14,959
+confiáveis e monitoramento adequado.
+
+238
+00:10:13,279 --> 00:10:16,720
+Também falamos de casos de reversão que
+
+239
+00:10:14,959 --> 00:10:19,399
+pareciam impossíveis, combinações ao
+
+240
+00:10:16,720 --> 00:10:21,079
+fabb que funcionam, interpretação vçada
+
+241
+00:10:19,399 --> 00:10:22,800
+de exames. Então é basicamente ter
+
+242
+00:10:21,079 --> 00:10:25,399
+acesso ao meu cérebro médico sem
+
+243
+00:10:22,800 --> 00:10:28,360
+intermediários em lives semanais em que
+
+244
+00:10:25,399 --> 00:10:30,360
+respondemos perguntas, PDF com 47
+
+245
+00:10:28,360 --> 00:10:32,120
+protocolos exclusivos e um grupo
+
+246
+00:10:30,360 --> 00:10:34,000
+maravilhoso no WhatsApp com pessoas
+
+247
+00:10:32,120 --> 00:10:36,279
+fantásticas. Se você quer a visão
+
+248
+00:10:34,000 --> 00:10:38,560
+funcional real, sem simplificação para
+
+249
+00:10:36,279 --> 00:10:40,519
+massas, clique, seja membro. Não é para
+
+250
+00:10:38,560 --> 00:10:42,480
+curiosos, é para quem quer resultados.
+
+251
+00:10:40,519 --> 00:10:44,519
+Agora, se você quer ainda mais fundo,
+
+252
+00:10:42,480 --> 00:10:47,680
+existe o nível dois. Cada duas semanas
+
+253
+00:10:44,519 --> 00:10:49,760
+temos lives de imersão total com até 2
+
+254
+00:10:47,680 --> 00:10:52,440
+horas de duração, desse artigo
+
+255
+00:10:49,760 --> 00:10:54,320
+científico linha por linha, como os
+
+256
+00:10:52,440 --> 00:10:56,040
+últimos estudos sobre terapias genéticas
+
+257
+00:10:54,320 --> 00:10:58,240
+para lipar, que a maioria dos médicos
+
+258
+00:10:56,040 --> 00:11:00,360
+ainda não conhece, ouviu falar.
+
+259
+00:10:58,240 --> 00:11:02,639
+Debatemos controvérsias que ninguém usou
+
+260
+00:11:00,360 --> 00:11:04,120
+tocar, revelamos os bastidores das
+
+261
+00:11:02,639 --> 00:11:05,880
+pesquisas que a indústria não quer que
+
+262
+00:11:04,120 --> 00:11:08,040
+você entenda. E tem mais, seu nome será
+
+263
+00:11:05,880 --> 00:11:10,360
+mencionado nos vídeos. No final, como
+
+264
+00:11:08,040 --> 00:11:11,959
+agradecimento, você torna parte visível
+
+265
+00:11:10,360 --> 00:11:14,000
+dessa comunidade de elite que está
+
+266
+00:11:11,959 --> 00:11:16,639
+reescrevendo as regras da medicina.
+
+267
+00:11:14,000 --> 00:11:18,480
+Enquanto a maioria assiste passivamente,
+
+268
+00:11:16,639 --> 00:11:19,959
+você estará ao meu lado construindo
+
+269
+00:11:18,480 --> 00:11:21,600
+conhecimento de verdade, tendo o seu
+
+270
+00:11:19,959 --> 00:11:23,760
+reconhecimento público como alguém que
+
+271
+00:11:21,600 --> 00:11:27,000
+investe no que realmente importa. E não
+
+272
+00:11:23,760 --> 00:11:28,800
+é só sobre aprender, é sobre pertencer
+
+273
+00:11:27,000 --> 00:11:31,200
+ao círculo interno de quem está mudando
+
+274
+00:11:28,800 --> 00:11:33,480
+o jogo. Poucos têm essa coragem. Será
+
+275
+00:11:31,200 --> 00:11:36,000
+que você tem? Já que estamos falando de
+
+276
+00:11:33,480 --> 00:11:37,839
+risco cardíaco e artérias, você precisa
+
+277
+00:11:36,000 --> 00:11:39,399
+conhecer os oito alimentos que danificam
+
+278
+00:11:37,839 --> 00:11:41,160
+suas artérias. Assista esse vídeo aqui
+
+279
+00:11:39,399 --> 00:11:43,000
+que vai complementar perfeitamente o que
+
+280
+00:11:41,160 --> 00:11:45,560
+você aprendeu hoje sobre como proteger o
+
+281
+00:11:43,000 --> 00:11:47,720
+seu coração. Agradecimentos especiais
+
+282
+00:11:45,560 --> 00:11:49,519
+aos nossos membros queridos dos estudos
+
+283
+00:11:47,720 --> 00:11:51,680
+avançados na comunidade fechada do
+
+284
+00:11:49,519 --> 00:11:53,720
+YouTube. Começando pelos novos membros
+
+285
+00:11:51,680 --> 00:11:56,519
+que entraram recentemente, Coruja
+
+286
+00:11:53,720 --> 00:12:00,360
+Curiosa, Walter Salgado, Luciano Silva
+
+287
+00:11:56,519 --> 00:12:02,519
+Polinelli, Luciano Elias, Carlos Rovi,
+
+288
+00:12:00,360 --> 00:12:04,680
+Odonor Pinheiro, Cíntia de Assis
+
+289
+00:12:02,519 --> 00:12:07,320
+Oliveira, Jorge Cabral e Fernando
+
+290
+00:12:04,680 --> 00:12:09,279
+Machado. Sejam muito, muito bem-vindos.
+
+291
+00:12:07,320 --> 00:12:11,800
+Agradeço também aos membros que fizeram
+
+292
+00:12:09,279 --> 00:12:15,800
+upgrade pros estudos avançados. Coruja
+
+293
+00:12:11,800 --> 00:12:18,160
+Curiosa, Irma LC, Iana Medicina,
+
+294
+00:12:15,800 --> 00:12:20,760
+Adriane BMS, Dr. Ana Paula Rodrigues,
+
+295
+00:12:18,160 --> 00:12:23,360
+José Fortunato Murtinho, Sou Jucioli,
+
+296
+00:12:20,760 --> 00:12:26,079
+Cristina Carol, Romana Moraril, Estela
+
+297
+00:12:23,360 --> 00:12:28,360
+Mari Silva, Elô Terapias Integrativas e
+
+298
+00:12:26,079 --> 00:12:29,760
+Luís Anselmo Neves. Obrigado pela
+
+299
+00:12:28,360 --> 00:12:31,959
+confiança e elevar o nível de
+
+300
+00:12:29,760 --> 00:12:33,680
+participação. Um abraço especial aos
+
+301
+00:12:31,959 --> 00:12:36,279
+membros que retornaram à comunidade,
+
+302
+00:12:33,680 --> 00:12:38,160
+Alex Caldas, Marcelo Pimentel e Cláudio
+
+303
+00:12:36,279 --> 00:12:39,880
+Leitão. Que bom ter vocês de volta. Eu
+
+304
+00:12:38,160 --> 00:12:42,360
+quero fazer um reconhecimento especial
+
+305
+00:12:39,880 --> 00:12:45,480
+aos membros mais fiéis. Estela Mares com
+
+306
+00:12:42,360 --> 00:12:49,399
+57 meses de fidelidade, Dra. Ana Paula
+
+307
+00:12:45,480 --> 00:12:52,320
+com 45 meses, Marcelo Pimentel com 23 e
+
+308
+00:12:49,399 --> 00:12:54,160
+Elô Terapia Integrativas com 9 meses de
+
+309
+00:12:52,320 --> 00:12:55,519
+história conosco. A todos vocês eu
+
+310
+00:12:54,160 --> 00:12:58,320
+agradeço de coração pelo apoio
+
+311
+00:12:55,519 --> 00:13:00,720
+prestrado. Vocês fazem diferença nessa
+
+312
+00:12:58,320 --> 00:13:00,720
+comunidade.
+

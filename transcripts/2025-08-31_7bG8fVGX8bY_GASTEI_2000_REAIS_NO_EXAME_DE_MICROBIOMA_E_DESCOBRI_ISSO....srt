@@ -1,0 +1,892 @@
+1
+00:00:00,000 --> 00:00:03,800
+Olá, pessoal, tudo bem? Hoje eu vou
+
+2
+00:00:02,440 --> 00:00:06,319
+responder uma pergunta que eu recebi
+
+3
+00:00:03,800 --> 00:00:07,720
+aqui no Instagram. Doutor, vale a pena
+
+4
+00:00:06,319 --> 00:00:10,000
+fazer esse exame de microbiota
+
+5
+00:00:07,720 --> 00:00:12,160
+intestinal? E olha, a resposta não é
+
+6
+00:00:10,000 --> 00:00:13,960
+simples como sim ou não. Eu vou contar
+
+7
+00:00:12,160 --> 00:00:16,359
+para vocês o caso real de uma paciente
+
+8
+00:00:13,960 --> 00:00:18,920
+minha. Vamos chamá-la de Maria para
+
+9
+00:00:16,359 --> 00:00:20,920
+mostrar quando faz sentido e quando é
+
+10
+00:00:18,920 --> 00:00:22,680
+jogar dinheiro fora. Primeiro vamos
+
+11
+00:00:20,920 --> 00:00:24,519
+falar de grana, porque esse exame não é
+
+12
+00:00:22,680 --> 00:00:27,400
+barato. No Brasil você vai desembolsar
+
+13
+00:00:24,519 --> 00:00:29,720
+entre 2 e R$ 4.000. É isso mesmo que
+
+14
+00:00:27,400 --> 00:00:32,279
+você ouviu. Dá para comprar até um
+
+15
+00:00:29,720 --> 00:00:34,600
+celular. Então a pergunta é: vale esse
+
+16
+00:00:32,279 --> 00:00:37,040
+investimento? Bom, deixa eu te contar
+
+17
+00:00:34,600 --> 00:00:39,120
+uma verdade que muita gente não sabe. A
+
+18
+00:00:37,040 --> 00:00:41,600
+grande maioria dos testes microbioma
+
+19
+00:00:39,120 --> 00:00:44,559
+disponíveis hoje utilizam diferentes
+
+20
+00:00:41,600 --> 00:00:47,360
+técnicas e focam em taxonomia. A maioria
+
+21
+00:00:44,559 --> 00:00:49,520
+fornece pouca informação para propósitos
+
+22
+00:00:47,360 --> 00:00:51,320
+diagnósticos ou prognósticos. É como
+
+23
+00:00:49,520 --> 00:00:54,160
+tirar uma foto do seu intestino sem
+
+24
+00:00:51,320 --> 00:00:56,160
+saber interpretar o que está vendo.
+
+25
+00:00:54,160 --> 00:00:58,960
+Atualmente não existe um microbioma
+
+26
+00:00:56,160 --> 00:01:01,320
+intestinal saudável ou normal,
+
+27
+00:00:58,960 --> 00:01:03,239
+definitivo, que possa prever
+
+28
+00:01:01,320 --> 00:01:04,479
+confiavelmente se uma pessoa vai
+
+29
+00:01:03,239 --> 00:01:06,159
+desenvolver ou não uma doença
+
+30
+00:01:04,479 --> 00:01:08,560
+específica. Cada pessoa tem um
+
+31
+00:01:06,159 --> 00:01:10,400
+microbioma único, tipo uma impressão
+
+32
+00:01:08,560 --> 00:01:13,400
+digital intestinal. O que é normal para
+
+33
+00:01:10,400 --> 00:01:15,520
+você pode ser anormal para mim. Agora
+
+34
+00:01:13,400 --> 00:01:18,000
+vem o caso da Maria que ilustra
+
+35
+00:01:15,520 --> 00:01:20,119
+perfeitamente quando o exame pode valer
+
+36
+00:01:18,000 --> 00:01:22,040
+a pena. Ela chegou no meu consultório
+
+37
+00:01:20,119 --> 00:01:24,640
+depois de anos sofrendo com sintomas
+
+38
+00:01:22,040 --> 00:01:26,920
+intestinais, já tinha tentado de tudo,
+
+39
+00:01:24,640 --> 00:01:28,840
+dietas, probióticos, remédios, nada
+
+40
+00:01:26,920 --> 00:01:30,720
+resolvia. Gastou uma fortuna em
+
+41
+00:01:28,840 --> 00:01:32,360
+tratamentos que não funcionavam porque
+
+42
+00:01:30,720 --> 00:01:35,920
+ninguém sabia exatamente qual era o
+
+43
+00:01:32,360 --> 00:01:38,720
+problema. Quando fizemos o gim dela,
+
+44
+00:01:35,920 --> 00:01:41,399
+descobrimos coisas que jamais teríamos
+
+45
+00:01:38,720 --> 00:01:44,560
+descoberto com exames convencionais. A
+
+46
+00:01:41,399 --> 00:01:47,560
+querermância homocenifila estava zerada,
+
+47
+00:01:44,560 --> 00:01:49,960
+a fecalobactérium praites quase
+
+48
+00:01:47,560 --> 00:01:51,920
+inexistente, peptídeo de glúten
+
+49
+00:01:49,960 --> 00:01:54,680
+altíssimo, mesmo ela jurando que não
+
+50
+00:01:51,920 --> 00:01:57,159
+comia glúten, era aveia sem glúten que
+
+51
+00:01:54,680 --> 00:02:00,000
+ela comia todo dia causando problema.
+
+52
+00:01:57,159 --> 00:02:01,759
+Mas aqui vem um grande problema. Nenhum
+
+53
+00:02:00,000 --> 00:02:03,799
+dos testes de microbioma foi
+
+54
+00:02:01,759 --> 00:02:06,240
+completamente validado para sua
+
+55
+00:02:03,799 --> 00:02:09,759
+utilidade em avaliar a saúde intestinal
+
+56
+00:02:06,240 --> 00:02:11,840
+geral. Nenhum é aprovado pela FDA. Nos
+
+57
+00:02:09,759 --> 00:02:15,599
+Estados Unidos, uma das agências mais
+
+58
+00:02:11,840 --> 00:02:18,640
+reguladas do mundo, esse exames não tem
+
+59
+00:02:15,599 --> 00:02:20,599
+aprovação oficial para diagnósticos.
+
+60
+00:02:18,640 --> 00:02:22,840
+Um consenso internacional recente,
+
+61
+00:02:20,599 --> 00:02:25,239
+envolvendo cientistas destacou que
+
+62
+00:02:22,840 --> 00:02:27,920
+laboratórios que comercializavam teste
+
+63
+00:02:25,239 --> 00:02:30,720
+de microbioma devem aderir a padrões de
+
+64
+00:02:27,920 --> 00:02:32,840
+alta qualidade e clientes devem estar
+
+65
+00:02:30,720 --> 00:02:34,959
+cientes da evidência atualmente limitada
+
+66
+00:02:32,840 --> 00:02:36,480
+para esses testes. Ou seja, até os
+
+67
+00:02:34,959 --> 00:02:38,640
+especialistas concordam que ainda
+
+68
+00:02:36,480 --> 00:02:41,000
+estamos engatinhando nessa área. Sabe o
+
+69
+00:02:38,640 --> 00:02:43,239
+que mais complica? Estudos mostram que
+
+70
+00:02:41,000 --> 00:02:45,040
+os nossos microbiomas podem mudar todos
+
+71
+00:02:43,239 --> 00:02:46,800
+os dias baseados nos alimentos que
+
+72
+00:02:45,040 --> 00:02:49,239
+comemos e vários outros fatores de
+
+73
+00:02:46,800 --> 00:02:51,720
+estilo de vida, incluindo exercício e
+
+74
+00:02:49,239 --> 00:02:54,440
+estresse. É como tirar uma foto de uma
+
+75
+00:02:51,720 --> 00:02:57,480
+festa, cada momento é diferente. O exame
+
+76
+00:02:54,440 --> 00:03:00,080
+que você faz hoje pode não refletir como
+
+77
+00:02:57,480 --> 00:03:02,239
+estava o seu intestino semana passada ou
+
+78
+00:03:00,080 --> 00:03:05,000
+como estará a semana que vem. Porém, no
+
+79
+00:03:02,239 --> 00:03:07,599
+caso da Maria, o exame valeu cada
+
+80
+00:03:05,000 --> 00:03:10,000
+centavo. Por quê? Ela já tinha tentado
+
+81
+00:03:07,599 --> 00:03:12,720
+tudo sem sucesso, tinha sintomas
+
+82
+00:03:10,000 --> 00:03:14,640
+crônicos há anos. Eu sabia interpretar
+
+83
+00:03:12,720 --> 00:03:17,319
+os resultados. Criamos um protocolo
+
+84
+00:03:14,640 --> 00:03:19,480
+específico baseado nos achados e não foi
+
+85
+00:03:17,319 --> 00:03:22,239
+um tiro no escuro, foi uma investigação
+
+86
+00:03:19,480 --> 00:03:24,640
+direcionada. Mas veja bem, se você tem
+
+87
+00:03:22,239 --> 00:03:26,799
+uma dorzinha de barriga de vez em quando
+
+88
+00:03:24,640 --> 00:03:29,239
+come mal e quer fazer o exame para ver
+
+89
+00:03:26,799 --> 00:03:31,799
+como está o intestino, geralmente nesses
+
+90
+00:03:29,239 --> 00:03:34,480
+casos não vale a pena. No momento atual
+
+91
+00:03:31,799 --> 00:03:36,599
+não parece haver evidência suficiente
+
+92
+00:03:34,480 --> 00:03:38,560
+para recomendar esses testes de rotina
+
+93
+00:03:36,599 --> 00:03:41,120
+paraa manutenção rotineira da saúde.
+
+94
+00:03:38,560 --> 00:03:42,959
+Então o Consenso Internacional de 2025
+
+95
+00:03:41,120 --> 00:03:45,360
+recomenda que a prescrição de um teste
+
+96
+00:03:42,959 --> 00:03:47,360
+microbioma deve ser feito por um
+
+97
+00:03:45,360 --> 00:03:50,200
+profissional de saúde licenciado,
+
+98
+00:03:47,360 --> 00:03:52,400
+médicos, farmacêuticos e nutricionistas,
+
+99
+00:03:50,200 --> 00:03:56,439
+mas não personal trainers, coaches,
+
+100
+00:03:52,400 --> 00:03:58,720
+homeopatas ou terapeutas nutricionais.
+
+101
+00:03:56,439 --> 00:04:00,879
+A autoprescrição por pacientes é
+
+102
+00:03:58,720 --> 00:04:03,840
+desencorajada. Então, outro detalhe
+
+103
+00:04:00,879 --> 00:04:06,159
+importante, muita gente faz o exame e
+
+104
+00:04:03,840 --> 00:04:08,480
+não sabe o que fazer com o resultado. É
+
+105
+00:04:06,159 --> 00:04:10,159
+como comprar um carro de fórmula um e
+
+106
+00:04:08,480 --> 00:04:12,720
+não saber dirigir. Então, como
+
+107
+00:04:10,159 --> 00:04:15,360
+microbiomas são altamente variáveis,
+
+108
+00:04:12,720 --> 00:04:17,560
+mesmo os normais e saudáveis, isso torna
+
+109
+00:04:15,360 --> 00:04:19,880
+incrivelmente desafiador definir os
+
+110
+00:04:17,560 --> 00:04:22,160
+padrões ou assinaturas que sugerem que o
+
+111
+00:04:19,880 --> 00:04:23,639
+microbioma se tornou desequilibrado.
+
+112
+00:04:22,160 --> 00:04:26,080
+Então a Maria, por exemplo, ela tinha
+
+113
+00:04:23,639 --> 00:04:28,280
+butirato normal no exame, mas era porque
+
+114
+00:04:26,080 --> 00:04:29,720
+ela estava tomando tributirina. Sem
+
+115
+00:04:28,280 --> 00:04:32,080
+saber interpretar isso, qualquer
+
+116
+00:04:29,720 --> 00:04:33,800
+profissional diria que estava tudo bem,
+
+117
+00:04:32,080 --> 00:04:36,000
+mas na verdade era uma máscara. o
+
+118
+00:04:33,800 --> 00:04:38,520
+intestino dela não estava provavelmente
+
+119
+00:04:36,000 --> 00:04:40,720
+produzindo botirato naturalmente. Agora,
+
+120
+00:04:38,520 --> 00:04:42,840
+quando o exame pode valer a pena, eu vou
+
+121
+00:04:40,720 --> 00:04:45,120
+ser bem claro. Se você tem doença
+
+122
+00:04:42,840 --> 00:04:47,600
+inflamatória intestinal diagnosticada
+
+123
+00:04:45,120 --> 00:04:50,000
+como doença de crom, retocolito serativa
+
+124
+00:04:47,600 --> 00:04:51,479
+ou síndrome intestino irritável e os
+
+125
+00:04:50,000 --> 00:04:53,520
+tratamentos convencionais não estão
+
+126
+00:04:51,479 --> 00:04:55,880
+funcionando. Isso vai ajudar a
+
+127
+00:04:53,520 --> 00:04:58,080
+personalizar o tratamento. Se você tem
+
+128
+00:04:55,880 --> 00:05:00,360
+sintomas gastrointestinais crônicos há
+
+129
+00:04:58,080 --> 00:05:03,080
+anos, já tentou múltiplos tratamentos,
+
+130
+00:05:00,360 --> 00:05:05,160
+não teve sucesso e o médico esgotou as
+
+131
+00:05:03,080 --> 00:05:07,520
+opções convencionais, seria ótima
+
+132
+00:05:05,160 --> 00:05:09,880
+indicação para esses exames. Se você tem
+
+133
+00:05:07,520 --> 00:05:12,720
+doenças autoimunes, problemas de pele
+
+134
+00:05:09,880 --> 00:05:15,280
+crônicos ligado ao intestino ou cílio do
+
+135
+00:05:12,720 --> 00:05:17,479
+intestino irritável, severa que não
+
+136
+00:05:15,280 --> 00:05:19,120
+responde a tratamentos. Se você vai
+
+137
+00:05:17,479 --> 00:05:21,440
+fazer o exame com profissional que
+
+138
+00:05:19,120 --> 00:05:23,560
+realmente entende microbioma e medicina
+
+139
+00:05:21,440 --> 00:05:25,440
+funcional, não adianta fazer, levar pro
+
+140
+00:05:23,560 --> 00:05:27,800
+médico que vai olhar e dizer
+
+141
+00:05:25,440 --> 00:05:29,960
+interessante e não saber o que fazer.
+
+142
+00:05:27,800 --> 00:05:32,560
+Quando não vale a pena. Então vamos ser
+
+143
+00:05:29,960 --> 00:05:35,600
+sinceros aqui. Se você quer fazer por
+
+144
+00:05:32,560 --> 00:05:37,400
+curiosidade, guarde os seus 3 a R$
+
+145
+00:05:35,600 --> 00:05:39,479
+4.000.
+
+146
+00:05:37,400 --> 00:05:41,720
+Se você tem sintomas leves, ainda não
+
+147
+00:05:39,479 --> 00:05:44,000
+tentou fazer o básico, né, de estilo de
+
+148
+00:05:41,720 --> 00:05:47,120
+vida, melhorar alimentação, reduzir
+
+149
+00:05:44,000 --> 00:05:50,000
+estress, dormir melhor, fazer exercício,
+
+150
+00:05:47,120 --> 00:05:52,639
+seria o mau investimento. Você acha que
+
+151
+00:05:50,000 --> 00:05:54,520
+o exame vai dar uma resposta mágica, né?
+
+152
+00:05:52,639 --> 00:05:56,960
+Mas para pessoas buscando respostas
+
+153
+00:05:54,520 --> 00:05:59,199
+hoje, a maior parte do microbioma ainda
+
+154
+00:05:56,960 --> 00:06:01,720
+é território inexplorado e tem valor
+
+155
+00:05:59,199 --> 00:06:04,160
+clínico limitado para ajudar pacientes
+
+156
+00:06:01,720 --> 00:06:06,599
+individuais. você não tem acompanhamento
+
+157
+00:06:04,160 --> 00:06:08,880
+profissional adequado, nesse caso, não é
+
+158
+00:06:06,599 --> 00:06:11,039
+bom fazer o exame. Fazer o exame sozinho
+
+159
+00:06:08,880 --> 00:06:13,639
+e tentar interpretar pelo Google vai ser
+
+160
+00:06:11,039 --> 00:06:15,720
+jogar dinheiro fora. Sabe qual é a
+
+161
+00:06:13,639 --> 00:06:18,039
+melhor forma de cuidar do seu microbioma
+
+162
+00:06:15,720 --> 00:06:21,000
+sem gastar uma fortuna? A melhor maneira
+
+163
+00:06:18,039 --> 00:06:23,199
+de apoiar o seu microbioma por enquanto,
+
+164
+00:06:21,000 --> 00:06:25,919
+seria você se alimentar com grande
+
+165
+00:06:23,199 --> 00:06:27,479
+variedade de plantas. Tente comer 30
+
+166
+00:06:25,919 --> 00:06:30,080
+plantas diferentes por semana. Uma
+
+167
+00:06:27,479 --> 00:06:32,720
+variedade de frutas, vegetais, legumes,
+
+168
+00:06:30,080 --> 00:06:35,680
+nozes, sementes, grãos integrais. ervas
+
+169
+00:06:32,720 --> 00:06:37,880
+especiarias. Isso funciona muito bem
+
+170
+00:06:35,680 --> 00:06:40,880
+para todo mundo e não precisa fazer
+
+171
+00:06:37,880 --> 00:06:42,880
+exame. No caso da Maria foi importante,
+
+172
+00:06:40,880 --> 00:06:44,880
+mostra que quando bem indicado,
+
+173
+00:06:42,880 --> 00:06:46,800
+interpretado, o exame pode mudar uma
+
+174
+00:06:44,880 --> 00:06:48,919
+vida. Então, identificamos problemas que
+
+175
+00:06:46,800 --> 00:06:51,000
+nunca teríamos achado de outra forma,
+
+176
+00:06:48,919 --> 00:06:53,720
+mas ela é exceção, não é a regra.
+
+177
+00:06:51,000 --> 00:06:56,319
+Pesquisadores prevêm um futuro onde
+
+178
+00:06:53,720 --> 00:06:58,800
+teste microbioma levem a ferramentas
+
+179
+00:06:56,319 --> 00:07:01,400
+analíticas preditivas que não sejam
+
+180
+00:06:58,800 --> 00:07:03,960
+redutíveis a ensaios simples, de forma
+
+181
+00:07:01,400 --> 00:07:06,400
+que o sequenciamento de nova geração com
+
+182
+00:07:03,960 --> 00:07:08,479
+computação avançada será cada vez mais
+
+183
+00:07:06,400 --> 00:07:10,759
+usado no laboratório de microbiologia
+
+184
+00:07:08,479 --> 00:07:13,000
+clínica, mas infelizmente esse futuro
+
+185
+00:07:10,759 --> 00:07:16,960
+ainda não chegou. O meu conselho final,
+
+186
+00:07:13,000 --> 00:07:19,440
+se você tem 3 a R$ 4.000 para investir
+
+187
+00:07:16,960 --> 00:07:21,720
+na sua saúde intestinal, comece pelo
+
+188
+00:07:19,440 --> 00:07:24,120
+básico. Compre comida de verdade,
+
+189
+00:07:21,720 --> 00:07:25,960
+orgânica, se for possível. Invista numa
+
+190
+00:07:24,120 --> 00:07:28,400
+consulta com médico funcional,
+
+191
+00:07:25,960 --> 00:07:30,919
+nutricionista funcional. Faça terapia
+
+192
+00:07:28,400 --> 00:07:33,080
+para reduzir o estress, melhore o sono,
+
+193
+00:07:30,919 --> 00:07:35,240
+tudo isso junto, não dá R$ 4.000, vai
+
+194
+00:07:33,080 --> 00:07:37,759
+fazer muito mais pelo seu intestino do
+
+195
+00:07:35,240 --> 00:07:40,039
+que o exame isolado. Agora, se você como
+
+196
+00:07:37,759 --> 00:07:42,000
+Maria tem sintomas prolongados,
+
+197
+00:07:40,039 --> 00:07:43,960
+crônicos, já tentou de tudo, tem um
+
+198
+00:07:42,000 --> 00:07:45,560
+profissional qualificado acompanhando,
+
+199
+00:07:43,960 --> 00:07:47,919
+aí sim pode ser um investimento que vai
+
+200
+00:07:45,560 --> 00:07:50,800
+mudar a sua vida. Mas seja realista.
+
+201
+00:07:47,919 --> 00:07:52,800
+Para 70% das pessoas que me perguntam, a
+
+202
+00:07:50,800 --> 00:07:55,000
+resposta é não, ainda não vale a pena.
+
+203
+00:07:52,800 --> 00:07:57,840
+Então o futuro é promissor, ferramentas
+
+204
+00:07:55,000 --> 00:08:00,319
+em microbiomas já mostram valor clínico
+
+205
+00:07:57,840 --> 00:08:02,680
+em cuidado, suporte, fibra dietética,
+
+206
+00:08:00,319 --> 00:08:04,680
+por exemplo, pode melhorar resultados de
+
+207
+00:08:02,680 --> 00:08:06,759
+quimioterapia, mas ainda estamos
+
+208
+00:08:04,680 --> 00:08:09,680
+aprendendo a usar essas informações da
+
+209
+00:08:06,759 --> 00:08:12,319
+forma prática. E lembre-se, o exame é
+
+210
+00:08:09,680 --> 00:08:14,879
+uma ferramenta, não é uma solução. No
+
+211
+00:08:12,319 --> 00:08:16,720
+caso da Maria, o exame foi só o começo.
+
+212
+00:08:14,879 --> 00:08:18,440
+O trabalho de verdade foi o protocolo
+
+213
+00:08:16,720 --> 00:08:21,199
+personalizado que criamos, o
+
+214
+00:08:18,440 --> 00:08:23,639
+acompanhamento mensal, os ajustes na
+
+215
+00:08:21,199 --> 00:08:26,759
+dieta, a suplementação específica, o
+
+216
+00:08:23,639 --> 00:08:28,479
+exame sem ação, é só um papel caro.
+
+217
+00:08:26,759 --> 00:08:30,879
+Então é isso, pessoal. Exame de
+
+218
+00:08:28,479 --> 00:08:33,560
+microbiota, ferramenta poderosa nas mãos
+
+219
+00:08:30,879 --> 00:08:36,479
+certas, desperdício de dinheiro nas mãos
+
+220
+00:08:33,560 --> 00:08:38,919
+erradas. Avalem a sua situação, sejam
+
+221
+00:08:36,479 --> 00:08:40,839
+honestos sobre suas necessidades e não
+
+222
+00:08:38,919 --> 00:08:44,800
+caiam em promessas milagrosas. Seu
+
+223
+00:08:40,839 --> 00:08:44,800
+intestino agradece e seu bolso também.
+

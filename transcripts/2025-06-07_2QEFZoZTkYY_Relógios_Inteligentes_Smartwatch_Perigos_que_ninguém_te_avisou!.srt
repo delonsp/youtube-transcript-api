@@ -1,0 +1,740 @@
+1
+00:00:00,199 --> 00:00:05,279
+Relógios e anéis inteligentes podem
+
+2
+00:00:02,560 --> 00:00:07,759
+ajudar a melhorar a saúde? E como usar
+
+3
+00:00:05,279 --> 00:00:09,639
+as informações de forma eficiente? Bem,
+
+4
+00:00:07,759 --> 00:00:10,960
+antes de falar das informações desses
+
+5
+00:00:09,639 --> 00:00:14,040
+dispositivos, eu queria falar um
+
+6
+00:00:10,960 --> 00:00:16,640
+pouquinho sobre a polêmica de que esses
+
+7
+00:00:14,040 --> 00:00:20,439
+dispositivos podem causar alguns agravos
+
+8
+00:00:16,640 --> 00:00:22,480
+à saúde. Eles podem de fato oferecer
+
+9
+00:00:20,439 --> 00:00:24,240
+benefícios para monitoramento, mas
+
+10
+00:00:22,480 --> 00:00:26,679
+alguns estudos recentes revelam
+
+11
+00:00:24,240 --> 00:00:29,119
+potenciais riscos que tem que ser levado
+
+12
+00:00:26,679 --> 00:00:30,840
+em consideração. Infelizmente a gente
+
+13
+00:00:29,119 --> 00:00:33,920
+não tem as respostas
+
+14
+00:00:30,840 --> 00:00:36,520
+definitivas, mas é importante o uso
+
+15
+00:00:33,920 --> 00:00:38,840
+equilibrado desses dispositivos. Então,
+
+16
+00:00:36,520 --> 00:00:41,920
+hoje nós sabemos que os smartwhes e
+
+17
+00:00:38,840 --> 00:00:44,280
+também os dispositivos na forma de anel
+
+18
+00:00:41,920 --> 00:00:46,039
+emitem radiação de campos
+
+19
+00:00:44,280 --> 00:00:50,079
+eletromagnéticos, seja através da
+
+20
+00:00:46,039 --> 00:00:53,079
+conexão Bluetooth ou Wi-Fi. Então, muita
+
+21
+00:00:50,079 --> 00:00:54,680
+gente considera que os níveis são
+
+22
+00:00:53,079 --> 00:00:56,600
+considerados
+
+23
+00:00:54,680 --> 00:00:58,600
+seguros, isso pelos padrões
+
+24
+00:00:56,600 --> 00:01:01,440
+internacionais, mas alguns estudos
+
+25
+00:00:58,600 --> 00:01:03,280
+sugerem que a exposição prolongada pode
+
+26
+00:01:01,440 --> 00:01:05,680
+causar efeitos adversos. Então, a
+
+27
+00:01:03,280 --> 00:01:08,880
+radiação eletromagnética, né, conhecida
+
+28
+00:01:05,680 --> 00:01:11,360
+pela sigla EMF, poderia potencialmente
+
+29
+00:01:08,880 --> 00:01:13,640
+restringir o fluxo sanguíneo na região
+
+30
+00:01:11,360 --> 00:01:15,720
+do pulso e pode levar em algumas pessoas
+
+31
+00:01:13,640 --> 00:01:18,320
+mais sensíveis a dor de cabeça, fadiga
+
+32
+00:01:15,720 --> 00:01:20,880
+ocular e náusea, que também tem um
+
+33
+00:01:18,320 --> 00:01:23,439
+efeito interessante desses dispositivos.
+
+34
+00:01:20,880 --> 00:01:25,600
+Fizeram estudos psicológicos e
+
+35
+00:01:23,439 --> 00:01:28,759
+comportamentais para identificar
+
+36
+00:01:25,600 --> 00:01:30,680
+consequências do uso desses dispositivos
+
+37
+00:01:28,759 --> 00:01:33,439
+wearables, né? Existe um estudo da
+
+38
+00:01:30,680 --> 00:01:36,640
+Universidade da Carolina do Norte com
+
+39
+00:01:33,439 --> 00:01:39,560
+172 pacientes que tinham fibrilação
+
+40
+00:01:36,640 --> 00:01:42,200
+atrial. E foi demonstrado nesse estudo
+
+41
+00:01:39,560 --> 00:01:45,439
+que os usuários dos dispositivos
+
+42
+00:01:42,200 --> 00:01:48,200
+vestíveis, né, ou wearles, apresentaram
+
+43
+00:01:45,439 --> 00:01:50,520
+maiores taxas de ansiedade sobre os
+
+44
+00:01:48,200 --> 00:01:51,799
+sintomas cardíacos e maior utilização de
+
+45
+00:01:50,520 --> 00:01:53,960
+recursos de saúde. Ou seja, a pessoa
+
+46
+00:01:51,799 --> 00:01:56,799
+fica pilhada porque tá monitorando o
+
+47
+00:01:53,960 --> 00:01:59,399
+tempo todo aquele parâmetro e fica muito
+
+48
+00:01:56,799 --> 00:02:01,320
+ansiosa. Existe o estresse por
+
+49
+00:01:59,399 --> 00:02:03,240
+autoimização. Então, o monitoramento
+
+50
+00:02:01,320 --> 00:02:05,520
+constante pode levar uma pressão
+
+51
+00:02:03,240 --> 00:02:08,119
+psicológica quando os dados não estão
+
+52
+00:02:05,520 --> 00:02:10,319
+ideais, estão mostrando declínio. Isso
+
+53
+00:02:08,119 --> 00:02:13,760
+cria uma linha tênue entre o estilo de
+
+54
+00:02:10,319 --> 00:02:15,599
+vida saudável e uma sensação aí de ter
+
+55
+00:02:13,760 --> 00:02:17,239
+que otimizar constantemente os
+
+56
+00:02:15,599 --> 00:02:18,800
+parâmetros, tá? Então, pode levar esse
+
+57
+00:02:17,239 --> 00:02:21,519
+stress também.
+
+58
+00:02:18,800 --> 00:02:24,319
+Então, o uso 24 horas por dia, 7 dias da
+
+59
+00:02:21,519 --> 00:02:27,440
+semana, pode levar em algumas pessoas
+
+60
+00:02:24,319 --> 00:02:29,760
+mais suscetíveis ao estresse, ao
+
+61
+00:02:27,440 --> 00:02:33,239
+esgotamento mental e físico. Isso pode
+
+62
+00:02:29,760 --> 00:02:35,879
+impedir a regeneração necessária dessa
+
+63
+00:02:33,239 --> 00:02:38,959
+pessoa. Existe também relatos de
+
+64
+00:02:35,879 --> 00:02:41,360
+impactos no sono. Usuários regulares do
+
+65
+00:02:38,959 --> 00:02:43,599
+Smartwatch frequentemente experimentam
+
+66
+00:02:41,360 --> 00:02:46,360
+problemas de sono, tá? Especialmente
+
+67
+00:02:43,599 --> 00:02:49,879
+quando usam o dispositivo antes de
+
+68
+00:02:46,360 --> 00:02:51,599
+dormir. Por quê? A luz azul emitida
+
+69
+00:02:49,879 --> 00:02:53,920
+pelas telas pode dificultar o
+
+70
+00:02:51,599 --> 00:02:56,400
+desligamento cerebral. Então, é
+
+71
+00:02:53,920 --> 00:02:58,560
+recomendado desligar a tecnologia 2 a 3
+
+72
+00:02:56,400 --> 00:03:00,800
+horas antes de dormir. Alguns estudos
+
+73
+00:02:58,560 --> 00:03:03,879
+também relatam perda de memória,
+
+74
+00:03:00,800 --> 00:03:06,440
+alterações de humor devido à privação de
+
+75
+00:03:03,879 --> 00:03:09,360
+sono causada pelo uso prolongado. Então,
+
+76
+00:03:06,440 --> 00:03:10,840
+olha que coisa paradoxal, certo? A
+
+77
+00:03:09,360 --> 00:03:13,080
+constante disponibilidade de
+
+78
+00:03:10,840 --> 00:03:15,040
+notificações poderia diminuir a
+
+79
+00:03:13,080 --> 00:03:18,040
+produtividade e criar uma dependência
+
+80
+00:03:15,040 --> 00:03:20,959
+tecnológica. Aí tem a questão também dos
+
+81
+00:03:18,040 --> 00:03:22,920
+químicos, das substâncias presentes nos
+
+82
+00:03:20,959 --> 00:03:25,879
+dispositivos. Existe os químicos
+
+83
+00:03:22,920 --> 00:03:27,760
+chamados químicos eternos, porque não se
+
+84
+00:03:25,879 --> 00:03:29,799
+degradam, né, que é o
+
+85
+00:03:27,760 --> 00:03:31,280
+PFAS. Então, a pesquisa que foi
+
+86
+00:03:29,799 --> 00:03:32,879
+realizada recentemente na Universidade
+
+87
+00:03:31,280 --> 00:03:35,519
+de Notridame descobriu níveis
+
+88
+00:03:32,879 --> 00:03:38,040
+significativos de um produto chamado
+
+89
+00:03:35,519 --> 00:03:41,040
+ácido
+
+90
+00:03:38,040 --> 00:03:43,400
+perfluoxano nas pulseiras de smartwatch.
+
+91
+00:03:41,040 --> 00:03:45,599
+Especialmente, olha a paradoxalidade, ó,
+
+92
+00:03:43,400 --> 00:03:48,720
+especialmente modelos mais caros acima
+
+93
+00:03:45,599 --> 00:03:50,360
+de 30. Então, esses químicos eternos
+
+94
+00:03:48,720 --> 00:03:52,959
+poderiam ser absorvidos pela pele
+
+95
+00:03:50,360 --> 00:03:55,720
+durante o uso prolongado, concentrações
+
+96
+00:03:52,959 --> 00:03:59,280
+superiores a 16.000 partes por bilhão em
+
+97
+00:03:55,720 --> 00:04:03,000
+alguns produtos, que é muito acima do
+
+98
+00:03:59,280 --> 00:04:05,480
+partes por bilhões encontrado em
+
+99
+00:04:03,000 --> 00:04:07,840
+cosméticos. Tem alguns riscos médicos
+
+100
+00:04:05,480 --> 00:04:11,239
+específicos, por exemplo, comportamentos
+
+101
+00:04:07,840 --> 00:04:13,959
+mal adaptativos. Ocorre que alguns dados
+
+102
+00:04:11,239 --> 00:04:15,799
+imprecisos ou incompletos dos wearables
+
+103
+00:04:13,959 --> 00:04:19,199
+podem levar comportamentos prejudiciais
+
+104
+00:04:15,799 --> 00:04:21,359
+à saúde como exercícios excessivos ou
+
+105
+00:04:19,199 --> 00:04:22,880
+manejo inadequado de condições médicas.
+
+106
+00:04:21,359 --> 00:04:24,600
+Aí seria um problema mais relacionado à
+
+107
+00:04:22,880 --> 00:04:26,919
+falta
+
+108
+00:04:24,600 --> 00:04:28,479
+de precisão de alguns desses
+
+109
+00:04:26,919 --> 00:04:30,199
+dispositivos.
+
+110
+00:04:28,479 --> 00:04:33,440
+Então, indivíduos que têm condições
+
+111
+00:04:30,199 --> 00:04:36,479
+cardíacas podem receber falsas garantias
+
+112
+00:04:33,440 --> 00:04:39,600
+de dispositivo com limitações de
+
+113
+00:04:36,479 --> 00:04:42,240
+detecção. Também temos exacerbações de
+
+114
+00:04:39,600 --> 00:04:45,520
+transtornos existentes. Então, pesquisas
+
+115
+00:04:42,240 --> 00:04:48,160
+preliminares sugere que os vestíveis ou
+
+116
+00:04:45,520 --> 00:04:50,520
+rarbles podem agravar transtornos
+
+117
+00:04:48,160 --> 00:04:53,360
+alimentares com participantes relatando
+
+118
+00:04:50,520 --> 00:04:55,520
+que os positivos afetaram negativamente
+
+119
+00:04:53,360 --> 00:04:57,759
+os comportamentos alimentares
+
+120
+00:04:55,520 --> 00:05:00,479
+desordenados. Então vamos agora aos
+
+121
+00:04:57,759 --> 00:05:02,720
+contrapontos dos benefícios que são
+
+122
+00:05:00,479 --> 00:05:05,560
+observados, tá? a perspectiva médica
+
+123
+00:05:02,720 --> 00:05:08,080
+positiva desses wearbles. Muitos médicos
+
+124
+00:05:05,560 --> 00:05:10,440
+continuam recomendando esses smartwatchs
+
+125
+00:05:08,080 --> 00:05:12,240
+para monitoramento de métricas, como é o
+
+126
+00:05:10,440 --> 00:05:14,440
+caso de frequência cardíaca, saturação
+
+127
+00:05:12,240 --> 00:05:15,759
+de oxigênio e padrão de sono,
+
+128
+00:05:14,440 --> 00:05:17,759
+especialmente para pacientes com
+
+129
+00:05:15,759 --> 00:05:19,639
+arritmias ou apneia, mesmo que tenha
+
+130
+00:05:17,759 --> 00:05:22,639
+esse risco de aumento de ansiedade.
+
+131
+00:05:19,639 --> 00:05:24,759
+Então, durante o período do C19, os
+
+132
+00:05:22,639 --> 00:05:28,720
+dispositivos conseguiram
+
+133
+00:05:24,759 --> 00:05:30,560
+detectar a doença até 2,7 dias antes dos
+
+134
+00:05:28,720 --> 00:05:33,240
+testes laboratoriais, né, segundos
+
+135
+00:05:30,560 --> 00:05:35,440
+alguns estudos. E existe muita gente
+
+136
+00:05:33,240 --> 00:05:38,880
+falando que a exposição à radiação
+
+137
+00:05:35,440 --> 00:05:41,360
+eletromagnética do Smartws seria muito
+
+138
+00:05:38,880 --> 00:05:44,039
+menor ou significativamente menor que a
+
+139
+00:05:41,360 --> 00:05:46,080
+dos smartphones. E os estudos atuais
+
+140
+00:05:44,039 --> 00:05:48,800
+indicam que esses dispositivos poderiam
+
+141
+00:05:46,080 --> 00:05:51,319
+ser seguros. Então tem essa polêmica aí
+
+142
+00:05:48,800 --> 00:05:53,199
+se é seguro ou não essa parte
+
+143
+00:05:51,319 --> 00:05:54,759
+eletromagnética. Mas vamos então para a
+
+144
+00:05:53,199 --> 00:05:56,520
+parte prática. O que que eu recomendo
+
+145
+00:05:54,759 --> 00:05:58,160
+para vocês? Então, caso vocês tenham
+
+146
+00:05:56,520 --> 00:05:59,039
+esses dispositivos e queiram utilizá-los
+
+147
+00:05:58,160 --> 00:06:01,440
+para
+
+148
+00:05:59,039 --> 00:06:03,680
+monitoramento, estratégia de mitigação.
+
+149
+00:06:01,440 --> 00:06:06,120
+Então, use o modo avião quando o
+
+150
+00:06:03,680 --> 00:06:08,240
+monitoramento ativo não é necessário.
+
+151
+00:06:06,120 --> 00:06:10,280
+Remova o dispositivo periodicamente para
+
+152
+00:06:08,240 --> 00:06:12,800
+prevenir a irritação da
+
+153
+00:06:10,280 --> 00:06:15,919
+pele. Escolha pulseiras de silicone de
+
+154
+00:06:12,800 --> 00:06:19,759
+baixo custo em vez de pulseiras mais
+
+155
+00:06:15,919 --> 00:06:22,360
+sofisticadas que t os fluoelastômeros.
+
+156
+00:06:19,759 --> 00:06:24,599
+Desligar notificações durante o sono,
+
+157
+00:06:22,360 --> 00:06:26,960
+focar em tendências de longo prazo em
+
+158
+00:06:24,599 --> 00:06:28,440
+vez de medições pontuais. Cuidado com
+
+159
+00:06:26,960 --> 00:06:32,240
+isso. Ao mesmo efeito a pessoa que fica
+
+160
+00:06:28,440 --> 00:06:35,599
+se medindo o todos os dias em relação a
+
+161
+00:06:32,240 --> 00:06:38,440
+peso e pessoas que têm transtorno de
+
+162
+00:06:35,599 --> 00:06:40,680
+ansiedade são muito pilhadas ou
+
+163
+00:06:38,440 --> 00:06:43,960
+transtornos alimentares ou tendências
+
+164
+00:06:40,680 --> 00:06:47,560
+obsessivo compulsivas devem evitar usar
+
+165
+00:06:43,960 --> 00:06:50,240
+esse tipo de dispositivo, porque podem
+
+166
+00:06:47,560 --> 00:06:53,880
+ficar pior ainda do ponto de vista
+
+167
+00:06:50,240 --> 00:06:56,639
+psicológico. ou ainda pode até usar mais
+
+168
+00:06:53,880 --> 00:06:58,720
+com monitoramento médico e psicológico.
+
+169
+00:06:56,639 --> 00:07:01,520
+Então, concluindo, a evidência atual
+
+170
+00:06:58,720 --> 00:07:04,319
+sugere que, embora os smartwatchs podem
+
+171
+00:07:01,520 --> 00:07:05,960
+ter benefícios substanciais para
+
+172
+00:07:04,319 --> 00:07:07,599
+monitoramento, o uso tem que ser
+
+173
+00:07:05,960 --> 00:07:10,160
+equilibrado com consciência dos
+
+174
+00:07:07,599 --> 00:07:12,759
+potenciais riscos. Tem que ser um uso
+
+175
+00:07:10,160 --> 00:07:14,800
+consciente, personalizado, reconhecendo
+
+176
+00:07:12,759 --> 00:07:19,039
+que diferentes indivíduos podem ter
+
+177
+00:07:14,800 --> 00:07:21,560
+diferentes respostas a informações ou
+
+178
+00:07:19,039 --> 00:07:23,560
+até mesmo a exposição eletromagnética
+
+179
+00:07:21,560 --> 00:07:24,919
+até substâncias que possam ser liberadas
+
+180
+00:07:23,560 --> 00:07:27,240
+dessas pulseiras. Eu sei que é uma
+
+181
+00:07:24,919 --> 00:07:28,960
+resposta complexa, você queria ouvir uma
+
+182
+00:07:27,240 --> 00:07:30,800
+resposta muito mais simples, mas é o que
+
+183
+00:07:28,960 --> 00:07:33,759
+temos para hoje, né? Você tem que
+
+184
+00:07:30,800 --> 00:07:37,160
+avaliar prós e contras aí para usar
+
+185
+00:07:33,759 --> 00:07:37,160
+esses dispositivos.
+

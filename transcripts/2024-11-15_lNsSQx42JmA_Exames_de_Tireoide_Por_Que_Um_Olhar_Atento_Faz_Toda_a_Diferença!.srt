@@ -1,0 +1,412 @@
+1
+00:00:00,359 --> 00:00:04,720
+Olá será que você entende o que que seus
+
+2
+00:00:02,800 --> 00:00:08,400
+exames de tireoide dizem sobre a sua
+
+3
+00:00:04,720 --> 00:00:11,880
+saúde vamos desvendar isso agora usando
+
+4
+00:00:08,400 --> 00:00:13,599
+o conceito de quarti e o caso real de um
+
+5
+00:00:11,880 --> 00:00:16,000
+paciente que passou aqui no
+
+6
+00:00:13,599 --> 00:00:19,279
+consultório Primeiro vamos falar sobre o
+
+7
+00:00:16,000 --> 00:00:21,640
+TSH que é o hormônio que estimula a
+
+8
+00:00:19,279 --> 00:00:24,480
+tireoide só que tem muita gente que
+
+9
+00:00:21,640 --> 00:00:27,199
+pensa que o TSH ele é produzido na
+
+10
+00:00:24,480 --> 00:00:29,519
+tiroide mas não é ele é produzido na
+
+11
+00:00:27,199 --> 00:00:30,759
+hipófise então o resultado aqui do exame
+
+12
+00:00:29,519 --> 00:00:33,280
+deu
+
+13
+00:00:30,759 --> 00:00:35,399
+2,37 e os valores de referência desse
+
+14
+00:00:33,280 --> 00:00:37,680
+Laboratório São de
+
+15
+00:00:35,399 --> 00:00:40,320
+0,38 a
+
+16
+00:00:37,680 --> 00:00:43,399
+5,33 se eu dividir esse intervalo em
+
+17
+00:00:40,320 --> 00:00:46,640
+quatro partes iguais Quad quartil vai
+
+18
+00:00:43,399 --> 00:00:49,600
+ser 1,24 então o TSH tá no segundo
+
+19
+00:00:46,640 --> 00:00:53,160
+quartil isso indica o qu uma função
+
+20
+00:00:49,600 --> 00:00:55,160
+tiroidiana dentro da Média Mas poderia
+
+21
+00:00:53,160 --> 00:00:57,520
+estar um pouquinho melhor não está na
+
+22
+00:00:55,160 --> 00:01:01,559
+faixa ideal a gente considera o ideal
+
+23
+00:00:57,520 --> 00:01:02,640
+por volta de 1,5 a 2 já o T4 Liv tá na
+
+24
+00:01:01,559 --> 00:01:06,600
+faixa de
+
+25
+00:01:02,640 --> 00:01:08,560
+0,85 n por dcl a referência entre
+
+26
+00:01:06,600 --> 00:01:11,400
+0,54 e
+
+27
+00:01:08,560 --> 00:01:15,320
+1,2 aqui cada quartil tem
+
+28
+00:01:11,400 --> 00:01:18,080
+aproximadamente 0,17 então o T4 Liv está
+
+29
+00:01:15,320 --> 00:01:20,680
+no segundo do segundo pro terceiro
+
+30
+00:01:18,080 --> 00:01:24,880
+quartil de novo é um pouco abaixo do
+
+31
+00:01:20,680 --> 00:01:26,240
+ideal esse resultado aqui o T3 livre
+
+32
+00:01:24,880 --> 00:01:31,640
+está em
+
+33
+00:01:26,240 --> 00:01:34,799
+3,53 os valores normais é de 1,8 a 4
+
+34
+00:01:31,640 --> 00:01:38,240
+4,59 então Quada quartil seria de cerca
+
+35
+00:01:34,799 --> 00:01:40,520
+de 0,7 então o T3 Liv tá no terceiro
+
+36
+00:01:38,240 --> 00:01:44,320
+quartil isso indica o quê níveis
+
+37
+00:01:40,520 --> 00:01:47,000
+praticamente ideais desse hormônio ativo
+
+38
+00:01:44,320 --> 00:01:50,159
+agora presta atenção que no antipo o
+
+39
+00:01:47,000 --> 00:01:54,799
+antiti peroxidase ele está em
+
+40
+00:01:50,159 --> 00:01:56,680
+33,8 o ideal é ser inferior a 9 isso
+
+41
+00:01:54,799 --> 00:01:58,640
+indica o qu uma possível condição
+
+42
+00:01:56,680 --> 00:02:01,399
+autoimune da tireóide aqui já é um
+
+43
+00:01:58,640 --> 00:02:03,799
+indicativo de moto que não tá afetando
+
+44
+00:02:01,399 --> 00:02:06,280
+ainda muito a função
+
+45
+00:02:03,799 --> 00:02:08,440
+tiroidiana nutrientes como Selene e
+
+46
+00:02:06,280 --> 00:02:11,039
+Zinco são essenciais então o Zin deles
+
+47
+00:02:08,440 --> 00:02:15,000
+está em 119 a referência desse
+
+48
+00:02:11,039 --> 00:02:17,400
+laboratório de 70 a 120 Quada quartil
+
+49
+00:02:15,000 --> 00:02:20,720
+seria por volta de 12,5 então o nível
+
+50
+00:02:17,400 --> 00:02:24,200
+está no quarto quartil O que é excelente
+
+51
+00:02:20,720 --> 00:02:28,080
+para a saúde da tireoide agora a
+
+52
+00:02:24,200 --> 00:02:30,360
+vitamina D tá longe tá ideal ela tá 31
+
+53
+00:02:28,080 --> 00:02:33,280
+nesse caso ela deveria estar entre 50 e
+
+54
+00:02:30,360 --> 00:02:34,640
+70 pro funcionamento ótimo da tireoide o
+
+55
+00:02:33,280 --> 00:02:37,080
+que eu quero que você preste atenção é
+
+56
+00:02:34,640 --> 00:02:39,120
+que esses exames facilmente passariam
+
+57
+00:02:37,080 --> 00:02:41,920
+despercebidos por um médico uma visão
+
+58
+00:02:39,120 --> 00:02:43,840
+mais Ortodoxa por qu os números da
+
+59
+00:02:41,920 --> 00:02:46,480
+tiroide estão normais mas não estão
+
+60
+00:02:43,840 --> 00:02:49,440
+ideais a vitamina D de dado também não
+
+61
+00:02:46,480 --> 00:02:51,840
+está ideal então o médico mais ortodoxo
+
+62
+00:02:49,440 --> 00:02:54,200
+ele certamente não pediria o antipo
+
+63
+00:02:51,840 --> 00:02:56,200
+antiti peroxidase e não ficaria sabendo
+
+64
+00:02:54,200 --> 00:02:58,680
+que existe um Hashimoto em atividade
+
+65
+00:02:56,200 --> 00:03:00,440
+aqui então esse paciente ficaria anos
+
+66
+00:02:58,680 --> 00:03:02,120
+sem nenhum tipo de estratégia
+
+67
+00:03:00,440 --> 00:03:04,840
+para controlar esses anticorpos da
+
+68
+00:03:02,120 --> 00:03:06,680
+tireóide Então o que eu quero dizer aqui
+
+69
+00:03:04,840 --> 00:03:09,400
+mesmo que os exames do paciente estejam
+
+70
+00:03:06,680 --> 00:03:12,200
+normais entre aspas aqui né normais
+
+71
+00:03:09,400 --> 00:03:14,400
+entre aspas esse caso ainda demanda
+
+72
+00:03:12,200 --> 00:03:16,680
+atenção porque esse paciente está com
+
+73
+00:03:14,400 --> 00:03:19,760
+rachim noto em atividade então se nós
+
+74
+00:03:16,680 --> 00:03:21,840
+não fizermos nada daqui alguns anos essa
+
+75
+00:03:19,760 --> 00:03:24,000
+doença autoimune vai evoluir para um
+
+76
+00:03:21,840 --> 00:03:26,280
+hipotiroidismo Ou seja a tiroide dele
+
+77
+00:03:24,000 --> 00:03:28,519
+vai ficar fraca então não vai dar tempo
+
+78
+00:03:26,280 --> 00:03:31,159
+de falar aqui mas se você quiser se
+
+79
+00:03:28,519 --> 00:03:33,439
+aprofundar sobre esse tema tirite
+
+80
+00:03:31,159 --> 00:03:36,120
+Hashimoto você pode ver meus vídeos no
+
+81
+00:03:33,439 --> 00:03:38,799
+canal do YouTube e também ler os artigos
+
+82
+00:03:36,120 --> 00:03:40,280
+do meu blog sobre esse assunto Hashimoto
+
+83
+00:03:38,799 --> 00:03:42,280
+uma boa estratégia aqui para esse
+
+84
+00:03:40,280 --> 00:03:45,040
+paciente além de otimizar os níveis de
+
+85
+00:03:42,280 --> 00:03:48,319
+selênio iodo magnésio Complexo B
+
+86
+00:03:45,040 --> 00:03:51,040
+vitaminas a c d e e seria o uso do ldn
+
+87
+00:03:48,319 --> 00:03:54,239
+né a nutrex Sona de baixa dosagem o low
+
+88
+00:03:51,040 --> 00:03:56,599
+doose nutrex o zinco dele não precisaria
+
+89
+00:03:54,239 --> 00:03:58,200
+mexer aqui porque tá bom percebe a
+
+90
+00:03:56,599 --> 00:04:00,599
+importância de um olhar atento e
+
+91
+00:03:58,200 --> 00:04:02,879
+abrangente entenderem qual artigo você
+
+92
+00:04:00,599 --> 00:04:04,720
+se encontra nos exames pode ajudar muito
+
+93
+00:04:02,879 --> 00:04:06,920
+a evitar problemas lá na frente então
+
+94
+00:04:04,720 --> 00:04:08,879
+fica atento aos sinais Procure um bom
+
+95
+00:04:06,920 --> 00:04:11,280
+médico que ten um olhar atento um
+
+96
+00:04:08,879 --> 00:04:13,720
+conhecimento mais integrado e mais amplo
+
+97
+00:04:11,280 --> 00:04:15,920
+dos seus problemas de saúde Então você
+
+98
+00:04:13,720 --> 00:04:18,160
+tá acompanhando a saúde da sua tiroide
+
+99
+00:04:15,920 --> 00:04:20,400
+Salve esse vídeo para consultar na
+
+100
+00:04:18,160 --> 00:04:22,320
+próxima vez que você fizer Esses exames
+
+101
+00:04:20,400 --> 00:04:24,240
+E compartilhe com alguém que precisa
+
+102
+00:04:22,320 --> 00:04:28,120
+muito dessas informações um grande
+
+103
+00:04:24,240 --> 00:04:28,120
+abraço um beijo no seu coração
+

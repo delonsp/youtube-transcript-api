@@ -1,0 +1,3668 @@
+1
+00:00:00,000 --> 00:00:05,160
+Você quer que eu pegar para você ali, ó?
+
+2
+00:00:03,040 --> 00:00:07,600
+Posso contribuir
+
+3
+00:00:05,160 --> 00:00:10,519
+meus conversos e ela me deu uma missão.
+
+4
+00:00:07,600 --> 00:00:13,280
+Fale de RDN. Muito bem. Missão dada,
+
+5
+00:00:10,519 --> 00:00:15,040
+missão cumprida. Então, estou aqui para
+
+6
+00:00:13,280 --> 00:00:17,000
+falar para vocês uma ferramenta que eu
+
+7
+00:00:15,040 --> 00:00:19,640
+uso todos os dias no consultório para
+
+8
+00:00:17,000 --> 00:00:22,760
+várias doenças diferentes, mas hoje o
+
+9
+00:00:19,640 --> 00:00:24,920
+nosso enfoque vai ser sobre oncologia.
+
+10
+00:00:22,760 --> 00:00:28,679
+Nós vamos falar do da aplicação da
+
+11
+00:00:24,920 --> 00:00:30,080
+trexona para oncologia.
+
+12
+00:00:28,679 --> 00:00:32,160
+Bem, para quem não me conhece, essa é
+
+13
+00:00:30,080 --> 00:00:34,800
+minha formação. Eu tenho formação em
+
+14
+00:00:32,160 --> 00:00:37,160
+medicina ortomolecular, medicina
+
+15
+00:00:34,800 --> 00:00:39,320
+funcional integrativo, estilo de vida,
+
+16
+00:00:37,160 --> 00:00:43,320
+tem uma formação internacional também,
+
+17
+00:00:39,320 --> 00:00:44,879
+sou certify aí do Instituto
+
+18
+00:00:43,320 --> 00:00:47,719
+ARN.
+
+19
+00:00:44,879 --> 00:00:49,360
+E também tem a formação do Dr. Lemos que
+
+20
+00:00:47,719 --> 00:00:52,320
+tá dando aula aqui na outra aula, aqui
+
+21
+00:00:49,360 --> 00:00:54,920
+na outra sala.
+
+22
+00:00:52,320 --> 00:00:57,559
+Muito bem, não tem nenhum conflito
+
+23
+00:00:54,920 --> 00:00:59,000
+interesse sobre esse assunto. E ao final
+
+24
+00:00:57,559 --> 00:01:01,000
+dessa apresentação quero que vocês
+
+25
+00:00:59,000 --> 00:01:03,239
+entendam como é que funciona o mecanismo
+
+26
+00:01:01,000 --> 00:01:05,920
+de funcionamento para flexiona, qual é a
+
+27
+00:01:03,239 --> 00:01:08,520
+sua aplicabilidade clínica, os
+
+28
+00:01:05,920 --> 00:01:13,000
+protocolos, as evidências atuais por
+
+29
+00:01:08,520 --> 00:01:15,479
+tipo de câncer e reconhecer limitações e
+
+30
+00:01:13,000 --> 00:01:17,080
+perspectivas futuras.
+
+31
+00:01:15,479 --> 00:01:20,680
+A história da é uma história muito
+
+32
+00:01:17,080 --> 00:01:22,479
+linda, é a história do Dr. Bernard Bari,
+
+33
+00:01:20,680 --> 00:01:23,640
+um médico psiquiatra, tem formação em
+
+34
+00:01:22,479 --> 00:01:26,920
+Harvard, também tem formação em
+
+35
+00:01:23,640 --> 00:01:28,520
+neurologia e nos anos 80
+
+36
+00:01:26,920 --> 00:01:31,000
+estava tratando muitos pacientes que
+
+37
+00:01:28,520 --> 00:01:33,759
+tinham problemas de adicções, viciados
+
+38
+00:01:31,000 --> 00:01:35,640
+em drogas, especialmente heroína. E
+
+39
+00:01:33,759 --> 00:01:38,119
+vocês se lembram, os que têm idade para
+
+40
+00:01:35,640 --> 00:01:41,439
+lembrar que nos anos 80 começamos os
+
+41
+00:01:38,119 --> 00:01:44,759
+primeiros casos de HIV da aid do do
+
+42
+00:01:41,439 --> 00:01:47,360
+SIDA. Então aconteceu uma situação muito
+
+43
+00:01:44,759 --> 00:01:49,159
+curiosa. Dr. Bari estava tratando de
+
+44
+00:01:47,360 --> 00:01:51,200
+vários adictos, vários viciais heroína,
+
+45
+00:01:49,159 --> 00:01:53,920
+que também eram pontadores pelos casos
+
+46
+00:01:51,200 --> 00:01:55,680
+de áries. Ele começou a perceber que
+
+47
+00:01:53,920 --> 00:01:57,719
+aqueles pacientes que estavam usando uma
+
+48
+00:01:55,680 --> 00:01:59,280
+trexona de alta dosagem, que é
+
+49
+00:01:57,719 --> 00:02:01,479
+totalmente diferente da baixa dosagem,
+
+50
+00:01:59,280 --> 00:02:03,039
+vou explicar para vocês aqui. Esses
+
+51
+00:02:01,479 --> 00:02:06,640
+pacientes que estavam usandoxona de alta
+
+52
+00:02:03,039 --> 00:02:08,520
+dosagem, eles estavam tomando para se
+
+53
+00:02:06,640 --> 00:02:10,840
+livrar do vício de heroína. né? Só que
+
+54
+00:02:08,520 --> 00:02:12,760
+ele tava percebendo que esses pacientes
+
+55
+00:02:10,840 --> 00:02:15,599
+estavam tendo respostas melhores. Eles
+
+56
+00:02:12,760 --> 00:02:17,319
+não estavam desenvolvendo tanto a não
+
+57
+00:02:15,599 --> 00:02:19,640
+estavam desenvolvendo as infecções
+
+58
+00:02:17,319 --> 00:02:21,640
+oportunísticas. Então ele falou, alguma
+
+59
+00:02:19,640 --> 00:02:24,000
+coisa tem aqui. Esse negócio aqui que
+
+60
+00:02:21,640 --> 00:02:27,319
+deveria tá atuando só para tirar o
+
+61
+00:02:24,000 --> 00:02:29,200
+pessoal do vício, tá atuando no sistema
+
+62
+00:02:27,319 --> 00:02:31,400
+imune, melhorando as defesas do
+
+63
+00:02:29,200 --> 00:02:33,160
+organismo e esse pessoal tá indo melhor.
+
+64
+00:02:31,400 --> 00:02:34,959
+Ele é um cara brilhante, ele é um cara
+
+65
+00:02:33,160 --> 00:02:37,080
+extremamente empírico na prática
+
+66
+00:02:34,959 --> 00:02:39,400
+neuclínica e ele é muito inteligente.
+
+67
+00:02:37,080 --> 00:02:42,760
+começou a testar várias doses diferentes
+
+68
+00:02:39,400 --> 00:02:42,760
+de Trexona
+
+69
+00:02:43,200 --> 00:02:48,480
+e percebeu resultados excelentes e ele
+
+70
+00:02:46,200 --> 00:02:51,120
+intuiu que isso estava acontecendo
+
+71
+00:02:48,480 --> 00:02:52,599
+porque o sistema naquela época nos anos
+
+72
+00:02:51,120 --> 00:02:54,920
+80 ninguém sabia isso que tinham
+
+73
+00:02:52,599 --> 00:02:58,120
+cruzamento do sistema imune. Ele intuiu
+
+74
+00:02:54,920 --> 00:03:00,080
+então que a modulação do sistema imune
+
+75
+00:02:58,120 --> 00:03:02,800
+pela trxona estava dando esses
+
+76
+00:03:00,080 --> 00:03:05,599
+resultados melhores dos pacientes HIV e
+
+77
+00:03:02,800 --> 00:03:09,560
+também deos heroína. Então ele intuiu
+
+78
+00:03:05,599 --> 00:03:13,159
+que talvez o mecanismo fosse através dos
+
+79
+00:03:09,560 --> 00:03:15,440
+receptores opiores na membrana celular.
+
+80
+00:03:13,159 --> 00:03:19,120
+E ele não sabia na rua que existia o
+
+81
+00:03:15,440 --> 00:03:21,640
+sistema GFR. E depois vou mostrar aqui o
+
+82
+00:03:19,120 --> 00:03:24,879
+trabalho do Ian Zagon, que depois ele
+
+83
+00:03:21,640 --> 00:03:28,000
+confirmou os achatos do Dr. R mostrando
+
+84
+00:03:24,879 --> 00:03:30,519
+que o organismo compensa o bloqueio
+
+85
+00:03:28,000 --> 00:03:33,360
+temporário para trxona de baixa dosagem
+
+86
+00:03:30,519 --> 00:03:35,360
+bloqueia por 4 horas somente e depois
+
+87
+00:03:33,360 --> 00:03:37,680
+dessas 4 horas o sistema, opor de todo
+
+88
+00:03:35,360 --> 00:03:40,480
+do organismo melhora, aumenta setores,
+
+89
+00:03:37,680 --> 00:03:42,280
+aumenta a atividade das metencefalinas e
+
+90
+00:03:40,480 --> 00:03:45,000
+isso tem um efeito imune que eu já vou
+
+91
+00:03:42,280 --> 00:03:46,920
+explicar sobre isso, porque o Toprar ele
+
+92
+00:03:45,000 --> 00:03:50,439
+testou com várias doses diferentes e ele
+
+93
+00:03:46,920 --> 00:03:52,439
+chegou na dose de 1,5 a 4,5 mg por dia,
+
+94
+00:03:50,439 --> 00:03:55,079
+que ele viu que era a melhor dose pra
+
+95
+00:03:52,439 --> 00:03:58,840
+modulação Temho.
+
+96
+00:03:55,079 --> 00:04:01,159
+Então, eh, ele viu que o melhor horário
+
+97
+00:03:58,840 --> 00:04:03,560
+para diministrar era o horário noturno.
+
+98
+00:04:01,159 --> 00:04:06,319
+Por quê? Porque o pico das endorfinas
+
+99
+00:04:03,560 --> 00:04:09,159
+endógenas era entre 2 e 4 horas da
+
+100
+00:04:06,319 --> 00:04:12,040
+manhã. Então, você fazer um bloqueio na
+
+101
+00:04:09,159 --> 00:04:15,319
+hora de deitar 4 horas, 4 a 6 horas
+
+102
+00:04:12,040 --> 00:04:17,720
+depois todo aumentava, tanto os sepores
+
+103
+00:04:15,319 --> 00:04:20,600
+quanto a própria metencefalina, que são
+
+104
+00:04:17,720 --> 00:04:23,800
+as endorfinas endógenas.
+
+105
+00:04:20,600 --> 00:04:25,720
+E aí ele começou também a tratar outros
+
+106
+00:04:23,800 --> 00:04:29,000
+pacientes, pacientes com doenças
+
+107
+00:04:25,720 --> 00:04:33,160
+autoimunes, pacientes também com câncer.
+
+108
+00:04:29,000 --> 00:04:35,280
+E ele tem 450 casos tratados com câncer
+
+109
+00:04:33,160 --> 00:04:38,039
+até os anos 2000. Ele tratou do final
+
+110
+00:04:35,280 --> 00:04:41,800
+dos anos 80 até os anos 2000. E
+
+111
+00:04:38,039 --> 00:04:44,120
+descobriu sim que axção é de baixa
+
+112
+00:04:41,800 --> 00:04:46,840
+dosagem, sempre de baixa dosagem, nós
+
+113
+00:04:44,120 --> 00:04:49,120
+estamos falando aqui do LDM,
+
+114
+00:04:46,840 --> 00:04:50,680
+melhora a função imune, vou falar os
+
+115
+00:04:49,120 --> 00:04:52,440
+ventoras moleculares um pouquinho mais
+
+116
+00:04:50,680 --> 00:04:54,800
+adiante,
+
+117
+00:04:52,440 --> 00:04:58,160
+induz a morte celular programada chamada
+
+118
+00:04:54,800 --> 00:05:01,240
+apoptose e também tem efeito contra
+
+119
+00:04:58,160 --> 00:05:04,560
+angiogênes, que é a formação de vasos
+
+120
+00:05:01,240 --> 00:05:07,000
+aumentada que acontece no câncer.
+
+121
+00:05:04,560 --> 00:05:10,479
+E
+
+122
+00:05:07,000 --> 00:05:13,240
+ele não foi tão valorizado pelos
+
+123
+00:05:10,479 --> 00:05:16,120
+especialistas, pelos cientistas, porque
+
+124
+00:05:13,240 --> 00:05:17,600
+ele tinha uma atuação muito focada na
+
+125
+00:05:16,120 --> 00:05:19,880
+prática. Ele era um médico muito
+
+126
+00:05:17,600 --> 00:05:22,800
+prático. Então, infelizmente nesse
+
+127
+00:05:19,880 --> 00:05:25,160
+momento, depois de ter tratado centenas
+
+128
+00:05:22,800 --> 00:05:28,400
+de pacientes, ele não tinha sido ainda
+
+129
+00:05:25,160 --> 00:05:31,400
+visto com o devido respeito da oncologia
+
+130
+00:05:28,400 --> 00:05:33,479
+convencional devido à falta de ensaios
+
+131
+00:05:31,400 --> 00:05:35,039
+clínicos anomizados durante esse caba. E
+
+132
+00:05:33,479 --> 00:05:37,280
+por que que falta esses estudos
+
+133
+00:05:35,039 --> 00:05:40,080
+atualizados de larga escala? Porque é
+
+134
+00:05:37,280 --> 00:05:42,360
+muito caro fazer receber, né? Randomiz
+
+135
+00:05:40,080 --> 00:05:44,000
+control trial é muito caro. São muitos
+
+136
+00:05:42,360 --> 00:05:45,240
+milhões de dólares e ninguém vai
+
+137
+00:05:44,000 --> 00:05:47,639
+investir milhões e milhões de dólares
+
+138
+00:05:45,240 --> 00:05:49,360
+para fazer um estudo que o seu vizinho
+
+139
+00:05:47,639 --> 00:05:51,199
+pode pegar o restaurante do estudo e
+
+140
+00:05:49,360 --> 00:05:54,880
+vender igual você medicamento, porque
+
+141
+00:05:51,199 --> 00:05:57,400
+não tem mais patente. A LDM, a trexona,
+
+142
+00:05:54,880 --> 00:06:01,319
+perdeu patente já há muito tempo, por
+
+143
+00:05:57,400 --> 00:06:01,319
+ser uma droga dos anos 80.
+
+144
+00:06:01,800 --> 00:06:07,560
+Muito bem. Esse os dois aqui são os
+
+145
+00:06:04,759 --> 00:06:10,440
+fundamentais que começaram a fazer os
+
+146
+00:06:07,560 --> 00:06:14,000
+estudos clínicos, os estudos em
+
+147
+00:06:10,440 --> 00:06:17,120
+laboratório com LDN. Então, Dr. Ianagon,
+
+148
+00:06:14,000 --> 00:06:18,840
+Dra. Patrícia McLufflin na Pa State
+
+149
+00:06:17,120 --> 00:06:22,000
+University foram os pioneiros para
+
+150
+00:06:18,840 --> 00:06:24,280
+estudar como funcionava molecularmente o
+
+151
+00:06:22,000 --> 00:06:26,039
+LDM. Então eles descobriram o fator de
+
+152
+00:06:24,280 --> 00:06:30,039
+crescimento
+
+153
+00:06:26,039 --> 00:06:32,400
+opio de OGF e descobriram o OGFR. O OGF
+
+154
+00:06:30,039 --> 00:06:34,800
+também conhecido como metaencefalina.
+
+155
+00:06:32,400 --> 00:06:37,000
+E hoje FR também é conhecido como
+
+156
+00:06:34,800 --> 00:06:41,520
+receptor zopiódeic, que antigamente só
+
+157
+00:06:37,000 --> 00:06:44,240
+se tinha o K e o delta e tinha um bu. Aí
+
+158
+00:06:41,520 --> 00:06:47,240
+descobriu esse CTOZA foi uma descoberta
+
+159
+00:06:44,240 --> 00:06:47,240
+posterior.
+
+160
+00:06:47,280 --> 00:06:52,240
+E aí eles entenderam que esse sistema
+
+161
+00:06:49,919 --> 00:06:53,880
+OGF, o GFR era um sistema muito
+
+162
+00:06:52,240 --> 00:06:58,080
+importante nas células de regulação do
+
+163
+00:06:53,880 --> 00:07:01,800
+crescimento celular e que se você tem um
+
+164
+00:06:58,080 --> 00:07:05,879
+aumento da expressão do GF e FRR, você
+
+165
+00:07:01,800 --> 00:07:10,199
+tem um aumento de quê? De bloqueio da
+
+166
+00:07:05,879 --> 00:07:12,199
+reprodução da célula. Então, quando eles
+
+167
+00:07:10,199 --> 00:07:14,840
+começaram a estudar o verificaram que
+
+168
+00:07:12,199 --> 00:07:17,879
+essa ação de Ormese, que que significa
+
+169
+00:07:14,840 --> 00:07:19,759
+isso? Bloqueou o receptor por pouco
+
+170
+00:07:17,879 --> 00:07:23,240
+tempo, porque a dose é baixa,
+
+171
+00:07:19,759 --> 00:07:25,039
+desbloqueou, todo o sistema opodou.
+
+172
+00:07:23,240 --> 00:07:27,919
+Quando aumentou o sistema piode,
+
+173
+00:07:25,039 --> 00:07:31,560
+bloqueou a replicação celular. Isso é a
+
+174
+00:07:27,919 --> 00:07:34,160
+base da ação telene para tratamento do
+
+175
+00:07:31,560 --> 00:07:35,639
+câncer. Ele tem ação citostática, não é
+
+176
+00:07:34,160 --> 00:07:38,759
+citopósica, ele não mata a célula
+
+177
+00:07:35,639 --> 00:07:40,599
+tumoral, ele impede da célula tumoral se
+
+178
+00:07:38,759 --> 00:07:43,400
+replicar. Mas tem outros mecanismo de
+
+179
+00:07:40,599 --> 00:07:46,400
+ação que eu vou falar aqui.
+
+180
+00:07:43,400 --> 00:07:49,159
+Então, de novo, vou repetir isso aqui
+
+181
+00:07:46,400 --> 00:07:51,599
+para ficar didático. Há um bloqueio 4 a
+
+182
+00:07:49,159 --> 00:07:53,560
+6 horas no receptor.
+
+183
+00:07:51,599 --> 00:07:56,199
+Quando ocorre o desbloqueio, o sistema
+
+184
+00:07:53,560 --> 00:07:59,720
+entende: "Opa, pera aí, ficou faltando.
+
+185
+00:07:56,199 --> 00:08:02,240
+Preciso produzir mais. produz mais fator
+
+186
+00:07:59,720 --> 00:08:04,240
+de metaencefalina, produz mais receptor,
+
+187
+00:08:02,240 --> 00:08:07,520
+todo o sistema fica mais ativo, o
+
+188
+00:08:04,240 --> 00:08:11,159
+receptor fica mais sensível e aumenta
+
+189
+00:08:07,520 --> 00:08:13,360
+então essa atividade do OGF. O OGF se
+
+190
+00:08:11,159 --> 00:08:15,680
+liga o receptor, vai lá pro núcleo da
+
+191
+00:08:13,360 --> 00:08:18,159
+célula, aumenta a produção do P16, do
+
+192
+00:08:15,680 --> 00:08:20,800
+P21, que vão pedir pra célula, opa, não
+
+193
+00:08:18,159 --> 00:08:23,960
+se replique, não se replique, fica
+
+194
+00:08:20,800 --> 00:08:25,879
+parada aí, não faça síntese material
+
+195
+00:08:23,960 --> 00:08:29,159
+para ter a replicação ao celular. Então
+
+196
+00:08:25,879 --> 00:08:31,440
+esse é o efeito citostático do LDN no
+
+197
+00:08:29,159 --> 00:08:33,560
+câncer.
+
+198
+00:08:31,440 --> 00:08:36,120
+Então o mecanismo principal que eu
+
+199
+00:08:33,560 --> 00:08:39,719
+acabei de falar por causa dessa parada
+
+200
+00:08:36,120 --> 00:08:41,159
+do círcico celular em G1S e esse
+
+201
+00:08:39,719 --> 00:08:43,560
+regulation que é o nome chique para
+
+202
+00:08:41,159 --> 00:08:45,480
+dizer que aumentou o receptor,
+
+203
+00:08:43,560 --> 00:08:47,880
+acontece então esse bloqueio da
+
+204
+00:08:45,480 --> 00:08:51,480
+replicação celular e descobriu que quase
+
+205
+00:08:47,880 --> 00:08:55,920
+todos os tumores humanos têm expressão
+
+206
+00:08:51,480 --> 00:08:58,760
+desse receptor ou GF GFR. mais de 90%
+
+207
+00:08:55,920 --> 00:09:00,600
+dos cânceres testados, 47 lineares
+
+208
+00:08:58,760 --> 00:09:04,720
+diferentes. Então, quase todos os
+
+209
+00:09:00,600 --> 00:09:04,720
+cânceres têm a aplicação do LDN.
+
+210
+00:09:04,920 --> 00:09:08,440
+Mas não é só isso. O LDN também tem uma
+
+211
+00:09:06,720 --> 00:09:11,040
+ação imunoestimulante direta. Ela
+
+212
+00:09:08,440 --> 00:09:13,920
+aumenta a atividade pH1 em relação a
+
+213
+00:09:11,040 --> 00:09:17,120
+pH2. Ela aumenta a atividade dos
+
+214
+00:09:13,920 --> 00:09:19,480
+macrófagos N1 em relação a macrófos M2.
+
+215
+00:09:17,120 --> 00:09:22,320
+Aumenta a atividade netroquiller, que é
+
+216
+00:09:19,480 --> 00:09:26,760
+uma célula que mata a célula tumoral.
+
+217
+00:09:22,320 --> 00:09:31,600
+aumenta também a questão da ação dos
+
+218
+00:09:26,760 --> 00:09:33,680
+linfócos B e inibe essas células T-Rex,
+
+219
+00:09:31,600 --> 00:09:36,000
+as células terriburadoras, que é o é a
+
+220
+00:09:33,680 --> 00:09:37,839
+turma do deixa disso, deixa disso. O se
+
+221
+00:09:36,000 --> 00:09:39,399
+imune precisa ter um freio, né? Então
+
+222
+00:09:37,839 --> 00:09:42,200
+nós temos um sistema muito sofisticado
+
+223
+00:09:39,399 --> 00:09:44,399
+de freio. Então LDM fala assim: freio
+
+224
+00:09:42,200 --> 00:09:47,120
+não entra aqui porque as células
+
+225
+00:09:44,399 --> 00:09:49,279
+tumorais elas enganam o nosso organismo
+
+226
+00:09:47,120 --> 00:09:51,399
+e fala assim: "Olha, eu não sou inimigo
+
+227
+00:09:49,279 --> 00:09:54,560
+não, não precisa me atacar". Aí os imune
+
+228
+00:09:51,399 --> 00:09:57,360
+cai na conversa dele, não ataca e o não
+
+229
+00:09:54,560 --> 00:10:00,160
+se desenvolve. Então o del uma das ações
+
+230
+00:09:57,360 --> 00:10:02,720
+dele justamente segurar a turma do deixa
+
+231
+00:10:00,160 --> 00:10:05,320
+disso, que é esse aqui e esse aqui,
+
+232
+00:10:02,720 --> 00:10:07,120
+células mieloides e tirs. Então fala
+
+233
+00:10:05,320 --> 00:10:09,000
+assim, sistema imune continua atacando o
+
+234
+00:10:07,120 --> 00:10:10,640
+câncer, tá? Isso era horrota, era
+
+235
+00:10:09,000 --> 00:10:13,839
+conversa fiada do câncer. Isso aí
+
+236
+00:10:10,640 --> 00:10:15,920
+precisa desata atacar sim. Então e
+
+237
+00:10:13,839 --> 00:10:18,640
+diminui o checkp imune. O que que é isso
+
+238
+00:10:15,920 --> 00:10:20,440
+aqui? é outro sistema que o o câncer usa
+
+239
+00:10:18,640 --> 00:10:22,560
+para enganar o organismo. O checkpint
+
+240
+00:10:20,440 --> 00:10:24,399
+assim fala assim: "Para aí de atacar, eu
+
+241
+00:10:22,560 --> 00:10:27,360
+sou amigo". Ele engana o sistema
+
+242
+00:10:24,399 --> 00:10:29,680
+imônico. E o LDN ajuda a reduzir esse
+
+243
+00:10:27,360 --> 00:10:32,120
+efeito de enganação do tumor e o sistema
+
+244
+00:10:29,680 --> 00:10:34,519
+imune fica mais eficiente.
+
+245
+00:10:32,120 --> 00:10:38,560
+Isso aqui é um esquema mostrando os
+
+246
+00:10:34,519 --> 00:10:40,920
+efeitos da LDN. Aumentando macróf M1
+
+247
+00:10:38,560 --> 00:10:43,880
+diminuindo M2. M2 da tubo não deixa
+
+248
+00:10:40,920 --> 00:10:46,040
+disso. Ah, a tuba não deixa disso. Sai
+
+249
+00:10:43,880 --> 00:10:49,079
+para lá. Tem que atacar o tumor. O tumor
+
+250
+00:10:46,040 --> 00:10:51,959
+não é amigo. Aumenta o linfócito CD4,
+
+251
+00:10:49,079 --> 00:10:55,760
+que é o linfócito helper. Aumenta o CD8
+
+252
+00:10:51,959 --> 00:10:59,279
+que ataca a célalk natural killer
+
+253
+00:10:55,760 --> 00:11:00,760
+e também ajuda a modular linfócito B e
+
+254
+00:10:59,279 --> 00:11:04,560
+célula nitrítica, que é outro tipo de
+
+255
+00:11:00,760 --> 00:11:08,120
+célula que mata o tumor também.
+
+256
+00:11:04,560 --> 00:11:10,120
+Aqui mostrando que axona de alta dosagem
+
+257
+00:11:08,120 --> 00:11:11,920
+tem um efeito completamente diferente da
+
+258
+00:11:10,120 --> 00:11:14,560
+baixa dosagem.
+
+259
+00:11:11,920 --> 00:11:17,560
+Autadosagem, tem hora que ele estimula o
+
+260
+00:11:14,560 --> 00:11:19,959
+tumor e tem hora que ele bloqueia o
+
+261
+00:11:17,560 --> 00:11:21,320
+tumor. Por quê? Porque a altrexona de
+
+262
+00:11:19,959 --> 00:11:24,360
+alta dosagem acaba pegando os outros
+
+263
+00:11:21,320 --> 00:11:26,279
+receptores ombióis não são o GF. E aí
+
+264
+00:11:24,360 --> 00:11:28,279
+tem essa essa ação paradoxal, te hora
+
+265
+00:11:26,279 --> 00:11:29,760
+que estimula, tem hora que inibiga.
+
+266
+00:11:28,279 --> 00:11:32,440
+Então a gente tem que trabalhar na faixa
+
+267
+00:11:29,760 --> 00:11:35,720
+de 1 a 5 mg,
+
+268
+00:11:32,440 --> 00:11:38,440
+porque aqui é garantido que vai ter a
+
+269
+00:11:35,720 --> 00:11:41,639
+modulação do sistema imune e também do
+
+270
+00:11:38,440 --> 00:11:43,720
+sistema TLR4, que eu já vou falar. Tá?
+
+271
+00:11:41,639 --> 00:11:47,240
+Logo adiante.
+
+272
+00:11:43,720 --> 00:11:50,920
+Isso aqui mostrando também que tem pouco
+
+273
+00:11:47,240 --> 00:11:53,519
+receptor antes de você usar o RDN. Aí
+
+274
+00:11:50,920 --> 00:11:56,440
+bloqueia o receptor, bloqueia aqui, ó, a
+
+275
+00:11:53,519 --> 00:12:00,519
+chave geratura, né? Bloqueia. Depois de
+
+276
+00:11:56,440 --> 00:12:02,440
+4 a 6 horas, imune responde aumentando
+
+277
+00:12:00,519 --> 00:12:04,639
+toda a atividade do sistema PIO,
+
+278
+00:12:02,440 --> 00:12:07,920
+aumentando número de setores e
+
+279
+00:12:04,639 --> 00:12:10,079
+aumentando a quantidade de OGF para
+
+280
+00:12:07,920 --> 00:12:12,560
+poder bloquear a replicação dessa
+
+281
+00:12:10,079 --> 00:12:12,560
+célula.
+
+282
+00:12:12,920 --> 00:12:17,639
+Muito bem. Esse aqui é outro mecanismo,
+
+283
+00:12:14,959 --> 00:12:19,920
+antagonismo TR4. Que que isso que é
+
+284
+00:12:17,639 --> 00:12:21,800
+importante? Porque essa é uma outra ação
+
+285
+00:12:19,920 --> 00:12:24,279
+muito interessante na frxona que eu uso
+
+286
+00:12:21,800 --> 00:12:26,320
+para mim. Eu tomo já há 8 anos na frxona
+
+287
+00:12:24,279 --> 00:12:28,480
+de baixa dosagem. Por quê? Porque ele
+
+288
+00:12:26,320 --> 00:12:30,639
+modula a micrógra.
+
+289
+00:12:28,480 --> 00:12:33,639
+Modula micrógra. Que que significa isso?
+
+290
+00:12:30,639 --> 00:12:36,680
+A micrógra é uma célula de defesa do
+
+291
+00:12:33,639 --> 00:12:39,440
+organismo, só que fica no cérebro. Ela
+
+292
+00:12:36,680 --> 00:12:41,720
+fica perto do neurônio e a negrógra
+
+293
+00:12:39,440 --> 00:12:44,399
+quando ela tá irritada
+
+294
+00:12:41,720 --> 00:12:46,360
+é igual a sua esposa de mau humor, ela
+
+295
+00:12:44,399 --> 00:12:49,079
+começa te atacar,
+
+296
+00:12:46,360 --> 00:12:51,519
+entendeu? Igualzinho. Então nós
+
+297
+00:12:49,079 --> 00:12:53,920
+precisamos modular a micrógra, é acalmar
+
+298
+00:12:51,519 --> 00:12:57,560
+a onça de casa.
+
+299
+00:12:53,920 --> 00:12:59,720
+Porque quando a micróga ela tá agitada,
+
+300
+00:12:57,560 --> 00:13:01,480
+ela acaba o quê? atacando leano sem
+
+301
+00:12:59,720 --> 00:13:04,320
+querer. É igual a esposa que te ano te
+
+302
+00:13:01,480 --> 00:13:06,440
+ataca sem querer.
+
+303
+00:13:04,320 --> 00:13:08,880
+Então eu preciso acalmar essa onça aí.
+
+304
+00:13:06,440 --> 00:13:11,800
+Como é que eu acalmo o LDN? É uma das
+
+305
+00:13:08,880 --> 00:13:13,760
+ações do LDN que tem aplicação na
+
+306
+00:13:11,800 --> 00:13:18,240
+neurologia e na oncologia. Por que na
+
+307
+00:13:13,760 --> 00:13:19,920
+oncologia? Porque o LDN ajuda a reduzir
+
+308
+00:13:18,240 --> 00:13:22,880
+a fadiga,
+
+309
+00:13:19,920 --> 00:13:26,120
+aquela questão também do sono ruim do
+
+310
+00:13:22,880 --> 00:13:27,920
+paciente oncológico e ajuda também a dor
+
+311
+00:13:26,120 --> 00:13:29,399
+neuropática.
+
+312
+00:13:27,920 --> 00:13:32,000
+Então ajuda muito tempo para seus
+
+313
+00:13:29,399 --> 00:13:35,199
+pacientes tem uma resposta positiva com
+
+314
+00:13:32,000 --> 00:13:35,199
+a BM
+
+315
+00:13:35,720 --> 00:13:41,639
+e tem efeito antiangogênico também.
+
+316
+00:13:39,560 --> 00:13:44,839
+Então, além de tudo isso que eu falei,
+
+317
+00:13:41,639 --> 00:13:47,240
+ela bloqueia a replicação dos vasos que
+
+318
+00:13:44,839 --> 00:13:49,920
+vão alimentar o tumor. Então, ela ajuda
+
+319
+00:13:47,240 --> 00:13:52,160
+a controlar também essa exposição dos
+
+320
+00:13:49,920 --> 00:13:54,519
+vasos sanguíneos aumentados para nutrir
+
+321
+00:13:52,160 --> 00:13:57,720
+o tumor.
+
+322
+00:13:54,519 --> 00:14:00,120
+e ajuda inclusive nesse agente aqui que
+
+323
+00:13:57,720 --> 00:14:03,079
+é um desses agentes chiques aí
+
+324
+00:14:00,120 --> 00:14:05,720
+anticorpoal caro Paraná que bloqueia
+
+325
+00:14:03,079 --> 00:14:07,480
+antijogênese também ele ajuda isso aqui
+
+326
+00:14:05,720 --> 00:14:11,360
+a funcionar melhor só que não mais
+
+327
+00:14:07,480 --> 00:14:14,759
+barato, né, obviamente, né?
+
+328
+00:14:11,360 --> 00:14:17,560
+E para que que nós vamos usar o RDM?
+
+329
+00:14:14,759 --> 00:14:19,880
+Pacientes oncológicos em geral e também
+
+330
+00:14:17,560 --> 00:14:22,480
+os refatários, tanto para controlar a
+
+331
+00:14:19,880 --> 00:14:26,560
+dor, para controlar a fadiga, melhorar o
+
+332
+00:14:22,480 --> 00:14:28,759
+sono para ajudar a combater o câncer. E
+
+333
+00:14:26,560 --> 00:14:30,279
+lógico, ele nunca usar LD sozinho em
+
+334
+00:14:28,759 --> 00:14:32,399
+paciente oncológico. A gente entra com
+
+335
+00:14:30,279 --> 00:14:35,959
+30 coisas diferentes juntos, sabe, né?
+
+336
+00:14:32,399 --> 00:14:38,320
+Esse é meio maluco, sai dando cápsula ao
+
+337
+00:14:35,959 --> 00:14:40,240
+ninguém agora tomar para cá, né? Mas é a
+
+338
+00:14:38,320 --> 00:14:42,040
+realidade da mediva. Você trabalha com
+
+339
+00:14:40,240 --> 00:14:43,720
+monte de artigo diferente para ter os
+
+340
+00:14:42,040 --> 00:14:45,519
+melhores resultados. Então a gente não
+
+341
+00:14:43,720 --> 00:14:48,720
+trabalha com isso isolado, mas is ajuda
+
+342
+00:14:45,519 --> 00:14:50,800
+muito. É mais uma ferramenta pra gente.
+
+343
+00:14:48,720 --> 00:14:54,480
+E tem vários centros aí. O MD Anderson
+
+344
+00:14:50,800 --> 00:14:58,160
+usa usa ele como tratamento preventivo
+
+345
+00:14:54,480 --> 00:15:01,720
+ou para controle da qualidade de vida.
+
+346
+00:14:58,160 --> 00:15:04,040
+Então por que usar BDN? Mais de 35 anos
+
+347
+00:15:01,720 --> 00:15:06,600
+de pesquisa, múltiplos mecanismos de
+
+348
+00:15:04,040 --> 00:15:09,040
+ação de tumoral, perfil de segurança
+
+349
+00:15:06,600 --> 00:15:12,120
+muito bem estabelecido, muito bem
+
+350
+00:15:09,040 --> 00:15:14,040
+estabelecido, baixo custo e boa
+
+351
+00:15:12,120 --> 00:15:16,160
+disponibilidade.
+
+352
+00:15:14,040 --> 00:15:18,880
+E tá crescendo a cada ano as prescrições
+
+353
+00:15:16,160 --> 00:15:23,440
+da LDN. Tem uma fundação lá na
+
+354
+00:15:18,880 --> 00:15:26,199
+Inglaterra, o LDN Research Trusts, que
+
+355
+00:15:23,440 --> 00:15:28,319
+faz um congresso anual todo ano, lógico,
+
+356
+00:15:26,199 --> 00:15:29,920
+anual todo ano.
+
+357
+00:15:28,319 --> 00:15:31,880
+Vamos lá.
+
+358
+00:15:29,920 --> 00:15:34,360
+Ele faz um congresso anual. É o único
+
+359
+00:15:31,880 --> 00:15:36,600
+congresso que eu conheço que é de uma
+
+360
+00:15:34,360 --> 00:15:39,199
+droga só. Vocês conhecem algum congresso
+
+361
+00:15:36,600 --> 00:15:42,800
+fala só a droga? É uma conheço. Todo ano
+
+362
+00:15:39,199 --> 00:15:45,240
+ele tem lá na no Caribe o congresso. E
+
+363
+00:15:42,800 --> 00:15:48,279
+esse pessoal lá do LDN research tem
+
+364
+00:15:45,240 --> 00:15:50,000
+vários médicos lá na utilizando RDN já
+
+365
+00:15:48,279 --> 00:15:52,040
+muitos anos para muita doença. Mas o
+
+366
+00:15:50,000 --> 00:15:53,639
+assunto hoje aqui é oncologia. que aqui
+
+367
+00:15:52,040 --> 00:15:56,800
+no Brasil é mais consumido na região
+
+368
+00:15:53,639 --> 00:15:59,160
+Centro-Oeste, Sul, Sudeste e existe uma
+
+369
+00:15:56,800 --> 00:16:00,810
+proposta legislativa para incluir esse
+
+370
+00:15:59,160 --> 00:16:02,319
+produto do SUS.
+
+371
+00:16:00,810 --> 00:16:04,920
+[Música]
+
+372
+00:16:02,319 --> 00:16:06,560
+Muito bem, vou falar aqui de estudos
+
+373
+00:16:04,920 --> 00:16:09,160
+glioblastoma,
+
+374
+00:16:06,560 --> 00:16:12,319
+tumores cerebral. Tem um estudo pequeno
+
+375
+00:16:09,160 --> 00:16:16,199
+piloto que foi usando a radioterapia com
+
+376
+00:16:12,319 --> 00:16:18,720
+LDM, teve 50% de sobrevivida em um ano
+
+377
+00:16:16,199 --> 00:16:20,639
+versus só 9% de controle. O problema é
+
+378
+00:16:18,720 --> 00:16:23,440
+que esse estudo foi pequeno, porém
+
+379
+00:16:20,639 --> 00:16:25,160
+ajudou muito a radioterapia atuar e
+
+380
+00:16:23,440 --> 00:16:27,480
+reduziu a ativação do problemaalta que
+
+381
+00:16:25,160 --> 00:16:29,079
+eu falei, aquela célula de defesa do
+
+382
+00:16:27,480 --> 00:16:31,800
+cérebro, né, que acaba atrapalhando o
+
+383
+00:16:29,079 --> 00:16:33,600
+paciente, aumentando a dor e tudo mais.
+
+384
+00:16:31,800 --> 00:16:35,759
+Só que teve um random mais control
+
+385
+00:16:33,600 --> 00:16:39,800
+drive, teve um siteomizado pela
+
+386
+00:16:35,759 --> 00:16:42,800
+Universidade Dilk em 2022 que eles não
+
+387
+00:16:39,800 --> 00:16:44,160
+viram melhora na fadiga e na qualidade
+
+388
+00:16:42,800 --> 00:16:46,040
+de vida. Não sei porque não deu
+
+389
+00:16:44,160 --> 00:16:48,279
+resultado nesse estudo, pode ser algum
+
+390
+00:16:46,040 --> 00:16:50,399
+viés aí, mas enfim, eu preciso mostrar
+
+391
+00:16:48,279 --> 00:16:53,120
+para vocês os dois lados. Eu uso há
+
+392
+00:16:50,399 --> 00:16:55,000
+muitos anos e eu acredito e confio em
+
+393
+00:16:53,120 --> 00:16:57,560
+mim mesmo, só que eu tenho que mostrar
+
+394
+00:16:55,000 --> 00:17:00,639
+os dois lados de estudo falando nesse
+
+395
+00:16:57,560 --> 00:17:02,199
+nessa população de Cleoma que não teve
+
+396
+00:17:00,639 --> 00:17:04,760
+resposta. Eu acho que pode ter sido
+
+397
+00:17:02,199 --> 00:17:06,679
+algum interesse aí comercial atuando
+
+398
+00:17:04,760 --> 00:17:08,839
+nesse sentido.
+
+399
+00:17:06,679 --> 00:17:11,079
+Muito bem.
+
+400
+00:17:08,839 --> 00:17:16,039
+Existe também evidências para câncer de
+
+401
+00:17:11,079 --> 00:17:19,120
+mama, tá? Tanto em laboratório, tumores
+
+402
+00:17:16,039 --> 00:17:20,760
+de que respondem ao hormônio, né, são
+
+403
+00:17:19,120 --> 00:17:23,559
+receptores positivos para esse progên
+
+404
+00:17:20,760 --> 00:17:27,959
+teve uma boa resposta, redução de 23% do
+
+405
+00:17:23,559 --> 00:17:31,320
+tumor, modelos, animais e clínicas. Teve
+
+406
+00:17:27,959 --> 00:17:33,640
+um estudo 2023 em que cinco de oito
+
+407
+00:17:31,320 --> 00:17:36,919
+pacientes tomando LDN tiveram
+
+408
+00:17:33,640 --> 00:17:39,080
+estabilização das metácesas no PETSCAN.
+
+409
+00:17:36,919 --> 00:17:41,200
+aquele catomografia por emissão de
+
+410
+00:17:39,080 --> 00:17:43,520
+Positrons, que usa o FDG como marcador
+
+411
+00:17:41,200 --> 00:17:46,480
+na maioria das vezes para ver se metáis.
+
+412
+00:17:43,520 --> 00:17:49,360
+Então, com esse tratamento com a RDM
+
+413
+00:17:46,480 --> 00:17:51,840
+houve regressão nas metástases, só que
+
+414
+00:17:49,360 --> 00:17:55,000
+foi só por sete semanas. Então, nesse
+
+415
+00:17:51,840 --> 00:17:58,880
+estudo houve resposta, porém nesse
+
+416
+00:17:55,000 --> 00:18:01,440
+estudo a resposta foi temporária, por só
+
+417
+00:17:58,880 --> 00:18:03,360
+sanas.
+
+418
+00:18:01,440 --> 00:18:05,480
+E tem esposadamento usando junto com
+
+419
+00:18:03,360 --> 00:18:07,280
+proprodológico. Eu vou falar isso logo
+
+420
+00:18:05,480 --> 00:18:09,080
+adiante. Mas o importante não tem
+
+421
+00:18:07,280 --> 00:18:11,799
+toxicidade nenhuma. É uma droga
+
+422
+00:18:09,080 --> 00:18:15,880
+extremamente segura, toxicidade grau
+
+423
+00:18:11,799 --> 00:18:19,240
+alto, não teve nenhum cálcio.
+
+424
+00:18:15,880 --> 00:18:21,919
+Para câncer de oválio também tem
+
+425
+00:18:19,240 --> 00:18:24,640
+robustas atividades pré-clínicas em
+
+426
+00:18:21,919 --> 00:18:26,720
+governo do laboratório, tá? Junto com a
+
+427
+00:18:24,640 --> 00:18:31,039
+sis platina que o quinoterápico ajudou a
+
+428
+00:18:26,720 --> 00:18:35,200
+sis platina a agir, tá? teve um efeito
+
+429
+00:18:31,039 --> 00:18:38,520
+superior ao parol de fimoterapia, só que
+
+430
+00:18:35,200 --> 00:18:41,159
+não temos estudos clínicos de muita
+
+431
+00:18:38,520 --> 00:18:42,720
+volta ainda.
+
+432
+00:18:41,159 --> 00:18:46,520
+Para câncer pancreático, a gente tem os
+
+433
+00:18:42,720 --> 00:18:48,760
+casos Dr. Berkson, Dr.
+
+434
+00:18:46,520 --> 00:18:51,799
+que estudou por vários anos casos
+
+435
+00:18:48,760 --> 00:18:55,440
+críticos que ele usou alfao,
+
+436
+00:18:51,799 --> 00:18:59,400
+naxção oral e pacientes que eram para
+
+437
+00:18:55,440 --> 00:19:01,840
+viver de três a 6 meses viveram até 78
+
+438
+00:18:59,400 --> 00:19:03,760
+meses com esse tratamento. Então isso
+
+439
+00:19:01,840 --> 00:19:06,840
+foi tão impactante na época que Dr.
+
+440
+00:19:03,760 --> 00:19:10,840
+Berkson fez isso, que o NCI, é o
+
+441
+00:19:06,840 --> 00:19:12,880
+National Canos Estados Unidos, teve que
+
+442
+00:19:10,840 --> 00:19:14,640
+aceitar os resultados dele e eles
+
+443
+00:19:12,880 --> 00:19:16,520
+sugeriram que fossem feitos mais
+
+444
+00:19:14,640 --> 00:19:19,360
+estudos. o protocolo do câncer
+
+445
+00:19:16,520 --> 00:19:21,360
+patriarco, porém
+
+446
+00:19:19,360 --> 00:19:24,559
+infelizmente até hoje não foi pra
+
+447
+00:19:21,360 --> 00:19:27,720
+frente. Não sei por, não me perguntou.
+
+448
+00:19:24,559 --> 00:19:31,360
+Muito bem. Textino grosso
+
+449
+00:19:27,720 --> 00:19:33,000
+teve resposta junto com floracil,
+
+450
+00:19:31,360 --> 00:19:36,120
+responsividade alguns casos críticos
+
+451
+00:19:33,000 --> 00:19:38,360
+acima 75%. Câncer de próstata birrar
+
+452
+00:19:36,120 --> 00:19:39,880
+matou vários casos de câncer de
+
+453
+00:19:38,360 --> 00:19:42,640
+próstata. Tem estabilização das
+
+454
+00:19:39,880 --> 00:19:44,360
+metástases, controle de lesões e
+
+455
+00:19:42,640 --> 00:19:45,559
+progressão mais lenta no PSA, que você
+
+456
+00:19:44,360 --> 00:19:48,080
+sabe que é o marcador que a gente usa
+
+457
+00:19:45,559 --> 00:19:52,559
+para câncer de prósto. Câncer de pulmão
+
+458
+00:19:48,080 --> 00:19:54,720
+também teremos resultados.
+
+459
+00:19:52,559 --> 00:19:58,760
+Então, já comentei isso aqui, o ano
+
+460
+00:19:54,720 --> 00:20:01,320
+flexiona, melhora o sono, reduz a fadiga
+
+461
+00:19:58,760 --> 00:20:04,480
+e tem também uma coisa que eu não falei,
+
+462
+00:20:01,320 --> 00:20:08,240
+benefícios cognitivos, tá? O LDN ele
+
+463
+00:20:04,480 --> 00:20:11,919
+ajuda na cognição e aí ele ajuda naquela
+
+464
+00:20:08,240 --> 00:20:15,080
+situação da mental da quimioterapia, que
+
+465
+00:20:11,919 --> 00:20:17,200
+é o chemograin, pessoal, vamos inglês,
+
+466
+00:20:15,080 --> 00:20:19,120
+chobinou
+
+467
+00:20:17,200 --> 00:20:21,280
+no camin,
+
+468
+00:20:19,120 --> 00:20:25,080
+tá?
+
+469
+00:20:21,280 --> 00:20:28,240
+Então, prós do LDN, múltiplas mecanis de
+
+470
+00:20:25,080 --> 00:20:31,320
+ação, excelente perfil de segurança,
+
+471
+00:20:28,240 --> 00:20:34,000
+baixo custo, alta disponibilidade.
+
+472
+00:20:31,320 --> 00:20:36,360
+Não que até onde eu sei, nunca vi nenhum
+
+473
+00:20:34,000 --> 00:20:39,240
+caso de câncer que precisou suspender o
+
+474
+00:20:36,360 --> 00:20:40,880
+LM, ah, isso aqui é incompatível,
+
+475
+00:20:39,240 --> 00:20:42,559
+testação, o paciente não pode estar
+
+476
+00:20:40,880 --> 00:20:45,159
+tomando morfina ou piódia, já vou falar
+
+477
+00:20:42,559 --> 00:20:47,159
+disso agora. Porém, por tratamento de
+
+478
+00:20:45,159 --> 00:20:49,960
+câncer, ele ajuda outros tratamentos,
+
+479
+00:20:47,159 --> 00:20:52,640
+ajuda químico, ajuda rádio, ajuda a
+
+480
+00:20:49,960 --> 00:20:55,400
+imunoterapia. Então é muito difícil
+
+481
+00:20:52,640 --> 00:20:56,919
+fazer um caso que não vai poder usar o
+
+482
+00:20:55,400 --> 00:20:58,760
+em conjunto com várias outras coisas,
+
+483
+00:20:56,919 --> 00:21:00,240
+tá? Ninguém tá falando aqui só us que a
+
+484
+00:20:58,760 --> 00:21:02,320
+solução definitiva para tudo, não é
+
+485
+00:21:00,240 --> 00:21:06,600
+isso? Tô dando mais uma ferramenta aqui
+
+486
+00:21:02,320 --> 00:21:06,600
+para vocês, tá?
+
+487
+00:21:07,480 --> 00:21:13,400
+Então existe esse esquema titulação, tá?
+
+488
+00:21:10,320 --> 00:21:16,279
+Você começa geralmente com 1,5 mg ao
+
+489
+00:21:13,400 --> 00:21:18,919
+deitar, vai subindo de semana em semana,
+
+490
+00:21:16,279 --> 00:21:21,799
+3, 4,5. Se o paciente for muito
+
+491
+00:21:18,919 --> 00:21:25,600
+sensível, começa duas mais baixas, 0,5
+
+492
+00:21:21,799 --> 00:21:27,960
+mg, 1 mg. E pode, em vez de subir uma
+
+493
+00:21:25,600 --> 00:21:29,880
+vez por semana, vem subindo a cada duas,
+
+494
+00:21:27,960 --> 00:21:33,159
+três semanas, isso vai ser mais comum
+
+495
+00:21:29,880 --> 00:21:35,960
+paciente sensível ou idosos que vai ter
+
+496
+00:21:33,159 --> 00:21:38,559
+menos tolerância à medicação. E você
+
+497
+00:21:35,960 --> 00:21:40,600
+pode usar até doses mais baixas, 0,1 mg
+
+498
+00:21:38,559 --> 00:21:44,400
+em alguns casos, tá? depende da
+
+499
+00:21:40,600 --> 00:21:44,400
+sensibilidade do paciente.
+
+500
+00:21:44,720 --> 00:21:48,279
+Então, o horário ideal é uma hora antes
+
+501
+00:21:46,520 --> 00:21:50,200
+de dormir
+
+502
+00:21:48,279 --> 00:21:51,400
+por causa daquele pico das endorfinas
+
+503
+00:21:50,200 --> 00:21:53,400
+que eu já comentei com vocês, porque
+
+504
+00:21:51,400 --> 00:21:54,760
+você vai tomar se lá 10 horas da noite,
+
+505
+00:21:53,400 --> 00:21:57,039
+4 horas depois vai dar o pico de
+
+506
+00:21:54,760 --> 00:21:59,080
+endorfina, que é o melhor horário, onde
+
+507
+00:21:57,039 --> 00:22:01,000
+tem mais produção defina natural. Porém,
+
+508
+00:21:59,080 --> 00:22:04,159
+eu tenho vários pacientes que tomam de
+
+509
+00:22:01,000 --> 00:22:06,400
+manhã, tá? Não é proibido usar de manhã.
+
+510
+00:22:04,159 --> 00:22:08,400
+Eh, tem gente que não se dá bem, tem
+
+511
+00:22:06,400 --> 00:22:10,360
+insônia, tem pesadelo, já vou falar
+
+512
+00:22:08,400 --> 00:22:12,000
+disso agora. Então você pode mudar o
+
+513
+00:22:10,360 --> 00:22:14,799
+horário ou mais cedo, tipo meia da
+
+514
+00:22:12,000 --> 00:22:18,080
+tarde, ou você pode passar de manhã, se
+
+515
+00:22:14,799 --> 00:22:20,919
+a pessoa forível.
+
+516
+00:22:18,080 --> 00:22:23,279
+E idealmente você vai usar cápsulas ou
+
+517
+00:22:20,919 --> 00:22:25,000
+comprimidos
+
+518
+00:22:23,279 --> 00:22:26,600
+manipulado, porque você não vai obter
+
+519
+00:22:25,000 --> 00:22:29,360
+nessa dosagem na farmácia comum. Na
+
+520
+00:22:26,600 --> 00:22:31,440
+farmácia comum chama-se révia, é de 50
+
+521
+00:22:29,360 --> 00:22:34,679
+mg, não tem nada a ver com isso aqui. É
+
+522
+00:22:31,440 --> 00:22:38,279
+uma dose alta para pessoas que têm
+
+523
+00:22:34,679 --> 00:22:39,600
+vício, né, em álcool ou drogas. Isso
+
+524
+00:22:38,279 --> 00:22:41,320
+aqui nós estamos trabalhando na faixa de
+
+525
+00:22:39,600 --> 00:22:45,720
+Ltn
+
+526
+00:22:41,320 --> 00:22:47,679
+12, 1,5 às 4,5 mg. Não pode fazer
+
+527
+00:22:45,720 --> 00:22:49,760
+liberação prolongada porque a gente quer
+
+528
+00:22:47,679 --> 00:22:52,480
+o bloqueio temporário para depois
+
+529
+00:22:49,760 --> 00:22:54,120
+bloquear. Nós queremos ação de oure. Por
+
+530
+00:22:52,480 --> 00:22:56,279
+que que vocês vão na academia? Os que
+
+531
+00:22:54,120 --> 00:22:58,320
+vão na academia, vocês vão pra academia
+
+532
+00:22:56,279 --> 00:22:59,880
+porque você quer ver o resultado depois
+
+533
+00:22:58,320 --> 00:23:02,760
+do exercício. Não é o exercício que
+
+534
+00:22:59,880 --> 00:23:04,720
+vocês querem. O exercício é estímulo. O
+
+535
+00:23:02,760 --> 00:23:08,159
+que vocês querem depois é o resultado do
+
+536
+00:23:04,720 --> 00:23:10,760
+exercício. Chama ormese, tá? Ovnese aqui
+
+537
+00:23:08,159 --> 00:23:13,559
+é a mesma cor, chama o você tomou o
+
+538
+00:23:10,760 --> 00:23:17,200
+negócio, bloqueou, o efeito você quer é
+
+539
+00:23:13,559 --> 00:23:19,400
+de desbloqueio, tá? Então, eh, não pode
+
+540
+00:23:17,200 --> 00:23:21,440
+ser liberação prolongada, os comprimidos
+
+541
+00:23:19,400 --> 00:23:24,000
+não podem ter celulose microcristalina
+
+542
+00:23:21,440 --> 00:23:26,039
+que se prefere tem que avisar a farmácia
+
+543
+00:23:24,000 --> 00:23:28,039
+colação. Não coloca a celulose
+
+544
+00:23:26,039 --> 00:23:31,279
+microcristalina porque atrapalha a
+
+545
+00:23:28,039 --> 00:23:32,960
+absorção e a biodisponibilidade.
+
+546
+00:23:31,279 --> 00:23:36,120
+Ah, existe o translito também, meu filho
+
+547
+00:23:32,960 --> 00:23:37,600
+do translâmico. Não é a forma mais
+
+548
+00:23:36,120 --> 00:23:40,360
+recomendada, mas só para você saber se
+
+549
+00:23:37,600 --> 00:23:42,159
+existe essa forma também.
+
+550
+00:23:40,360 --> 00:23:43,960
+combinações. Você pode combinar a com
+
+551
+00:23:42,159 --> 00:23:46,320
+quase tudo. Vocês viram aqui a aula de
+
+552
+00:23:43,960 --> 00:23:49,400
+tudo quantra coisa, que hipertermia,
+
+553
+00:23:46,320 --> 00:23:51,640
+ozônio, eh monte de fitoterapia, de
+
+554
+00:23:49,400 --> 00:23:55,360
+homeopatia, você pode combinar dele com
+
+555
+00:23:51,640 --> 00:23:59,159
+qualquer coisa, tá? Eh, o protocolo mais
+
+556
+00:23:55,360 --> 00:24:00,279
+conhecido o Berkson, que é o alfao,
+
+557
+00:23:59,159 --> 00:24:02,000
+que vocês podem também associar a
+
+558
+00:24:00,279 --> 00:24:04,559
+vitamina sem altas doses, tem efeitos de
+
+559
+00:24:02,000 --> 00:24:06,840
+topósito tumoral, vocês sabem disso, mas
+
+560
+00:24:04,559 --> 00:24:09,400
+vocês sabem, né? Deix que sabem. E a
+
+561
+00:24:06,840 --> 00:24:11,440
+melatonia de alta dose também é uma boa,
+
+562
+00:24:09,400 --> 00:24:13,919
+tá? Porque essa melatonia nessa dose
+
+563
+00:24:11,440 --> 00:24:16,240
+aqui, ela tem feito também a tumoral,
+
+564
+00:24:13,919 --> 00:24:18,559
+mas tem, sei lá, milhares de coisas. Tô
+
+565
+00:24:16,240 --> 00:24:21,600
+dando só alguns exemplos aqui, tá bom?
+
+566
+00:24:18,559 --> 00:24:23,240
+Dieta cetrogênica, né? O palestrante que
+
+567
+00:24:21,600 --> 00:24:26,399
+me antecedeu falou um pouquinho da dieta
+
+568
+00:24:23,240 --> 00:24:28,000
+cetogênica. Eu gosto muito da dietaflex,
+
+569
+00:24:26,399 --> 00:24:30,520
+né? Que é um tipo de dieta cetogênica
+
+570
+00:24:28,000 --> 00:24:34,360
+assim sensata, né?
+
+571
+00:24:30,520 --> 00:24:38,600
+Bem, existe um estudo grande na Brillage
+
+572
+00:24:34,360 --> 00:24:42,159
+Medical, esse BMC Medicine, que analisou
+
+573
+00:24:38,600 --> 00:24:44,440
+62 estudos randomis contra o trial e
+
+574
+00:24:42,159 --> 00:24:46,799
+estabeleceu que é muito seguro o uso do
+
+575
+00:24:44,440 --> 00:24:50,039
+LDM, tá? Então, risco de morte negativa,
+
+576
+00:24:46,799 --> 00:24:51,799
+ou seja, aquilo tem eh significância
+
+577
+00:24:50,039 --> 00:24:54,080
+estatística, mas teoricamente a pessoa
+
+578
+00:24:51,799 --> 00:24:56,200
+que dele morre menos, tá? Mas não tem
+
+579
+00:24:54,080 --> 00:25:00,880
+significância estatística, ou seja, é
+
+580
+00:24:56,200 --> 00:25:02,520
+muito seguro usar o RDM, tá? E você tem
+
+581
+00:25:00,880 --> 00:25:03,840
+aí uma experiência enorme mundial,
+
+582
+00:25:02,520 --> 00:25:08,520
+especialmente no Reino Unido e no
+
+583
+00:25:03,840 --> 00:25:08,520
+Brasil, mostrando que é muito seguro.
+
+584
+00:25:08,919 --> 00:25:12,799
+Exames. Eu vou passar rápido isso aqui
+
+585
+00:25:11,159 --> 00:25:14,520
+porque a maior parte da plateia acho que
+
+586
+00:25:12,799 --> 00:25:18,080
+não é da área de saúde, mas enfim, você
+
+587
+00:25:14,520 --> 00:25:19,880
+faz exames básicos de
+
+588
+00:25:18,080 --> 00:25:22,600
+tem que fazer no paciente onológico, né?
+
+589
+00:25:19,880 --> 00:25:24,240
+Função renal, função hepática. Eh, se
+
+590
+00:25:22,600 --> 00:25:26,279
+você tiver suspeita que o paciente pode
+
+591
+00:25:24,240 --> 00:25:28,279
+ser viciado em drogas e ele não vai te
+
+592
+00:25:26,279 --> 00:25:30,919
+contar que tá usando heroína, às vezes
+
+593
+00:25:28,279 --> 00:25:33,840
+ele tem que fazer um screen urinário. Se
+
+594
+00:25:30,919 --> 00:25:37,840
+você suspeita de uso de opio porque não
+
+595
+00:25:33,840 --> 00:25:40,200
+pode usar LDM junto com opio porque opio
+
+596
+00:25:37,840 --> 00:25:41,679
+ele vai brigar com o LDM, tá? Então não
+
+597
+00:25:40,200 --> 00:25:43,520
+tem como utilizar. Então, inclusive, se
+
+598
+00:25:41,679 --> 00:25:46,919
+a pessoa tiver tomando curador, se usar
+
+599
+00:25:43,520 --> 00:25:50,799
+o LM, vai bloquear o efeito analgésico
+
+600
+00:25:46,919 --> 00:25:50,799
+do opio
+
+601
+00:25:51,080 --> 00:25:55,559
+então monitoramento normal de paciente,
+
+602
+00:25:52,919 --> 00:25:57,480
+só que paciente que tem doença hepática
+
+603
+00:25:55,559 --> 00:26:00,200
+muito grave, isso tem que ser doença
+
+604
+00:25:57,480 --> 00:26:03,039
+hepática muito grave, você vai evitar de
+
+605
+00:26:00,200 --> 00:26:05,399
+usar o LDM e vai, em caso de pacientes
+
+606
+00:26:03,039 --> 00:26:07,159
+que tem doença hepática menos acentuada,
+
+607
+00:26:05,399 --> 00:26:10,559
+você vai fazer o monitoramento das
+
+608
+00:26:07,159 --> 00:26:10,559
+enzimas hepáticas.
+
+609
+00:26:11,960 --> 00:26:16,399
+Quais são os efeitos colaterais mais
+
+610
+00:26:14,240 --> 00:26:19,200
+comuns? Sonhos vivos. O pessoal tem um
+
+611
+00:26:16,399 --> 00:26:22,399
+sonho muito louco assim de LSD,
+
+612
+00:26:19,200 --> 00:26:24,360
+entendeu? Ficar vendo cores assim muito
+
+613
+00:26:22,399 --> 00:26:26,039
+intensas. Só ficar, tem gente, eu acha
+
+614
+00:26:24,360 --> 00:26:28,440
+que barato isso aí,
+
+615
+00:26:26,039 --> 00:26:31,360
+mas de vez em quando tem um pessoal aí
+
+616
+00:26:28,440 --> 00:26:33,640
+que tem uns pesadelos meio cautoso,
+
+617
+00:26:31,360 --> 00:26:35,760
+então não é comum, mas pode dar. Isso é
+
+618
+00:26:33,640 --> 00:26:39,200
+só no começo tratamento. Pode ter
+
+619
+00:26:35,760 --> 00:26:42,159
+pesadeiro, pode ter sonhos intensos.
+
+620
+00:26:39,200 --> 00:26:45,520
+Geralmente passa em duas semanas e tem
+
+621
+00:26:42,159 --> 00:26:47,279
+pessoas que táusa, dor de cabeça. E esse
+
+622
+00:26:45,520 --> 00:26:50,039
+flare, esse flare aqui, que isso aqui? É
+
+623
+00:26:47,279 --> 00:26:52,159
+tipo uma piora temporária dos sintomas
+
+624
+00:26:50,039 --> 00:26:54,279
+do câncer, tá? E geralmente quem tem
+
+625
+00:26:52,159 --> 00:26:56,679
+isso é bom sinal, né? Aqui o sistema
+
+626
+00:26:54,279 --> 00:26:58,320
+imune tá funcionando, tá? Então é um
+
+627
+00:26:56,679 --> 00:27:00,360
+sistema que parece muito com detox,
+
+628
+00:26:58,320 --> 00:27:03,240
+parece uma gripe que é de estado geral,
+
+629
+00:27:00,360 --> 00:27:05,200
+fatiga tal, que dura pouquinho, dura
+
+630
+00:27:03,240 --> 00:27:07,960
+duas, sean depois passa. Então é
+
+631
+00:27:05,200 --> 00:27:09,799
+possível também acontecer esse feito aí
+
+632
+00:27:07,960 --> 00:27:11,320
+colateral.
+
+633
+00:27:09,799 --> 00:27:15,080
+Outra indicação, não pode estar usando
+
+634
+00:27:11,320 --> 00:27:17,320
+morfina, fentanil, oxicodona, todas as
+
+635
+00:27:15,080 --> 00:27:20,279
+drogas ou piores.
+
+636
+00:27:17,320 --> 00:27:22,080
+Ausência de doença hepática muito
+
+637
+00:27:20,279 --> 00:27:25,360
+avançada também não pode ter
+
+638
+00:27:22,080 --> 00:27:27,600
+psensibilidade conhecida, né, a
+
+639
+00:27:25,360 --> 00:27:30,880
+autorexona.
+
+640
+00:27:27,600 --> 00:27:33,559
+E se tiver usando o opod e tiver como
+
+641
+00:27:30,880 --> 00:27:35,919
+tirar o opiod, tá? Tem que fazer um
+
+642
+00:27:33,559 --> 00:27:37,320
+shoutout, ou seja, tirar a droga aos
+
+643
+00:27:35,919 --> 00:27:39,240
+pouquinhos, tá? Se for pior de
+
+644
+00:27:37,320 --> 00:27:42,279
+importação, 7 dias. Se for pior de longa
+
+645
+00:27:39,240 --> 00:27:45,399
+duração, 10 a 14 dias. E se for fazer
+
+646
+00:27:42,279 --> 00:27:47,840
+cirurgia, tem que suspender o RDM 7 dias
+
+647
+00:27:45,399 --> 00:27:49,720
+antes da cirurgia, porque senão vai
+
+648
+00:27:47,840 --> 00:27:51,919
+ferir fentan. Que o anestesista faz
+
+649
+00:27:49,720 --> 00:27:55,240
+também, tá?
+
+650
+00:27:51,919 --> 00:27:59,159
+a exceção. Olha aqui, Dr. Luiz Sterno tá
+
+651
+00:27:55,240 --> 00:28:01,559
+aqui, os maiores homeopatas do Brasil,
+
+652
+00:27:59,159 --> 00:28:03,320
+deu uma aula fantástica agora a pouco.
+
+653
+00:28:01,559 --> 00:28:06,399
+Eu falei para ele: "Olha, isso aqui é
+
+654
+00:28:03,320 --> 00:28:12,080
+maior evidência de que eh homeopatia
+
+655
+00:28:06,399 --> 00:28:16,279
+funciona. 1 microgama de LDN tem ação
+
+656
+00:28:12,080 --> 00:28:17,799
+diferente de 1,5 e tem ação diferente de
+
+657
+00:28:16,279 --> 00:28:20,720
+50 mg."
+
+658
+00:28:17,799 --> 00:28:24,960
+Isso aqui existe uma uma ação de ultra
+
+659
+00:28:20,720 --> 00:28:27,480
+low, 1 a 10 mg que você pode usar junto
+
+660
+00:28:24,960 --> 00:28:29,720
+comodo, o contrário que eu falei, por
+
+661
+00:28:27,480 --> 00:28:31,640
+aqui aumenta a sensibilidade ao piodid,
+
+662
+00:28:29,720 --> 00:28:34,000
+tá vendo que a dose é tudo em medicina,
+
+663
+00:28:31,640 --> 00:28:35,559
+tudo. E isso aqui mostra dose super
+
+664
+00:28:34,000 --> 00:28:37,519
+baixa, funciona. Então isso é também a
+
+665
+00:28:35,559 --> 00:28:39,240
+prova escavar quemopatia. Não tem que
+
+666
+00:28:37,519 --> 00:28:41,720
+discutir maisopatia,
+
+667
+00:28:39,240 --> 00:28:45,200
+tem prova já funcional.
+
+668
+00:28:41,720 --> 00:28:47,559
+F as outras centenas de casos que o Dr.
+
+669
+00:28:45,200 --> 00:28:49,799
+Luiz tem muito mais capacidade para
+
+670
+00:28:47,559 --> 00:28:51,840
+falar do que eu muito bem.
+
+671
+00:28:49,799 --> 00:28:54,039
+Compatibilidade é compartido com
+
+672
+00:28:51,840 --> 00:28:57,880
+praticamente qualquer coisa, compatível
+
+673
+00:28:54,039 --> 00:29:00,240
+com eh imunoterapia, ajuda imunoterapia,
+
+674
+00:28:57,880 --> 00:29:01,880
+que esse aqui é a coisa mais moderna que
+
+675
+00:29:00,240 --> 00:29:04,519
+tem tratamento de câncer, imoterapia,
+
+676
+00:29:01,880 --> 00:29:06,200
+caro de doer, mas é o que tem mais
+
+677
+00:29:04,519 --> 00:29:08,919
+moderno,
+
+678
+00:29:06,200 --> 00:29:11,799
+ajuda a rádio, ajuda químio é compativo
+
+679
+00:29:08,919 --> 00:29:13,840
+e ajuda a esses tratamentos.
+
+680
+00:29:11,799 --> 00:29:16,799
+Estáuso legal é totalmente legal para
+
+681
+00:29:13,840 --> 00:29:20,399
+médicos prescreverem, tá? Porque é
+
+682
+00:29:16,799 --> 00:29:22,000
+registrada como um remédio tipo
+
+683
+00:29:20,399 --> 00:29:24,880
+antidepressivo, como se fosse a mesma
+
+684
+00:29:22,000 --> 00:29:27,960
+regulação do antidepressivo. Então, uso
+
+685
+00:29:24,880 --> 00:29:31,240
+prazer off label significa que é um uso
+
+686
+00:29:27,960 --> 00:29:33,760
+fora da bula. E qualquer médico
+
+687
+00:29:31,240 --> 00:29:36,880
+habilitado pode prescrever. O STJ
+
+688
+00:29:33,760 --> 00:29:39,760
+confirma a legalidade do off label, tá?
+
+689
+00:29:36,880 --> 00:29:42,519
+Só que você tem que usar a mesma
+
+690
+00:29:39,760 --> 00:29:44,679
+eh receita que se fosse para para passar
+
+691
+00:29:42,519 --> 00:29:47,039
+uma normal para pessoas que têm
+
+692
+00:29:44,679 --> 00:29:50,120
+independência.
+
+693
+00:29:47,039 --> 00:29:51,720
+Prescrição, receita branca carbonada
+
+694
+00:29:50,120 --> 00:29:54,039
+dupla.
+
+695
+00:29:51,720 --> 00:29:55,240
+Eh, é bom ter uma um consentimento
+
+696
+00:29:54,039 --> 00:29:57,840
+informado por escrito com uma
+
+697
+00:29:55,240 --> 00:30:02,279
+justificativa no prontuário utilizar
+
+698
+00:29:57,840 --> 00:30:02,279
+base científica que já tá documentário.
+
+699
+00:30:02,600 --> 00:30:06,360
+Então, nas farmácias de manipulação você
+
+700
+00:30:05,080 --> 00:30:08,320
+consegue, você não vai conseguir comprar
+
+701
+00:30:06,360 --> 00:30:11,120
+isso, como eu falei que na farmácia como
+
+702
+00:30:08,320 --> 00:30:13,399
+SUSA vai achar o révia, infelizmente o
+
+703
+00:30:11,120 --> 00:30:16,279
+SUS não cobre, mas já tem projeto
+
+704
+00:30:13,399 --> 00:30:18,240
+direito pro SUS cobrir.
+
+705
+00:30:16,279 --> 00:30:22,679
+Mas o custo não é muito alto. custo
+
+706
+00:30:18,240 --> 00:30:25,320
+geralmente entre 50 e R$ 150 por mês.
+
+707
+00:30:22,679 --> 00:30:27,840
+E esse aqui é o NCI, é o National
+
+708
+00:30:25,320 --> 00:30:30,840
+Instituto dos Estados Unidos, que fez a
+
+709
+00:30:27,840 --> 00:30:32,960
+análise do do caso do Dr. Berson. E eles
+
+710
+00:30:30,840 --> 00:30:36,000
+tiveram que admitir, esse negócio aqui
+
+711
+00:30:32,960 --> 00:30:39,080
+funciona, precisamos estudar isso aqui
+
+712
+00:30:36,000 --> 00:30:40,640
+com mais random mais control trial. Só
+
+713
+00:30:39,080 --> 00:30:45,559
+que não foi pra frente, não sei por.
+
+714
+00:30:40,640 --> 00:30:49,320
+Depois você me explica do também sei.
+
+715
+00:30:45,559 --> 00:30:53,480
+Ó, caso Dr. Bertson, passente 46 anos
+
+716
+00:30:49,320 --> 00:30:55,679
+com metá fígado, viveu 78 meses usando o
+
+717
+00:30:53,480 --> 00:30:59,279
+protocolo da alfa
+
+718
+00:30:55,679 --> 00:31:02,559
+RDN, retornou o trabalho.
+
+719
+00:30:59,279 --> 00:31:06,120
+Esse caso aqui, 39 meses sobrevida, era
+
+720
+00:31:02,559 --> 00:31:08,639
+esperado só três a 6 meses. O pet
+
+721
+00:31:06,120 --> 00:31:12,200
+negativado, ou seja, mostrou que a taça
+
+722
+00:31:08,639 --> 00:31:15,399
+sumiram. Qualidade de vida preservada.
+
+723
+00:31:12,200 --> 00:31:18,919
+Tá aqui o artigo, tá?
+
+724
+00:31:15,399 --> 00:31:22,519
+Ótimo. Outro artigo. Série
+
+725
+00:31:18,919 --> 00:31:24,159
+do MD Anderson. Taxa de resposta à 80%
+
+726
+00:31:22,519 --> 00:31:27,360
+de pessoas responderam a dor, dor
+
+727
+00:31:24,159 --> 00:31:30,159
+neuropática do câncer, tá? 71% de
+
+728
+00:31:27,360 --> 00:31:32,440
+melhora também. Dr. Biro 450 para 6, que
+
+729
+00:31:30,159 --> 00:31:36,600
+eu já comentei com vocês. Aí você vê
+
+730
+00:31:32,440 --> 00:31:40,279
+aqui a coisa é informação real, não é
+
+731
+00:31:36,600 --> 00:31:43,919
+dourar pílula. Ele teve 25% de redução
+
+732
+00:31:40,279 --> 00:31:46,200
+tumoral, aliás, 25% dos casos dele
+
+733
+00:31:43,919 --> 00:31:49,159
+tiveram resposta e os que tiveram a
+
+734
+00:31:46,200 --> 00:31:51,559
+resposta teve mais de 70% de resposta.
+
+735
+00:31:49,159 --> 00:31:54,600
+Aí eu falaria para vocês, eu usaria só o
+
+736
+00:31:51,559 --> 00:31:56,480
+LD passage com câncer? Nunca. O LD é uma
+
+737
+00:31:54,600 --> 00:31:57,760
+ferramenta maravilhosa, mas tem que ser
+
+738
+00:31:56,480 --> 00:31:58,720
+usado por toda essa arramentária que
+
+739
+00:31:57,760 --> 00:32:02,320
+vocês estão aprendendo aqui no
+
+740
+00:31:58,720 --> 00:32:04,679
+Congresso, certo? Mas aqui mostrando dá
+
+741
+00:32:02,320 --> 00:32:08,880
+os reais teve 25% de pacientes com
+
+742
+00:32:04,679 --> 00:32:10,320
+resposta e redução acima de 75%. E eu di
+
+743
+00:32:08,880 --> 00:32:14,519
+que é um dos principais centros
+
+744
+00:32:10,320 --> 00:32:14,519
+oncológicos do mundo, usa o
+
+745
+00:32:14,639 --> 00:32:22,960
+aí outros casos. Sistema ali na reles
+
+746
+00:32:18,399 --> 00:32:26,039
+avançado e os oncologistas mostravista
+
+747
+00:32:22,960 --> 00:32:27,559
+de anticancer research. 10 pacientes
+
+748
+00:32:26,039 --> 00:32:29,519
+metastáticos
+
+749
+00:32:27,559 --> 00:32:31,200
+resistentes quimioterapia, usou o
+
+750
+00:32:29,519 --> 00:32:33,600
+protocolo parecido com Berkson, como eu
+
+751
+00:32:31,200 --> 00:32:37,519
+falei depois, só que usou hidroxitato
+
+752
+00:32:33,600 --> 00:32:40,120
+também junto e o LDM, resultados, doença
+
+753
+00:32:37,519 --> 00:32:42,880
+estável ou lentamente progressiva na
+
+754
+00:32:40,120 --> 00:32:44,720
+maioria dos casos.
+
+755
+00:32:42,880 --> 00:32:46,559
+Esse também é um artigo do capo
+
+756
+00:32:44,720 --> 00:32:48,080
+investigations.
+
+757
+00:32:46,559 --> 00:32:51,600
+Duas crianças com tumor de
+
+758
+00:32:48,080 --> 00:32:53,799
+hepatoblastoma em tomor de fígado.
+
+759
+00:32:51,600 --> 00:32:56,200
+Primeiro caso, 10 anos sobre vida livre
+
+760
+00:32:53,799 --> 00:32:58,960
+de doença. Segundo caso, mais 5 anos
+
+761
+00:32:56,200 --> 00:33:00,559
+sobre vida de doença. Então tem esse
+
+762
+00:32:58,960 --> 00:33:02,919
+caso desse ano de 61 anos também com
+
+763
+00:33:00,559 --> 00:33:06,480
+uniforma de células de regressão da
+
+764
+00:33:02,919 --> 00:33:08,799
+máscara tumoral com o uso do LDM. Isso
+
+765
+00:33:06,480 --> 00:33:10,000
+que só usou LDM, tá? Tá? Se tivesse as
+
+766
+00:33:08,799 --> 00:33:13,639
+outras ferramentas que vocês aprenderam
+
+767
+00:33:10,000 --> 00:33:14,880
+aqui, tava muito melhor.
+
+768
+00:33:13,639 --> 00:33:17,919
+Isso aqui tá mostrando para vocês que o
+
+769
+00:33:14,880 --> 00:33:20,880
+LDN é totalmente seguro na gravidez, tá?
+
+770
+00:33:17,919 --> 00:33:24,240
+Esse aqui é um doutor obsteto ao lado da
+
+771
+00:33:20,880 --> 00:33:28,720
+Inglaterra, Dr. Fileri
+
+772
+00:33:24,240 --> 00:33:30,679
+e ele diz até que reduz aborto o RT.
+
+773
+00:33:28,720 --> 00:33:34,840
+E o Dr. Thomas Hilgers também dos
+
+774
+00:33:30,679 --> 00:33:37,760
+Estados Unidos reforçando essa
+
+775
+00:33:34,840 --> 00:33:40,519
+tranquilidade, essa segurança na US em
+
+776
+00:33:37,760 --> 00:33:42,880
+alta dosagem, tá? Mostrar esse na
+
+777
+00:33:40,519 --> 00:33:44,240
+gravidez.
+
+778
+00:33:42,880 --> 00:33:47,559
+Biomarcadores, a gente tem que
+
+779
+00:33:44,240 --> 00:33:49,679
+desenvolver mais ferramentas clínicas
+
+780
+00:33:47,559 --> 00:33:51,559
+para poder usar o LDM da melhor forma
+
+781
+00:33:49,679 --> 00:33:53,399
+possível. Por quê? Precisamos saber
+
+782
+00:33:51,559 --> 00:33:55,399
+quais são os pacientes que t mais
+
+783
+00:33:53,399 --> 00:33:57,519
+atividade desse sistema que eu expliquei
+
+784
+00:33:55,399 --> 00:33:58,760
+para vocês do OGF.
+
+785
+00:33:57,519 --> 00:34:01,320
+Então, a gente não tem essa ferramenta
+
+786
+00:33:58,760 --> 00:34:03,120
+clínica ainda por precisamos ter e
+
+787
+00:34:01,320 --> 00:34:05,360
+precisamos ter mais dados sobre o
+
+788
+00:34:03,120 --> 00:34:08,320
+sistema de defesa imune com essas
+
+789
+00:34:05,360 --> 00:34:10,879
+medidas aqui pra gente poder saber quem
+
+790
+00:34:08,320 --> 00:34:13,879
+é o paciente que vai gerenciar mais do
+
+791
+00:34:10,879 --> 00:34:16,079
+uso da ferramenta.
+
+792
+00:34:13,879 --> 00:34:18,200
+Então a gente precisa ter melhores
+
+793
+00:34:16,079 --> 00:34:19,399
+marcadores tumorais, melhores
+
+794
+00:34:18,200 --> 00:34:21,800
+ferramentas para ver a qualidade de
+
+795
+00:34:19,399 --> 00:34:24,359
+vida, maiores ferramentas para ver a
+
+796
+00:34:21,800 --> 00:34:27,200
+redução de norma oncológica e para ver a
+
+797
+00:34:24,359 --> 00:34:29,440
+estabilização radiológica do tumor.
+
+798
+00:34:27,200 --> 00:34:32,159
+Então quais são as limitações hoje do
+
+799
+00:34:29,440 --> 00:34:34,919
+LDN? Poucos estudos grandes implantam lá
+
+800
+00:34:32,159 --> 00:34:36,639
+esse control trail porque é muito caro,
+
+801
+00:34:34,919 --> 00:34:38,000
+porque ninguém vai colocar 10 milhões de
+
+802
+00:34:36,639 --> 00:34:40,399
+dólares no estudo de uma droga
+
+803
+00:34:38,000 --> 00:34:44,159
+peropatente. Esse são, infelizmente,
+
+804
+00:34:40,399 --> 00:34:46,000
+essa razão, estudos heteriogêneos.
+
+805
+00:34:44,159 --> 00:34:47,960
+combinações com outros agentes, tem que
+
+806
+00:34:46,000 --> 00:34:50,639
+ser feito mais estudos para haver essa
+
+807
+00:34:47,960 --> 00:34:53,520
+ação sinégérgica e tem os dados sobreviv
+
+808
+00:34:50,639 --> 00:34:56,760
+ainda limitados. Porém, essas são as
+
+809
+00:34:53,520 --> 00:34:59,760
+vantagens que eu já comentei em slide
+
+810
+00:34:56,760 --> 00:34:59,760
+anterior.
+
+811
+00:35:00,000 --> 00:35:04,320
+Isso aqui tá repetido.
+
+812
+00:35:02,240 --> 00:35:06,079
+Precisamos fazer mais estudos então com
+
+813
+00:35:04,320 --> 00:35:07,480
+protocolos utilizados, usar os bom
+
+814
+00:35:06,079 --> 00:35:10,520
+marcadores que não estão disponíveis
+
+815
+00:35:07,480 --> 00:35:12,119
+ainda, fazer estudos multicêntricos e
+
+816
+00:35:10,520 --> 00:35:14,359
+combinar com imunoterapia seria
+
+817
+00:35:12,119 --> 00:35:16,760
+excelente, que é muita, agora hoje tô
+
+818
+00:35:14,359 --> 00:35:20,000
+evoluindo muito.
+
+819
+00:35:16,760 --> 00:35:21,240
+E temos essas desvantagens aí que eu já
+
+820
+00:35:20,000 --> 00:35:24,240
+comentei também ao longo da
+
+821
+00:35:21,240 --> 00:35:24,240
+apresentação.
+
+822
+00:35:25,240 --> 00:35:29,680
+Esse aqui é um estudo que tá em
+
+823
+00:35:26,920 --> 00:35:32,520
+andamento, vai sair em setembro do ano
+
+824
+00:35:29,680 --> 00:35:35,240
+que vem, que é a associação do LDN, o
+
+825
+00:35:32,520 --> 00:35:37,160
+Progromol, Dr. Sér Felipe Júnior fala da
+
+826
+00:35:35,240 --> 00:35:39,920
+sala de crânomol,
+
+827
+00:35:37,160 --> 00:35:41,880
+mas espíromumap
+
+828
+00:35:39,920 --> 00:35:43,480
+e nivum. Que que é isso aqui? São dois
+
+829
+00:35:41,880 --> 00:35:46,640
+agentes imunoterápicos que aumentam a
+
+830
+00:35:43,480 --> 00:35:49,119
+atividades das células linfócos T.
+
+831
+00:35:46,640 --> 00:35:51,240
+Então, tá sendo feito esse estudo para
+
+832
+00:35:49,119 --> 00:35:55,599
+ver como é que o LDM tá ajudando esses
+
+833
+00:35:51,240 --> 00:36:00,160
+imunoterápicos a atuar, tá, no controle
+
+834
+00:35:55,599 --> 00:36:02,440
+desses cânceres aí de belão avançada.
+
+835
+00:36:00,160 --> 00:36:04,400
+Então isso aqui a gente tem várias
+
+836
+00:36:02,440 --> 00:36:07,359
+perspectivas de usar o inibidor de
+
+837
+00:36:04,400 --> 00:36:09,079
+checkpoint ou com terapia carte que são
+
+838
+00:36:07,359 --> 00:36:10,960
+as coisas mais avançadas que tem no
+
+839
+00:36:09,079 --> 00:36:13,040
+mundo oncologia hoje de imotapia
+
+840
+00:36:10,960 --> 00:36:16,240
+terapias extremamente caras,
+
+841
+00:36:13,040 --> 00:36:19,000
+extremamente avançadas que hoje se usa
+
+842
+00:36:16,240 --> 00:36:20,880
+para tentar aumentar a ontem aqui tava
+
+843
+00:36:19,000 --> 00:36:22,720
+aqui viu a Simon né, ela fez uma
+
+844
+00:36:20,880 --> 00:36:25,119
+imunoterapia dessa, não sei qual foi que
+
+845
+00:36:22,720 --> 00:36:27,000
+eu sei postar com ela. Eu queria tirar
+
+846
+00:36:25,119 --> 00:36:31,160
+foto com ela porque eu lembrava do
+
+847
+00:36:27,000 --> 00:36:35,000
+máico, mas eu não quer f
+
+848
+00:36:31,160 --> 00:36:37,319
+Então aí você tem aí essas combinações
+
+849
+00:36:35,000 --> 00:36:40,400
+promissoras e nós vamos cada vez avançar
+
+850
+00:36:37,319 --> 00:36:42,280
+mais com seleção genômica, marcadores
+
+851
+00:36:40,400 --> 00:36:44,160
+pessoais, né, através da
+
+852
+00:36:42,280 --> 00:36:46,319
+farmacogenômica, que é o estudo dos
+
+853
+00:36:44,160 --> 00:36:49,040
+genes que interagem as drogas, e
+
+854
+00:36:46,319 --> 00:36:50,599
+monitoramento tempo real.
+
+855
+00:36:49,040 --> 00:36:52,280
+Eh,
+
+856
+00:36:50,599 --> 00:36:54,079
+então a gente tem que ter esses esses
+
+857
+00:36:52,280 --> 00:36:55,880
+biomarcadores que eu comentei para saber
+
+858
+00:36:54,079 --> 00:37:00,040
+quais são os tumores que vão responder
+
+859
+00:36:55,880 --> 00:37:03,720
+melhor essa ação sobre AGF, GFR.
+
+860
+00:37:00,040 --> 00:37:05,520
+E a gente precisa ter eh uma seleção de
+
+861
+00:37:03,720 --> 00:37:11,400
+paciência de expectativa de vida mais
+
+862
+00:37:05,520 --> 00:37:11,400
+longa e função hepática preservada.
+
+863
+00:37:11,440 --> 00:37:14,640
+Bem, nós estamos chegando ao fim da
+
+864
+00:37:12,760 --> 00:37:17,480
+nossa apresentação. Quem quiser aprender
+
+865
+00:37:14,640 --> 00:37:20,280
+mais sobre tem esses livros referência
+
+866
+00:37:17,480 --> 00:37:21,920
+aqui. Esses livros aqui todos eu tenho,
+
+867
+00:37:20,280 --> 00:37:23,240
+tá? Então, de tudo vale a pena porque
+
+868
+00:37:21,920 --> 00:37:25,119
+isso aí para um monte de doença, né? Só
+
+869
+00:37:23,240 --> 00:37:26,680
+para câncer não ia dar tempo de falar
+
+870
+00:37:25,119 --> 00:37:27,880
+das outras doenças aqui. Eu acho que a
+
+871
+00:37:26,680 --> 00:37:31,839
+gente vai ter até um minutinho ou dois
+
+872
+00:37:27,880 --> 00:37:33,480
+para tirar dúvida se se a a direção
+
+873
+00:37:31,839 --> 00:37:36,160
+permitiu.
+
+874
+00:37:33,480 --> 00:37:40,359
+Esses são sites principais do mundo que
+
+875
+00:37:36,160 --> 00:37:43,079
+falam sobre LDM. L research high e o
+
+876
+00:37:40,359 --> 00:37:47,599
+lowvtrackson.org.
+
+877
+00:37:43,079 --> 00:37:50,560
+Aqui pessoal, QR code tem 100 e
+
+878
+00:37:47,599 --> 00:37:53,160
+39 estudos nesse TR, tá? É coisa
+
+879
+00:37:50,560 --> 00:37:55,200
+científica, né? Coisa tá nerd, não tem
+
+880
+00:37:53,160 --> 00:37:57,440
+mais o que fazer. Vai ficar esses
+
+881
+00:37:55,200 --> 00:38:00,599
+artigos aí.
+
+882
+00:37:57,440 --> 00:38:04,570
+Então tem aí o o QR.
+
+883
+00:38:00,599 --> 00:38:09,560
+Muito obrigado pela atenção de vocês.
+
+884
+00:38:04,570 --> 00:38:11,160
+[Aplausos]
+
+885
+00:38:09,560 --> 00:38:14,160
+Pode, pode deixar eles falar, eles
+
+886
+00:38:11,160 --> 00:38:14,160
+perguntarem
+
+887
+00:38:15,680 --> 00:38:21,000
+tá indicando aumentar para c
+
+888
+00:38:19,200 --> 00:38:24,040
+Sim, tem gente que usa para 6, que eu
+
+889
+00:38:21,000 --> 00:38:27,000
+postei no slide aí, tá? Esse 4,5 não é
+
+890
+00:38:24,040 --> 00:38:29,640
+sempre pedra não. Você pode dar uma eh
+
+891
+00:38:27,000 --> 00:38:31,359
+modificar isso aí.
+
+892
+00:38:29,640 --> 00:38:33,960
+É vivo, é vivo.
+
+893
+00:38:31,359 --> 00:38:36,760
+Olá, eu sou médica do L, também faz 4
+
+894
+00:38:33,960 --> 00:38:40,359
+anos pacientes. Inclusive a dosagem
+
+895
+00:38:36,760 --> 00:38:44,119
+seria 0,08 mg por t de peso, sendo dose
+
+896
+00:38:40,359 --> 00:38:45,800
+máxima até 4,5 como LDN, né? Mas eu usei
+
+897
+00:38:44,119 --> 00:38:48,480
+num paciente de 6 anos que tava com
+
+898
+00:38:45,800 --> 00:38:51,520
+retroitos ativa depois de 30 dias ele
+
+899
+00:38:48,480 --> 00:38:53,119
+fez uma nova colomoscopia e o médico
+
+900
+00:38:51,520 --> 00:38:54,560
+pediatra falou que estava treino de
+
+901
+00:38:53,119 --> 00:38:56,200
+diagnóstico. Na verdade, ele não tinha
+
+902
+00:38:54,560 --> 00:38:58,079
+mais nada. Sim, tem muita gente que
+
+903
+00:38:56,200 --> 00:38:59,680
+responde, eu não falei que não agora su
+
+904
+00:38:58,079 --> 00:39:02,359
+da aula, tá? Mas tem muita gente
+
+905
+00:38:59,680 --> 00:39:04,160
+responde ao uso do LDN para eh
+
+906
+00:39:02,359 --> 00:39:06,400
+inflamações intestinais, né, para cron,
+
+907
+00:39:04,160 --> 00:39:08,720
+retrul serativa, ele funciona bem e você
+
+908
+00:39:06,400 --> 00:39:10,240
+pode usar por peso também, tá? Até onde
+
+909
+00:39:08,720 --> 00:39:12,720
+eu sei não tem assim nenhuma evidência
+
+910
+00:39:10,240 --> 00:39:15,240
+se você usar essa progressão que eu
+
+911
+00:39:12,720 --> 00:39:19,119
+mostrei aqui ou usar do peso você fica
+
+912
+00:39:15,240 --> 00:39:22,599
+nessa faixa de 1,5 para 4,5 até 5 até se
+
+913
+00:39:19,119 --> 00:39:24,400
+tem até 6 km vai funcionar, tá
+
+914
+00:39:22,599 --> 00:39:27,440
+pessoal? Vou deixar vocês fazerem as
+
+915
+00:39:24,400 --> 00:39:28,760
+perguntas depois pra gente não estourar
+
+916
+00:39:27,440 --> 00:39:31,520
+muito tempo aqui, porque agora é o
+
+917
+00:39:28,760 --> 00:39:31,520
+horário do almoço.
+

@@ -1,0 +1,904 @@
+1
+00:00:00,359 --> 00:00:04,400
+Olá como vão Então vamos mostrar como
+
+2
+00:00:03,399 --> 00:00:07,520
+está o
+
+3
+00:00:04,400 --> 00:00:10,519
+aplicativo essa é uma tela de login
+
+4
+00:00:07,520 --> 00:00:14,080
+Inicial que nós colocamos os
+
+5
+00:00:10,519 --> 00:00:16,560
+dados dos operadores que vão utilizar o
+
+6
+00:00:14,080 --> 00:00:19,000
+sistema a dashboard que vai poder
+
+7
+00:00:16,560 --> 00:00:21,760
+acompanhar as conversas então eu vou
+
+8
+00:00:19,000 --> 00:00:21,760
+entrar aqui com o
+
+9
+00:00:23,000 --> 00:00:28,119
+usuário hipotético que eu crii no no
+
+10
+00:00:25,439 --> 00:00:31,079
+banco de dados obviamente a gente pode
+
+11
+00:00:28,119 --> 00:00:35,440
+pode não vamos mudar esses usuários
+
+12
+00:00:31,079 --> 00:00:38,559
+né Deixa eu só localizar a senha aqui
+
+13
+00:00:35,440 --> 00:00:41,600
+então é um usuário chamado Pedrosa né
+
+14
+00:00:38,559 --> 00:00:43,480
+que foi criado que é um dos
+
+15
+00:00:41,600 --> 00:00:47,239
+operadores
+
+16
+00:00:43,480 --> 00:00:49,719
+então o Pedrosa entrou no sistema temos
+
+17
+00:00:47,239 --> 00:00:52,399
+as mensagens aqui ativas Então como é
+
+18
+00:00:49,719 --> 00:00:53,559
+que funciona o fluxo todas essas
+
+19
+00:00:52,399 --> 00:00:55,719
+conversas que estão vendo aqui à
+
+20
+00:00:53,559 --> 00:01:00,239
+esquerda São pessoas que foram criadas
+
+21
+00:00:55,719 --> 00:01:02,359
+como usuários E aí eu criei uma umas
+
+22
+00:01:00,239 --> 00:01:05,640
+automações que que tá do lado direito
+
+23
+00:01:02,359 --> 00:01:07,360
+aqui para criar um usuários falsos e tem
+
+24
+00:01:05,640 --> 00:01:11,040
+um usuário aqui que é verdadeiro que sou
+
+25
+00:01:07,360 --> 00:01:12,920
+eu Ok então a entrada de dados do
+
+26
+00:01:11,040 --> 00:01:14,479
+usuário verdadeiro é um pouco diferente
+
+27
+00:01:12,920 --> 00:01:19,000
+dos
+
+28
+00:01:14,479 --> 00:01:23,360
+usuários falsos mas aqui o uso da
+
+29
+00:01:19,000 --> 00:01:26,439
+api do Z Api para poder entrar os dados
+
+30
+00:01:23,360 --> 00:01:29,119
+é exatamente como seria no aplicativo de
+
+31
+00:01:26,439 --> 00:01:32,240
+produção Ok então esse aqui são usuários
+
+32
+00:01:29,119 --> 00:01:35,360
+que t eh perguntas aleatórias que eu
+
+33
+00:01:32,240 --> 00:01:37,360
+coloquei pro programa rodar então ele
+
+34
+00:01:35,360 --> 00:01:41,040
+recebeu essa mensagem Qual é a data de
+
+35
+00:01:37,360 --> 00:01:43,439
+validade aí o operador Tavares aqui eu
+
+36
+00:01:41,040 --> 00:01:47,240
+tô alugado como Pedrosa mas o Tavares
+
+37
+00:01:43,439 --> 00:01:50,000
+responde aqui ó do anos né e tem a data
+
+38
+00:01:47,240 --> 00:01:53,000
+e o horário que ele respondeu aí as
+
+39
+00:01:50,000 --> 00:01:56,000
+perguntas que ele vai respondendo tá
+
+40
+00:01:53,000 --> 00:02:00,719
+essa essa esse diálogo começou às 22
+
+41
+00:01:56,000 --> 00:02:02,159
+horas às 21 horas do dia 3 de Março
+
+42
+00:02:00,719 --> 00:02:06,000
+mesma situação
+
+43
+00:02:02,159 --> 00:02:08,959
+aqui simulando uma conversa com o
+
+44
+00:02:06,000 --> 00:02:11,120
+cliente e aqui importante ver que tem um
+
+45
+00:02:08,959 --> 00:02:14,400
+menu aqui em cima dos controles esses
+
+46
+00:02:11,120 --> 00:02:16,280
+contoles aqui são as tags você consegue
+
+47
+00:02:14,400 --> 00:02:18,519
+ver a tag aqui na lateral a dúvidas
+
+48
+00:02:16,280 --> 00:02:20,360
+Gerais eu posso mudar eu posso por
+
+49
+00:02:18,519 --> 00:02:22,080
+exemplo acrescentar o pós-venda e
+
+50
+00:02:20,360 --> 00:02:22,879
+atualiza aqui atualiza também no banco
+
+51
+00:02:22,080 --> 00:02:25,319
+de
+
+52
+00:02:22,879 --> 00:02:28,560
+dados ou se eu quiser tirar eu posso
+
+53
+00:02:25,319 --> 00:02:31,280
+tirar também deixar sem nenhuma tag tá
+
+54
+00:02:28,560 --> 00:02:33,720
+sem tag agora aqui e eu posso sei a
+
+55
+00:02:31,280 --> 00:02:36,519
+partir do momento que foi acusado uma
+
+56
+00:02:33,720 --> 00:02:38,519
+venda marcar a tag vendido aqui já está
+
+57
+00:02:36,519 --> 00:02:39,920
+marcado a tag vendido eu não vou clicar
+
+58
+00:02:38,519 --> 00:02:42,800
+aqui porque eu quero mostrar uma outra
+
+59
+00:02:39,920 --> 00:02:45,040
+funcionalidade Mas eu posso vou fazer
+
+60
+00:02:42,800 --> 00:02:47,599
+aqui só para vocês verem ó Pronto agora
+
+61
+00:02:45,040 --> 00:02:50,120
+ele passou a ser não vendido e aqui tem
+
+62
+00:02:47,599 --> 00:02:52,239
+uma mensagem embaixo se eu quiser
+
+63
+00:02:50,120 --> 00:02:54,480
+colocar vendido de novo tá aqui embaixo
+
+64
+00:02:52,239 --> 00:02:57,239
+também autorizou o banco de dados por
+
+65
+00:02:54,480 --> 00:02:59,640
+trás e eu posso mudar o visitador aqui
+
+66
+00:02:57,239 --> 00:03:01,879
+eu coloquei Larissa eu não conheci o
+
+67
+00:02:59,640 --> 00:03:04,599
+nome nome dos outros visitadores mas eu
+
+68
+00:03:01,879 --> 00:03:06,120
+pus aqui Márcio Marcos hipoteticamente
+
+69
+00:03:04,599 --> 00:03:10,159
+posso mudar aqui ó por exemplo mudar
+
+70
+00:03:06,120 --> 00:03:12,599
+esse aqui pro Márcio OK aí eu clico ou
+
+71
+00:03:10,159 --> 00:03:16,040
+aqui ou clico em qualquer lugar fora e
+
+72
+00:03:12,599 --> 00:03:17,519
+sai dos controles aqui tem as página de
+
+73
+00:03:16,040 --> 00:03:21,040
+história que eu já vou mostrar é a
+
+74
+00:03:17,519 --> 00:03:23,400
+página de métricas e a página de resumos
+
+75
+00:03:21,040 --> 00:03:25,560
+aqui ele mostra o resumo da conversa
+
+76
+00:03:23,400 --> 00:03:28,360
+atual o cliente da healthc pergunta
+
+77
+00:03:25,560 --> 00:03:30,680
+sobre o cadastro no site concentração de
+
+78
+00:03:28,360 --> 00:03:32,799
+um princípio ativo como celar um pedido
+
+79
+00:03:30,680 --> 00:03:36,239
+originalidade
+
+80
+00:03:32,799 --> 00:03:38,799
+dosagem e se ele já teve alguma conversa
+
+81
+00:03:36,239 --> 00:03:41,840
+anterior fechada a última conversa
+
+82
+00:03:38,799 --> 00:03:43,480
+anterior também aparece o resumo aqui tá
+
+83
+00:03:41,840 --> 00:03:45,959
+Então vamos fechar uma conversa aqui
+
+84
+00:03:43,480 --> 00:03:46,959
+para vocês verem como é que funciona eu
+
+85
+00:03:45,959 --> 00:03:49,920
+venho
+
+86
+00:03:46,959 --> 00:03:52,000
+aqui encerrar a conversa ele dá um aviso
+
+87
+00:03:49,920 --> 00:03:54,120
+aqui o resumo atual será movido para o
+
+88
+00:03:52,000 --> 00:03:56,879
+histórico uma nova interação de conversa
+
+89
+00:03:54,120 --> 00:03:58,400
+será iniciada Caso haja novo contato
+
+90
+00:03:56,879 --> 00:04:00,000
+Então se o cliente entrar de novo em
+
+91
+00:03:58,400 --> 00:04:01,040
+contato
+
+92
+00:04:00,000 --> 00:04:04,560
+a
+
+93
+00:04:01,040 --> 00:04:06,480
+conversa gera uma nova conversa as
+
+94
+00:04:04,560 --> 00:04:08,720
+mensagens na tela serão limpas Mas ficam
+
+95
+00:04:06,480 --> 00:04:12,319
+armazenadas no histórico quer continuar
+
+96
+00:04:08,720 --> 00:04:15,799
+sim aí a conversa sumiu
+
+97
+00:04:12,319 --> 00:04:18,759
+ok e por aí vai então eu vou gerar aqui
+
+98
+00:04:15,799 --> 00:04:19,919
+por exemplo um atendimento eu vou usar
+
+99
+00:04:18,759 --> 00:04:22,919
+aqui uma
+
+100
+00:04:19,919 --> 00:04:22,919
+outra
+
+101
+00:04:25,120 --> 00:04:29,880
+automação tem uma outra automação aqui
+
+102
+00:04:27,680 --> 00:04:32,479
+que é o é o Web Hook real tá porque que
+
+103
+00:04:29,880 --> 00:04:35,960
+meu telefone ele tá ligado diretamente
+
+104
+00:04:32,479 --> 00:04:37,120
+aqui então vou ligar só para vocês verem
+
+105
+00:04:35,960 --> 00:04:40,280
+eu mandando
+
+106
+00:04:37,120 --> 00:04:42,880
+mensagem era bom mostrar meu celular
+
+107
+00:04:40,280 --> 00:04:45,600
+também né mas eu tô com celular aberto
+
+108
+00:04:42,880 --> 00:04:47,880
+aqui eu vou mandar mensagem pelo
+
+109
+00:04:45,600 --> 00:04:51,919
+WhatsApp eu posso mostrar também isso na
+
+110
+00:04:47,880 --> 00:04:54,759
+reunião ao vivo então entro
+
+111
+00:04:51,919 --> 00:04:56,360
+aqui eu tenho duas linhas aqui no
+
+112
+00:04:54,759 --> 00:05:00,759
+telefone eu vou mandar paraa linha que
+
+113
+00:04:56,360 --> 00:05:00,759
+tá ligada no sistema tá
+
+114
+00:05:01,400 --> 00:05:06,320
+por exemplo vou mandar aqui uma boa
+
+115
+00:05:03,840 --> 00:05:09,320
+tarde tô digitando aqui no
+
+116
+00:05:06,320 --> 00:05:09,320
+celular
+
+117
+00:05:09,919 --> 00:05:16,160
+enviei entrou no sistema e vai atualizar
+
+118
+00:05:14,160 --> 00:05:19,160
+a tela agora aí pronto tá vendo
+
+119
+00:05:16,160 --> 00:05:20,880
+atualizou a tela aqui você deve ter
+
+120
+00:05:19,160 --> 00:05:23,680
+ouvido um barulhinho aí que quando chega
+
+121
+00:05:20,880 --> 00:05:26,039
+mensagem tem um aviso sonoro tá vendo
+
+122
+00:05:23,680 --> 00:05:30,000
+Boa tarde Se eu responder aqui aparece
+
+123
+00:05:26,039 --> 00:05:32,520
+no meu celular Colocar assim boa tarde
+
+124
+00:05:30,000 --> 00:05:33,400
+então foi lá mensagem enviada sucesso
+
+125
+00:05:32,520 --> 00:05:36,280
+via
+
+126
+00:05:33,400 --> 00:05:38,360
+WhatsApp e na minha tela tá aparecendo
+
+127
+00:05:36,280 --> 00:05:40,560
+Boa tarde deixa eu colocar aqui para
+
+128
+00:05:38,360 --> 00:05:45,039
+vocês
+
+129
+00:05:40,560 --> 00:05:48,560
+verem eu tô com o WhatsApp web aqui
+
+130
+00:05:45,039 --> 00:05:51,720
+ele então ó tá vendo eu mandei um boa
+
+131
+00:05:48,560 --> 00:05:53,680
+tarde para eles e recebi o Boa tarde
+
+132
+00:05:51,720 --> 00:05:55,360
+aqui então tá ligado no meu telefone ó
+
+133
+00:05:53,680 --> 00:05:59,639
+numa das minhas linhas
+
+134
+00:05:55,360 --> 00:06:03,560
+aqui e aqui é uma outra automação que
+
+135
+00:05:59,639 --> 00:06:05,160
+que manda um uma uma simulação de como é
+
+136
+00:06:03,560 --> 00:06:07,280
+que seria o pacote de dados vindo do
+
+137
+00:06:05,160 --> 00:06:09,000
+WhatsApp tá vindo do zapi Então vou
+
+138
+00:06:07,280 --> 00:06:12,319
+testar esse workflow para vocês verem
+
+139
+00:06:09,000 --> 00:06:14,599
+aqui ó Pronto ele vai mandar mensagem
+
+140
+00:06:12,319 --> 00:06:18,280
+chegou tá vendo a Bianca calvacante e
+
+141
+00:06:14,599 --> 00:06:21,680
+tem um código rodando aqui existe
+
+142
+00:06:18,280 --> 00:06:24,120
+uma um código rodando que gera vários
+
+143
+00:06:21,680 --> 00:06:26,440
+nomes baseados nessa lista aqui e gera
+
+144
+00:06:24,120 --> 00:06:28,599
+uma mensagem aleatória Então chegou a
+
+145
+00:06:26,440 --> 00:06:30,479
+mensagem da Bianca calvalcante eu
+
+146
+00:06:28,599 --> 00:06:32,960
+coloquei um dígito a mais aqui no número
+
+147
+00:06:30,479 --> 00:06:35,599
+dela para ela não para eu não mandar de
+
+148
+00:06:32,960 --> 00:06:37,639
+maneira inadvertida um uma mensagem de
+
+149
+00:06:35,599 --> 00:06:40,039
+WhatsApp para uma pessoa aí que pode at
+
+150
+00:06:37,639 --> 00:06:41,599
+ter o mesmo número mas eu respondo aqui
+
+151
+00:06:40,039 --> 00:06:46,120
+sim
+
+152
+00:06:41,599 --> 00:06:46,120
+possui registro vou responder
+
+153
+00:06:48,919 --> 00:06:54,360
+aqui e aí eu mando aqui não vai mandar o
+
+154
+00:06:52,880 --> 00:06:56,199
+WhatsApp porque esse número não existe
+
+155
+00:06:54,360 --> 00:06:59,840
+tá tem um dígito a mais aqui mas vai pro
+
+156
+00:06:56,199 --> 00:07:01,360
+banco de dados Ok então vamos lá no e no
+
+157
+00:06:59,840 --> 00:07:04,720
+histórico para vocês verem como é que
+
+158
+00:07:01,360 --> 00:07:06,199
+funciona ó histórico então todas as
+
+159
+00:07:04,720 --> 00:07:09,120
+conversas que foram encerradas estão
+
+160
+00:07:06,199 --> 00:07:12,039
+aqui aí eu clico aqui tem todas as
+
+161
+00:07:09,120 --> 00:07:13,520
+conversas anteriores Ok eu posso buscar
+
+162
+00:07:12,039 --> 00:07:16,520
+também ó por exemplo tem aqui um
+
+163
+00:07:13,520 --> 00:07:18,319
+registro Ana Ferreira João e tem dois
+
+164
+00:07:16,520 --> 00:07:21,280
+João Costa porque o sistema gerou
+
+165
+00:07:18,319 --> 00:07:23,360
+automático Tá mas são números diferentes
+
+166
+00:07:21,280 --> 00:07:25,360
+Então coloca aqui Maria Silva por
+
+167
+00:07:23,360 --> 00:07:28,039
+exemplo aparece a Maria Silva aqui
+
+168
+00:07:25,360 --> 00:07:30,599
+embaixo tá ou eu posso clicar aqui
+
+169
+00:07:28,039 --> 00:07:33,039
+também digamos diamos que eu quero o
+
+170
+00:07:30,599 --> 00:07:35,759
+resumo deixa eu limpar aqui o histórico
+
+171
+00:07:33,039 --> 00:07:38,560
+desse dessa conversa com a Ana Ferreira
+
+172
+00:07:35,759 --> 00:07:41,440
+aqui tá tem um botão que gera o resumo
+
+173
+00:07:38,560 --> 00:07:41,440
+dessa conversa tá
+
+174
+00:07:43,560 --> 00:07:50,280
+aqui pronto tá aí a o resumo da conversa
+
+175
+00:07:47,680 --> 00:07:50,280
+inteira
+
+176
+00:07:50,879 --> 00:07:56,879
+tá vamos voltar pra tela inicial e temos
+
+177
+00:07:54,800 --> 00:07:58,759
+a tela de métricas que eu implementei
+
+178
+00:07:56,879 --> 00:08:00,560
+taxa de conversão tempo médio de
+
+179
+00:07:58,759 --> 00:08:02,159
+atendimento e número de atendimentos eu
+
+180
+00:08:00,560 --> 00:08:03,520
+poderia ter colocado mais métricas aqui
+
+181
+00:08:02,159 --> 00:08:05,599
+mas eu quis parar por aqui porque às
+
+182
+00:08:03,520 --> 00:08:07,960
+vezes a gente pode avançar muito e vocês
+
+183
+00:08:05,599 --> 00:08:11,280
+não concordarem com alguma coisa então
+
+184
+00:08:07,960 --> 00:08:16,000
+taxa de conversão todo período tá aqui
+
+185
+00:08:11,280 --> 00:08:19,080
+como foram 17 conversas no total e foram
+
+186
+00:08:16,000 --> 00:08:21,039
+cinco conversas marcado como vendido a
+
+187
+00:08:19,080 --> 00:08:26,639
+taxa tá em torno de
+
+188
+00:08:21,039 --> 00:08:27,720
+30% e eu posso mudar esse ano esse mês
+
+189
+00:08:26,639 --> 00:08:31,199
+essa
+
+190
+00:08:27,720 --> 00:08:33,399
+semana hoje
+
+191
+00:08:31,199 --> 00:08:35,279
+Ok e personalizado escolher a data de
+
+192
+00:08:33,399 --> 00:08:38,159
+início data de fim aparece um calendário
+
+193
+00:08:35,279 --> 00:08:40,240
+aqui para eu escolher as datas tá vamos
+
+194
+00:08:38,159 --> 00:08:42,440
+colocar todo o período aí aparece aqui
+
+195
+00:08:40,240 --> 00:08:45,720
+as conversões por visitador Então aqui
+
+196
+00:08:42,440 --> 00:08:48,720
+tem a Larissa e tem o hipotético
+
+197
+00:08:45,720 --> 00:08:51,320
+visitador Márcio aqui mostrando que a
+
+198
+00:08:48,720 --> 00:08:53,560
+taxa de conversão do Márcio foi 80% da
+
+199
+00:08:51,320 --> 00:08:56,720
+Larissa foi 50% e do Marcos que é o
+
+200
+00:08:53,560 --> 00:08:59,640
+terceiro que eu cadastrei aqui 0% nesse
+
+201
+00:08:56,720 --> 00:09:02,720
+período Total ok
+
+202
+00:08:59,640 --> 00:09:07,040
+então tem por conversão por conversa e
+
+203
+00:09:02,720 --> 00:09:07,040
+tem conversão por visitador
+
+204
+00:09:08,440 --> 00:09:13,399
+tá tempo médio de atendimento 2 hor 26
+
+205
+00:09:12,120 --> 00:09:16,440
+minutos esse aqui é o tempo de cada
+
+206
+00:09:13,399 --> 00:09:19,360
+conversa por isso que é important deixa
+
+207
+00:09:16,440 --> 00:09:22,320
+eu voltar aqui encerrar as conversas
+
+208
+00:09:19,360 --> 00:09:25,079
+porque é um ciclo né quando o atendente
+
+209
+00:09:22,320 --> 00:09:28,440
+percebe que o cliente tá satisfeito ele
+
+210
+00:09:25,079 --> 00:09:31,079
+vem aqui e encerra a conversa tá para
+
+211
+00:09:28,440 --> 00:09:34,279
+poder as métricas fazerem sentido aqui
+
+212
+00:09:31,079 --> 00:09:37,360
+depois né tempo médio de atendimento
+
+213
+00:09:34,279 --> 00:09:38,880
+mesma coisa por mês ano personalizado
+
+214
+00:09:37,360 --> 00:09:41,600
+como eu já tinha mostrado número de
+
+215
+00:09:38,880 --> 00:09:44,839
+atendimentos também ele mostra nesta
+
+216
+00:09:41,600 --> 00:09:46,240
+semana neste mês neste ano todo o
+
+217
+00:09:44,839 --> 00:09:49,079
+período aqui depois a gente vai ter que
+
+218
+00:09:46,240 --> 00:09:52,640
+conversar um detalhezinho dessa métrica
+
+219
+00:09:49,079 --> 00:09:54,200
+aqui mas a gente conversa na reunião a
+
+220
+00:09:52,640 --> 00:09:56,920
+intenção que é só mostrar como é que tá
+
+221
+00:09:54,200 --> 00:10:00,040
+funcionando o aplicativo tá
+
+222
+00:09:56,920 --> 00:10:03,200
+ã Então é isso mostrei as
+
+223
+00:10:00,040 --> 00:10:05,360
+funcionalidades aqui e a gente pode
+
+224
+00:10:03,200 --> 00:10:07,399
+conversar de acrescentar mais algum tipo
+
+225
+00:10:05,360 --> 00:10:12,920
+de recurso
+
+226
+00:10:07,399 --> 00:10:12,920
+tá obrigado pela atenção de vocês aí
+

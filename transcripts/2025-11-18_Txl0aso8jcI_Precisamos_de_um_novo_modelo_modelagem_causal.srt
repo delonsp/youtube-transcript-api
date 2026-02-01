@@ -1,0 +1,84 @@
+1
+00:00:00,040 --> 00:00:04,720
+Nós precisamos de um novo modelo. Esse
+
+2
+00:00:02,480 --> 00:00:07,839
+modelo cartesiano atual, ele tá muito
+
+3
+00:00:04,720 --> 00:00:10,840
+limitado. Então, a modelagem causal faz
+
+4
+00:00:07,839 --> 00:00:13,440
+uma pergunta diferente. Quais mecanismos
+
+5
+00:00:10,840 --> 00:00:16,000
+ligam intervenção à bioquímica e ao
+
+6
+00:00:13,440 --> 00:00:18,720
+resultado clínico? Ao invés de apagar as
+
+7
+00:00:16,000 --> 00:00:21,640
+diferenças, tirando a média, ela abraça
+
+8
+00:00:18,720 --> 00:00:24,560
+a individualidade usando biomarcadores,
+
+9
+00:00:21,640 --> 00:00:27,880
+raciocínio mecanístico, probabilidade
+
+10
+00:00:24,560 --> 00:00:30,080
+baesiana para inferir causa e efeito a
+
+11
+00:00:27,880 --> 00:00:31,640
+partir de múltiplos fluxos de evidência,
+
+12
+00:00:30,080 --> 00:00:33,719
+tá? Eu falei difícil agora, né? Falei,
+
+13
+00:00:31,640 --> 00:00:36,520
+parece até que eu tô inteligente agora.
+
+14
+00:00:33,719 --> 00:00:37,920
+Isso espelha como os clínicos realmente
+
+15
+00:00:36,520 --> 00:00:39,879
+pensam.
+
+16
+00:00:37,920 --> 00:00:42,160
+Então, quando a deficiência vitamina D
+
+17
+00:00:39,879 --> 00:00:45,320
+se correlaciona com disfunção imune ou
+
+18
+00:00:42,160 --> 00:00:48,960
+estresse oxidativo e desfechos ruins e a
+
+19
+00:00:45,320 --> 00:00:51,280
+suplementação restaura a função, isso é
+
+20
+00:00:48,960 --> 00:00:53,520
+inferência causal, não é coincidência.
+
+21
+00:00:51,280 --> 00:00:53,520
+Nice.
+

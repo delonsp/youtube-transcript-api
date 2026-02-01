@@ -1,0 +1,536 @@
+1
+00:00:00,280 --> 00:00:04,759
+É mito que os médicos indicam uma
+
+2
+00:00:02,280 --> 00:00:07,520
+pequena dose de vinho para benefícios à
+
+3
+00:00:04,759 --> 00:00:09,240
+saúde. Pois é, pessoal. Sabe aquela taça
+
+4
+00:00:07,520 --> 00:00:10,400
+de vinho que muita gente toma no jantar
+
+5
+00:00:09,240 --> 00:00:13,519
+achando que está fazendo bem pro
+
+6
+00:00:10,400 --> 00:00:15,759
+coração? Pois é, é bem polêmico isso
+
+7
+00:00:13,519 --> 00:00:17,680
+daí. E olha, acabei de revisitar os
+
+8
+00:00:15,759 --> 00:00:19,720
+estudos mais recentes, incluindo uma
+
+9
+00:00:17,680 --> 00:00:23,400
+publicação fresquinha de dezembro de
+
+10
+00:00:19,720 --> 00:00:25,640
+2024 no European Heart Journal e a nova
+
+11
+00:00:23,400 --> 00:00:27,400
+posição da American Heart Association
+
+12
+00:00:25,640 --> 00:00:30,439
+2025. Eu vou contar para vocês o que a
+
+13
+00:00:27,400 --> 00:00:33,600
+ciência está dizendo sobre isso. Vamos
+
+14
+00:00:30,439 --> 00:00:35,680
+começar pelo famoso paradoxo francês. Lá
+
+15
+00:00:33,600 --> 00:00:38,360
+nos anos 90, os pesquisadores ficaram
+
+16
+00:00:35,680 --> 00:00:40,280
+intrigados. Como é que os franceses que
+
+17
+00:00:38,360 --> 00:00:41,960
+comem tanta manteiga, tanto queijo,
+
+18
+00:00:40,280 --> 00:00:44,680
+tanta gordura saturada, que eu acho que
+
+19
+00:00:41,960 --> 00:00:47,440
+não faz mal, mas essa ideia deles, tem
+
+20
+00:00:44,680 --> 00:00:49,480
+menos infarto que os americanos. A
+
+21
+00:00:47,440 --> 00:00:51,800
+primeira explicação que surgiu foi deve
+
+22
+00:00:49,480 --> 00:00:53,520
+ser o vinho tinto. E assim nasceu toda
+
+23
+00:00:51,800 --> 00:00:55,960
+uma indústria de suplementação
+
+24
+00:00:53,520 --> 00:00:58,280
+resveratrol e uma justificativa
+
+25
+00:00:55,960 --> 00:01:00,879
+científica para Happy Hour. Mas calma lá
+
+26
+00:00:58,280 --> 00:01:02,239
+que a história pode não ser bem assim. O
+
+27
+00:01:00,879 --> 00:01:05,439
+que os estudos mais recentes estão
+
+28
+00:01:02,239 --> 00:01:08,840
+mostrando é fascinante. Em 2023, o
+
+29
+00:01:05,439 --> 00:01:11,200
+Medscape publicou sobre Wine Flor Study,
+
+30
+00:01:08,840 --> 00:01:13,320
+que analisou 42 homens com doença
+
+31
+00:01:11,200 --> 00:01:15,560
+coronariana e descobriu que o vinho
+
+32
+00:01:13,320 --> 00:01:17,920
+tinto modifica microbiota intestinal de
+
+33
+00:01:15,560 --> 00:01:20,680
+uma forma interessante. Mas o bacana
+
+34
+00:01:17,920 --> 00:01:23,240
+mesmo veio em dezembro de 24 com o
+
+35
+00:01:20,680 --> 00:01:25,439
+estudo Predmed publicado no European
+
+36
+00:01:23,240 --> 00:01:27,079
+Heart Journal. Os pesquisadores da
+
+37
+00:01:25,439 --> 00:01:29,439
+Universidade de Barcelona fizeram algo
+
+38
+00:01:27,079 --> 00:01:31,960
+genial. Ao invés de confiar no que as
+
+39
+00:01:29,439 --> 00:01:33,720
+pessoas diziam beber, eles mediram o
+
+40
+00:01:31,960 --> 00:01:36,360
+ácido tartárico na urina. E sabe o que
+
+41
+00:01:33,720 --> 00:01:38,640
+que é isso? É uma substância que só vem
+
+42
+00:01:36,360 --> 00:01:40,759
+da uva. Então não tem como mentir pro
+
+43
+00:01:38,640 --> 00:01:42,560
+exame de urina. E o resultado foi
+
+44
+00:01:40,759 --> 00:01:45,600
+impressionante. Quem bebia entre meia
+
+45
+00:01:42,560 --> 00:01:48,920
+taça e uma taça por dia teve uma redução
+
+46
+00:01:45,600 --> 00:01:50,880
+de 50% no risco cardiovascular. Isso é
+
+47
+00:01:48,920 --> 00:01:52,560
+mais do que muitos remédios conseguem.
+
+48
+00:01:50,880 --> 00:01:54,600
+Mas antes que você saia correndo paraa
+
+49
+00:01:52,560 --> 00:01:57,240
+Dega, deixa eu contar o resto da
+
+50
+00:01:54,600 --> 00:01:59,280
+história. Esse benefício só apareceu em
+
+51
+00:01:57,240 --> 00:02:01,560
+pessoas que já seguiam a dieta
+
+52
+00:01:59,280 --> 00:02:03,960
+mediterrânea e tinham um alto risco
+
+53
+00:02:01,560 --> 00:02:06,759
+cardiovascular. E mais, quem bebia mais
+
+54
+00:02:03,960 --> 00:02:09,000
+de uma taça por dia perdeu completamente
+
+55
+00:02:06,759 --> 00:02:11,120
+a proteção. Agora, o que que tem no
+
+56
+00:02:09,000 --> 00:02:13,400
+vinho que poderia fazer bem? Os
+
+57
+00:02:11,120 --> 00:02:16,360
+polifenóis, principalmente são aquelas
+
+58
+00:02:13,400 --> 00:02:18,800
+substâncias antioxidantes que dão cor ao
+
+59
+00:02:16,360 --> 00:02:21,200
+vinho tinto. O resveratrol é o mais
+
+60
+00:02:18,800 --> 00:02:22,800
+famoso deles, mas tem também as
+
+61
+00:02:21,200 --> 00:02:24,760
+prosianidinas, os ácidos
+
+62
+00:02:22,800 --> 00:02:27,319
+hidroxicinâmicos,
+
+63
+00:02:24,760 --> 00:02:29,360
+nomes complicados, eu sei, mas pensa
+
+64
+00:02:27,319 --> 00:02:31,640
+assim, são compostos que combatem
+
+65
+00:02:29,360 --> 00:02:33,480
+inflamação nas artérias. O estudo
+
+66
+00:02:31,640 --> 00:02:36,720
+mostrou que o vinho reduz moléculas
+
+67
+00:02:33,480 --> 00:02:39,720
+inflamatórias, como o caso do VCAN1 e o
+
+68
+00:02:36,720 --> 00:02:42,200
+Ian1. em português, claro, diminui a
+
+69
+00:02:39,720 --> 00:02:45,519
+inflamação que entope as artérias, mas
+
+70
+00:02:42,200 --> 00:02:47,480
+aí que vem o plot twist da história. Em
+
+71
+00:02:45,519 --> 00:02:50,319
+junho de 2025, o American Heart
+
+72
+00:02:47,480 --> 00:02:52,680
+Association soltou uma nova declaração
+
+73
+00:02:50,319 --> 00:02:55,080
+científica bem mais cautelosa. Eles
+
+74
+00:02:52,680 --> 00:02:56,800
+analisaram tudo com novas metodologias,
+
+75
+00:02:55,080 --> 00:02:59,040
+incluindo estudos de randomização
+
+76
+00:02:56,800 --> 00:03:01,800
+mendeliana, que é um tipo de experimento
+
+77
+00:02:59,040 --> 00:03:05,120
+genético natural. E a conclusão foi
+
+78
+00:03:01,800 --> 00:03:07,080
+continua desconhecido, desconhecido, se
+
+79
+00:03:05,120 --> 00:03:09,519
+beber faz parte de um estilo de vida
+
+80
+00:03:07,080 --> 00:03:12,080
+saudável. E tem mais, a Organização
+
+81
+00:03:09,519 --> 00:03:14,920
+Mundial de Saúde é ainda mais radical.
+
+82
+00:03:12,080 --> 00:03:17,319
+Eles dizem que não existe nível seguro
+
+83
+00:03:14,920 --> 00:03:20,000
+de consumo de álcool. Seria zero ou
+
+84
+00:03:17,319 --> 00:03:22,599
+nada, nem uma gotinha. Por quê? Porque
+
+85
+00:03:20,000 --> 00:03:24,920
+álcool seria carcinogênico, aumentaria o
+
+86
+00:03:22,599 --> 00:03:27,280
+risco de câncer de boca, de esôfago, de
+
+87
+00:03:24,920 --> 00:03:29,120
+fígado, de mama. E a lista é grande. E
+
+88
+00:03:27,280 --> 00:03:32,200
+olha que interessante, muitos estudos
+
+89
+00:03:29,120 --> 00:03:35,040
+que mostravam benefício do vinho tinham
+
+90
+00:03:32,200 --> 00:03:37,879
+um problema metodológico. Os abstêmios
+
+91
+00:03:35,040 --> 00:03:40,720
+incluíam ex-bebedores que pararam por
+
+92
+00:03:37,879 --> 00:03:43,200
+problemas de saúde. É como comparar quem
+
+93
+00:03:40,720 --> 00:03:44,760
+corre praia com quem está no hospital.
+
+94
+00:03:43,200 --> 00:03:47,599
+Óbvio que o corredor vai parecer mais
+
+95
+00:03:44,760 --> 00:03:50,120
+saudável, mas não é a corrida que fez a
+
+96
+00:03:47,599 --> 00:03:52,000
+diferença. Entende? Outro detalhe
+
+97
+00:03:50,120 --> 00:03:54,040
+importante, quem bebe vinho
+
+98
+00:03:52,000 --> 00:03:57,040
+moderadamente, geralmente tem outros
+
+99
+00:03:54,040 --> 00:03:59,040
+hábitos saudáveis, come melhor, faz mais
+
+100
+00:03:57,040 --> 00:04:01,599
+exercício, tem melhor acesso à saúde.
+
+101
+00:03:59,040 --> 00:04:03,480
+Então fica difícil separar o que que é
+
+102
+00:04:01,599 --> 00:04:05,519
+feito do vinho, o que que é feito do
+
+103
+00:04:03,480 --> 00:04:08,200
+estilo de vida. Os pesquisadores chamam
+
+104
+00:04:05,519 --> 00:04:10,480
+isso de fatores de confusão
+
+105
+00:04:08,200 --> 00:04:13,920
+e ainda tem grupos que nem deveriam
+
+106
+00:04:10,480 --> 00:04:16,000
+pensar em beber, obviamente, gestantes,
+
+107
+00:04:13,920 --> 00:04:17,959
+pessoa com histórico de alcoolismo na
+
+108
+00:04:16,000 --> 00:04:20,680
+família, quem tem doença no fígado,
+
+109
+00:04:17,959 --> 00:04:23,080
+doença hepática, arritmia cardíaca, quem
+
+110
+00:04:20,680 --> 00:04:25,440
+toma certos medicamentos, a lista é
+
+111
+00:04:23,080 --> 00:04:28,560
+longa. E mesmo para quem pode beber,
+
+112
+00:04:25,440 --> 00:04:31,600
+passar de uma taça por dia já era, não
+
+113
+00:04:28,560 --> 00:04:34,039
+tem evidência de benefício e ainda pode
+
+114
+00:04:31,600 --> 00:04:36,039
+ganhar risco. Agora, deixa eu te contar
+
+115
+00:04:34,039 --> 00:04:38,320
+uma coisa que ninguém fala. Você
+
+116
+00:04:36,039 --> 00:04:41,440
+consegue todos os polifenóis benéficos
+
+117
+00:04:38,320 --> 00:04:45,720
+comendo uva, bebendo mosto de uva
+
+118
+00:04:41,440 --> 00:04:48,280
+integral, comendo frutas vermelhas, sem
+
+119
+00:04:45,720 --> 00:04:50,800
+álcool, sem risco de dependência e sem
+
+120
+00:04:48,280 --> 00:04:53,919
+ressaca. Faz sentido, né? Então,
+
+121
+00:04:50,800 --> 00:04:56,400
+voltando à pergunta inicial. É mito que
+
+122
+00:04:53,919 --> 00:04:58,520
+médicos indicam vinho paraa saúde. Olha,
+
+123
+00:04:56,400 --> 00:05:00,520
+não é exatamente um mito, mas também não
+
+124
+00:04:58,520 --> 00:05:02,800
+é uma verdade absoluta. É muito
+
+125
+00:05:00,520 --> 00:05:04,560
+contraditório. A maioria dos médicos
+
+126
+00:05:02,800 --> 00:05:07,400
+hoje não recomendam começar a beber por
+
+127
+00:05:04,560 --> 00:05:09,800
+saúde. O consenso atual é: o vinho pode
+
+128
+00:05:07,400 --> 00:05:12,400
+fazer parte sim estilo de vida saudável,
+
+129
+00:05:09,800 --> 00:05:14,800
+mas não é necessário e nem indispensável
+
+130
+00:05:12,400 --> 00:05:17,199
+e definitivamente não substitui
+
+131
+00:05:14,800 --> 00:05:18,919
+exercício, alimentação equilibrada,
+
+132
+00:05:17,199 --> 00:05:20,919
+controle do estresse sono adequado.
+
+133
+00:05:18,919 --> 00:05:23,880
+Esses sim são os verdadeiros heróis da
+
+134
+00:05:20,919 --> 00:05:23,880
+saúde cardiovascular.
+

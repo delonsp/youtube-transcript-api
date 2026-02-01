@@ -1,0 +1,2732 @@
+1
+00:00:00,120 --> 00:00:05,600
+Uso da naluterexona e baixa dose LDN no
+
+2
+00:00:03,080 --> 00:00:08,960
+tratamento oncológico integrativo.
+
+3
+00:00:05,600 --> 00:00:12,559
+Introdução e visão geral. A nutrixone
+
+4
+00:00:08,960 --> 00:00:14,040
+baixa dose, o low dose nutrexone ldn
+
+5
+00:00:12,559 --> 00:00:16,440
+consiste no uso de doses
+
+6
+00:00:14,040 --> 00:00:20,160
+significativamente menores, geralmente
+
+7
+00:00:16,440 --> 00:00:22,560
+entre 1 a 5 mg por dia, do que a dose
+
+8
+00:00:20,160 --> 00:00:24,920
+padrão de 50 a 100 mg usada pro
+
+9
+00:00:22,560 --> 00:00:26,920
+tratamento da dependência de álcool ou
+
+10
+00:00:24,920 --> 00:00:30,359
+opioides. Embora não possui uma
+
+11
+00:00:26,920 --> 00:00:32,279
+indicação oncológica formal, a Lidene
+
+12
+00:00:30,359 --> 00:00:34,200
+tem despertado grande interesse como um
+
+13
+00:00:32,279 --> 00:00:36,600
+tratamento adjuvante no cuidado do
+
+14
+00:00:34,200 --> 00:00:38,719
+câncer, principalmente por suas
+
+15
+00:00:36,600 --> 00:00:41,320
+propriedades imunomoduladoras e
+
+16
+00:00:38,719 --> 00:00:43,640
+potencial antitumoral.
+
+17
+00:00:41,320 --> 00:00:47,079
+A pesquisa foi iniciada há mais de 35
+
+18
+00:00:43,640 --> 00:00:50,480
+anos por Yan Zagon e Patrícia McLin na
+
+19
+00:00:47,079 --> 00:00:52,640
+Pain State University. revela múltiplos
+
+20
+00:00:50,480 --> 00:00:54,840
+mecanismos de ação únicos, incluindo a
+
+21
+00:00:52,640 --> 00:00:57,640
+modulação imune, a inibição da
+
+22
+00:00:54,840 --> 00:00:59,879
+proliferação celular e a redução da
+
+23
+00:00:57,640 --> 00:01:01,840
+angiogênese tumoral.
+
+24
+00:00:59,879 --> 00:01:05,479
+Desde os primeiros relatos na década de
+
+25
+00:01:01,840 --> 00:01:08,240
+1980 por Bernard Biari, que utilizou LDN
+
+26
+00:01:05,479 --> 00:01:10,080
+em pacientes com HIV e câncer, seu uso
+
+27
+00:01:08,240 --> 00:01:13,159
+label em condições oncológicas tem
+
+28
+00:01:10,080 --> 00:01:15,200
+crescido, inclusive no Brasil, apesar de
+
+29
+00:01:13,159 --> 00:01:17,360
+as evidências ainda serem consideradas
+
+30
+00:01:15,200 --> 00:01:18,920
+preliminares. O crescente interesse
+
+31
+00:01:17,360 --> 00:01:21,920
+clínico é evidenciado por casos
+
+32
+00:01:18,920 --> 00:01:23,880
+notáveis, como a sobrevida prolongada em
+
+33
+00:01:21,920 --> 00:01:27,320
+pacientes com câncer pancreático
+
+34
+00:01:23,880 --> 00:01:29,720
+metastático, 78 meses em comparação com
+
+35
+00:01:27,320 --> 00:01:31,880
+os três ou se meses esperados e
+
+36
+00:01:29,720 --> 00:01:35,759
+avaliação dos protocolos Dr. Bergson
+
+37
+00:01:31,880 --> 00:01:37,640
+pelo National Cancer Institute, NCI dos
+
+38
+00:01:35,759 --> 00:01:40,680
+Estados Unidos.
+
+39
+00:01:37,640 --> 00:01:42,600
+No Brasil, o soft label da LIDN é uma
+
+40
+00:01:40,680 --> 00:01:45,799
+prática legal e regulamentada pela
+
+41
+00:01:42,600 --> 00:01:48,240
+Anvisa, com crescente disponibilidade em
+
+42
+00:01:45,799 --> 00:01:51,200
+farmácia de manipulação, especialmente
+
+43
+00:01:48,240 --> 00:01:54,320
+nas regiões Sul, Sudeste e Centro-Oeste.
+
+44
+00:01:51,200 --> 00:01:57,840
+Um, mecanismos de ação moleculares da
+
+45
+00:01:54,320 --> 00:02:00,560
+LDN em oncologia. A LDN exerce efeitos
+
+46
+00:01:57,840 --> 00:02:02,880
+multifatoriais relevantes em oncologia.
+
+47
+00:02:00,560 --> 00:02:04,920
+Diferentemente daxonal em dose plena,
+
+48
+00:02:02,880 --> 00:02:07,960
+que bloqueia totalmente os receptores
+
+49
+00:02:04,920 --> 00:02:09,959
+opioides, iníbia as endorfinas, a baixa
+
+50
+00:02:07,960 --> 00:02:12,040
+dosagem provoca um bloqueio transitório
+
+51
+00:02:09,959 --> 00:02:14,680
+e parcial, o que desencadeia respostas
+
+52
+00:02:12,040 --> 00:02:17,720
+paradoxais benéficas. Os mecanismos
+
+53
+00:02:14,680 --> 00:02:20,080
+propostos são complexos e interligados.
+
+54
+00:02:17,720 --> 00:02:22,760
+O eixo do fator de crescimento opioide
+
+55
+00:02:20,080 --> 00:02:25,400
+OGF OGFR.
+
+56
+00:02:22,760 --> 00:02:27,840
+O principal mecanismo de ação da LDN
+
+57
+00:02:25,400 --> 00:02:29,519
+envolve o bloqueio transitório por 4 a 6
+
+58
+00:02:27,840 --> 00:02:32,400
+horas do receptor do fator de
+
+59
+00:02:29,519 --> 00:02:35,519
+crescimento opioide ou GFR, também
+
+60
+00:02:32,400 --> 00:02:37,280
+conhecido como receptor opioide Z. Esse
+
+61
+00:02:35,519 --> 00:02:39,560
+bloqueio intermitente leva a uma
+
+62
+00:02:37,280 --> 00:02:41,720
+compensação homeostática, resultando uma
+
+63
+00:02:39,560 --> 00:02:44,120
+superprodução do fator de crescimento
+
+64
+00:02:41,720 --> 00:02:46,879
+opioide ou GF, quimicamente conhecido
+
+65
+00:02:44,120 --> 00:02:49,440
+como meta 5encefalina,
+
+66
+00:02:46,879 --> 00:02:52,040
+e um aumento up regulation na expressão
+
+67
+00:02:49,440 --> 00:02:55,200
+dos próprios receptores do GFR por um
+
+68
+00:02:52,040 --> 00:02:57,560
+período de 18 a 20 horas. Quando o
+
+69
+00:02:55,200 --> 00:02:59,959
+bloqueio da LDN cessa devido a sua meia
+
+70
+00:02:57,560 --> 00:03:02,760
+vida de aproximadamente 4 horas, o
+
+71
+00:02:59,959 --> 00:03:06,480
+excesso de OGF liga-se aos receptores
+
+72
+00:03:02,760 --> 00:03:09,000
+OGFR super expressos na membrana nuclear
+
+73
+00:03:06,480 --> 00:03:12,239
+externa das células tumorais. Esse
+
+74
+00:03:09,000 --> 00:03:15,120
+complexo OGF OGFR transloca-se para o
+
+75
+00:03:12,239 --> 00:03:17,519
+núcleo através da via CRM1,
+
+76
+00:03:15,120 --> 00:03:20,280
+onde regula positivamente os inibidores
+
+77
+00:03:17,519 --> 00:03:22,280
+de quinases dependentes, disciplina
+
+78
+00:03:20,280 --> 00:03:28,680
+CDKIS,
+
+79
+00:03:22,280 --> 00:03:33,599
+especificamente o P16 INK 4A e o P21 AF1
+
+80
+00:03:28,680 --> 00:03:35,959
+CIP1. A via P16 INK 4A inibe os
+
+81
+00:03:33,599 --> 00:03:39,599
+complexos CDK4,
+
+82
+00:03:35,959 --> 00:03:44,040
+CDK6, Ciclina D. Enquanto a via P21,
+
+83
+00:03:39,599 --> 00:03:47,319
+WF1, CIP1, inibe os complexos de K2,
+
+84
+00:03:44,040 --> 00:03:50,560
+ciclina E. E isso regula na redução e
+
+85
+00:03:47,319 --> 00:03:53,000
+isso resulta na redução da fosforilação
+
+86
+00:03:50,560 --> 00:03:54,840
+da proteína do retinoblastoma e
+
+87
+00:03:53,000 --> 00:03:57,799
+consequentemente na parada do ciclo
+
+88
+00:03:54,840 --> 00:03:59,280
+celular na transição da fase G1 pra fase
+
+89
+00:03:57,799 --> 00:04:01,079
+S.
+
+90
+00:03:59,280 --> 00:04:04,959
+Esse mecanismo foi observado em mais de
+
+91
+00:04:01,079 --> 00:04:07,760
+90% dos cânceres humanos testados em 47
+
+92
+00:04:04,959 --> 00:04:09,879
+linhagens celulares diferentes. É
+
+93
+00:04:07,760 --> 00:04:11,760
+notável que esse efeito é primariamente
+
+94
+00:04:09,879 --> 00:04:13,840
+citostático e não diretamente
+
+95
+00:04:11,760 --> 00:04:17,440
+citotósico, funcionando
+
+96
+00:04:13,840 --> 00:04:19,720
+independentemente do status do GNP53.
+
+97
+00:04:17,440 --> 00:04:22,520
+Estudos demonstraram que a exposição
+
+98
+00:04:19,720 --> 00:04:25,639
+intermitente à LDN, por exemplo, 6 horas
+
+99
+00:04:22,520 --> 00:04:27,280
+a cada 21 dias, 6 horas a cada dois
+
+100
+00:04:25,639 --> 00:04:30,320
+dias,
+
+101
+00:04:27,280 --> 00:04:33,080
+é mais eficaz do que a exposição
+
+102
+00:04:30,320 --> 00:04:35,120
+contínua, confirmando a importância do
+
+103
+00:04:33,080 --> 00:04:37,320
+padrão de bloqueio e recuperação para o
+
+104
+00:04:35,120 --> 00:04:39,960
+efeito terapêutico.
+
+105
+00:04:37,320 --> 00:04:42,160
+Modulação do sistema imune. A LDN
+
+106
+00:04:39,960 --> 00:04:43,960
+promove uma reprogramação imunológica
+
+107
+00:04:42,160 --> 00:04:46,639
+antitumoral por meio de diversos
+
+108
+00:04:43,960 --> 00:04:48,880
+mecanismos. A elevação abrupta de
+
+109
+00:04:46,639 --> 00:04:52,199
+endorfinas e metencefalinas tem um
+
+110
+00:04:48,880 --> 00:04:54,080
+efeito imunoestimulante. Linfócitos T.
+
+111
+00:04:52,199 --> 00:04:56,680
+Observa-se um aumento na infiltração e
+
+112
+00:04:54,080 --> 00:04:58,840
+ativação dos linfócios TCD4+, um
+
+113
+00:04:56,680 --> 00:05:00,800
+aprimoramento da função citotósicas das
+
+114
+00:04:58,840 --> 00:05:03,680
+células TCD8+
+
+115
+00:05:00,800 --> 00:05:08,320
+e um aumento na produção de citocinas de
+
+116
+00:05:03,680 --> 00:05:11,160
+perfil TH1 como inter como interferong e
+
+117
+00:05:08,320 --> 00:05:13,360
+terleucina 2. Um aspecto particularmente
+
+118
+00:05:11,160 --> 00:05:17,120
+importante é a redução da expressão de
+
+119
+00:05:13,360 --> 00:05:19,360
+checkpoints imunes como PD1, PDL1 e lag
+
+120
+00:05:17,120 --> 00:05:21,199
+3, o que sugere uma sinergia potencial
+
+121
+00:05:19,360 --> 00:05:24,039
+com as modernas imunoterapias de
+
+122
+00:05:21,199 --> 00:05:27,600
+inibidora de checkpoint.
+
+123
+00:05:24,039 --> 00:05:29,280
+Células natural killer NK. As células NK
+
+124
+00:05:27,600 --> 00:05:31,440
+demonstram aumento na atividade
+
+125
+00:05:29,280 --> 00:05:33,680
+citolítica e maior infiltração no
+
+126
+00:05:31,440 --> 00:05:37,080
+microambiente tumoral com elevação da
+
+127
+00:05:33,680 --> 00:05:39,360
+produção de granzima B. Macrófagos. A
+
+128
+00:05:37,080 --> 00:05:41,840
+LDN também promove a polarização dos
+
+129
+00:05:39,360 --> 00:05:44,360
+macrófagos para o fenótipo M1
+
+130
+00:05:41,840 --> 00:05:48,080
+antitumoral, aumentando a expressão de
+
+131
+00:05:44,360 --> 00:05:51,720
+CD80 e a produção de TNF alfa, enquanto
+
+132
+00:05:48,080 --> 00:05:54,319
+reduz a população de macrófagos M2, que
+
+133
+00:05:51,720 --> 00:05:56,360
+são os prótomis. Células supressoras. da
+
+134
+00:05:54,319 --> 00:05:59,280
+LDN também reduz as populações de
+
+135
+00:05:56,360 --> 00:06:01,280
+células t reguladoras T-Rex e células
+
+136
+00:05:59,280 --> 00:06:04,600
+supressoras derivadas da linhagem
+
+137
+00:06:01,280 --> 00:06:06,800
+mielodide MDSCS,
+
+138
+00:06:04,600 --> 00:06:09,599
+revertendo o ambiente imunosupressor
+
+139
+00:06:06,800 --> 00:06:13,919
+frequentemente encontrado nos tumores.
+
+140
+00:06:09,599 --> 00:06:16,120
+Antagonismo do receptor Tlik 4, TLR4 e
+
+141
+00:06:13,919 --> 00:06:18,479
+modulação da inflamação.
+
+142
+00:06:16,120 --> 00:06:22,280
+A LDN também atua como antagonista do
+
+143
+00:06:18,479 --> 00:06:24,440
+exceptol 4, TLR4,
+
+144
+00:06:22,280 --> 00:06:27,000
+ligando-se ao sítio de ligação do lipo
+
+145
+00:06:24,440 --> 00:06:30,000
+polissacarídeo LPS da proteína de
+
+146
+00:06:27,000 --> 00:06:32,560
+diferenciação mieloide 2 ou MD2. E esse
+
+147
+00:06:30,000 --> 00:06:37,199
+antagonismo bloqueia a sinalização
+
+148
+00:06:32,560 --> 00:06:40,639
+dependente tanto de MYD8 quanto de TR e
+
+149
+00:06:37,199 --> 00:06:43,280
+F, prevenindo a ativação microglial
+
+150
+00:06:40,639 --> 00:06:45,240
+mediada por TLR4,
+
+151
+00:06:43,280 --> 00:06:47,160
+inibindo cascatas inflamatórias, o que
+
+152
+00:06:45,240 --> 00:06:49,120
+resulta em uma redução significativa da
+
+153
+00:06:47,160 --> 00:06:51,800
+translocação nuclear do fator de
+
+154
+00:06:49,120 --> 00:06:53,919
+necrósitomal.
+
+155
+00:06:51,800 --> 00:06:56,599
+Aliás, eh resulta numa redução
+
+156
+00:06:53,919 --> 00:07:00,720
+significativa da translocação nuclear do
+
+157
+00:06:56,599 --> 00:07:02,599
+fator NFK beta.
+
+158
+00:07:00,720 --> 00:07:04,560
+Essa modulação leva uma redução marcada
+
+159
+00:07:02,599 --> 00:07:08,520
+de citocinas pró-inflamatórias, como
+
+160
+00:07:04,560 --> 00:07:11,160
+telucina 1, beta e telocina 6, um achado
+
+161
+00:07:08,520 --> 00:07:15,039
+consistente em múltiplos estudos, TNF
+
+162
+00:07:11,160 --> 00:07:17,360
+alfa e telucina 12, P40 e P70. Estudos
+
+163
+00:07:15,039 --> 00:07:20,280
+também documentaram a modulação de
+
+164
+00:07:17,360 --> 00:07:24,400
+teleocina 2, teleocina 4, teleocina 5,
+
+165
+00:07:20,280 --> 00:07:29,639
+teleocina 10, teleocina 15, 17, 27,
+
+166
+00:07:24,400 --> 00:07:32,840
+intérferon alfa, fator tgf alfa, tgf
+
+167
+00:07:29,639 --> 00:07:34,520
+beta e gcsf.
+
+168
+00:07:32,840 --> 00:07:36,800
+Essa reprogramação do microambiente
+
+169
+00:07:34,520 --> 00:07:39,319
+tumoral reduz a inflamação crônica que
+
+170
+00:07:36,800 --> 00:07:40,879
+promove o tumor, ao mesmo tempo que
+
+171
+00:07:39,319 --> 00:07:43,840
+aprimora as respostas imunes
+
+172
+00:07:40,879 --> 00:07:46,039
+antitumorais.
+
+173
+00:07:43,840 --> 00:07:48,319
+Indução de apoptose. Estudos
+
+174
+00:07:46,039 --> 00:07:50,440
+pré-clínicos demonstram que a LDN pode
+
+175
+00:07:48,319 --> 00:07:53,440
+suprimir o crescimento tumoral e
+
+176
+00:07:50,440 --> 00:07:57,759
+aumentar a poptose através da via BX,
+
+177
+00:07:53,440 --> 00:07:59,599
+BCL2, Caspase 3, PAR, RP. A indução da
+
+178
+00:07:57,759 --> 00:08:01,639
+poptose ocorre através da regulação
+
+179
+00:07:59,599 --> 00:08:04,879
+positiva da expressão da proteína
+
+180
+00:08:01,639 --> 00:08:08,360
+próaproptótica BAX, da regulação
+
+181
+00:08:04,879 --> 00:08:12,240
+negativa das proteínas antiapoptóticas
+
+182
+00:08:08,360 --> 00:08:15,520
+BCL2 e survivina e da ativação das
+
+183
+00:08:12,240 --> 00:08:18,319
+caspazes 9 e 3 culminando na clivagem da
+
+184
+00:08:15,520 --> 00:08:20,960
+enzima parp.
+
+185
+00:08:18,319 --> 00:08:23,120
+Modulação da angiogên tumoral. A LDN
+
+186
+00:08:20,960 --> 00:08:25,759
+demonstra efeitos antiangiogênicos. Os
+
+187
+00:08:23,120 --> 00:08:28,360
+estudos cometil na Trexona um análogo de
+
+188
+00:08:25,759 --> 00:08:30,680
+ação periférica mostraram
+
+189
+00:08:28,360 --> 00:08:32,279
+a inibição da angiogênese induzida pelo
+
+190
+00:08:30,680 --> 00:08:34,599
+VGF
+
+191
+00:08:32,279 --> 00:08:37,519
+através do bloqueio da fosforilação,
+
+192
+00:08:34,599 --> 00:08:40,919
+transativação do receptor de Vegf, que é
+
+193
+00:08:37,519 --> 00:08:42,599
+o vascular endoteliog factor. A LDN
+
+194
+00:08:40,919 --> 00:08:46,399
+demonstrou reduzir a proliferação de
+
+195
+00:08:42,599 --> 00:08:48,920
+células endoteliais de 55 para 30%,
+
+196
+00:08:46,399 --> 00:08:53,680
+diminuir a migração celular de 60% para
+
+197
+00:08:48,920 --> 00:08:56,000
+28%. A combinação com beszumab,
+
+198
+00:08:53,680 --> 00:08:57,640
+que é um anticorpo monoclonal
+
+199
+00:08:56,000 --> 00:08:59,440
+antiangênico,
+
+200
+00:08:57,640 --> 00:09:02,160
+mostrou inibição cinérgica da
+
+201
+00:08:59,440 --> 00:09:04,959
+proliferação de células endoteliais. Em
+
+202
+00:09:02,160 --> 00:09:06,360
+modelos de xeno enxerto, observou-se uma
+
+203
+00:09:04,959 --> 00:09:08,279
+redução da densidade dos vasos
+
+204
+00:09:06,360 --> 00:09:12,600
+sanguíneos tumorais. Então, bloqueio da
+
+205
+00:09:08,279 --> 00:09:14,640
+ativação de RHOA em células endoteliais
+
+206
+00:09:12,600 --> 00:09:17,560
+e a modulação da atividade da proteína
+
+207
+00:09:14,640 --> 00:09:19,560
+tirosina, fosfatase mul também contribui
+
+208
+00:09:17,560 --> 00:09:21,000
+para esses efeitos.
+
+209
+00:09:19,560 --> 00:09:23,600
+Evidências científicas, estudos
+
+210
+00:09:21,000 --> 00:09:25,959
+clínicos. Os dados clínicos sobre LDN
+
+211
+00:09:23,600 --> 00:09:29,200
+permanecem limitados em grande parte
+
+212
+00:09:25,959 --> 00:09:31,360
+preliminares, como escassez de ensaios
+
+213
+00:09:29,200 --> 00:09:32,920
+clínicos randomizados e controlados. A
+
+214
+00:09:31,360 --> 00:09:35,040
+maior parte das evidências humanas
+
+215
+00:09:32,920 --> 00:09:37,440
+provém de estudos de fase inicial,
+
+216
+00:09:35,040 --> 00:09:39,360
+séries de caso e relatos anedóticos. Não
+
+217
+00:09:37,440 --> 00:09:41,640
+há evidências robustas de ensaios
+
+218
+00:09:39,360 --> 00:09:43,800
+clínicos de grande escala que apoiem a
+
+219
+00:09:41,640 --> 00:09:46,000
+LDN como uma terapia de câncer primária
+
+220
+00:09:43,800 --> 00:09:48,880
+e seu uso permanece off label e
+
+221
+00:09:46,000 --> 00:09:50,519
+investigacional.
+
+222
+00:09:48,880 --> 00:09:52,680
+Ensaios clínicos publicados em
+
+223
+00:09:50,519 --> 00:09:54,399
+andamento. Glioma de alto grau. O estudo
+
+224
+00:09:52,680 --> 00:09:56,200
+mais robusto até o momento é um ensaio
+
+225
+00:09:54,399 --> 00:09:59,519
+clínico randomizado, duplo cego e
+
+226
+00:09:56,200 --> 00:10:01,160
+controlado por placebo, que envolveu 110
+
+227
+00:09:59,519 --> 00:10:04,320
+pacientes com glioma de alto grau. O
+
+228
+00:10:01,160 --> 00:10:06,600
+estudo comparou LDN na dose de 4,5 mg
+
+229
+00:10:04,320 --> 00:10:10,279
+com placebo durante a quimioradioterapia
+
+230
+00:10:06,600 --> 00:10:10,279
+concomitante comozolomida.
+
+231
+00:10:10,320 --> 00:10:14,279
+Embora não tenha demonstrado melhoras ou
+
+232
+00:10:12,480 --> 00:10:16,399
+melhorias significativas na qualidade de
+
+233
+00:10:14,279 --> 00:10:18,720
+vida ou na fadiga em comparação com
+
+234
+00:10:16,399 --> 00:10:21,800
+placebo, o estudo estabeleceu o
+
+235
+00:10:18,720 --> 00:10:23,760
+excelente perfil de segurança da LDN
+
+236
+00:10:21,800 --> 00:10:26,279
+com eventos adversos semelhantes aos do
+
+237
+00:10:23,760 --> 00:10:28,200
+grupo placebo. Um estudo piloto anterior
+
+238
+00:10:26,279 --> 00:10:30,320
+havia sugerido uma sinergia com a
+
+239
+00:10:28,200 --> 00:10:32,720
+radioterapia, mostrando uma sobrevida de
+
+240
+00:10:30,320 --> 00:10:35,120
+um ano significativamente maior no grupo
+
+241
+00:10:32,720 --> 00:10:37,200
+que recebeu na trexon oral em comparação
+
+242
+00:10:35,120 --> 00:10:40,000
+com a radioterapia isolada. Câncer de
+
+243
+00:10:37,200 --> 00:10:42,880
+mama. Um estudo de fase dois aberto.
+
+244
+00:10:40,000 --> 00:10:45,800
+Testou na trctona oral escalonada até 50
+
+245
+00:10:42,880 --> 00:10:47,639
+mg por dia. Em 13 mulheres com câncer de
+
+246
+00:10:45,800 --> 00:10:50,440
+mama metastático
+
+247
+00:10:47,639 --> 00:10:54,440
+com o receptor positivo de estrogênio.
+
+248
+00:10:50,440 --> 00:10:56,320
+Er+ mais refratário a hormônios.
+
+249
+00:10:54,440 --> 00:10:59,440
+Após quatro semanas, cinco de oito
+
+250
+00:10:56,320 --> 00:11:02,200
+pacientes avaliáveis apresentaram doença
+
+251
+00:10:59,440 --> 00:11:04,959
+estável ou redução da captação do FDG no
+
+252
+00:11:02,200 --> 00:11:06,880
+PETscan, PETCT.
+
+253
+00:11:04,959 --> 00:11:09,399
+No entanto, a atividade foi modesta de
+
+254
+00:11:06,880 --> 00:11:12,800
+culto da oração, com uma mediana de
+
+255
+00:11:09,399 --> 00:11:14,800
+tempo até a progressão de sete semanas.
+
+256
+00:11:12,800 --> 00:11:16,639
+Os autores concluíram que a monoterapia
+
+257
+00:11:14,800 --> 00:11:19,839
+comerexona não produziu respostas
+
+258
+00:11:16,639 --> 00:11:22,760
+duradouras nesse cenário. Protocolo Best
+
+259
+00:11:19,839 --> 00:11:25,440
+Case Series do NCI. O National Cancer
+
+260
+00:11:22,760 --> 00:11:29,000
+Institute avaliou rigorosamente os casos
+
+261
+00:11:25,440 --> 00:11:32,279
+do Dr. Burk Berkson. Não é Burton, é
+
+262
+00:11:29,000 --> 00:11:34,480
+Burton Ber, sei lá. Dr. Berkson. o que
+
+263
+00:11:32,279 --> 00:11:38,440
+levou à consideração de um saio de fase
+
+264
+00:11:34,480 --> 00:11:40,519
+zero ou um para LDN em câncer avançado
+
+265
+00:11:38,440 --> 00:11:43,600
+metastático em pacientes que progrediram
+
+266
+00:11:40,519 --> 00:11:46,240
+após quimioterapia prévia.
+
+267
+00:11:43,600 --> 00:11:48,680
+Ensaio melanoma avançado. Atualmente
+
+268
+00:11:46,240 --> 00:11:51,000
+está em andamento o ensaio de fase um na
+
+269
+00:11:48,680 --> 00:11:54,000
+Hitgers University combinando LDN
+
+270
+00:11:51,000 --> 00:11:54,000
+propranolpilimumabolumab
+
+271
+00:11:55,680 --> 00:12:02,560
+e melanoma avançado. A conclusão está
+
+272
+00:11:58,800 --> 00:12:04,279
+prevista para setembro de 2025.
+
+273
+00:12:02,560 --> 00:12:06,160
+Então, esses dois são medicamentos
+
+274
+00:12:04,279 --> 00:12:07,800
+usados em combinação por tratamento de
+
+275
+00:12:06,160 --> 00:12:09,639
+vários tipos de câncer avançado
+
+276
+00:12:07,800 --> 00:12:12,600
+metastático.
+
+277
+00:12:09,639 --> 00:12:16,000
+O ipilimum, anticorpo monoclonal que age
+
+278
+00:12:12,600 --> 00:12:19,480
+como inibidor do CTL4
+
+279
+00:12:16,000 --> 00:12:22,800
+e o nivolumab inibidor do PD1.
+
+280
+00:12:19,480 --> 00:12:22,800
+Eles são imunoterapias
+
+281
+00:12:22,920 --> 00:12:28,440
+que potencializam a resposta imunológica
+
+282
+00:12:24,920 --> 00:12:28,440
+contra as células tumorais.
+
+283
+00:12:28,480 --> 00:12:32,760
+Então, ipilimomab
+
+284
+00:12:31,040 --> 00:12:36,399
+é um anticorpo monoclonal humano que
+
+285
+00:12:32,760 --> 00:12:39,160
+atua como inibidor do receptor CTLA
+
+286
+00:12:36,399 --> 00:12:40,760
+4. Ele funciona fisiologicamente como um
+
+287
+00:12:39,160 --> 00:12:44,000
+regulador negativo da ativação das
+
+288
+00:12:40,760 --> 00:12:46,519
+células T. Então, o efeito desse
+
+289
+00:12:44,000 --> 00:12:48,760
+hipilimumab é aumentar a ativação das
+
+290
+00:12:46,519 --> 00:12:52,360
+células T.
+
+291
+00:12:48,760 --> 00:12:55,040
+Mecanismo de ação do
+
+292
+00:12:52,360 --> 00:12:57,279
+Nivolumab
+
+293
+00:12:55,040 --> 00:13:00,040
+também através da reativação das células
+
+294
+00:12:57,279 --> 00:13:03,519
+tefetoras.
+
+295
+00:13:00,040 --> 00:13:06,120
+Então esse ensaio melanom avançado
+
+296
+00:13:03,519 --> 00:13:08,880
+é um ensaio de fase tipo um que vai só
+
+297
+00:13:06,120 --> 00:13:12,199
+sair ano que vem. Na verdade tá falando
+
+298
+00:13:08,880 --> 00:13:15,240
+2025, mas é 2026. tá combinando LDN,
+
+299
+00:13:12,199 --> 00:13:18,120
+propranol e pilimumab e nivolumab, que
+
+300
+00:13:15,240 --> 00:13:22,480
+são dois agentes aí que aumenta a
+
+301
+00:13:18,120 --> 00:13:25,720
+atividade das células citotóxicas T,
+
+302
+00:13:22,480 --> 00:13:27,720
+dos linfócitos T.
+
+303
+00:13:25,720 --> 00:13:30,399
+Evidências por tipo de câncer, câncer de
+
+304
+00:13:27,720 --> 00:13:32,519
+ovário, apresenta algumas das evidências
+
+305
+00:13:30,399 --> 00:13:35,399
+técnicas mais robustas. Estudos de Dia
+
+306
+00:13:32,519 --> 00:13:38,000
+Rio e colaboradores demonstraram que a
+
+307
+00:13:35,399 --> 00:13:41,160
+exposição intermitente a LDN reduziu a
+
+308
+00:13:38,000 --> 00:13:43,399
+síntese de DNA e a replicação celular em
+
+309
+00:13:41,160 --> 00:13:46,560
+vitro com redução da progressão tumoral
+
+310
+00:13:43,399 --> 00:13:46,560
+em vivo.
+
+311
+00:13:48,560 --> 00:13:53,360
+A combinação de LDN com cisplatina
+
+312
+00:13:50,480 --> 00:13:55,360
+mostrou efeitos inibidórios aditivos,
+
+313
+00:13:53,360 --> 00:13:58,079
+aumentando a eficácia da quimioterapia
+
+314
+00:13:55,360 --> 00:14:00,440
+enquanto reduzia a toxicidade. Câncer
+
+315
+00:13:58,079 --> 00:14:03,000
+pancreático mostra resultados notáveis
+
+316
+00:14:00,440 --> 00:14:06,240
+com protocolo ala LDN de Berkson,
+
+317
+00:14:03,000 --> 00:14:09,040
+alfalipoico LDN, com relatos de
+
+318
+00:14:06,240 --> 00:14:11,120
+sobrevida de 39 a 78 meses em pacientes
+
+319
+00:14:09,040 --> 00:14:13,720
+com metáis hepáticas em comparação com
+
+320
+00:14:11,120 --> 00:14:15,600
+três a 6 meses típicos.
+
+321
+00:14:13,720 --> 00:14:18,079
+Múltiplos casos alcançaram o status de
+
+322
+00:14:15,600 --> 00:14:19,639
+sem evidência de doença em exame de
+
+323
+00:14:18,079 --> 00:14:22,199
+PETCT
+
+324
+00:14:19,639 --> 00:14:25,040
+após 4 a 5 meses de tratamento. O
+
+325
+00:14:22,199 --> 00:14:26,959
+protocolo inclui ácido alfalipuico, LDN
+
+326
+00:14:25,040 --> 00:14:29,639
+oral e modificação estilo de vida.
+
+327
+00:14:26,959 --> 00:14:32,279
+Carcinoma hepatocelular. Há um relato de
+
+328
+00:14:29,639 --> 00:14:34,000
+caso de uma paciente, 71 anos, com
+
+329
+00:14:32,279 --> 00:14:37,279
+múltiplos tumores hepáticos, tratados
+
+330
+00:14:34,000 --> 00:14:40,000
+com protocolo ala LDN, que mostrou um
+
+331
+00:14:37,279 --> 00:14:42,800
+PETCT sem captação residual de glicose
+
+332
+00:14:40,000 --> 00:14:45,880
+após 27 meses, com retorno ao trabalho e
+
+333
+00:14:42,800 --> 00:14:47,639
+resolução completa dos sintomas.
+
+334
+00:14:45,880 --> 00:14:50,240
+Câncer de mama. Estudos pré-clínicos
+
+335
+00:14:47,639 --> 00:14:53,279
+mostraram perfis únicos de expressão
+
+336
+00:14:50,240 --> 00:14:55,240
+gênica em doses altas versus altas,
+
+337
+00:14:53,279 --> 00:14:57,240
+desculpa, câncer de mama. Estudos
+
+338
+00:14:55,240 --> 00:14:59,440
+pré-clínicos mostraram perfis únicos de
+
+339
+00:14:57,240 --> 00:15:01,680
+expressão gênica em doses baixas versus
+
+340
+00:14:59,440 --> 00:15:04,480
+altas, com efeitos sinégérésicos da
+
+341
+00:15:01,680 --> 00:15:06,759
+combinação de LDN com propranol. Em
+
+342
+00:15:04,480 --> 00:15:09,279
+modelos animais, aracção oral resultou
+
+343
+00:15:06,759 --> 00:15:11,839
+em regressão tumoral e redução do volume
+
+344
+00:15:09,279 --> 00:15:13,720
+do tumor com correlação com a presença
+
+345
+00:15:11,839 --> 00:15:16,720
+de receptores de estrogênio e
+
+346
+00:15:13,720 --> 00:15:16,720
+progesterona.
+
+347
+00:15:16,920 --> 00:15:22,680
+Câncer cervical. A LDN mostrou regular
+
+348
+00:15:20,000 --> 00:15:24,959
+positivamente a expressão do GFR,
+
+349
+00:15:22,680 --> 00:15:28,639
+suprimir a formação de colônias, inibir
+
+350
+00:15:24,959 --> 00:15:30,920
+a sinalização da via P3K
+
+351
+00:15:28,639 --> 00:15:33,759
+AKT emitor.
+
+352
+00:15:30,920 --> 00:15:37,040
+Câncer colorretal. A LDN mostrou efeito
+
+353
+00:15:33,759 --> 00:15:38,800
+antitumoral em modelos animais com
+
+354
+00:15:37,040 --> 00:15:41,440
+redução da incidência e retardo do
+
+355
+00:15:38,800 --> 00:15:43,240
+crescimento tumoral. A resposta se dá
+
+356
+00:15:41,440 --> 00:15:47,000
+através do aumento de macrófagos do tipo
+
+357
+00:15:43,240 --> 00:15:50,399
+M1 e da ativação da via apoptótica BAX
+
+358
+00:15:47,000 --> 00:15:52,560
+BCL2. Caspaz 3 parp. Câncer de pulmão.
+
+359
+00:15:50,399 --> 00:15:55,480
+Na casuística de Birare, tumores de
+
+360
+00:15:52,560 --> 00:15:57,880
+pulmão de não tumores de pulmão de não
+
+361
+00:15:55,480 --> 00:16:00,360
+pequenas células estavam entre aqueles
+
+362
+00:15:57,880 --> 00:16:01,920
+que apresentaram reduções tumorais
+
+363
+00:16:00,360 --> 00:16:05,600
+significativas ou estabilização
+
+364
+00:16:01,920 --> 00:16:07,040
+prolongada com LDN. Câncer de próstata.
+
+365
+00:16:05,600 --> 00:16:08,319
+A experiência de Birrar incluiu
+
+366
+00:16:07,040 --> 00:16:10,839
+pacientes com câncer de próstata
+
+367
+00:16:08,319 --> 00:16:12,399
+metastático resistente, muitos dos quais
+
+368
+00:16:10,839 --> 00:16:14,440
+apresentaram a estabilização da doença
+
+369
+00:16:12,399 --> 00:16:16,279
+ou regressão tumoral com uso contínuo de
+
+370
+00:16:14,440 --> 00:16:18,079
+LDN.
+
+371
+00:16:16,279 --> 00:16:20,079
+Taxas de resposta sobre vida
+
+372
+00:16:18,079 --> 00:16:22,279
+documentadas. A experiência do Dr. Brar
+
+373
+00:16:20,079 --> 00:16:25,360
+com 450 pacientes oncológicos tratados
+
+374
+00:16:22,279 --> 00:16:27,839
+com LDN revelou que 25% apresentaram uma
+
+375
+00:16:25,360 --> 00:16:30,839
+redução tumoral de pelo menos 75%.
+
+376
+00:16:27,839 --> 00:16:32,959
+Resposta subjetiva, incluindo cânceres
+
+377
+00:16:30,839 --> 00:16:35,680
+de bexiga, mama, fígado, pulmão,
+
+378
+00:16:32,959 --> 00:16:38,000
+linfonódos, colon e reto. Em pacientes
+
+379
+00:16:35,680 --> 00:16:40,199
+com câncer de ovário, estágio 4, a
+
+380
+00:16:38,000 --> 00:16:42,279
+doença permaneceu estável por mais de 4
+
+381
+00:16:40,199 --> 00:16:44,759
+anos.
+
+382
+00:16:42,279 --> 00:16:46,959
+Um estudo recente do MD Anderson com 20
+
+383
+00:16:44,759 --> 00:16:49,199
+pacientes oncológicos mostrou uma taxa
+
+384
+00:16:46,959 --> 00:16:50,880
+de resposta de 80% para a dor
+
+385
+00:16:49,199 --> 00:16:52,560
+relacionada ao câncer na primeira
+
+386
+00:16:50,880 --> 00:16:55,079
+avaliação.
+
+387
+00:16:52,560 --> 00:16:57,519
+76,9%
+
+388
+00:16:55,079 --> 00:17:00,040
+na segunda.
+
+389
+00:16:57,519 --> 00:17:02,759
+Para neuropatia relacionada à terapia, a
+
+390
+00:17:00,040 --> 00:17:05,319
+taxa resposta foi de 71%. A dose mais
+
+391
+00:17:02,759 --> 00:17:08,959
+comum foi de 3 mg diário, variação de
+
+392
+00:17:05,319 --> 00:17:11,039
+1,5 a 4,5. Metanálises e revisões
+
+393
+00:17:08,959 --> 00:17:16,039
+sistemáticas. revisões sistemáticas como
+
+394
+00:17:11,039 --> 00:17:18,360
+a de Liubichenko de 2021 e si e 2024
+
+395
+00:17:16,039 --> 00:17:20,240
+conclui que a LDN em doses baixas e com
+
+396
+00:17:18,360 --> 00:17:22,799
+tratamento emitente pode inibir a
+
+397
+00:17:20,240 --> 00:17:25,319
+proliferação celular e possui um alto
+
+398
+00:17:22,799 --> 00:17:28,280
+potencial de câncer e especialmente como
+
+399
+00:17:25,319 --> 00:17:30,039
+adjuvante, mas destacam a necessidade de
+
+400
+00:17:28,280 --> 00:17:32,799
+estudos controlados maiores em humanos
+
+401
+00:17:30,039 --> 00:17:36,000
+para provar benefícios definitivos em
+
+402
+00:17:32,799 --> 00:17:38,480
+sobrevida e resposta. Uma metaanálise de
+
+403
+00:17:36,000 --> 00:17:41,640
+segurança publicada no BMC Medicine
+
+404
+00:17:38,480 --> 00:17:45,360
+2018. Analisando 62 ensaios clínicos
+
+405
+00:17:41,640 --> 00:17:48,280
+andomizados com 11.194 participantes,
+
+406
+00:17:45,360 --> 00:17:50,600
+não encontrou aumento no risco de morte,
+
+407
+00:17:48,280 --> 00:17:54,080
+estabelecendo o seu perfil de segurança
+
+408
+00:17:50,600 --> 00:17:56,520
+geral. Protocolos práticos de dosagem e
+
+409
+00:17:54,080 --> 00:17:59,159
+administração. Esquemas de titulação e
+
+410
+00:17:56,520 --> 00:18:01,039
+dosagem otimizada. A prescrição tem que
+
+411
+00:17:59,159 --> 00:18:02,640
+ser individualizada, mas existem padrões
+
+412
+00:18:01,039 --> 00:18:05,760
+de dosagem comumente empregados.
+
+413
+00:18:02,640 --> 00:18:08,200
+Protocolo padrão é típico de 1 mg ao
+
+414
+00:18:05,760 --> 00:18:10,840
+deitar por uma semana, seguido de 3 mg
+
+415
+00:18:08,200 --> 00:18:12,880
+por uma semana. Então 4,5 como dose de
+
+416
+00:18:10,840 --> 00:18:15,080
+manutenção. Titulação lenta, abordagens
+
+417
+00:18:12,880 --> 00:18:18,120
+mais conservadoras começa com 0,5 a 1
+
+418
+00:18:15,080 --> 00:18:19,880
+mg. Com menos semanais graduais. Para
+
+419
+00:18:18,120 --> 00:18:22,000
+pacientes idosos ou debilitados pode se
+
+420
+00:18:19,880 --> 00:18:24,840
+iniciar com 0,25 e titular mais
+
+421
+00:18:22,000 --> 00:18:26,679
+lentamente. Dose efetiva. A dose máxima
+
+422
+00:18:24,840 --> 00:18:30,400
+efetiva é altamente individualizada,
+
+423
+00:18:26,679 --> 00:18:31,960
+variando 01 a 6 mg diários. Importância
+
+424
+00:18:30,400 --> 00:18:34,480
+da exposição intermitente? É crucial
+
+425
+00:18:31,960 --> 00:18:36,480
+entender que a exposição intermitente é
+
+426
+00:18:34,480 --> 00:18:38,600
+essencial pro mecanismo de ação. O
+
+427
+00:18:36,480 --> 00:18:40,840
+bloqueio dos receptores por 4 a 6 horas
+
+428
+00:18:38,600 --> 00:18:43,120
+permite a regulação compensatória por 18
+
+429
+00:18:40,840 --> 00:18:44,679
+a 20 horas.
+
+430
+00:18:43,120 --> 00:18:46,440
+Formulações de liberação lenta ou
+
+431
+00:18:44,679 --> 00:18:48,799
+sustentada interfere com esse mecanismo
+
+432
+00:18:46,440 --> 00:18:50,480
+devem ser evitadas. Formulações
+
+433
+00:18:48,799 --> 00:18:51,760
+disponíveis e preparo magistral. No
+
+434
+00:18:50,480 --> 00:18:53,799
+Brasil LDN está disponível
+
+435
+00:18:51,760 --> 00:18:56,440
+exclusivamente atrás através de farmácia
+
+436
+00:18:53,799 --> 00:18:58,159
+de manipulação credenciadas pela Anvisa.
+
+437
+00:18:56,440 --> 00:19:00,720
+As formulações incluem cápsulas de
+
+438
+00:18:58,159 --> 00:19:02,760
+liberação imediata, as mais comuns com
+
+439
+00:19:00,720 --> 00:19:05,240
+diversos excipientes. É importante
+
+440
+00:19:02,760 --> 00:19:07,720
+evitar a celulose microcristalina,
+
+441
+00:19:05,240 --> 00:19:09,480
+pois pode retardar absorção. Comprimido
+
+442
+00:19:07,720 --> 00:19:11,480
+de liberação imediata, frequentemente
+
+443
+00:19:09,480 --> 00:19:13,760
+sulcados para permitir dosagem flexível
+
+444
+00:19:11,480 --> 00:19:15,520
+e gotas comprimidos sublinguais para
+
+445
+00:19:13,760 --> 00:19:18,200
+pacientes com dificuldade de deglutição
+
+446
+00:19:15,520 --> 00:19:20,559
+ou má absorção. Suspensões líquidas que
+
+447
+00:19:18,200 --> 00:19:23,000
+permitem uma titulação precisa da dose.
+
+448
+00:19:20,559 --> 00:19:25,000
+Também tem a
+
+449
+00:19:23,000 --> 00:19:28,080
+o uso transdérmico que pode ser indicado
+
+450
+00:19:25,000 --> 00:19:29,440
+para algumas crianças.
+
+451
+00:19:28,080 --> 00:19:31,520
+O armazenamento deve ser feito em
+
+452
+00:19:29,440 --> 00:19:34,120
+temperatura ambiente de 20 a 25º,
+
+453
+00:19:31,520 --> 00:19:35,799
+protegido da umidade e da luz. Horário
+
+454
+00:19:34,120 --> 00:19:37,360
+de administração e fármaco cinético.
+
+455
+00:19:35,799 --> 00:19:39,400
+Administração tradicional é feita a
+
+456
+00:19:37,360 --> 00:19:41,679
+cerca de 1 hora antes de dormir para
+
+457
+00:19:39,400 --> 00:19:46,320
+sincronizar com o ritmo cicadiano e
+
+458
+00:19:41,679 --> 00:19:49,440
+otimizar o pico de endorfinas matinal.
+
+459
+00:19:46,320 --> 00:19:51,520
+Se ocorrer insônia, a dose pode ser
+
+460
+00:19:49,440 --> 00:19:54,000
+administrada 2 a 3 horas antes de dormir
+
+461
+00:19:51,520 --> 00:19:55,880
+ou pela manhã. A meia vida de 4 a 6
+
+462
+00:19:54,000 --> 00:19:57,799
+horas permite uma dosagem única diária
+
+463
+00:19:55,880 --> 00:20:00,640
+com efeito analgésico, persistindo por
+
+464
+00:19:57,799 --> 00:20:03,720
+14 a 16 horas e a regulação positiva dos
+
+465
+00:20:00,640 --> 00:20:06,280
+receptores por 18 a 20 horas. Interações
+
+466
+00:20:03,720 --> 00:20:07,960
+medicamentosas e contraindicações.
+
+467
+00:20:06,280 --> 00:20:09,640
+Interação crítica com opioides. A
+
+468
+00:20:07,960 --> 00:20:11,960
+principal contraindicação é o uso de
+
+469
+00:20:09,640 --> 00:20:13,799
+concomitante com medicamentos opioides.
+
+470
+00:20:11,960 --> 00:20:15,200
+Contraindicação absoluta. A LDN não pode
+
+471
+00:20:13,799 --> 00:20:17,400
+ser usada com piotes, pois pode
+
+472
+00:20:15,200 --> 00:20:20,280
+precipitar uma síndrome de abstinência e
+
+473
+00:20:17,400 --> 00:20:23,039
+anular o efeito analgésico. Período de
+
+474
+00:20:20,280 --> 00:20:24,799
+período de wash out. É necessário um
+
+475
+00:20:23,039 --> 00:20:27,240
+período de descontinuação dos opioides
+
+476
+00:20:24,799 --> 00:20:29,520
+antes de iniciar IDN. 7 dias para
+
+477
+00:20:27,240 --> 00:20:32,039
+opioides de ação curta e 10 a 14 para os
+
+478
+00:20:29,520 --> 00:20:34,200
+de ação prolongada.
+
+479
+00:20:32,039 --> 00:20:35,679
+Cirurgia Lidn deve ser suspensa 7 dias
+
+480
+00:20:34,200 --> 00:20:39,159
+antes de qualquer cirurgia que possa
+
+481
+00:20:35,679 --> 00:20:41,559
+requerer anestesia copioides.
+
+482
+00:20:39,159 --> 00:20:43,880
+Exceções. O tramadol em baixa dose, 50
+
+483
+00:20:41,559 --> 00:20:46,720
+mg duas, três vezes por dia, pode ser
+
+484
+00:20:43,880 --> 00:20:49,320
+tolerada em alguns pacientes. Autorexon
+
+485
+00:20:46,720 --> 00:20:52,240
+em doses ultra baixas e até de 1 a 10
+
+486
+00:20:49,320 --> 00:20:55,880
+microg pode ser usada justamente com
+
+487
+00:20:52,240 --> 00:20:57,760
+opioides para reduzir a tolerância.
+
+488
+00:20:55,880 --> 00:21:00,080
+Uso concomitante com quimioterapia e
+
+489
+00:20:57,760 --> 00:21:01,559
+imunoterapia. Quimioterapia geralmente
+
+490
+00:21:00,080 --> 00:21:04,360
+compatível. Você encontra indicações
+
+491
+00:21:01,559 --> 00:21:06,039
+conhecidas com a quimioterapia padrão.
+
+492
+00:21:04,360 --> 00:21:08,600
+Estudos pré-clínicos sugerem que o
+
+493
+00:21:06,039 --> 00:21:11,000
+pré-tratamento com LDN pode melhorar a
+
+494
+00:21:08,600 --> 00:21:13,200
+efetividade da quimioterapia. Existem
+
+495
+00:21:11,000 --> 00:21:17,279
+efeitos sinégérgicos potenciais através
+
+496
+00:21:13,200 --> 00:21:20,520
+da modulação do eixo OGF ou GFR e da
+
+497
+00:21:17,279 --> 00:21:22,919
+sensibilização das células cancerosas à
+
+498
+00:21:20,520 --> 00:21:24,039
+apoptose
+
+499
+00:21:22,919 --> 00:21:26,120
+imunoterapia. Os efeitos
+
+500
+00:21:24,039 --> 00:21:28,400
+imunomoduladores da LDN podem ser
+
+501
+00:21:26,120 --> 00:21:30,880
+complementares aos dos inibidores de
+
+502
+00:21:28,400 --> 00:21:32,520
+checkpoint, não a contraindicações
+
+503
+00:21:30,880 --> 00:21:35,440
+identificadas, mas recomenda-se um
+
+504
+00:21:32,520 --> 00:21:38,120
+monitoramento próximo. Contraindicações
+
+505
+00:21:35,440 --> 00:21:40,400
+absolutas e relativas absolutas: uso
+
+506
+00:21:38,120 --> 00:21:42,440
+atual ou dependência de opioides,
+
+507
+00:21:40,400 --> 00:21:44,520
+abstinência aguda de opioides, hepatite
+
+508
+00:21:42,440 --> 00:21:47,000
+aguda ou insuficiência hepática,
+
+509
+00:21:44,520 --> 00:21:50,200
+hipersensibilidade conhecida antrexona,
+
+510
+00:21:47,000 --> 00:21:52,799
+teste desafio com analoxona positivo.
+
+511
+00:21:50,200 --> 00:21:56,120
+relativa: cirrose estável ou compensada,
+
+512
+00:21:52,799 --> 00:21:58,799
+gravidez e lactação, uso pediátrico
+
+513
+00:21:56,120 --> 00:22:01,080
+abaixo dos 18 anos, depressão ativa com
+
+514
+00:21:58,799 --> 00:22:02,720
+ideação suicida. Se bem que tem efeito
+
+515
+00:22:01,080 --> 00:22:05,880
+antidepressivo, né? Não sei porque que
+
+516
+00:22:02,720 --> 00:22:07,679
+ele tá falando isso aqui.
+
+517
+00:22:05,880 --> 00:22:10,080
+Perfil de segurança e efeitos
+
+518
+00:22:07,679 --> 00:22:11,720
+colaterais. A LDN é geralmente bem
+
+519
+00:22:10,080 --> 00:22:13,520
+tolerada, com excelente perfil de
+
+520
+00:22:11,720 --> 00:22:16,240
+segurança, dado de segurança em larga
+
+521
+00:22:13,520 --> 00:22:20,600
+escala, uma revisão sistemática 2019 do
+
+522
+00:22:16,240 --> 00:22:23,880
+BMC Medicine com 89 ensaios randomizados
+
+523
+00:22:20,600 --> 00:22:25,840
+e 11.194 dos 194 pacientes não encontrou
+
+524
+00:22:23,880 --> 00:22:27,799
+evidência de aumento de eventos adversos
+
+525
+00:22:25,840 --> 00:22:28,919
+graves. Uma série de casos do MD
+
+526
+00:22:27,799 --> 00:22:31,240
+Anderson, o convite de pacientes
+
+527
+00:22:28,919 --> 00:22:33,279
+oncológicos mostrou apenas eventos
+
+528
+00:22:31,240 --> 00:22:35,559
+adversos menores em dois pacientes:
+
+529
+00:22:33,279 --> 00:22:38,000
+insônia, desconforto gastrointestinal
+
+530
+00:22:35,559 --> 00:22:40,080
+com uma taxa de descontinuação de apenas
+
+531
+00:22:38,000 --> 00:22:44,760
+15%.
+
+532
+00:22:40,080 --> 00:22:44,760
+Efeitos adversos comuns e de manejo.
+
+533
+00:22:45,000 --> 00:22:50,600
+E efeitos adversos comuns e manejo.
+
+534
+00:22:47,480 --> 00:22:52,679
+Sonhos vívidos ocorrem 30 a 37% dos
+
+535
+00:22:50,600 --> 00:22:54,760
+usuários. descritos como sonhos
+
+536
+00:22:52,679 --> 00:22:56,799
+techniicolor, emocionalmente intensos,
+
+537
+00:22:54,760 --> 00:22:58,440
+mas tipicamente não são pesadeiros.
+
+538
+00:22:56,799 --> 00:23:00,279
+Geralmente se resolvem em duas a quatro
+
+539
+00:22:58,440 --> 00:23:02,320
+semanas e podem ser manejados alterando
+
+540
+00:23:00,279 --> 00:23:04,080
+o horário da dose. Efeitos
+
+541
+00:23:02,320 --> 00:23:06,080
+gastrointestinais, náuseia leve
+
+542
+00:23:04,080 --> 00:23:09,080
+transitória, constipação diarreia, podem
+
+543
+00:23:06,080 --> 00:23:11,000
+acontecer iniciar com doses muito baixas
+
+544
+00:23:09,080 --> 00:23:13,600
+e titular lentamente, tomando com
+
+545
+00:23:11,000 --> 00:23:15,279
+alimentos. Isso pode ajudar. Cefaleia,
+
+546
+00:23:13,600 --> 00:23:17,440
+geralmente leve transitória, o manejo
+
+547
+00:23:15,279 --> 00:23:19,840
+inclui a redução da dose e a titulação
+
+548
+00:23:17,440 --> 00:23:21,720
+mais gradual. Flareir citomático
+
+549
+00:23:19,840 --> 00:23:23,880
+inicial. Alguns pacientes podem
+
+550
+00:23:21,720 --> 00:23:25,520
+experimentar uma piora temporária dos
+
+551
+00:23:23,880 --> 00:23:27,240
+sintomas das primeiras duas a seis
+
+552
+00:23:25,520 --> 00:23:29,080
+semanas, o que pode apresentar uma
+
+553
+00:23:27,240 --> 00:23:31,200
+recalibração do sistema do sistema
+
+554
+00:23:29,080 --> 00:23:33,360
+imune, que geralmente indica uma
+
+555
+00:23:31,200 --> 00:23:34,960
+resposta positiva. Monitoramento
+
+556
+00:23:33,360 --> 00:23:37,120
+necessário.
+
+557
+00:23:34,960 --> 00:23:38,720
+Há avaliações basais, histórico, médico
+
+558
+00:23:37,120 --> 00:23:40,960
+completo, incluindo uso de opioides,
+
+559
+00:23:38,720 --> 00:23:42,919
+teste de função hepática, LT, ST,
+
+560
+00:23:40,960 --> 00:23:44,720
+birubina, triagem de urina para
+
+561
+00:23:42,919 --> 00:23:46,760
+opioides, se houver suspeita,
+
+562
+00:23:44,720 --> 00:23:48,440
+monitoramento segmento. Função hepática
+
+563
+00:23:46,760 --> 00:23:50,880
+não necessita ser monitorada
+
+564
+00:23:48,440 --> 00:23:53,240
+rotineiramente, exceto em pacientes de
+
+565
+00:23:50,880 --> 00:23:55,120
+alto risco. A avaliação deve focar na
+
+566
+00:23:53,240 --> 00:23:58,080
+qualidade de vida, scores de dor e
+
+567
+00:23:55,120 --> 00:24:00,400
+marcadoras de progressão tumoral.
+
+568
+00:23:58,080 --> 00:24:03,760
+Seis, aplicações clínicas práticas em
+
+569
+00:24:00,400 --> 00:24:05,799
+oncologia. LDN como terapia adjuvante.
+
+570
+00:24:03,760 --> 00:24:08,480
+LDN demonstra um potencial significativo
+
+571
+00:24:05,799 --> 00:24:10,559
+como adjuvante universal em oncologia,
+
+572
+00:24:08,480 --> 00:24:12,600
+sem os efeitos citotósicos diretos que
+
+573
+00:24:10,559 --> 00:24:15,039
+poderiam interferir com a quimioterapia
+
+574
+00:24:12,600 --> 00:24:17,200
+padrão. Os mecanismos sinégérgicos
+
+575
+00:24:15,039 --> 00:24:20,320
+incluem a sensibilização das células
+
+576
+00:24:17,200 --> 00:24:22,360
+cancerosas apoptose, o aprimoramento da
+
+577
+00:24:20,320 --> 00:24:24,679
+resposta imune e a redução da
+
+578
+00:24:22,360 --> 00:24:26,799
+resistência à quimioterapia.
+
+579
+00:24:24,679 --> 00:24:29,320
+Aplicação em cuidados paliativos. Em
+
+580
+00:24:26,799 --> 00:24:31,000
+contextos paliativos, a LDN oferece
+
+581
+00:24:29,320 --> 00:24:33,480
+múltiplos benefícios sintomáticos,
+
+582
+00:24:31,000 --> 00:24:36,360
+mostrou uma taxa de resposta de 80% para
+
+583
+00:24:33,480 --> 00:24:39,279
+dor relacionado ao câncer e 71% para
+
+584
+00:24:36,360 --> 00:24:41,240
+neuropatia induzida por quimioterapia.
+
+585
+00:24:39,279 --> 00:24:43,520
+Também pode reduzir significativamente a
+
+586
+00:24:41,240 --> 00:24:45,960
+fadiga relacionada ao câncer, melhorar o
+
+587
+00:24:43,520 --> 00:24:47,399
+humor e o estado nutricional. Melhora da
+
+588
+00:24:45,960 --> 00:24:50,039
+qualidade de vida e da redução de
+
+589
+00:24:47,399 --> 00:24:52,039
+fadiga. A LDN aborda múltiplos domínios
+
+590
+00:24:50,039 --> 00:24:53,760
+da qualidade de vida simultaneamente. A
+
+591
+00:24:52,039 --> 00:24:57,600
+redução da fadiga ocorre através da
+
+592
+00:24:53,760 --> 00:24:59,679
+modulação da neuroinflamação microglial.
+
+593
+00:24:57,600 --> 00:25:02,120
+O aprimoramento do sistema de dofinas
+
+594
+00:24:59,679 --> 00:25:03,880
+melhora a energia e o bem-estar. Embora
+
+595
+00:25:02,120 --> 00:25:05,799
+possa causar sonhos vívidos, a maioria
+
+596
+00:25:03,880 --> 00:25:08,760
+dos pacientes relata uma melhora de
+
+597
+00:25:05,799 --> 00:25:10,360
+qualidade geral do sono. Benefícios
+
+598
+00:25:08,760 --> 00:25:12,600
+cognitivos como melhora da clareza
+
+599
+00:25:10,360 --> 00:25:14,760
+mental e potencial prevenção do
+
+600
+00:25:12,600 --> 00:25:16,480
+chemobrain também são relatados. Sete,
+
+601
+00:25:14,760 --> 00:25:19,240
+aspectos regulatórios de prescrição no
+
+602
+00:25:16,480 --> 00:25:21,039
+Brasil. Estatus regulatório brasileiro.
+
+603
+00:25:19,240 --> 00:25:25,120
+A Nutrexona é regulamentada pela
+
+604
+00:25:21,039 --> 00:25:27,000
+portaria número 344 de 1998 da Anvisa. A
+
+605
+00:25:25,120 --> 00:25:28,399
+dose padrão de 50 a 100 mg está
+
+606
+00:25:27,000 --> 00:25:31,120
+registrada para o tratamento da
+
+607
+00:25:28,399 --> 00:25:33,520
+dependência de álcool e opioides. A LDN
+
+608
+00:25:31,120 --> 00:25:35,279
+abaixo de 5 mg não possui um registro
+
+609
+00:25:33,520 --> 00:25:37,880
+específico, exigindo, portanto, uma
+
+610
+00:25:35,279 --> 00:25:39,520
+prescrição off label. A pressão of label
+
+611
+00:25:37,880 --> 00:25:41,480
+é legal no Brasil, mas o médico assume
+
+612
+00:25:39,520 --> 00:25:43,679
+total responsabilidade, o que requer uma
+
+613
+00:25:41,480 --> 00:25:45,679
+fundamentação científica sólida e o
+
+614
+00:25:43,679 --> 00:25:48,000
+consentimento informado do paciente.
+
+615
+00:25:45,679 --> 00:25:49,360
+Como prescrever no Brasil? A prescrição
+
+616
+00:25:48,000 --> 00:25:51,120
+deve seguir o formato padrão para
+
+617
+00:25:49,360 --> 00:25:52,840
+substâncias controladas, utilizando uma
+
+618
+00:25:51,120 --> 00:25:55,440
+receita de controle especial em duas
+
+619
+00:25:52,840 --> 00:25:57,000
+vias. É altamente recomendável obter um
+
+620
+00:25:55,440 --> 00:25:59,399
+termo de consentimento informado por
+
+621
+00:25:57,000 --> 00:26:01,520
+escrito, explicando a natureza ofel do
+
+622
+00:25:59,399 --> 00:26:04,159
+tratamento. Uma documentação detalhada
+
+623
+00:26:01,520 --> 00:26:06,039
+no prontuário médico essencial.
+
+624
+00:26:04,159 --> 00:26:08,120
+disponibilidade e custo. A LDN está
+
+625
+00:26:06,039 --> 00:26:10,440
+disponível exclusivamente através de
+
+626
+00:26:08,120 --> 00:26:12,000
+farmácia e manipulação. O consumo tem
+
+627
+00:26:10,440 --> 00:26:13,600
+mostrado uma tendência de crescimento
+
+628
+00:26:12,000 --> 00:26:15,880
+nas capitais brasileiras, especialmente
+
+629
+00:26:13,600 --> 00:26:17,360
+nas regiões Centro-Oeste, Sul e Sudeste.
+
+630
+00:26:15,880 --> 00:26:20,760
+O custo é relativamente baixo, em torno
+
+631
+00:26:17,360 --> 00:26:22,919
+de em torno de R$ 175 por mês.
+
+632
+00:26:20,760 --> 00:26:24,679
+Atualmente não é coberta pelo SUS, mas
+
+633
+00:26:22,919 --> 00:26:26,720
+existe uma proposta legislativa para sua
+
+634
+00:26:24,679 --> 00:26:29,559
+inclusão. Casos clínicos documentados,
+
+635
+00:26:26,720 --> 00:26:32,279
+perspectivas futuras. Protocolo Berkson
+
+636
+00:26:29,559 --> 00:26:35,440
+e experiências brasileiras.
+
+637
+00:26:32,279 --> 00:26:35,440
+O protocolo,
+
+638
+00:26:36,039 --> 00:26:41,799
+o protocolo alfalipoico liden do Dr.
+
+639
+00:26:38,880 --> 00:26:43,440
+Burton Berkson demonstrou resultados
+
+640
+00:26:41,799 --> 00:26:45,360
+notáveis, especialmente em câncer
+
+641
+00:26:43,440 --> 00:26:47,279
+pancreático avançado, com sobrevidas
+
+642
+00:26:45,360 --> 00:26:50,120
+prolongadas e em alguns casos remissão
+
+643
+00:26:47,279 --> 00:26:51,840
+completa da doença em exames de imagem.
+
+644
+00:26:50,120 --> 00:26:53,919
+Uma revisão sistemática brasileira de
+
+645
+00:26:51,840 --> 00:26:55,880
+2023 identificou sete pacientes com
+
+646
+00:26:53,919 --> 00:26:57,960
+diversos tipos de câncer metastático e
+
+647
+00:26:55,880 --> 00:27:02,279
+todos os estudos relataram aumento de
+
+648
+00:26:57,960 --> 00:27:02,279
+sobrevivida sem efeitos tóxicos.
+
+649
+00:27:02,399 --> 00:27:05,760
+pesquisa em andamento e novas
+
+650
+00:27:03,919 --> 00:27:08,120
+aplicações. Saios clínicos ativos estão
+
+651
+00:27:05,760 --> 00:27:10,399
+explorando combinações de LDN com
+
+652
+00:27:08,120 --> 00:27:12,320
+imunoterapias modernas. Aplicações
+
+653
+00:27:10,399 --> 00:27:15,480
+emergentes inclui seu uso emcologia
+
+654
+00:27:12,320 --> 00:27:17,720
+preventiva. Terapia de manutenção pós-
+
+655
+00:27:15,480 --> 00:27:21,039
+tratamento em combinação com terapias
+
+656
+00:27:17,720 --> 00:27:22,840
+celulares como carê e vacinas contra o
+
+657
+00:27:21,039 --> 00:27:24,559
+câncer.
+
+658
+00:27:22,840 --> 00:27:27,760
+A medicina personalizada utilizando
+
+659
+00:27:24,559 --> 00:27:31,159
+biomarcadores para guiar a terapia com
+
+660
+00:27:27,760 --> 00:27:32,880
+LDN é uma área promissora.
+
+661
+00:27:31,159 --> 00:27:35,600
+Conclusão e recomendações práticas.
+
+662
+00:27:32,880 --> 00:27:39,120
+Autrixa em baixa dosagem
+
+663
+00:27:35,600 --> 00:27:40,799
+representa uma modalidade
+
+664
+00:27:39,120 --> 00:27:42,679
+terapêutica promissora na oncologia
+
+665
+00:27:40,799 --> 00:27:44,600
+integrativa com múltiplos mecanismos de
+
+666
+00:27:42,679 --> 00:27:46,640
+ação bem caracterizados, um excelente
+
+667
+00:27:44,600 --> 00:27:48,960
+perfil de segurança, evidências
+
+668
+00:27:46,640 --> 00:27:50,760
+crescentes de benefícios clínicos. Ela
+
+669
+00:27:48,960 --> 00:27:52,679
+se posiciona como uma terapia adjuvante
+
+670
+00:27:50,760 --> 00:27:54,840
+segura, acessível e potencialmente
+
+671
+00:27:52,679 --> 00:27:56,960
+transformadora. Seu papel atual é
+
+672
+00:27:54,840 --> 00:27:58,200
+cojuvante, devendo ser sempre integrada
+
+673
+00:27:56,960 --> 00:28:01,000
+aos tratamentos oncológicos
+
+674
+00:27:58,200 --> 00:28:02,720
+convencionais e não como um substituto.
+
+675
+00:28:01,000 --> 00:28:04,640
+O cenário atual sugere um potencial
+
+676
+00:28:02,720 --> 00:28:06,519
+significativo para LDN e o Brasil está
+
+677
+00:28:04,640 --> 00:28:08,720
+bem posicionado para expandir a pesquisa
+
+678
+00:28:06,519 --> 00:28:09,960
+clínica nessa área. É fundamental que os
+
+679
+00:28:08,720 --> 00:28:11,320
+profissionais de saúde mantenham-se
+
+680
+00:28:09,960 --> 00:28:13,320
+atualizados com as pesquisas em
+
+681
+00:28:11,320 --> 00:28:15,360
+andamento para refinar o uso dessa
+
+682
+00:28:13,320 --> 00:28:18,559
+ferramenta valiosa no cuidado ao
+
+683
+00:28:15,360 --> 00:28:18,559
+paciente oncológico.
+

@@ -1,0 +1,800 @@
+1
+00:00:00,120 --> 00:00:04,640
+O que que é melhor, probióticos ou mamps
+
+2
+00:00:02,840 --> 00:00:06,279
+de probióticos?
+
+3
+00:00:04,640 --> 00:00:08,040
+E aí, pessoal, hoje vamos conversar
+
+4
+00:00:06,279 --> 00:00:09,360
+sobre uma revolução silenciosa que está
+
+5
+00:00:08,040 --> 00:00:11,559
+acontecendo no mundo da saúde
+
+6
+00:00:09,360 --> 00:00:13,480
+intestinal. Uma descoberta que pode
+
+7
+00:00:11,559 --> 00:00:15,679
+mudar completamente a forma como
+
+8
+00:00:13,480 --> 00:00:18,320
+pensamos sobre probióticos e
+
+9
+00:00:15,679 --> 00:00:20,439
+imunomodulação. Estou falando os MAMPs,
+
+10
+00:00:18,320 --> 00:00:22,600
+os padrões moleculares associados aos
+
+11
+00:00:20,439 --> 00:00:24,560
+micróbios versus probióticos
+
+12
+00:00:22,600 --> 00:00:26,000
+tradicionais. Deixa eu começar com uma
+
+13
+00:00:24,560 --> 00:00:29,160
+analogia que vai facilitar o seu
+
+14
+00:00:26,000 --> 00:00:30,800
+entendimento. Imaginem que vocês querem
+
+15
+00:00:29,160 --> 00:00:33,320
+melhorar a segurança do prédio onde
+
+16
+00:00:30,800 --> 00:00:35,840
+moram. A abordagem tradicional seria
+
+17
+00:00:33,320 --> 00:00:38,040
+contratar seguranças vivos que precisam
+
+18
+00:00:35,840 --> 00:00:40,480
+se adaptar ao ambiente, conhecer as
+
+19
+00:00:38,040 --> 00:00:42,320
+regras locais e talvez nem sempre
+
+20
+00:00:40,480 --> 00:00:45,719
+consigam se estabelecer direito no
+
+21
+00:00:42,320 --> 00:00:47,840
+posto. Essa é a basicamente a estratégia
+
+22
+00:00:45,719 --> 00:00:49,600
+dos probióticos convencionais. Agora
+
+23
+00:00:47,840 --> 00:00:52,039
+imaginem uma segunda abordagem. Em vez
+
+24
+00:00:49,600 --> 00:00:53,920
+de depender de seguranças vivos, vocês
+
+25
+00:00:52,039 --> 00:00:57,359
+instalam sensores inteligentes que
+
+26
+00:00:53,920 --> 00:00:58,960
+detectam padrões específicos de ameaça e
+
+27
+00:00:57,359 --> 00:01:02,160
+ativam automaticamente o sistema de
+
+28
+00:00:58,960 --> 00:01:04,360
+segurança do prédio. Esses sensores não
+
+29
+00:01:02,160 --> 00:01:06,640
+precisam se adaptar, não morrem, não
+
+30
+00:01:04,360 --> 00:01:08,240
+competem entre si, eles simplesmente
+
+31
+00:01:06,640 --> 00:01:11,720
+fazem o que foram programados para
+
+32
+00:01:08,240 --> 00:01:13,960
+fazer. Essa é a essência dos mamps.
+
+33
+00:01:11,720 --> 00:01:16,360
+Vamos ao que a ciência mais recente tem
+
+34
+00:01:13,960 --> 00:01:18,280
+revelado sobre essa questão. Os mamps
+
+35
+00:01:16,360 --> 00:01:20,920
+são componentes moleculares estruturais
+
+36
+00:01:18,280 --> 00:01:22,799
+presentes em microrganismos, coisas como
+
+37
+00:01:20,920 --> 00:01:25,960
+lipopolissacarídos, flagelina,
+
+38
+00:01:22,799 --> 00:01:27,560
+peptidoglicanos, ácidos lipotecóicos.
+
+39
+00:01:25,960 --> 00:01:29,360
+São como assinaturas moleculares que
+
+40
+00:01:27,560 --> 00:01:30,840
+nosso sistema imune aprendeu a
+
+41
+00:01:29,360 --> 00:01:33,439
+reconhecer ao longo de milhares de anos
+
+42
+00:01:30,840 --> 00:01:35,799
+de evolução. O interessante é que essas
+
+43
+00:01:33,439 --> 00:01:37,799
+moléculas não precisam estar vivas para
+
+44
+00:01:35,799 --> 00:01:39,320
+funcionar. Elas são reconhecidas pelos
+
+45
+00:01:37,799 --> 00:01:41,880
+nossos receptores de reconhecimento
+
+46
+00:01:39,320 --> 00:01:45,240
+padrão, os famosos PRRs como os
+
+47
+00:01:41,880 --> 00:01:47,640
+receptores Tall e disparam com as cartas
+
+48
+00:01:45,240 --> 00:01:50,040
+de sinalização que modulam nossa
+
+49
+00:01:47,640 --> 00:01:51,520
+resposta imune de forma muito precisa.
+
+50
+00:01:50,040 --> 00:01:53,560
+Aqui é onde a coisa fica realmente
+
+51
+00:01:51,520 --> 00:01:56,320
+fascinante. Estudos de 2024 tem
+
+52
+00:01:53,560 --> 00:01:58,159
+demonstrado que preparações de mamps
+
+53
+00:01:56,320 --> 00:02:00,520
+purificados ou microorganismos
+
+54
+00:01:58,159 --> 00:02:02,439
+inativados pelo calor podem ter efeitos
+
+55
+00:02:00,520 --> 00:02:04,360
+imunomoduladores mais consistentes e
+
+56
+00:02:02,439 --> 00:02:06,280
+previsíveis que probióticos vivos. Sabe
+
+57
+00:02:04,360 --> 00:02:08,800
+por quê? Porque não depende da
+
+58
+00:02:06,280 --> 00:02:11,160
+colonização da sobrevivência no ambiente
+
+59
+00:02:08,800 --> 00:02:13,120
+ácido do estômago, da competição com
+
+60
+00:02:11,160 --> 00:02:15,319
+outras bactérias ou das variações
+
+61
+00:02:13,120 --> 00:02:17,000
+individuais do picobioma. Eu vou contar
+
+62
+00:02:15,319 --> 00:02:19,080
+para vocês um caso que me marcou muito.
+
+63
+00:02:17,000 --> 00:02:21,040
+Recebi um paciente com síndrome
+
+64
+00:02:19,080 --> 00:02:23,640
+intestino irritável que já havia tentado
+
+65
+00:02:21,040 --> 00:02:25,640
+cinco tipos diferentes em probióticos ao
+
+66
+00:02:23,640 --> 00:02:28,360
+longo de do anos. Sempre a mesma
+
+67
+00:02:25,640 --> 00:02:30,840
+história. Melhora inicial seguida de
+
+68
+00:02:28,360 --> 00:02:33,040
+retorno sintomas. Quando começamos a
+
+69
+00:02:30,840 --> 00:02:35,080
+trabalhar com abordagem baseada em MAMPS
+
+70
+00:02:33,040 --> 00:02:36,920
+através de pós bióticos específicos, a
+
+71
+00:02:35,080 --> 00:02:39,200
+resposta foi completamente diferente,
+
+72
+00:02:36,920 --> 00:02:42,080
+consistente, duradora, sem os altos e
+
+73
+00:02:39,200 --> 00:02:43,879
+baixos que ela experimentava antes. A
+
+74
+00:02:42,080 --> 00:02:46,720
+literatura científica atual mostra que
+
+75
+00:02:43,879 --> 00:02:48,720
+quando usamos MAMPS ou pós-bióticos, são
+
+76
+00:02:46,720 --> 00:02:51,400
+basicamente os produtos bioativos de
+
+77
+00:02:48,720 --> 00:02:53,200
+microrganismos fermentados, conseguimos
+
+78
+00:02:51,400 --> 00:02:56,159
+estimular vias específicas do sistema
+
+79
+00:02:53,200 --> 00:02:58,400
+imune sem depender da variabilidade
+
+80
+00:02:56,159 --> 00:03:00,720
+biológica de organismos vivos. É como
+
+81
+00:02:58,400 --> 00:03:03,680
+ter acesso direto aos interruptores do
+
+82
+00:03:00,720 --> 00:03:05,640
+sistema imune. Mas calma, não estou aqui
+
+83
+00:03:03,680 --> 00:03:07,519
+para demonizar os probióticos
+
+84
+00:03:05,640 --> 00:03:10,080
+tradicionais. Eles têm sim o seu lugar
+
+85
+00:03:07,519 --> 00:03:12,480
+na abordagem integrativa. A questão é
+
+86
+00:03:10,080 --> 00:03:14,640
+entender quando usar cada estratégia.
+
+87
+00:03:12,480 --> 00:03:17,400
+Probióticos vivos são excelentes para
+
+88
+00:03:14,640 --> 00:03:19,080
+recolonização após antibióticos para
+
+89
+00:03:17,400 --> 00:03:21,400
+pessoas saudáveis que querem manutenção
+
+90
+00:03:19,080 --> 00:03:23,680
+geral ou em situações onde precisamos
+
+91
+00:03:21,400 --> 00:03:25,560
+realmente de colonização intestinal. Os
+
+92
+00:03:23,680 --> 00:03:27,879
+mamps, por outro lado, brilham quando
+
+93
+00:03:25,560 --> 00:03:29,360
+queremos imunomodulação específica.
+
+94
+00:03:27,879 --> 00:03:31,640
+Quando lidamos com pacientes
+
+95
+00:03:29,360 --> 00:03:34,200
+imunocprometidos, onde probióticos vivos
+
+96
+00:03:31,640 --> 00:03:36,799
+podem ser arriscados, ou quando buscamos
+
+97
+00:03:34,200 --> 00:03:38,640
+efeitos mais previsíveis e padronizados.
+
+98
+00:03:36,799 --> 00:03:40,959
+É uma abordagem mais farmacológica,
+
+99
+00:03:38,640 --> 00:03:43,200
+digamos assim. Uma das vantagens dos
+
+100
+00:03:40,959 --> 00:03:45,280
+mampres é a estabilidade. Não precisamos
+
+101
+00:03:43,200 --> 00:03:47,480
+preocupar com refrigeração, prazo de
+
+102
+00:03:45,280 --> 00:03:49,760
+validade dos organismos vivos ou se as
+
+103
+00:03:47,480 --> 00:03:51,640
+bactérias vão sobreviver a passagem pelo
+
+104
+00:03:49,760 --> 00:03:53,599
+trato digestório. Os componentes
+
+105
+00:03:51,640 --> 00:03:57,360
+moleculares são muito mais estáveis e
+
+106
+00:03:53,599 --> 00:03:59,720
+resistentes. Outro ponto crucial é a
+
+107
+00:03:57,360 --> 00:04:03,040
+especificidade. Coms podemos mirar em
+
+108
+00:03:59,720 --> 00:04:06,360
+receptores específicos como TLR2, TLR4,
+
+109
+00:04:03,040 --> 00:04:10,599
+TLR5, TLR9, cada um com funções
+
+110
+00:04:06,360 --> 00:04:12,079
+distintas na resposta imune. É como ter
+
+111
+00:04:10,599 --> 00:04:15,280
+chaves específicas para diferentes
+
+112
+00:04:12,079 --> 00:04:17,079
+fechaduras do sistema imune em vez de
+
+113
+00:04:15,280 --> 00:04:19,239
+tentar abrir todas as portas com molho
+
+114
+00:04:17,079 --> 00:04:21,400
+de chaves aleatório.
+
+115
+00:04:19,239 --> 00:04:23,000
+A pesquisa 2024 publicada na C
+
+116
+00:04:21,400 --> 00:04:25,080
+metabolismos
+
+117
+00:04:23,000 --> 00:04:27,880
+demonstrou que pósicos derivados de
+
+118
+00:04:25,080 --> 00:04:29,680
+lactobacilos consegue modular a produção
+
+119
+00:04:27,880 --> 00:04:31,720
+de citocinas antiflamatórias de forma
+
+120
+00:04:29,680 --> 00:04:34,000
+mais eficiente que os organismos vivos
+
+121
+00:04:31,720 --> 00:04:36,199
+correspondentes. O interessante é que o
+
+122
+00:04:34,000 --> 00:04:37,600
+processo de inativação pelo calor até
+
+123
+00:04:36,199 --> 00:04:39,560
+potencializa alguns efeitos
+
+124
+00:04:37,600 --> 00:04:41,160
+imunomoduladores,
+
+125
+00:04:39,560 --> 00:04:44,360
+possivelmente pela liberação de proteías
+
+126
+00:04:41,160 --> 00:04:46,039
+de choque térmico. Mas vamos ser
+
+127
+00:04:44,360 --> 00:04:48,560
+honestos aqui. Essa tecnologia ainda
+
+128
+00:04:46,039 --> 00:04:51,000
+está em desenvolvimento. Os mamps, pós
+
+129
+00:04:48,560 --> 00:04:52,800
+bióticos são mais caros de produzir,
+
+130
+00:04:51,000 --> 00:04:56,160
+exige maior conhecimento técnico pela
+
+131
+00:04:52,800 --> 00:04:57,840
+formulação adequada e ainda não temos o
+
+132
+00:04:56,160 --> 00:05:00,039
+mesmo volume de estudos clínicos que
+
+133
+00:04:57,840 --> 00:05:02,320
+temos para postbióticos ou probióticos
+
+134
+00:05:00,039 --> 00:05:04,120
+tradicionais. Na minha prática clínica,
+
+135
+00:05:02,320 --> 00:05:05,880
+tenho usado uma abordagem escalonada.
+
+136
+00:05:04,120 --> 00:05:07,520
+Para pacientes com questões simples de
+
+137
+00:05:05,880 --> 00:05:09,240
+saúde intestinal, começamos com
+
+138
+00:05:07,520 --> 00:05:11,840
+probiótico de qualidade, fermentados
+
+139
+00:05:09,240 --> 00:05:13,440
+naturais e mudanças dietéticas. Para
+
+140
+00:05:11,840 --> 00:05:15,240
+casos mais complexos, especialmente
+
+141
+00:05:13,440 --> 00:05:17,080
+aqueles envolvendo desregulação
+
+142
+00:05:15,240 --> 00:05:18,680
+imunológica ou inflamação crônica, os
+
+143
+00:05:17,080 --> 00:05:21,000
+mamps têm se mostrado uma ferramenta
+
+144
+00:05:18,680 --> 00:05:22,560
+muito mais potente. O futuro
+
+145
+00:05:21,000 --> 00:05:24,600
+provavelmente está em formulações
+
+146
+00:05:22,560 --> 00:05:27,280
+híbridas, combinações inteligentes de
+
+147
+00:05:24,600 --> 00:05:29,120
+probióticos vivos para colonização,
+
+148
+00:05:27,280 --> 00:05:31,639
+prebióticos para alimentar os residentes
+
+149
+00:05:29,120 --> 00:05:33,759
+benéficos e mamps específicos para
+
+150
+00:05:31,639 --> 00:05:35,919
+imunomodulação direcionada. é o que
+
+151
+00:05:33,759 --> 00:05:38,360
+alguns pesquisadores estão chamando de
+
+152
+00:05:35,919 --> 00:05:39,919
+simbióticos de quarta geração. Uma coisa
+
+153
+00:05:38,360 --> 00:05:42,400
+que me empolga muito nessa área é a
+
+154
+00:05:39,919 --> 00:05:44,240
+possibilidade de personalização. Com os
+
+155
+00:05:42,400 --> 00:05:45,919
+avanços em análise do microbiôme de
+
+156
+00:05:44,240 --> 00:05:47,800
+pagem de receptores imunológicos,
+
+157
+00:05:45,919 --> 00:05:50,880
+podemos estar caminhando para uma era
+
+158
+00:05:47,800 --> 00:05:53,160
+onde saberemos exatamente quais mamps
+
+159
+00:05:50,880 --> 00:05:54,880
+usar para cada perfil individual. É
+
+160
+00:05:53,160 --> 00:05:56,680
+medicina de precisão aplicada ao
+
+161
+00:05:54,880 --> 00:05:59,000
+microbioma, mas não podemos esquecer o
+
+162
+00:05:56,680 --> 00:06:01,120
+básico. Nem mamps, nem probióticos fazem
+
+163
+00:05:59,000 --> 00:06:03,440
+milagres se continuarmos com dieta
+
+164
+00:06:01,120 --> 00:06:06,120
+processada sobre ruim, estresse crônico
+
+165
+00:06:03,440 --> 00:06:07,800
+e exposição constante a toxinas. A base
+
+166
+00:06:06,120 --> 00:06:10,120
+continua sendo um estilo de vida que
+
+167
+00:06:07,800 --> 00:06:12,560
+honre nossa biologia ancestral. A
+
+168
+00:06:10,120 --> 00:06:14,199
+mensagem que quero deixar hoje é essa.
+
+169
+00:06:12,560 --> 00:06:16,960
+Estamos entrando numa nova era da
+
+170
+00:06:14,199 --> 00:06:19,160
+imunomodulação intestinal. Os mant
+
+171
+00:06:16,960 --> 00:06:20,800
+representam uma evolução natural da
+
+172
+00:06:19,160 --> 00:06:23,080
+nossa compressão sobre o nosso sistema
+
+173
+00:06:20,800 --> 00:06:25,680
+imunológico e o microbioma. como eles se
+
+174
+00:06:23,080 --> 00:06:28,160
+comunicam, não é questão de substituir
+
+175
+00:06:25,680 --> 00:06:30,319
+probióticos ou mamps, mas sim de
+
+176
+00:06:28,160 --> 00:06:32,800
+entender quando cada ferramenta é mais
+
+177
+00:06:30,319 --> 00:06:35,440
+apropriada. Para quem está começando
+
+178
+00:06:32,800 --> 00:06:37,039
+essa jornada de saúde intestinal,
+
+179
+00:06:35,440 --> 00:06:38,680
+probióticos de qualidade, mudança
+
+180
+00:06:37,039 --> 00:06:40,520
+dietética são excelente ponto de
+
+181
+00:06:38,680 --> 00:06:43,199
+partida. Para quem já está nessa
+
+182
+00:06:40,520 --> 00:06:45,280
+caminhada faz tempo e tem buscado
+
+183
+00:06:43,199 --> 00:06:47,199
+resultados mais específicos ou para caso
+
+184
+00:06:45,280 --> 00:06:48,960
+mais complexo, os MAMPs abrem
+
+185
+00:06:47,199 --> 00:06:51,039
+possibilidades terapêuticas muito
+
+186
+00:06:48,960 --> 00:06:53,240
+interessantes. O importante é lembrar
+
+187
+00:06:51,039 --> 00:06:55,680
+que não existe pala de prata na saúde. A
+
+188
+00:06:53,240 --> 00:06:58,000
+abordagem funcional sempre vai ser
+
+189
+00:06:55,680 --> 00:06:59,680
+sobreentender a individualidade
+
+190
+00:06:58,000 --> 00:07:02,080
+bioquímica de cada pessoa e usar as
+
+191
+00:06:59,680 --> 00:07:04,199
+ferramentas certas no momento certo. Os
+
+192
+00:07:02,080 --> 00:07:06,919
+mantis são mais uma ferramenta muito
+
+193
+00:07:04,199 --> 00:07:08,720
+promissora, por sinal, no nosso arsenal
+
+194
+00:07:06,919 --> 00:07:11,639
+terapêutico. A revolução da saúde
+
+195
+00:07:08,720 --> 00:07:13,800
+intestinal está apenas começando e vocês
+
+196
+00:07:11,639 --> 00:07:15,680
+estão aqui para acompanhar essa jornada
+
+197
+00:07:13,800 --> 00:07:17,479
+incrível de descobertas que estão
+
+198
+00:07:15,680 --> 00:07:19,520
+mudando essa forma de enxergar a
+
+199
+00:07:17,479 --> 00:07:21,879
+interação entre microorganismos e saúde
+
+200
+00:07:19,520 --> 00:07:21,879
+humana. Ah.
+

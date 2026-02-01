@@ -1,0 +1,8 @@
+Title: Precisamos de um novo modelo: modelagem causal
+Video ID: Txl0aso8jcI
+URL: https://youtube.com/watch?v=Txl0aso8jcI
+Published: 2025-11-18T11:17:13Z
+Language: pt
+------------------------------------------------------------
+
+Nós precisamos de um novo modelo. Esse modelo cartesiano atual, ele tá muito limitado. Então, a modelagem causal faz uma pergunta diferente. Quais mecanismos ligam intervenção à bioquímica e ao resultado clínico? Ao invés de apagar as diferenças, tirando a média, ela abraça a individualidade usando biomarcadores, raciocínio mecanístico, probabilidade baesiana para inferir causa e efeito a partir de múltiplos fluxos de evidência, tá? Eu falei difícil agora, né? Falei, parece até que eu tô inteligente agora. Isso espelha como os clínicos realmente pensam. Então, quando a deficiência vitamina D se correlaciona com disfunção imune ou estresse oxidativo e desfechos ruins e a suplementação restaura a função, isso é inferência causal, não é coincidência. Nice.

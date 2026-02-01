@@ -1,0 +1,924 @@
+1
+00:00:00,320 --> 00:00:05,240
+Em julho de 2022, eu fiz um vídeo sobre
+
+2
+00:00:02,879 --> 00:00:07,720
+as moléculas da longevidade. Eu falei
+
+3
+00:00:05,240 --> 00:00:09,240
+sobre nada de mais, nicotinamina,
+
+4
+00:00:07,720 --> 00:00:11,679
+mononicleotídio,
+
+5
+00:00:09,240 --> 00:00:14,120
+nicotinamida, ribosídio, resveratrol,
+
+6
+00:00:11,679 --> 00:00:16,880
+ctuínas. E na época a promessa era
+
+7
+00:00:14,120 --> 00:00:20,000
+tentadora, suplementar precursores de
+
+8
+00:00:16,880 --> 00:00:21,480
+nadis para reverter o envelhecimento. Eu
+
+9
+00:00:20,000 --> 00:00:23,880
+expliquei como nada de mais é
+
+10
+00:00:21,480 --> 00:00:26,359
+fundamental para as mitocôndrias, como
+
+11
+00:00:23,880 --> 00:00:28,640
+ele ativa as cirtuínas, como seus níveis
+
+12
+00:00:26,359 --> 00:00:30,800
+caem com a idade. Tudo isso continua a
+
+13
+00:00:28,640 --> 00:00:33,360
+verdade. O que mudou foi evidência sobre
+
+14
+00:00:30,800 --> 00:00:35,600
+o que acontece quando você tenta repor
+
+15
+00:00:33,360 --> 00:00:38,360
+isso artificialmente. E eu preciso ser
+
+16
+00:00:35,600 --> 00:00:40,480
+honesto com você. A ciência avançou e
+
+17
+00:00:38,360 --> 00:00:43,960
+algumas coisas que eu disse merec
+
+18
+00:00:40,480 --> 00:00:43,960
+atualização crítica.
+
+19
+00:00:44,120 --> 00:00:47,600
+Primeiro, o que que continua válido? O
+
+20
+00:00:46,000 --> 00:00:50,199
+nad
+
+21
+00:00:47,600 --> 00:00:52,879
+essencial pro metabolismo energético.
+
+22
+00:00:50,199 --> 00:00:55,640
+Ele realmente diminui com a idade, as
+
+23
+00:00:52,879 --> 00:00:57,760
+cirtuínas realmente dependem dele. O
+
+24
+00:00:55,640 --> 00:01:00,039
+problema não está na bioquímica, o
+
+25
+00:00:57,760 --> 00:01:02,359
+problema está na tradução clínica. Uma
+
+26
+00:01:00,039 --> 00:01:05,880
+metaanálise publicada em 2025 na
+
+27
+00:01:02,359 --> 00:01:08,400
+Criticals Reviewal em Food Science
+
+28
+00:01:05,880 --> 00:01:11,720
+Nutrition analisou 12 ensaios clínicos
+
+29
+00:01:08,400 --> 00:01:14,200
+com 503 participantes e o resultado, a
+
+30
+00:01:11,720 --> 00:01:17,320
+suplementação de NMN, que é a
+
+31
+00:01:14,200 --> 00:01:19,920
+nicotinamida, mononicleídio, realmente
+
+32
+00:01:17,320 --> 00:01:22,640
+aumenta os níveis de nadimais no sangue.
+
+33
+00:01:19,920 --> 00:01:25,280
+Isso é fato. Mas aqui tá o ponto
+
+34
+00:01:22,640 --> 00:01:27,520
+crucial. A maioria dos desfechos
+
+35
+00:01:25,280 --> 00:01:30,079
+clinicamente relevantes não foi
+
+36
+00:01:27,520 --> 00:01:33,159
+significativamente diferente entre o
+
+37
+00:01:30,079 --> 00:01:35,280
+grupo que tomou NMN e o grupo placebo,
+
+38
+00:01:33,159 --> 00:01:38,720
+ou seja, o grupo da farinha. Os
+
+39
+00:01:35,280 --> 00:01:40,920
+pesquisadores concluíram e eu cito, pode
+
+40
+00:01:38,720 --> 00:01:45,520
+existir um exageros benefícios da
+
+41
+00:01:40,920 --> 00:01:47,680
+suplementação de NMN no campo. Exagero é
+
+42
+00:01:45,520 --> 00:01:50,479
+uma palavra forte vindo de uma revisão
+
+43
+00:01:47,680 --> 00:01:53,240
+sistemática. Mas o golpe mais duro veio
+
+44
+00:01:50,479 --> 00:01:56,200
+de um lugar inesperado, o Interventions
+
+45
+00:01:53,240 --> 00:01:57,759
+Testing Program do Nag. Esse é o padrão
+
+46
+00:01:56,200 --> 00:02:00,240
+ouro para testar substâncias que
+
+47
+00:01:57,759 --> 00:02:02,360
+prolongam a vida. Eles usam milhares de
+
+48
+00:02:00,240 --> 00:02:05,439
+camundongos em três centros diferentes
+
+49
+00:02:02,360 --> 00:02:07,000
+com metodologia rigorosa. Em 2021,
+
+50
+00:02:05,439 --> 00:02:10,200
+publicaram os resultados para
+
+51
+00:02:07,000 --> 00:02:13,040
+nicotinamida ribosídio, o famoso NR.
+
+52
+00:02:10,200 --> 00:02:16,920
+Resultado, nenhum efeito na longevidade.
+
+53
+00:02:13,040 --> 00:02:18,920
+Nem machos, nem fêmeas, nada zero. E
+
+54
+00:02:16,920 --> 00:02:21,280
+olha que esse programa já validou outras
+
+55
+00:02:18,920 --> 00:02:23,920
+substâncias, como a rapabicina. Quando
+
+56
+00:02:21,280 --> 00:02:26,319
+algo funciona, eles detectam o NR,
+
+57
+00:02:23,920 --> 00:02:29,040
+infelizmente não funcionou. E tem mais
+
+58
+00:02:26,319 --> 00:02:32,440
+um estudo publicado em dezembro de 2024,
+
+59
+00:02:29,040 --> 00:02:35,599
+randomizado, controlado, testou 2000 mg,
+
+60
+00:02:32,440 --> 00:02:38,280
+ou seja, 2 g de nicotinamida ribosídio
+
+61
+00:02:35,599 --> 00:02:41,879
+por 24 semanas em pacientes com long
+
+62
+00:02:38,280 --> 00:02:44,239
+COVID ou COVID longa. O objetivo era ver
+
+63
+00:02:41,879 --> 00:02:46,560
+se melhoraria a função cognitiva e a
+
+64
+00:02:44,239 --> 00:02:48,720
+recuperação dos sintomas. O nada de mais
+
+65
+00:02:46,560 --> 00:02:51,159
+no sangue subiu, os sintomas não
+
+66
+00:02:48,720 --> 00:02:52,879
+melhoraram, a cognção não melhorou, os
+
+67
+00:02:51,159 --> 00:02:55,640
+pacientes continuaram exatamente como
+
+68
+00:02:52,879 --> 00:02:58,239
+antes. Então vamos recapitular. Os
+
+69
+00:02:55,640 --> 00:03:00,840
+precursores de nadimais aumentam o NAD
+
+70
+00:02:58,239 --> 00:03:03,319
+mais no sangue, isso está comprovado.
+
+71
+00:03:00,840 --> 00:03:06,040
+Mas aumentar o nad
+
+72
+00:03:03,319 --> 00:03:08,519
+se traduzindo como deveria e benefícios
+
+73
+00:03:06,040 --> 00:03:10,200
+funcionais mensuráveis e humanos. É como
+
+74
+00:03:08,519 --> 00:03:12,519
+encher o tanque de combustível de um
+
+75
+00:03:10,200 --> 00:03:14,720
+carro que está com motor quebrado. O
+
+76
+00:03:12,519 --> 00:03:17,640
+combustível está lá, mas o carro não
+
+77
+00:03:14,720 --> 00:03:20,200
+anda. E por que isso acontece? Existem
+
+78
+00:03:17,640 --> 00:03:22,040
+algumas hipóteses. Primeira, o nada mais
+
+79
+00:03:20,200 --> 00:03:23,440
+no sangue pode não refletir o que está
+
+80
+00:03:22,040 --> 00:03:25,599
+acontecendo dentro das células,
+
+81
+00:03:23,440 --> 00:03:27,959
+especialmente nas mitocôndrias. Segunda,
+
+82
+00:03:25,599 --> 00:03:30,599
+talvez o problema do envelhecimento não
+
+83
+00:03:27,959 --> 00:03:33,080
+seja a falta de nada mais, mas sim a
+
+84
+00:03:30,599 --> 00:03:34,879
+capacidade das células de utilizá-lo.
+
+85
+00:03:33,080 --> 00:03:36,920
+Terceira, os benefícios vistos em
+
+86
+00:03:34,879 --> 00:03:39,080
+animais podem não se traduzir para
+
+87
+00:03:36,920 --> 00:03:41,360
+humanos que têm metabolismo e tempo de
+
+88
+00:03:39,080 --> 00:03:43,360
+vida completamente diferentes. E aqui
+
+89
+00:03:41,360 --> 00:03:45,360
+entra a visão funcional que eu sempre
+
+90
+00:03:43,360 --> 00:03:47,400
+defendo. Quando eu fiz aquele vídeo
+
+91
+00:03:45,360 --> 00:03:49,959
+original, eu disse uma coisa que
+
+92
+00:03:47,400 --> 00:03:52,239
+continua sendo absolutamente verdadeira.
+
+93
+00:03:49,959 --> 00:03:55,200
+De nada adianta suplementar se você não
+
+94
+00:03:52,239 --> 00:03:57,439
+fizer os pilares básicos, alimentação,
+
+95
+00:03:55,200 --> 00:03:59,480
+atividade física, sono, controle de
+
+96
+00:03:57,439 --> 00:04:01,439
+estresse. Sabe o que é irônico?
+
+97
+00:03:59,480 --> 00:04:03,680
+Exercício físico aumenta nada de mais
+
+98
+00:04:01,439 --> 00:04:05,480
+naturalmente. Jeju intermitente também
+
+99
+00:04:03,680 --> 00:04:08,200
+aumenta nada de mais naturalmente.
+
+100
+00:04:05,480 --> 00:04:10,120
+Recisão calórica, adivinha? Aumenta na
+
+101
+00:04:08,200 --> 00:04:12,760
+demais naturalmente. E essas
+
+102
+00:04:10,120 --> 00:04:15,319
+intervenções têm décadas de evidência
+
+103
+00:04:12,760 --> 00:04:16,919
+mostrando benefícios reais. Então, o que
+
+104
+00:04:15,319 --> 00:04:20,639
+fazer com essa informação? Se você já
+
+105
+00:04:16,919 --> 00:04:22,960
+está gastando dinheiro com NM ou NR
+
+106
+00:04:20,639 --> 00:04:25,919
+esperando reverter o envelhecimento, a
+
+107
+00:04:22,960 --> 00:04:28,280
+evidência atual ainda não sustenta essa
+
+108
+00:04:25,919 --> 00:04:31,240
+expectativa. Se você tá tomando porque
+
+109
+00:04:28,280 --> 00:04:33,720
+não faz mal e pode ajudar, ok, tudo bem,
+
+110
+00:04:31,240 --> 00:04:35,479
+é sua decisão, não tem problema. Mas não
+
+111
+00:04:33,720 --> 00:04:37,800
+deixe isso substituir o que realmente
+
+112
+00:04:35,479 --> 00:04:39,880
+funciona. Agora, existe um grupo para
+
+113
+00:04:37,800 --> 00:04:42,080
+que os precursores de inadimais podem
+
+114
+00:04:39,880 --> 00:04:43,919
+fazer sentido pessoas com disfunção
+
+115
+00:04:42,080 --> 00:04:45,919
+metabólica significativa. Uma
+
+116
+00:04:43,919 --> 00:04:47,960
+metaanálise mostrou que os benefícios
+
+117
+00:04:45,919 --> 00:04:50,919
+aparecem mais em quem tem doença
+
+118
+00:04:47,960 --> 00:04:53,400
+cardiovascular ou deslipidemia. Outra
+
+119
+00:04:50,919 --> 00:04:56,000
+encontrou que pequenas doses de NMN
+
+120
+00:04:53,400 --> 00:04:57,960
+tiveram impacto na resistência em doses.
+
+121
+00:04:56,000 --> 00:05:00,120
+Ou seja, não é que a molécula seja
+
+122
+00:04:57,960 --> 00:05:02,560
+inútil, é que ela não é a panaceia
+
+123
+00:05:00,120 --> 00:05:04,199
+universal que foi vendida. E sobre as
+
+124
+00:05:02,560 --> 00:05:06,720
+outras moléculas que eu mencionei
+
+125
+00:05:04,199 --> 00:05:09,440
+naquele vídeo, a berberina continua com
+
+126
+00:05:06,720 --> 00:05:12,360
+evidência sólida pro metabolismo.
+
+127
+00:05:09,440 --> 00:05:14,360
+A quercetina e fizetina como senolíticos
+
+128
+00:05:12,360 --> 00:05:17,160
+ainda estão sendo estudadas, mas tem
+
+129
+00:05:14,360 --> 00:05:19,479
+mecanismos interessantes. O resveratrol,
+
+130
+00:05:17,160 --> 00:05:22,000
+sem nada de mais adequado, continua
+
+131
+00:05:19,479 --> 00:05:24,240
+tendo problema de biodisponibilidade.
+
+132
+00:05:22,000 --> 00:05:25,919
+E a metiformina, rapamicina continuam
+
+133
+00:05:24,240 --> 00:05:28,840
+sendo as únicas substâncias com
+
+134
+00:05:25,919 --> 00:05:31,280
+evidência robusta de extensão de vida em
+
+135
+00:05:28,840 --> 00:05:32,960
+modelos animais, mas com ressalvas
+
+136
+00:05:31,280 --> 00:05:34,919
+importantes que já discuti em outros
+
+137
+00:05:32,960 --> 00:05:37,360
+vídeos. A lição aqui é simples. A
+
+138
+00:05:34,919 --> 00:05:40,319
+ciência é um processo, não um destino. O
+
+139
+00:05:37,360 --> 00:05:42,520
+que parece promissor hoje pode não ser
+
+140
+00:05:40,319 --> 00:05:44,440
+confirmado amanhã. E quando a evidência
+
+141
+00:05:42,520 --> 00:05:46,479
+muda, a gente precisa ter humildade de
+
+142
+00:05:44,440 --> 00:05:48,479
+atualizar o discurso. Eu poderia ter
+
+143
+00:05:46,479 --> 00:05:51,080
+ignorado esses estudos e continuar
+
+144
+00:05:48,479 --> 00:05:53,199
+repetindo que NMN é maravilhoso, mas
+
+145
+00:05:51,080 --> 00:05:55,319
+isso não seria honesto com você e nem
+
+146
+00:05:53,199 --> 00:05:56,960
+comigo mesmo. Saia do vídeo agora se
+
+147
+00:05:55,319 --> 00:05:59,520
+você gosta de ficar no superficial. Eu
+
+148
+00:05:56,960 --> 00:06:01,720
+vou te contar uma verdade conveniente. O
+
+149
+00:05:59,520 --> 00:06:04,039
+YouTube e o conselho me limitam. Aqui eu
+
+150
+00:06:01,720 --> 00:06:06,000
+preciso simplificar, omitir protocolos
+
+151
+00:06:04,039 --> 00:06:07,720
+controversos sobre nada de mais e
+
+152
+00:06:06,000 --> 00:06:09,280
+longevidade, por exemplo, eu não posso
+
+153
+00:06:07,720 --> 00:06:11,360
+falar abertamente sobre as estratégias
+
+154
+00:06:09,280 --> 00:06:13,639
+que realmente eu uso para otimizar
+
+155
+00:06:11,360 --> 00:06:15,759
+função mitocondrial, os marcadores que
+
+156
+00:06:13,639 --> 00:06:18,680
+eu monitoro ou os compostos que
+
+157
+00:06:15,759 --> 00:06:20,319
+considero mais promissores que NMN. Na
+
+158
+00:06:18,680 --> 00:06:22,120
+comunidade fechada não tem esse filtro.
+
+159
+00:06:20,319 --> 00:06:24,000
+Eu compartilho os exatos protocolos que
+
+160
+00:06:22,120 --> 00:06:25,800
+eu uso na minha clínica, incluindo minha
+
+161
+00:06:24,000 --> 00:06:27,520
+abordagem atual para saúde mitocondrial,
+
+162
+00:06:25,800 --> 00:06:30,039
+que vai muito além de simplesmente tomar
+
+163
+00:06:27,520 --> 00:06:33,199
+um suplemento, os cofatores essenciais,
+
+164
+00:06:30,039 --> 00:06:35,199
+o time e por algumas pessoas respondem,
+
+165
+00:06:33,199 --> 00:06:37,759
+outras não. É basicamente ter acesso ao
+
+166
+00:06:35,199 --> 00:06:39,919
+meu cérebro médico sem intermediários.
+
+167
+00:06:37,759 --> 00:06:42,479
+Live semanais respondendo perguntas, PDF
+
+168
+00:06:39,919 --> 00:06:44,720
+com 47 protocolos exclusivos, grupo no
+
+169
+00:06:42,479 --> 00:06:46,880
+WhatsApp com pessoas maravilhosas. Se
+
+170
+00:06:44,720 --> 00:06:48,800
+você quer a visão funcional real, sem
+
+171
+00:06:46,880 --> 00:06:50,639
+simplificação para as massas, clique em
+
+172
+00:06:48,800 --> 00:06:52,520
+seja membro. E não é para curiosos, é
+
+173
+00:06:50,639 --> 00:06:54,520
+para quem quer resultados. Agora, se
+
+174
+00:06:52,520 --> 00:06:56,840
+você quer ir ainda mais fundo, tem o
+
+175
+00:06:54,520 --> 00:06:58,639
+nível dois. A cada duas semanas, fazemos
+
+176
+00:06:56,840 --> 00:07:00,599
+live de imersão total com 2 horas de
+
+177
+00:06:58,639 --> 00:07:02,560
+duração, desse secando artigos
+
+178
+00:07:00,599 --> 00:07:04,960
+científicos linha por linha, como esse
+
+179
+00:07:02,560 --> 00:07:06,919
+estudo sobre nada mais e longevidade que
+
+180
+00:07:04,960 --> 00:07:08,840
+a maioria dos médicos ainda não conhece,
+
+181
+00:07:06,919 --> 00:07:10,680
+debatendo controvérsia que ninguém ous
+
+182
+00:07:08,840 --> 00:07:11,720
+tocar. E tem mais, seu nome será
+
+183
+00:07:10,680 --> 00:07:13,440
+mencionados nos vídeos como
+
+184
+00:07:11,720 --> 00:07:15,639
+agradecimento. Você se torna a parte
+
+185
+00:07:13,440 --> 00:07:17,479
+visível dessa comunidade elite que está
+
+186
+00:07:15,639 --> 00:07:19,520
+reescrevendo as regras da medicina.
+
+187
+00:07:17,479 --> 00:07:21,400
+Enquanto a maioria assiste passivamente,
+
+188
+00:07:19,520 --> 00:07:23,479
+você estará ao meu lado construindo
+
+189
+00:07:21,400 --> 00:07:25,639
+conhecimento de verdade. E poucos têm
+
+190
+00:07:23,479 --> 00:07:27,240
+essa coragem. Será que você tem? E já
+
+191
+00:07:25,639 --> 00:07:29,280
+que estamos falando de mitocôndrias e
+
+192
+00:07:27,240 --> 00:07:31,720
+energia celular, você precisa entender
+
+193
+00:07:29,280 --> 00:07:33,520
+como cozima Q10 e PQQ funcionam de
+
+194
+00:07:31,720 --> 00:07:35,680
+verdade e porque eles podem ser mais
+
+195
+00:07:33,520 --> 00:07:37,639
+interessantes que NMN para muitas
+
+196
+00:07:35,680 --> 00:07:39,639
+pessoas. Assista esse vídeo aqui sobre
+
+197
+00:07:37,639 --> 00:07:41,039
+os seis suplementos essenciais para
+
+198
+00:07:39,639 --> 00:07:43,160
+idosos que vai complementar
+
+199
+00:07:41,039 --> 00:07:45,240
+perfeitamente o que você aprendeu hoje.
+
+200
+00:07:43,160 --> 00:07:47,159
+Agradecimentos especiais aos nossos
+
+201
+00:07:45,240 --> 00:07:48,960
+membros queridos dos estudos avançados
+
+202
+00:07:47,159 --> 00:07:50,800
+na comunidade fechada do YouTube.
+
+203
+00:07:48,960 --> 00:07:53,639
+Começando pelos novos membros que
+
+204
+00:07:50,800 --> 00:07:56,800
+entraram recentemente, Coruja Curiosa,
+
+205
+00:07:53,639 --> 00:07:59,759
+Walter Salgado, Luciano Silva Porinelli,
+
+206
+00:07:56,800 --> 00:08:02,280
+Luciano Elias, Carlos Roveri, Odonor
+
+207
+00:07:59,759 --> 00:08:04,639
+Pinheiro, Cíntia de Assis Oliveira,
+
+208
+00:08:02,280 --> 00:08:07,000
+Jorge Cabral e Fernando Machado. Sejam
+
+209
+00:08:04,639 --> 00:08:09,080
+muito, muito bem-vindos. Agradeço também
+
+210
+00:08:07,000 --> 00:08:11,919
+aos membros que fizeram upgrade pros
+
+211
+00:08:09,080 --> 00:08:14,720
+estudos avançados. Coruja curiosa, Irma
+
+212
+00:08:11,919 --> 00:08:17,080
+LC, Iana Medicina,
+
+213
+00:08:14,720 --> 00:08:19,720
+Adriane BMS, Dr. Ana Paulo Rodrigues,
+
+214
+00:08:17,080 --> 00:08:22,319
+José Fortunato Murtinho, Sou Jucioli,
+
+215
+00:08:19,720 --> 00:08:25,039
+Cristina Carol, Romana Morari, Estela
+
+216
+00:08:22,319 --> 00:08:27,280
+Mares Silva, Elô Terapias Integrativas e
+
+217
+00:08:25,039 --> 00:08:28,720
+Luís Anselmo Neves. Obrigado pela
+
+218
+00:08:27,280 --> 00:08:30,879
+confiança e elevar o nível de
+
+219
+00:08:28,720 --> 00:08:32,599
+participação. Um abraço especial aos
+
+220
+00:08:30,879 --> 00:08:35,240
+membros que retornaram à comunidade,
+
+221
+00:08:32,599 --> 00:08:37,080
+Alex Caldas, Marcelo Pimentel e Cláudio
+
+222
+00:08:35,240 --> 00:08:38,839
+Leitão. Que bom ter vocês de volta. Eu
+
+223
+00:08:37,080 --> 00:08:41,320
+quero fazer um reconhecimento especial
+
+224
+00:08:38,839 --> 00:08:44,399
+aos membros mais fiéis. Estela Mares com
+
+225
+00:08:41,320 --> 00:08:48,320
+57 meses de fidelidade, Dra. Ana Paula
+
+226
+00:08:44,399 --> 00:08:51,240
+com 45 meses, Marcelo Pimentel com 23 e
+
+227
+00:08:48,320 --> 00:08:53,080
+Elô Terapia Integrativas com 9 meses de
+
+228
+00:08:51,240 --> 00:08:54,440
+história conosco. A todos vocês eu
+
+229
+00:08:53,080 --> 00:08:57,240
+agradeço de coração pelo apoio
+
+230
+00:08:54,440 --> 00:08:59,640
+prestrado. Vocês fazem diferença nessa
+
+231
+00:08:57,240 --> 00:08:59,640
+comunidade.
+

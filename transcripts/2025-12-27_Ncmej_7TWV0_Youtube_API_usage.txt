@@ -1,0 +1,8 @@
+Title: Youtube API usage
+Video ID: Ncmej_7TWV0
+URL: https://youtube.com/watch?v=Ncmej_7TWV0
+Published: 2025-12-27T17:49:22Z
+Language: en
+------------------------------------------------------------
+
+Hi, I'm Alan. I'm owner of a healthy YouTube channel with over 900,000 subscribers. So, uh, this is my N workflow that monitors comments on my videos. So, it fetches new comments. So, he searchs for the last published video here using this API. After that, get the video ID and search for comments in this video. So, it fetches new comments, sends send them to the DeepSc AI for response generation. This is the filter for the nonresponded comments. classify and prepare the answers. So some of the comments are responded based on the content of the message of the comment and other ones they are sent to the to a AI agent to answer them. This is in Portuguese. So answer this comment in a personalized manner and also useful. So it must generate a genuine emp and pic and professional response but do not be so specific in the answer especially in polymic themes. Okay. So, I'm going to run this to so you can see how it goes. This Python script uh downloads transcripts from my own videos using the YouTube captions API. In this case, we have already downloaded transcripts. So in this run, we didn't got get any new video new any transcripts. I'm going to show the the transcripts folder. So uh here we have the so we have all the files from the transcripts. So this workflow detects new videos and sends the links to my WhatsApp health community groups.

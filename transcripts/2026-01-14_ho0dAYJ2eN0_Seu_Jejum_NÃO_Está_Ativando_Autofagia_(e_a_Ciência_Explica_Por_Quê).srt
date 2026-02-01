@@ -1,0 +1,1200 @@
+1
+00:00:00,000 --> 00:00:06,759
+Olha só, nem todo jejum ativa autofagia.
+
+2
+00:00:04,080 --> 00:00:08,400
+E a ciência já deixou isso bem claro. Se
+
+3
+00:00:06,759 --> 00:00:11,240
+você tá fazendo um jejum intermitente,
+
+4
+00:00:08,400 --> 00:00:13,320
+achando que tá bafando, automaticamente
+
+5
+00:00:11,240 --> 00:00:15,200
+tá ativando esse processo de limpeza
+
+6
+00:00:13,320 --> 00:00:18,039
+celular. Eu tenho uma notícia
+
+7
+00:00:15,200 --> 00:00:20,920
+importante. Pode ser que você esteja se
+
+8
+00:00:18,039 --> 00:00:25,039
+esforçando à toa. Um estudo publicado na
+
+9
+00:00:20,920 --> 00:00:28,080
+Nature Cell Biology em 2024 pelo grupo
+
+10
+00:00:25,039 --> 00:00:30,480
+do professor Frank Made, um dos maiores
+
+11
+00:00:28,080 --> 00:00:32,279
+pesquisadores de longevidade do mundo,
+
+12
+00:00:30,480 --> 00:00:35,320
+descobriu que existe um elemento
+
+13
+00:00:32,279 --> 00:00:37,879
+essencial, um gatilho bioquímico, sem
+
+14
+00:00:35,320 --> 00:00:40,360
+qual o jejum simplesmente não dispara a
+
+15
+00:00:37,879 --> 00:00:42,520
+autofagia. E hoje eu vou te mostrar
+
+16
+00:00:40,360 --> 00:00:45,360
+exatamente o que que a ciência mais
+
+17
+00:00:42,520 --> 00:00:47,760
+recente diz sobre como ativar autofagia
+
+18
+00:00:45,360 --> 00:00:51,199
+de verdade. Quais são os erros que a
+
+19
+00:00:47,760 --> 00:00:53,199
+maioria comete e o que você pode fazer
+
+20
+00:00:51,199 --> 00:00:55,600
+para garantir que esse mecanismo de
+
+21
+00:00:53,199 --> 00:00:59,480
+rejuvenescimento celular esteja
+
+22
+00:00:55,600 --> 00:01:01,280
+funcionando no seu corpo.
+
+23
+00:00:59,480 --> 00:01:03,239
+Antes de mais nada, vamos entender o que
+
+24
+00:01:01,280 --> 00:01:05,439
+que é autofagia sem aquela explicação
+
+25
+00:01:03,239 --> 00:01:08,600
+superficial de sempre. Autofagia
+
+26
+00:01:05,439 --> 00:01:11,280
+significa literalmente comer a si mesmo
+
+27
+00:01:08,600 --> 00:01:13,920
+do grego autoefagia,
+
+28
+00:01:11,280 --> 00:01:16,759
+mas isso não é nada destrutivo. Na
+
+29
+00:01:13,920 --> 00:01:19,560
+verdade é o sistema de reciclagem mais
+
+30
+00:01:16,759 --> 00:01:21,840
+sofisticado que existe na natureza.
+
+31
+00:01:19,560 --> 00:01:24,119
+Quando a autofagia está ativa, suas
+
+32
+00:01:21,840 --> 00:01:26,920
+células identificam componentes
+
+33
+00:01:24,119 --> 00:01:29,240
+danificados, proteínas mal dobradas,
+
+34
+00:01:26,920 --> 00:01:32,159
+mitocôndrias disfuncionais e as
+
+35
+00:01:29,240 --> 00:01:34,079
+encapsulam em estruturas chamadas
+
+36
+00:01:32,159 --> 00:01:36,600
+autofagossomos.
+
+37
+00:01:34,079 --> 00:01:39,600
+Esses tais de autofagossomos,
+
+38
+00:01:36,600 --> 00:01:42,560
+então, se fundem, se juntam com os
+
+39
+00:01:39,600 --> 00:01:45,280
+lisossomos, que são como centros de
+
+40
+00:01:42,560 --> 00:01:48,000
+reciclagem celular, onde tudo é quebrado
+
+41
+00:01:45,280 --> 00:01:51,880
+e reaproveitado. É como se a célula te
+
+42
+00:01:48,000 --> 00:01:54,600
+fizesse uma faxina geral, jogando fora o
+
+43
+00:01:51,880 --> 00:01:57,200
+que não serve mais e usando as peças
+
+44
+00:01:54,600 --> 00:01:59,079
+para construir componentes novos. E por
+
+45
+00:01:57,200 --> 00:02:01,360
+que que isso importa tanto para você?
+
+46
+00:01:59,079 --> 00:02:04,399
+Porque quando esse processo falha, as
+
+47
+00:02:01,360 --> 00:02:06,200
+células acumulam lixo. Esse acúmulo está
+
+48
+00:02:04,399 --> 00:02:08,800
+diretamente relacionado ao
+
+49
+00:02:06,200 --> 00:02:11,039
+envelhecimento acelerado, doenças
+
+50
+00:02:08,800 --> 00:02:14,280
+neurodegenerativas como Alzheimer e
+
+51
+00:02:11,039 --> 00:02:16,000
+Parxon, problemas cardiovasculares,
+
+52
+00:02:14,280 --> 00:02:18,160
+câncer e praticamente toda a doença
+
+53
+00:02:16,000 --> 00:02:20,319
+crônica que você possa imaginar. A
+
+54
+00:02:18,160 --> 00:02:23,959
+autofagia é tão importante que o
+
+55
+00:02:20,319 --> 00:02:26,959
+pesquisador japonês Yoshinori Ozumi
+
+56
+00:02:23,959 --> 00:02:29,680
+ganhou o prêmio Nobel de Medicina em
+
+57
+00:02:26,959 --> 00:02:32,560
+2016, justamente por desvendar os
+
+58
+00:02:29,680 --> 00:02:35,000
+mecanismos. Agora vem a parte que pouca
+
+59
+00:02:32,560 --> 00:02:36,920
+gente entende direito. A autofagia não
+
+60
+00:02:35,000 --> 00:02:39,400
+funciona como interruptor, liga e
+
+61
+00:02:36,920 --> 00:02:42,000
+desliga. Ela é controlada por uma
+
+62
+00:02:39,400 --> 00:02:46,519
+balança molecular entre duas proteínas
+
+63
+00:02:42,000 --> 00:02:49,000
+principais, a MPK em TOR. A MPK é como
+
+64
+00:02:46,519 --> 00:02:51,000
+sensor de energia baixa da célula.
+
+65
+00:02:49,000 --> 00:02:53,120
+Quando você está em jejum, quando você
+
+66
+00:02:51,000 --> 00:02:56,239
+faz exercício intenso, quando as
+
+67
+00:02:53,120 --> 00:02:58,560
+reservas de energia caem, a MPK é
+
+68
+00:02:56,239 --> 00:03:00,959
+ativada e ela diz pra célula: "Olha,
+
+69
+00:02:58,560 --> 00:03:03,920
+estamos em modo economia.
+
+70
+00:03:00,959 --> 00:03:06,440
+Vamos reciclar o que temos. Já a emitor
+
+71
+00:03:03,920 --> 00:03:08,480
+é o oposto. Ela é ativada quando a
+
+72
+00:03:06,440 --> 00:03:11,599
+abundância, especialmente de aminoácidos
+
+73
+00:03:08,480 --> 00:03:14,760
+e glicose. A Emitor diz pra célula:
+
+74
+00:03:11,599 --> 00:03:17,360
+"Temos recursos, vamos crescer, vamos
+
+75
+00:03:14,760 --> 00:03:20,680
+construir." O problema é que a mitor
+
+76
+00:03:17,360 --> 00:03:23,000
+cronicamente aumentada, exageradamente
+
+77
+00:03:20,680 --> 00:03:26,200
+aumentada, que é o que acontece quando
+
+78
+00:03:23,000 --> 00:03:28,360
+você come o tempo todo, isso vai inibir
+
+79
+00:03:26,200 --> 00:03:30,760
+completamente a autofagia. E aqui entra
+
+80
+00:03:28,360 --> 00:03:32,599
+descoberta bombástica de 2024 que eu
+
+81
+00:03:30,760 --> 00:03:35,959
+mencionei no começo. O grupo do
+
+82
+00:03:32,599 --> 00:03:38,959
+professor Madeu na Austria descobriu que
+
+83
+00:03:35,959 --> 00:03:41,319
+o jejum por si só não é o suficiente.
+
+84
+00:03:38,959 --> 00:03:43,720
+Eles demonstraram que quando você jeja,
+
+85
+00:03:41,319 --> 00:03:46,879
+o seu corpo aumenta a produção de uma
+
+86
+00:03:43,720 --> 00:03:49,560
+substância chamada espermidina.
+
+87
+00:03:46,879 --> 00:03:51,760
+Essa espermidina é absolutamente
+
+88
+00:03:49,560 --> 00:03:54,319
+essencial. Eu já falei ela em vídeo
+
+89
+00:03:51,760 --> 00:03:56,000
+recente que fez muito sucesso.
+
+90
+00:03:54,319 --> 00:03:58,200
+Ela é importante para que a cascata
+
+91
+00:03:56,000 --> 00:04:01,120
+autofágica aconteça. Quando eles
+
+92
+00:03:58,200 --> 00:04:03,480
+bloquearam a síntese de espermidina em
+
+93
+00:04:01,120 --> 00:04:06,720
+animais em jejum, sabe o que aconteceu?
+
+94
+00:04:03,480 --> 00:04:09,040
+A autofagia não foi ativada. Zero. Nem
+
+95
+00:04:06,720 --> 00:04:12,000
+nos ratos, nem nas moscas, nem nas
+
+96
+00:04:09,040 --> 00:04:14,280
+leveduras. O jejum sozinho não fez nada.
+
+97
+00:04:12,000 --> 00:04:16,639
+Isso foi publicado na Nature Cell
+
+98
+00:04:14,280 --> 00:04:19,359
+Biology, uma das revistas mais
+
+99
+00:04:16,639 --> 00:04:23,000
+prestigiadas do mundo. Aliás, eu fiz um
+
+100
+00:04:19,359 --> 00:04:26,160
+vídeo detalhando especificamente essa
+
+101
+00:04:23,000 --> 00:04:28,800
+molécula, a espermidina, mostrando como
+
+102
+00:04:26,160 --> 00:04:31,440
+ela pode ativar a autofagia e até melhor
+
+103
+00:04:28,800 --> 00:04:33,600
+que o jejum em certas situações. Fica de
+
+104
+00:04:31,440 --> 00:04:35,680
+sugestão para você assistir depois. E
+
+105
+00:04:33,600 --> 00:04:38,080
+mais, eles fizeram estudos em humanos
+
+106
+00:04:35,680 --> 00:04:40,840
+também. Voluntários que fizeram o jejum
+
+107
+00:04:38,080 --> 00:04:42,960
+prolongado tiveram aumento nos níveis de
+
+108
+00:04:40,840 --> 00:04:44,919
+permidina no sangue. E esse aumento foi
+
+109
+00:04:42,960 --> 00:04:46,919
+correlacionado com ativação de
+
+110
+00:04:44,919 --> 00:04:49,720
+marcadores de autofagia. Ou seja, a
+
+111
+00:04:46,919 --> 00:04:53,000
+espermidina funciona como mensageiro
+
+112
+00:04:49,720 --> 00:04:56,160
+molecular que traduz o sinal de jejum em
+
+113
+00:04:53,000 --> 00:04:59,320
+ativação autofágica real. Isso explica
+
+114
+00:04:56,160 --> 00:05:01,560
+porque algumas pessoas fazem jejum e tem
+
+115
+00:04:59,320 --> 00:05:03,680
+resultados incríveis, enquanto outras
+
+116
+00:05:01,560 --> 00:05:06,440
+fazem o mesmo protocolo, não sentem
+
+117
+00:05:03,680 --> 00:05:08,919
+porcaria nenhuma. Se a capacidade do seu
+
+118
+00:05:06,440 --> 00:05:11,120
+corpo de produzir espermidina estiver
+
+119
+00:05:08,919 --> 00:05:13,039
+comprometida, seja por idade, por
+
+120
+00:05:11,120 --> 00:05:15,199
+deficiências nutricionais, por questões
+
+121
+00:05:13,039 --> 00:05:17,320
+genéticas, o jejum pode não estar
+
+122
+00:05:15,199 --> 00:05:19,240
+fazendo o que você pensa que tá fazendo.
+
+123
+00:05:17,320 --> 00:05:21,600
+E quanto tempo de jejum é necessário
+
+124
+00:05:19,240 --> 00:05:23,720
+para ativar essa tal de autofagia? Essa
+
+125
+00:05:21,600 --> 00:05:27,080
+é uma das perguntas que eu mais recebo e
+
+126
+00:05:23,720 --> 00:05:28,759
+a resposta honesta é: depende. Existe
+
+127
+00:05:27,080 --> 00:05:32,039
+até um ensaio clínico registrado no
+
+128
+00:05:28,759 --> 00:05:34,319
+clinical trials gov especificamente
+
+129
+00:05:32,039 --> 00:05:36,240
+desenhado para responder essa pergunta
+
+130
+00:05:34,319 --> 00:05:38,680
+em humanos. Os dados preliminares
+
+131
+00:05:36,240 --> 00:05:40,800
+sugerem que a autofagia começa a ser
+
+132
+00:05:38,680 --> 00:05:44,199
+detectável em células do sangue
+
+133
+00:05:40,800 --> 00:05:46,560
+periférico após 24 a 48 horas de jejum
+
+134
+00:05:44,199 --> 00:05:48,800
+em pessoas saudáveis. Mas há muita
+
+135
+00:05:46,560 --> 00:05:52,400
+variação individual. O Instituto Piloto
+
+136
+00:05:48,800 --> 00:05:54,880
+que foi publicado na Goscience em 2025
+
+137
+00:05:52,400 --> 00:05:56,479
+testou a dieta que mimetiza o jejum,
+
+138
+00:05:54,880 --> 00:05:58,800
+aquela desenvolvida pelo professor
+
+139
+00:05:56,479 --> 00:06:01,120
+Walter Longo e mediu marcadores de
+
+140
+00:05:58,800 --> 00:06:03,319
+autofagia em células humanas. O
+
+141
+00:06:01,120 --> 00:06:06,000
+resultado foi interessante, houve
+
+142
+00:06:03,319 --> 00:06:08,800
+ativação, mas foi modesta e dependeu
+
+143
+00:06:06,000 --> 00:06:12,120
+muito da formulação específica da dieta.
+
+144
+00:06:08,800 --> 00:06:14,199
+Ou seja, não é só sobre não comer, é
+
+145
+00:06:12,120 --> 00:06:16,360
+sobre criar as condições metabólicas
+
+146
+00:06:14,199 --> 00:06:19,160
+certas. Outro estudo publicado em
+
+147
+00:06:16,360 --> 00:06:22,080
+dezembro de 24, um ensaio randomizado
+
+148
+00:06:19,160 --> 00:06:24,880
+cruzado em humanos, mostrou que cobinar
+
+149
+00:06:22,080 --> 00:06:27,520
+exercício que depleta glicogênio com
+
+150
+00:06:24,880 --> 00:06:30,440
+jejum prolongado teve efeito superior na
+
+151
+00:06:27,520 --> 00:06:32,840
+ativação de marcadores de saúde celular
+
+152
+00:06:30,440 --> 00:06:34,160
+comparado ao jejum sozinho. Isso faz
+
+153
+00:06:32,840 --> 00:06:37,319
+todo sentido quando você entende
+
+154
+00:06:34,160 --> 00:06:39,680
+bioquímica. O exercício ativa a MPK,
+
+155
+00:06:37,319 --> 00:06:41,720
+depleta as reservas de energia e prepara
+
+156
+00:06:39,680 --> 00:06:44,319
+o terreno para que o jejum subsequente
+
+157
+00:06:41,720 --> 00:06:46,000
+seja muito mais efetivo. E tem mais uma
+
+158
+00:06:44,319 --> 00:06:48,840
+coisa que a pesquisa recente está
+
+159
+00:06:46,000 --> 00:06:51,080
+mostrando, a ativação cíclica é melhor
+
+160
+00:06:48,840 --> 00:06:53,160
+que constante. Alguns pesquisadores
+
+161
+00:06:51,080 --> 00:06:55,960
+estavam tentando manter a autofagia
+
+162
+00:06:53,160 --> 00:06:58,639
+ativada o tempo todo, pensando que tava
+
+163
+00:06:55,960 --> 00:07:00,680
+abafando, que mais seria melhor. Mas o
+
+164
+00:06:58,639 --> 00:07:03,400
+corpo dá um jeito, se adapta. Se você
+
+165
+00:07:00,680 --> 00:07:05,520
+está em jejum crônico, se você tá sempre
+
+166
+00:07:03,400 --> 00:07:07,479
+em recessão calórica severa, os
+
+167
+00:07:05,520 --> 00:07:10,120
+mecanismos de autofagia podem
+
+168
+00:07:07,479 --> 00:07:12,840
+dessensibilizar. Então a abordagem mais
+
+169
+00:07:10,120 --> 00:07:15,440
+inteligente parece ser ciclar, períodos
+
+170
+00:07:12,840 --> 00:07:17,520
+de ativação seguidos por período de
+
+171
+00:07:15,440 --> 00:07:19,720
+alimentação adequada. É como treino na
+
+172
+00:07:17,520 --> 00:07:22,400
+academia, você não treina o mesmo
+
+173
+00:07:19,720 --> 00:07:25,599
+músculo todos os dias e nem do mesmo
+
+174
+00:07:22,400 --> 00:07:28,360
+jeito sempre. Você estressa, recupera,
+
+175
+00:07:25,599 --> 00:07:30,759
+estressa, recupera. E os ativadores
+
+176
+00:07:28,360 --> 00:07:32,840
+farmacológicos naturais?
+
+177
+00:07:30,759 --> 00:07:35,039
+Existem compostos que mimetizam os
+
+178
+00:07:32,840 --> 00:07:38,000
+efeitos do jejum na autofagia. A
+
+179
+00:07:35,039 --> 00:07:40,319
+rapamicina, que inibe diretamente mitor
+
+180
+00:07:38,000 --> 00:07:42,560
+é usado em pesquisa e tem dados
+
+181
+00:07:40,319 --> 00:07:44,840
+impressionantes de extensão de vida em
+
+182
+00:07:42,560 --> 00:07:47,680
+animais, mas tem efeitos colaterais
+
+183
+00:07:44,840 --> 00:07:50,039
+importantes, incluindo imunospressão.
+
+184
+00:07:47,680 --> 00:07:52,720
+A metiformina, aquele medicamento para
+
+185
+00:07:50,039 --> 00:07:55,639
+diabetes, também ativa MPK e promove
+
+186
+00:07:52,720 --> 00:07:57,840
+autofagia. Existem estudos mostrando
+
+187
+00:07:55,639 --> 00:08:00,319
+melhora cognitiva em animais idosos
+
+188
+00:07:57,840 --> 00:08:02,479
+tratados cometiformina, com redução da
+
+189
+00:08:00,319 --> 00:08:04,720
+inflamação no cérebro e aumento de
+
+190
+00:08:02,479 --> 00:08:07,120
+autofagia no hipocampo. Entre os
+
+191
+00:08:04,720 --> 00:08:10,080
+compostos naturais, além da espermidina,
+
+192
+00:08:07,120 --> 00:08:13,159
+temos o resveratrol encontrado no vinho
+
+193
+00:08:10,080 --> 00:08:15,280
+tinto e nas uvas escuras que ativa a
+
+194
+00:08:13,159 --> 00:08:17,319
+cirtuína, as proteínas que trabalham
+
+195
+00:08:15,280 --> 00:08:19,560
+junto com a impecá para promover a
+
+196
+00:08:17,319 --> 00:08:22,960
+autofagia. e a curcumina do açafrão da
+
+197
+00:08:19,560 --> 00:08:25,440
+terra, o sufano do brócolis, o galato de
+
+198
+00:08:22,960 --> 00:08:28,240
+pigalato catequino do chá verde, todos
+
+199
+00:08:25,440 --> 00:08:30,840
+eles são excelentes. Esses compostos têm
+
+200
+00:08:28,240 --> 00:08:32,680
+mecanismos que de uma forma ou de outra
+
+201
+00:08:30,840 --> 00:08:34,200
+vão favorecer a balança pro laudo da
+
+202
+00:08:32,680 --> 00:08:36,080
+tofagia.
+
+203
+00:08:34,200 --> 00:08:38,599
+Agora, qual que é o erro mais comum que
+
+204
+00:08:36,080 --> 00:08:41,159
+eu vejo? As pessoas acham que fazer uma
+
+205
+00:08:38,599 --> 00:08:43,360
+janela de alimentação 16x8, aquele jejum
+
+206
+00:08:41,159 --> 00:08:44,920
+intermitente clássico, já é suficiente
+
+207
+00:08:43,360 --> 00:08:48,560
+para ter todos os benefícios da
+
+208
+00:08:44,920 --> 00:08:50,480
+autofagia? Infelizmente não. Olha, pode
+
+209
+00:08:48,560 --> 00:08:52,800
+ser até que seja, mas também pode ser
+
+210
+00:08:50,480 --> 00:08:55,360
+que não seja. 16 horas pode não ser
+
+211
+00:08:52,800 --> 00:08:57,880
+suficiente para você, especialmente se
+
+212
+00:08:55,360 --> 00:09:01,160
+você está em resistência única, se sua
+
+213
+00:08:57,880 --> 00:09:04,680
+última refeição foi pesada, por exemplo,
+
+214
+00:09:01,160 --> 00:09:06,959
+em carboidratos, ou se você não está
+
+215
+00:09:04,680 --> 00:09:10,040
+dormindo bem, ou se você está
+
+216
+00:09:06,959 --> 00:09:13,079
+estressado. Todos esses fatores afetam a
+
+217
+00:09:10,040 --> 00:09:16,120
+ativação de MPK e a inibição da emitor.
+
+218
+00:09:13,079 --> 00:09:19,079
+Autofagia não é sobre seguir uma rça de
+
+219
+00:09:16,120 --> 00:09:22,360
+bolo, é sobre entender os princípios,
+
+220
+00:09:19,079 --> 00:09:24,399
+adaptar pra sua realidade. Se você quer
+
+221
+00:09:22,360 --> 00:09:26,800
+maximizar sua chance de ativar esse
+
+222
+00:09:24,399 --> 00:09:30,040
+mecanismo de rejuvenecimento celular,
+
+223
+00:09:26,800 --> 00:09:34,440
+considere jejuns mais longos de maneira
+
+224
+00:09:30,040 --> 00:09:36,440
+ocasional, 24, 36 até 48 horas, sempre
+
+225
+00:09:34,440 --> 00:09:39,399
+com acompanhamento se você tiver
+
+226
+00:09:36,440 --> 00:09:41,560
+condições de saúde. exercício antes ou
+
+227
+00:09:39,399 --> 00:09:44,200
+durante o jejum, especialmente treinos
+
+228
+00:09:41,560 --> 00:09:46,760
+que depletam o glicogênio, alimentação
+
+229
+00:09:44,200 --> 00:09:48,959
+rica em composto que fornece permidina.
+
+230
+00:09:46,760 --> 00:09:52,440
+É o caso do queijo bem fermentado,
+
+231
+00:09:48,959 --> 00:09:54,680
+cogumelos, leguminosas e ciclar, não é
+
+232
+00:09:52,440 --> 00:09:56,480
+fazer sempre a mesma coisa. E se você
+
+233
+00:09:54,680 --> 00:09:58,880
+quer ficar no superficial, pode sair
+
+234
+00:09:56,480 --> 00:10:00,440
+agora. Mas se você quer a informação
+
+235
+00:09:58,880 --> 00:10:01,959
+completa, precisa saber que aqui no
+
+236
+00:10:00,440 --> 00:10:04,480
+YouTube eu tenho limitações. Eu não
+
+237
+00:10:01,959 --> 00:10:07,480
+posso detalhar protocolo de jejum de 72
+
+238
+00:10:04,480 --> 00:10:09,640
+horas, doses terapêuticas permidina,
+
+239
+00:10:07,480 --> 00:10:11,320
+combinações específicas para doenças
+
+240
+00:10:09,640 --> 00:10:13,079
+neurodegenerativas.
+
+241
+00:10:11,320 --> 00:10:14,959
+Na comunidade fechada é diferente. Lá eu
+
+242
+00:10:13,079 --> 00:10:17,399
+compartilho os protocolos exatos que eu
+
+243
+00:10:14,959 --> 00:10:19,480
+uso na clínica com dosagens precisas,
+
+244
+00:10:17,399 --> 00:10:22,360
+time de exercício, combinações que
+
+245
+00:10:19,480 --> 00:10:25,480
+potencializam resultados, lives semanais
+
+246
+00:10:22,360 --> 00:10:27,480
+para responder as dúvidas, PDF com 47
+
+247
+00:10:25,480 --> 00:10:30,040
+protocolos, temos o grupo maravilhoso no
+
+248
+00:10:27,480 --> 00:10:32,240
+WhatsApp que troca ideia todo dia. Se
+
+249
+00:10:30,040 --> 00:10:34,560
+você quer a visão funcional sem filtro,
+
+250
+00:10:32,240 --> 00:10:37,560
+clique em seja membro. No nível dois,
+
+251
+00:10:34,560 --> 00:10:40,399
+vamos ainda mais fundo. Decamos artigos
+
+252
+00:10:37,560 --> 00:10:42,079
+em live de 2 horas, como é o caso do
+
+253
+00:10:40,399 --> 00:10:44,680
+artigo do Madeu que eu comentei aqui
+
+254
+00:10:42,079 --> 00:10:46,800
+sobre Medina, controvérsias que ninguém
+
+255
+00:10:44,680 --> 00:10:49,800
+toca e seu nome será mencionado nos
+
+256
+00:10:46,800 --> 00:10:52,560
+vídeos como parte dessa comunidade.
+
+257
+00:10:49,800 --> 00:10:54,320
+Poucos têm essa coragem, você tem? E já
+
+258
+00:10:52,560 --> 00:10:56,839
+que estamos falando de jejum e
+
+259
+00:10:54,320 --> 00:10:59,120
+autofagia, você precisa entender que a
+
+260
+00:10:56,839 --> 00:11:01,800
+autofagia não é o único efeito do jejum
+
+261
+00:10:59,120 --> 00:11:03,680
+no seu corpo. Existe um impacto direto
+
+262
+00:11:01,800 --> 00:11:05,839
+no seu intestino que pode ser positivo
+
+263
+00:11:03,680 --> 00:11:07,600
+ou negativo, dependendo de como você
+
+264
+00:11:05,839 --> 00:11:09,800
+conduz o processo. Então esse é um ponto
+
+265
+00:11:07,600 --> 00:11:12,120
+que muita gente ignora. Então, assista
+
+266
+00:11:09,800 --> 00:11:14,680
+esse vídeo aqui sobre a verdade chocante
+
+267
+00:11:12,120 --> 00:11:16,480
+do jejum intermitente e o intestino que
+
+268
+00:11:14,680 --> 00:11:18,920
+vai complementar perfeitamente o que
+
+269
+00:11:16,480 --> 00:11:21,480
+você aprendeu hoje. Agradecimentos
+
+270
+00:11:18,920 --> 00:11:23,639
+especiais de coração aos nossos membros
+
+271
+00:11:21,480 --> 00:11:26,079
+queridos do Estudos Avançados da
+
+272
+00:11:23,639 --> 00:11:27,600
+comunidade fechada do YouTube. Começando
+
+273
+00:11:26,079 --> 00:11:30,200
+pelos novos membros que entraram
+
+274
+00:11:27,600 --> 00:11:33,320
+recentemente, Luciano Silva Paurinelli,
+
+275
+00:11:30,200 --> 00:11:36,279
+Luciano Elias, Lê Trigono, Juliana
+
+276
+00:11:33,320 --> 00:11:38,800
+Pontes, Carlos Rovi, Odonor Pinheiro,
+
+277
+00:11:36,279 --> 00:11:40,279
+Cíntia de Assis Oliveira, Jorge Cabral e
+
+278
+00:11:38,800 --> 00:11:42,440
+Fernando Machado. Sejam muito
+
+279
+00:11:40,279 --> 00:11:44,279
+bem-vindos. Agradeço também aos membros
+
+280
+00:11:42,440 --> 00:11:48,120
+que fizeram upgrade para os estudos
+
+281
+00:11:44,279 --> 00:11:50,720
+avançados. Irma, Iana, Antônio Renato,
+
+282
+00:11:48,120 --> 00:11:53,360
+Adriane, Dra. Paulo Rodrigues, José
+
+283
+00:11:50,720 --> 00:11:56,040
+Fortunato Murtinho, Souciol, Cristina
+
+284
+00:11:53,360 --> 00:11:59,760
+Carol, Romana Moraril, Estela Mari
+
+285
+00:11:56,040 --> 00:12:01,440
+Silva, Elô Terapias, Luís Anselmo, muito
+
+286
+00:11:59,760 --> 00:12:03,480
+obrigado pela confiança em elevar o
+
+287
+00:12:01,440 --> 00:12:05,120
+nível de participação. Um abraço
+
+288
+00:12:03,480 --> 00:12:07,000
+especial aos membros que retornaram à
+
+289
+00:12:05,120 --> 00:12:09,600
+comunidade, Alex Caldas, Marcelo
+
+290
+00:12:07,000 --> 00:12:11,560
+Pimentel e Cláudio Leitão. Que bom ter
+
+291
+00:12:09,600 --> 00:12:13,440
+vocês de volta. Eu quero fazer um
+
+292
+00:12:11,560 --> 00:12:17,680
+reconhecimento especial aos membros mais
+
+293
+00:12:13,440 --> 00:12:20,360
+fiéis. Estela Mares com incríveis 56
+
+294
+00:12:17,680 --> 00:12:22,959
+meses de fidelidade. Dra. Ana Paula com
+
+295
+00:12:20,360 --> 00:12:25,519
+44 meses de participação, Marcelo
+
+296
+00:12:22,959 --> 00:12:27,959
+Pimentel com 23 meses e Antônio Renato
+
+297
+00:12:25,519 --> 00:12:29,959
+com 21 meses de história conosco. A
+
+298
+00:12:27,959 --> 00:12:32,199
+todos vocês eu agradeço de coração pelo
+
+299
+00:12:29,959 --> 00:12:34,959
+apoio prestado. você fazem a diferença
+
+300
+00:12:32,199 --> 00:12:34,959
+nessa comunidade.
+

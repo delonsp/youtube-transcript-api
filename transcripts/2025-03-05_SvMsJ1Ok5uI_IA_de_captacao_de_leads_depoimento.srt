@@ -1,0 +1,4356 @@
+1
+00:00:05,000 --> 00:00:13,360
+boa noite boa noite sejam todos muito
+
+2
+00:00:09,759 --> 00:00:15,599
+bem-vindos hoje nós temos um um conteúdo
+
+3
+00:00:13,360 --> 00:00:18,320
+muito especial né com uma pessoa muito
+
+4
+00:00:15,599 --> 00:00:20,519
+especial também todo mundo que tiver
+
+5
+00:00:18,320 --> 00:00:23,400
+chegando vai falando aonde é que vocês
+
+6
+00:00:20,519 --> 00:00:26,640
+estão Qual a especialidade de vocês
+
+7
+00:00:23,400 --> 00:00:31,279
+mandem aqui no chat para que a gente
+
+8
+00:00:26,640 --> 00:00:34,399
+possa começar a nossa união de hoje né
+
+9
+00:00:31,279 --> 00:00:37,160
+nosso bate-papo né com um doutor que vai
+
+10
+00:00:34,399 --> 00:00:39,879
+participar aqui com a gente vamos lá
+
+11
+00:00:37,160 --> 00:00:43,600
+Fran Sérgio boa
+
+12
+00:00:39,879 --> 00:00:45,960
+noite boa noite qual a sua especialidade
+
+13
+00:00:43,600 --> 00:00:48,960
+e da onde você está
+
+14
+00:00:45,960 --> 00:00:51,160
+falando enquanto isso eu vou iniciar
+
+15
+00:00:48,960 --> 00:00:52,640
+aqui a nossa apresentação para vocês já
+
+16
+00:00:51,160 --> 00:00:54,879
+entenderem sobre o que que a gente vai
+
+17
+00:00:52,640 --> 00:00:58,760
+falar aqui hoje tá
+
+18
+00:00:54,879 --> 00:01:00,480
+bom boa noite Geovana Boa noite
+
+19
+00:00:58,760 --> 00:01:02,039
+ginecologista
+
+20
+00:01:00,480 --> 00:01:04,879
+legal
+
+21
+00:01:02,039 --> 00:01:07,280
+endócrino legal Pessoal vocês vão gostar
+
+22
+00:01:04,879 --> 00:01:10,200
+do bate-papo de hoje vamos lá que que a
+
+23
+00:01:07,280 --> 00:01:11,960
+gente quer trazer para vocês hoje tá
+
+24
+00:01:10,200 --> 00:01:14,159
+isso daqui vocês não vão encontrar em
+
+25
+00:01:11,960 --> 00:01:16,720
+lugar nenhum Hoje a gente vai mostrar
+
+26
+00:01:14,159 --> 00:01:20,360
+como que o Dr farani faturou mais de
+
+27
+00:01:16,720 --> 00:01:22,400
+cinco dígitos em menos de duas semanas
+
+28
+00:01:20,360 --> 00:01:25,960
+após tirar a sua secretária do
+
+29
+00:01:22,400 --> 00:01:28,759
+atendimento online e utilizar a nossa
+
+30
+00:01:25,960 --> 00:01:31,840
+Inteligência Artificial humanizada ao
+
+31
+00:01:28,759 --> 00:01:34,280
+atender os seus Pass entes Tá bom então
+
+32
+00:01:31,840 --> 00:01:36,240
+é sobre isso que nós vamos falar hoje o
+
+33
+00:01:34,280 --> 00:01:38,680
+Dr farani vai participar aqui com a
+
+34
+00:01:36,240 --> 00:01:42,479
+gente ele vai mostrar para vocês o que
+
+35
+00:01:38,680 --> 00:01:43,880
+que ele fez tá E vocês vão entender isso
+
+36
+00:01:42,479 --> 00:01:46,399
+então como é que vai funcionar esse
+
+37
+00:01:43,880 --> 00:01:48,640
+encontro primeiro eu vou te mostrar quem
+
+38
+00:01:46,399 --> 00:01:50,880
+eu sou tá então vou me apresentar para
+
+39
+00:01:48,640 --> 00:01:52,439
+vocês e mostrar como foi que eu criei a
+
+40
+00:01:50,880 --> 00:01:55,439
+primeira Inteligência Artificial de
+
+41
+00:01:52,439 --> 00:01:58,079
+atendimento humanizado da Medicina eu
+
+42
+00:01:55,439 --> 00:02:00,039
+irei convidar o Dr farani para contar um
+
+43
+00:01:58,079 --> 00:02:02,200
+pouco mais sobre a experiência que ele
+
+44
+00:02:00,039 --> 00:02:04,600
+tem com a inteligência artificial E como
+
+45
+00:02:02,200 --> 00:02:07,039
+que ela mudou o atendimento do
+
+46
+00:02:04,600 --> 00:02:09,800
+consultório dele e os resultados também
+
+47
+00:02:07,039 --> 00:02:11,680
+e terceiro eu vou mostrar como
+
+48
+00:02:09,800 --> 00:02:14,480
+implementar essa inteligência artificial
+
+49
+00:02:11,680 --> 00:02:17,480
+dentro do seu consultório tá e eu sempre
+
+50
+00:02:14,480 --> 00:02:19,720
+gosto de alinhar com vocês a duração
+
+51
+00:02:17,480 --> 00:02:22,360
+média desse dessa nossa reunião que vai
+
+52
+00:02:19,720 --> 00:02:25,440
+em torno ali de 40 minutos tá então para
+
+53
+00:02:22,360 --> 00:02:27,840
+vocês se prepararem E ficarem atentos
+
+54
+00:02:25,440 --> 00:02:31,400
+nessa apresentação tá
+
+55
+00:02:27,840 --> 00:02:34,080
+bom meu nome é est Soares tá eu também
+
+56
+00:02:31,400 --> 00:02:36,120
+sou médica além de ser uma das maiores
+
+57
+00:02:34,080 --> 00:02:38,720
+especialistas em captação no nicho
+
+58
+00:02:36,120 --> 00:02:41,360
+médico tá eu já participei dos
+
+59
+00:02:38,720 --> 00:02:44,200
+bastidores de grandes players do mercado
+
+60
+00:02:41,360 --> 00:02:46,800
+Ou seja eu Já ajudei vários várias
+
+61
+00:02:44,200 --> 00:02:49,760
+pessoas dentro do mercado digital não
+
+62
+00:02:46,800 --> 00:02:53,200
+somente da parte médica a iniciarem seus
+
+63
+00:02:49,760 --> 00:02:56,239
+projetos a venderem né e aparecerem ali
+
+64
+00:02:53,200 --> 00:02:58,720
+na internet eu também sou CEO e
+
+65
+00:02:56,239 --> 00:03:02,920
+fundadora da vero e já foram mais de
+
+66
+00:02:58,720 --> 00:03:05,879
+sete dígitos fato atados dentro da
+
+67
+00:03:02,920 --> 00:03:08,239
+internet e eu desenvolvi a primeira
+
+68
+00:03:05,879 --> 00:03:10,799
+Inteligência Artificial humanizada de
+
+69
+00:03:08,239 --> 00:03:13,599
+atendimento na medicina Tá e por
+
+70
+00:03:10,799 --> 00:03:16,599
+conviver com médicos e ser médicas eu
+
+71
+00:03:13,599 --> 00:03:18,760
+comecei a perceber grande que grande
+
+72
+00:03:16,599 --> 00:03:20,159
+parte dos médicos sofria com a demora
+
+73
+00:03:18,760 --> 00:03:23,239
+durante o atendimento das suas
+
+74
+00:03:20,159 --> 00:03:25,440
+secretárias perdia muitos agendamentos
+
+75
+00:03:23,239 --> 00:03:28,000
+porque a secretária ela não sabia como
+
+76
+00:03:25,440 --> 00:03:28,760
+converter aqueles pacientes que chegavam
+
+77
+00:03:28,000 --> 00:03:32,319
+no
+
+78
+00:03:28,760 --> 00:03:35,879
+WhatsApp eles gastavam tempo treinando a
+
+79
+00:03:32,319 --> 00:03:38,959
+secretária comprando scripts treinando e
+
+80
+00:03:35,879 --> 00:03:41,720
+a conversão não aumentava além de pagar
+
+81
+00:03:38,959 --> 00:03:44,239
+altos salários né e ter uma alta
+
+82
+00:03:41,720 --> 00:03:46,560
+rotatividade porque toda vez que uma
+
+83
+00:03:44,239 --> 00:03:49,680
+secretária não alcançava o nível
+
+84
+00:03:46,560 --> 00:03:52,920
+esperado ou não convertia o esperado
+
+85
+00:03:49,680 --> 00:03:56,159
+mesmo pagando bonificações criando metas
+
+86
+00:03:52,920 --> 00:04:00,079
+para essas essas essas secretárias eles
+
+87
+00:03:56,159 --> 00:04:02,040
+precisavam mudar Tá certo então a um
+
+88
+00:04:00,079 --> 00:04:04,400
+alto salário uma alta rotatividade
+
+89
+00:04:02,040 --> 00:04:07,000
+também e foi a partir disso que após ir
+
+90
+00:04:04,400 --> 00:04:10,720
+para os Estados Unidos e conhecer o
+
+91
+00:04:07,000 --> 00:04:13,000
+funcionamento do atendimento médico lá
+
+92
+00:04:10,720 --> 00:04:15,840
+eu entendi que eles dividiam Isso em
+
+93
+00:04:13,000 --> 00:04:18,959
+duas formas diferentes tinham um
+
+94
+00:04:15,840 --> 00:04:21,680
+atendimento presencial que eles
+
+95
+00:04:18,959 --> 00:04:24,440
+utilizavam a secretária humana para
+
+96
+00:04:21,680 --> 00:04:27,560
+encantar os pacientes para focar no que
+
+97
+00:04:24,440 --> 00:04:29,759
+realmente importa na experiência
+
+98
+00:04:27,560 --> 00:04:32,120
+daquelas pessoas né Para que você
+
+99
+00:04:29,759 --> 00:04:33,840
+conseguisse fidelizar presencialmente os
+
+100
+00:04:32,120 --> 00:04:36,400
+seus pacientes entregando uma melhor
+
+101
+00:04:33,840 --> 00:04:39,720
+experiência do seu consultório e tinha a
+
+102
+00:04:36,400 --> 00:04:43,000
+parte online onde Quem fazia todo o
+
+103
+00:04:39,720 --> 00:04:45,080
+atendimento online desses médicos era
+
+104
+00:04:43,000 --> 00:04:48,600
+Inteligência Artificial e eu achei isso
+
+105
+00:04:45,080 --> 00:04:52,080
+incrível porque realmente o foco da sua
+
+106
+00:04:48,600 --> 00:04:55,639
+secretária presencial hoje deve ser a
+
+107
+00:04:52,080 --> 00:04:57,039
+experiência do seu paciente e o online
+
+108
+00:04:55,639 --> 00:04:59,000
+quando a gente tem várias pessoas
+
+109
+00:04:57,039 --> 00:05:00,880
+entrando em contato coloca a
+
+110
+00:04:59,000 --> 00:05:03,440
+inteligência artificial para fazer todo
+
+111
+00:05:00,880 --> 00:05:05,360
+esse atendimento humanizado E agendar de
+
+112
+00:05:03,440 --> 00:05:07,160
+uma forma automática sem que você
+
+113
+00:05:05,360 --> 00:05:09,000
+precise treinar essa pessoa o tempo
+
+114
+00:05:07,160 --> 00:05:11,240
+inteiro então foi isso que eu encontrei
+
+115
+00:05:09,000 --> 00:05:13,360
+dentro dos Estados Unidos e decidi
+
+116
+00:05:11,240 --> 00:05:14,720
+Trazer isso para dentro do Brasil e foi
+
+117
+00:05:13,360 --> 00:05:16,520
+assim que eu criei a primeira
+
+118
+00:05:14,720 --> 00:05:19,759
+Inteligência Artificial humanizada de
+
+119
+00:05:16,520 --> 00:05:22,360
+atendimento exclusiva para médicos aqui
+
+120
+00:05:19,759 --> 00:05:24,080
+dentro do Brasil e qual é o resultado
+
+121
+00:05:22,360 --> 00:05:25,639
+que a gente tem hoje a gente já
+
+122
+00:05:24,080 --> 00:05:29,000
+implementou em todos os estados
+
+123
+00:05:25,639 --> 00:05:30,440
+brasileiros tá são C centenas de médicos
+
+124
+00:05:29,000 --> 00:05:34,639
+e CLN
+
+125
+00:05:30,440 --> 00:05:37,840
+utilizando Tá além disso eu eu entendo
+
+126
+00:05:34,639 --> 00:05:40,280
+que hoje vocês já devem ter percebido né
+
+127
+00:05:37,840 --> 00:05:42,400
+estão vivenciando que a inteligência
+
+128
+00:05:40,280 --> 00:05:45,680
+artificial dentro do atendimento médico
+
+129
+00:05:42,400 --> 00:05:48,199
+virou notícia em todos os portais hoje
+
+130
+00:05:45,680 --> 00:05:51,440
+um médico ou uma clínica que não utiliza
+
+131
+00:05:48,199 --> 00:05:54,319
+a inteligência artificial sofre dentro
+
+132
+00:05:51,440 --> 00:05:57,000
+dos seus processos não somente dentro do
+
+133
+00:05:54,319 --> 00:05:59,639
+atendimento né então quem utiliza
+
+134
+00:05:57,000 --> 00:06:02,720
+Inteligência Artificial otimiza muito o
+
+135
+00:05:59,639 --> 00:06:04,800
+o seu tempo né e consegue ali
+
+136
+00:06:02,720 --> 00:06:06,919
+transformar também o atendimento dos
+
+137
+00:06:04,800 --> 00:06:09,319
+seus pacientes né então aqui eu trouxe
+
+138
+00:06:06,919 --> 00:06:11,960
+algumas notícias para né que eu imagino
+
+139
+00:06:09,319 --> 00:06:14,680
+que vocês já devem ter visto
+
+140
+00:06:11,960 --> 00:06:17,680
+também e hoje nós já estamos
+
+141
+00:06:14,680 --> 00:06:19,680
+revolucionando ao redor né aqui do
+
+142
+00:06:17,680 --> 00:06:20,880
+Brasil com a nossa Inteligência
+
+143
+00:06:19,680 --> 00:06:25,120
+Artificial
+
+144
+00:06:20,880 --> 00:06:27,400
+inédita e um desses médicos tá é o Dr
+
+145
+00:06:25,120 --> 00:06:30,880
+farani que eu vou convidar ele para
+
+146
+00:06:27,400 --> 00:06:34,400
+falar com vocês agora a aqui ao
+
+147
+00:06:30,880 --> 00:06:37,120
+vivo Oi oi farani tá conseguindo me
+
+148
+00:06:34,400 --> 00:06:40,440
+ouvir olá olá boa noite Estela tudo bem
+
+149
+00:06:37,120 --> 00:06:42,560
+escuto você me escuta bem tô escutando
+
+150
+00:06:40,440 --> 00:06:45,520
+eu vou só vou tirar aqui a apresentação
+
+151
+00:06:42,560 --> 00:06:48,800
+pra gente conseguir ver você aê
+
+152
+00:06:45,520 --> 00:06:52,280
+Maravilha tudo bom Dr farani é um prazer
+
+153
+00:06:48,800 --> 00:06:54,960
+ter você aqui com a gente né eu falei um
+
+154
+00:06:52,280 --> 00:06:56,400
+pouquinho com você Falei que né o
+
+155
+00:06:54,960 --> 00:06:58,280
+resultado que você teve com a nossa
+
+156
+00:06:56,400 --> 00:07:00,840
+Inteligência Artificial mas melhor do
+
+157
+00:06:58,280 --> 00:07:03,199
+que eu para falar é convidando você para
+
+158
+00:07:00,840 --> 00:07:05,160
+est aqui com a gente então Doutor por
+
+159
+00:07:03,199 --> 00:07:07,400
+favor se apresente brevemente para que
+
+160
+00:07:05,160 --> 00:07:08,440
+as pessoas saibam quem você é e o que
+
+161
+00:07:07,400 --> 00:07:12,039
+que você
+
+162
+00:07:08,440 --> 00:07:13,759
+faz perfeito né antes disso eu quero
+
+163
+00:07:12,039 --> 00:07:15,560
+parabenizar a todos e todas que estão
+
+164
+00:07:13,759 --> 00:07:17,479
+aqui nesse momento né um período de
+
+165
+00:07:15,560 --> 00:07:19,080
+carnaval E por coincidência quando eu
+
+166
+00:07:17,479 --> 00:07:21,759
+participei do meu webinar eu estava
+
+167
+00:07:19,080 --> 00:07:23,840
+viajando também em férias né em família
+
+168
+00:07:21,759 --> 00:07:25,879
+na na Europa na época do Natal né e
+
+169
+00:07:23,840 --> 00:07:28,360
+tirei um período né um tempo para
+
+170
+00:07:25,879 --> 00:07:29,720
+assistir e ouvir o que a ela tinha para
+
+171
+00:07:28,360 --> 00:07:31,680
+falar e não me arrependi nenhum um pouco
+
+172
+00:07:29,720 --> 00:07:33,680
+né Muito pelo contrário né tô aqui hoje
+
+173
+00:07:31,680 --> 00:07:35,960
+com com vocês né Eu sou Mateus faran sou
+
+174
+00:07:33,680 --> 00:07:37,599
+médico for faculdade pública né famem
+
+175
+00:07:35,960 --> 00:07:39,080
+interior de São Paulo né minha formação
+
+176
+00:07:37,599 --> 00:07:41,199
+ela foi toda direcionada para ir paraos
+
+177
+00:07:39,080 --> 00:07:43,960
+Estados Unidos mas acabei mudando a rota
+
+178
+00:07:41,199 --> 00:07:46,879
+né continuei no Brasil e tive que me
+
+179
+00:07:43,960 --> 00:07:49,800
+Reinventar né encontrar né um caminho
+
+180
+00:07:46,879 --> 00:07:51,960
+aqui para ser diferente tá para fazer
+
+181
+00:07:49,800 --> 00:07:55,599
+diferente e de forma ética né Sem chala
+
+182
+00:07:51,960 --> 00:07:57,039
+nismo sem vender fórmulas prontas né E E
+
+183
+00:07:55,599 --> 00:07:58,360
+por aí vai que nem o luí tá comentando
+
+184
+00:07:57,039 --> 00:08:00,280
+Luiz Gustavo né todo mundo vende a
+
+185
+00:07:58,360 --> 00:08:02,319
+Fórmula Mágica né aqui não é formala
+
+186
+00:08:00,280 --> 00:08:05,000
+mágica tá muito pelo contrário é algo
+
+187
+00:08:02,319 --> 00:08:07,120
+bem bem alacar né e a ia Ela traz isso
+
+188
+00:08:05,000 --> 00:08:11,400
+pra gente
+
+189
+00:08:07,120 --> 00:08:13,400
+tá perfeito se você se eu fosse o médico
+
+190
+00:08:11,400 --> 00:08:16,080
+assistindo essa Live agora porque que eu
+
+191
+00:08:13,400 --> 00:08:19,080
+deveria prestar atenção no que você vai
+
+192
+00:08:16,080 --> 00:08:20,520
+dizer DR faran perfeito aproveitando até
+
+193
+00:08:19,080 --> 00:08:23,080
+o gancho aqui do luí né porque primeiro
+
+194
+00:08:20,520 --> 00:08:24,680
+não há Fórmula Mágica que vai aumentar o
+
+195
+00:08:23,080 --> 00:08:26,759
+dígito de vocês muito pelo contrário
+
+196
+00:08:24,680 --> 00:08:29,159
+isso aqui é só pense num carro de Need
+
+197
+00:08:26,759 --> 00:08:30,159
+For Speed né um carro de veló curiosa é
+
+198
+00:08:29,159 --> 00:08:32,839
+só um
+
+199
+00:08:30,159 --> 00:08:34,440
+aqui tá é uma forma de você impulsionar
+
+200
+00:08:32,839 --> 00:08:36,279
+o motor que tá funcionando bem se vocês
+
+201
+00:08:34,440 --> 00:08:38,880
+micos não são bons não adianta né a não
+
+202
+00:08:36,279 --> 00:08:40,599
+vai fazer milagre n me escutem porque
+
+203
+00:08:38,880 --> 00:08:42,279
+isso vai mudar a vida de vocês só por
+
+204
+00:08:40,599 --> 00:08:43,760
+isso vai mudar completamente o jogo para
+
+205
+00:08:42,279 --> 00:08:44,959
+quem quer fazer algo diferente para quem
+
+206
+00:08:43,760 --> 00:08:47,200
+não quer uma fórmula mágica para quem
+
+207
+00:08:44,959 --> 00:08:50,120
+quer realmente ser um médico fora da
+
+208
+00:08:47,200 --> 00:08:53,240
+curva legal e me fala um pouquinho hoje
+
+209
+00:08:50,120 --> 00:08:55,360
+o seu atendimento ele é focado em qual
+
+210
+00:08:53,240 --> 00:08:56,760
+queixa do seu paciente O que que você
+
+211
+00:08:55,360 --> 00:09:00,200
+foca hoje
+
+212
+00:08:56,760 --> 00:09:02,480
+aí bele hoje me atendimento ele é focado
+
+213
+00:09:00,200 --> 00:09:06,000
+num subnicho da medicina esportiva que é
+
+214
+00:09:02,480 --> 00:09:09,000
+o nicho de emagrecimento sobretudo tá e
+
+215
+00:09:06,000 --> 00:09:10,160
+controle hormonal né que seria nicho da
+
+216
+00:09:09,000 --> 00:09:12,640
+endocrinologia mas eu não falo que
+
+217
+00:09:10,160 --> 00:09:14,640
+endocrinologia porque eu não tenho RQ de
+
+218
+00:09:12,640 --> 00:09:17,240
+endocrino no Brasil e falo isso
+
+219
+00:09:14,640 --> 00:09:19,240
+abertamente né não é um subnicho só que
+
+220
+00:09:17,240 --> 00:09:21,640
+eu que eu abarco né então são pacientes
+
+221
+00:09:19,240 --> 00:09:25,240
+que T queixas tanto quanto urgentes né
+
+222
+00:09:21,640 --> 00:09:27,920
+pacientes procrastinadores também certo
+
+223
+00:09:25,240 --> 00:09:29,600
+modo sabe que isso é interessante porque
+
+224
+00:09:27,920 --> 00:09:31,800
+muitas pessoas acreditam que não não
+
+225
+00:09:29,600 --> 00:09:35,839
+conseguem ter resultado porque não tem o
+
+226
+00:09:31,800 --> 00:09:38,240
+RQ e você acabou de trazer que mesmo sem
+
+227
+00:09:35,839 --> 00:09:40,680
+tem resultado né
+
+228
+00:09:38,240 --> 00:09:42,920
+ah dentro do seu consultório Então isso
+
+229
+00:09:40,680 --> 00:09:46,079
+é muito interessante tá sim e sem fazer
+
+230
+00:09:42,920 --> 00:09:48,279
+sem fazer soro tá sem ficar empurrando
+
+231
+00:09:46,079 --> 00:09:50,720
+implante para paciente sem ficar
+
+232
+00:09:48,279 --> 00:09:53,440
+vendendo fórmulas injetáveis protocolos
+
+233
+00:09:50,720 --> 00:09:56,200
+injetáveis nada disso Isso que é o
+
+234
+00:09:53,440 --> 00:10:00,200
+melhor e me fala uma coisa antes de você
+
+235
+00:09:56,200 --> 00:10:02,200
+conhecer a nossa tecnologia como era o
+
+236
+00:10:00,200 --> 00:10:04,360
+do seu consultório antes como como era
+
+237
+00:10:02,200 --> 00:10:07,839
+essa rotina de
+
+238
+00:10:04,360 --> 00:10:09,600
+atendimento era bem engessada porque a
+
+239
+00:10:07,839 --> 00:10:12,320
+secretária por mais que eu tentasse
+
+240
+00:10:09,600 --> 00:10:15,640
+treiná-la elaborasse scripts elaborasse
+
+241
+00:10:12,320 --> 00:10:18,320
+passo a passo ela não conseguia fazer o
+
+242
+00:10:15,640 --> 00:10:21,040
+principal que era converter o paciente
+
+243
+00:10:18,320 --> 00:10:23,240
+capitar é muito fácil a questão toda é
+
+244
+00:10:21,040 --> 00:10:25,320
+conversão se você não tem uma pessoa bem
+
+245
+00:10:23,240 --> 00:10:26,680
+treinada então eu acab eu acabava tendo
+
+246
+00:10:25,320 --> 00:10:29,480
+que assumir Às vezes a função da
+
+247
+00:10:26,680 --> 00:10:31,279
+secretária n ela começar uma conversa
+
+248
+00:10:29,480 --> 00:10:33,360
+com o lid com potencial paciente e eu
+
+249
+00:10:31,279 --> 00:10:36,519
+ter que ir conduzir aquilo ali porque
+
+250
+00:10:33,360 --> 00:10:38,399
+ela não ia conseguir direcionar é então
+
+251
+00:10:36,519 --> 00:10:40,920
+era muito muito travado muito travado o
+
+252
+00:10:38,399 --> 00:10:44,480
+processo só quando era Alguém já bem
+
+253
+00:10:40,920 --> 00:10:47,000
+indicado né super indicado já E olha que
+
+254
+00:10:44,480 --> 00:10:48,920
+os meu o meu até então meus pacientes
+
+255
+00:10:47,000 --> 00:10:50,360
+são eram quase todos orgânicos né Eu
+
+256
+00:10:48,920 --> 00:10:51,760
+comecei o tráfego justamente com junto
+
+257
+00:10:50,360 --> 00:10:55,360
+com a com a Estela antes eu não fazia
+
+258
+00:10:51,760 --> 00:10:58,079
+tráfego tá e ainda assim era difícil
+
+259
+00:10:55,360 --> 00:10:59,839
+então era bem bem travado o fixo o que
+
+260
+00:10:58,079 --> 00:11:03,000
+que mais te incomodava
+
+261
+00:10:59,839 --> 00:11:05,279
+nessa forma antiga que você fazia né
+
+262
+00:11:03,000 --> 00:11:07,279
+você me falou que você tinha que colocar
+
+263
+00:11:05,279 --> 00:11:08,760
+a mão né você que tinha que colocar a
+
+264
+00:11:07,279 --> 00:11:12,480
+mão porque a sua secretária não
+
+265
+00:11:08,760 --> 00:11:16,040
+conseguia converter esses contatos em
+
+266
+00:11:12,480 --> 00:11:16,040
+pacientes Então me diga o que que te
+
+267
+00:11:16,160 --> 00:11:20,680
+incomodava primeiro que eu sabia que eu
+
+268
+00:11:18,320 --> 00:11:22,760
+tava fora da estatística ideal de tempo
+
+269
+00:11:20,680 --> 00:11:24,959
+de resposta para você conseguir ver uma
+
+270
+00:11:22,760 --> 00:11:27,160
+venda né então sabia que tava muito
+
+271
+00:11:24,959 --> 00:11:29,760
+muito muito fora disso segundo qualquer
+
+272
+00:11:27,160 --> 00:11:31,200
+coisinha que fugisse a o feijão com
+
+273
+00:11:29,760 --> 00:11:34,040
+arroz a secretária não sabia responder
+
+274
+00:11:31,200 --> 00:11:37,000
+quea tinha que travar o fluxo terceiro
+
+275
+00:11:34,040 --> 00:11:38,760
+que era basicamente um cop cola né o o
+
+276
+00:11:37,000 --> 00:11:41,639
+futuro paciente ele manda querendo saber
+
+277
+00:11:38,760 --> 00:11:44,040
+preço basicamente né a aí a secretária
+
+278
+00:11:41,639 --> 00:11:46,920
+vai fala ó Dr farani é formado em
+
+279
+00:11:44,040 --> 00:11:48,800
+faculdade pública tal fez extensão fora
+
+280
+00:11:46,920 --> 00:11:52,079
+do país e acabou a consulta é tanto isso
+
+281
+00:11:48,800 --> 00:11:54,120
+aí é péssimo e todo mundo faz isso né
+
+282
+00:11:52,079 --> 00:11:55,560
+então assim era era mais do mesmo e eu
+
+283
+00:11:54,120 --> 00:11:57,480
+odeio Ser Mais do Mesmo né Eu gosto de
+
+284
+00:11:55,560 --> 00:11:58,720
+ser diferente porque eu penso que você
+
+285
+00:11:57,480 --> 00:12:00,440
+tem que ser diferente né não existe não
+
+286
+00:11:58,720 --> 00:12:02,240
+tem você não tem escolha ou você é
+
+287
+00:12:00,440 --> 00:12:06,240
+diferente Ou você não é nada né é
+
+288
+00:12:02,240 --> 00:12:08,399
+basicamente isso é verdade é verdade e
+
+289
+00:12:06,240 --> 00:12:11,959
+me conta uma coisa Dr faran você já
+
+290
+00:12:08,399 --> 00:12:14,440
+testou outras soluções antes para que
+
+291
+00:12:11,959 --> 00:12:17,240
+melhorasse a conversão da sua
+
+292
+00:12:14,440 --> 00:12:21,279
+secretária sim eu tentei elaborar
+
+293
+00:12:17,240 --> 00:12:23,920
+scripts né fazer cursos de vendas cursos
+
+294
+00:12:21,279 --> 00:12:25,760
+para para secretárias eu fui atrás até
+
+295
+00:12:23,920 --> 00:12:30,360
+de automações mais baratas né de
+
+296
+00:12:25,760 --> 00:12:34,199
+chatbots né e não adiantava Não
+
+297
+00:12:30,360 --> 00:12:36,880
+adiantava entendi é o o que eu vejo
+
+298
+00:12:34,199 --> 00:12:39,519
+muitas pessoas falando é Ah eu criei o
+
+299
+00:12:36,880 --> 00:12:41,600
+script comprei o script treinei a
+
+300
+00:12:39,519 --> 00:12:45,440
+secretária mas ela continua enviando
+
+301
+00:12:41,600 --> 00:12:47,320
+sempre as mesmas mensagens quando foge
+
+302
+00:12:45,440 --> 00:12:49,040
+um pouquinho daquilo que a gente
+
+303
+00:12:47,320 --> 00:12:52,399
+construiu no Script ela tem que me
+
+304
+00:12:49,040 --> 00:12:54,360
+procurar ela não sabe como conduzir né
+
+305
+00:12:52,399 --> 00:12:57,360
+então Imagino que isso aconteceu com
+
+306
+00:12:54,360 --> 00:12:59,880
+você também ex me fala uma coisa como é
+
+307
+00:12:57,360 --> 00:13:03,760
+que você nos conheceu e o o que que te
+
+308
+00:12:59,880 --> 00:13:05,600
+fez decidir em né aplicar essa
+
+309
+00:13:03,760 --> 00:13:08,639
+tecnologia dentro do seu
+
+310
+00:13:05,600 --> 00:13:11,199
+consultório certo eu conheci vocês
+
+311
+00:13:08,639 --> 00:13:14,360
+porque eu já tinha decidido criar O que
+
+312
+00:13:11,199 --> 00:13:15,800
+vocês estão fazendo né hoje E aí
+
+313
+00:13:14,360 --> 00:13:18,320
+consequentemente como eu tava
+
+314
+00:13:15,800 --> 00:13:21,440
+pesquisando min chat várias ferramentas
+
+315
+00:13:18,320 --> 00:13:24,320
+de programação de a automaticamente né o
+
+316
+00:13:21,440 --> 00:13:26,320
+o seu o seu tráfego chegou até mim né E
+
+317
+00:13:24,320 --> 00:13:29,440
+aí eu te conheci inicialmente eu tive
+
+318
+00:13:26,320 --> 00:13:32,720
+várias objeções Me cadastrei no web des
+
+319
+00:13:29,440 --> 00:13:36,199
+cadastrei cadastrei de novo né pensei em
+
+320
+00:13:32,720 --> 00:13:38,639
+ir desistir entrei na hora saí voltei de
+
+321
+00:13:36,199 --> 00:13:40,000
+novo né então tive muita muita objeção
+
+322
+00:13:38,639 --> 00:13:46,279
+porque eu pensava que seria mais uma
+
+323
+00:13:40,000 --> 00:13:48,639
+Fórmula Mágica né ah que o que H que né
+
+324
+00:13:46,279 --> 00:13:50,560
+mais o mais do mesmo sabe isso que eu
+
+325
+00:13:48,639 --> 00:13:52,759
+pensava não sabia que que era tão algo
+
+326
+00:13:50,560 --> 00:13:54,560
+tão bom n tão bem tão bem desenhado e
+
+327
+00:13:52,759 --> 00:13:57,480
+tão barato inclusive
+
+328
+00:13:54,560 --> 00:13:59,959
+tá legal eu gostei do que você falou da
+
+329
+00:13:57,480 --> 00:14:01,759
+Fórmula má Qual foi o então que você
+
+330
+00:13:59,959 --> 00:14:03,759
+percebeu que não era uma Fórmula Mágica
+
+331
+00:14:01,759 --> 00:14:07,839
+que era algo real
+
+332
+00:14:03,759 --> 00:14:10,000
+mesmo quando eu parei para te ouvir n
+
+333
+00:14:07,839 --> 00:14:12,279
+porque antes de eu assistir a webinar
+
+334
+00:14:10,000 --> 00:14:13,360
+não dava para diferir diferenciar uhum
+
+335
+00:14:12,279 --> 00:14:16,880
+não
+
+336
+00:14:13,360 --> 00:14:18,079
+dava Legal vamos falar de número né Eu
+
+337
+00:14:16,880 --> 00:14:20,519
+acho que é isso que a maioria das
+
+338
+00:14:18,079 --> 00:14:22,240
+pessoas elas querem ouvir depois que
+
+339
+00:14:20,519 --> 00:14:25,480
+você implementou a inteligência
+
+340
+00:14:22,240 --> 00:14:27,880
+artificial seu consultório Quais foram
+
+341
+00:14:25,480 --> 00:14:29,880
+os primeiros impactos que isso gerou
+
+342
+00:14:27,880 --> 00:14:31,360
+para você e pro pro seu atendimento e
+
+343
+00:14:29,880 --> 00:14:33,480
+pro seu
+
+344
+00:14:31,360 --> 00:14:36,040
+consultório primeiro impacto foi
+
+345
+00:14:33,480 --> 00:14:37,720
+justamente agendamento né conversão eu
+
+346
+00:14:36,040 --> 00:14:39,800
+peguei esse período de
+
+347
+00:14:37,720 --> 00:14:42,560
+pré-carnaval que em tese tem bastante
+
+348
+00:14:39,800 --> 00:14:44,720
+procura tem muito tem muito curioso e
+
+349
+00:14:42,560 --> 00:14:46,920
+tudo mais e consultas que eu não
+
+350
+00:14:44,720 --> 00:14:49,279
+conseguiria de forma alguma converter
+
+351
+00:14:46,920 --> 00:14:51,399
+era era eu tava atendendo por exemplo de
+
+352
+00:14:49,279 --> 00:14:53,639
+manhã um paciente né sei lá oito sete
+
+353
+00:14:51,399 --> 00:14:56,079
+tava no sétimo paciente do dia e eu
+
+354
+00:14:53,639 --> 00:14:57,560
+descobria que a ia né descobria não ao
+
+355
+00:14:56,079 --> 00:14:59,519
+longo do dia a ia tinha aado mais dois
+
+356
+00:14:57,560 --> 00:15:01,120
+pro mesmo dia por exemplo um outro pro
+
+357
+00:14:59,519 --> 00:15:03,199
+outro dia de manhã então assim ia
+
+358
+00:15:01,120 --> 00:15:04,519
+empilhando né esses esses pacientes que
+
+359
+00:15:03,199 --> 00:15:06,000
+eu não conseguiria converter porque a
+
+360
+00:15:04,519 --> 00:15:07,880
+minha secretária n ia saberia nem falar
+
+361
+00:15:06,000 --> 00:15:10,440
+fora o horário né horário questão do
+
+362
+00:15:07,880 --> 00:15:12,320
+horário comercial né de 8 à 18 tudo mais
+
+363
+00:15:10,440 --> 00:15:13,759
+eu tive paciente que mandou mensagem 18
+
+364
+00:15:12,320 --> 00:15:15,920
+horas 20 horas tava no meu consultório
+
+365
+00:15:13,759 --> 00:15:17,959
+para ser atendido presencial né então
+
+366
+00:15:15,920 --> 00:15:20,519
+assim nunca quiso sem aá seria possível
+
+367
+00:15:17,959 --> 00:15:24,720
+tipo nunca impossível
+
+368
+00:15:20,519 --> 00:15:26,560
+impossível então o que você achou que o
+
+369
+00:15:24,720 --> 00:15:29,240
+que você viu que mais impactou foi a
+
+370
+00:15:26,560 --> 00:15:31,680
+questão da rapidez do atendimento da
+
+371
+00:15:29,240 --> 00:15:35,440
+qualidade do atendimento que gera essa
+
+372
+00:15:31,680 --> 00:15:37,399
+conversão rápida também né Exatamente
+
+373
+00:15:35,440 --> 00:15:40,199
+exatamente porque assim por mais que que
+
+374
+00:15:37,399 --> 00:15:42,000
+eu tivesse o o meu tráfego né ele foi
+
+375
+00:15:40,199 --> 00:15:44,600
+muito focado em Google né inicialmente
+
+376
+00:15:42,000 --> 00:15:46,959
+né então assim a gente não fez ainda né
+
+377
+00:15:44,600 --> 00:15:49,040
+um tráfego tão tão forte para dizer que
+
+378
+00:15:46,959 --> 00:15:50,680
+eu tive leads em massa e tudo mais não
+
+379
+00:15:49,040 --> 00:15:54,680
+foi realmente a questão da qualidade
+
+380
+00:15:50,680 --> 00:15:55,959
+mesmo do do material sabe da da Iá né de
+
+381
+00:15:54,680 --> 00:15:59,399
+ser muito bem
+
+382
+00:15:55,959 --> 00:16:02,639
+leg tá muito bem desenhada
+
+383
+00:15:59,399 --> 00:16:04,279
+muito bom e agora falando da sua
+
+384
+00:16:02,639 --> 00:16:07,160
+comparando na verdade com a sua
+
+385
+00:16:04,279 --> 00:16:10,079
+secretária tradicional o que que mudou
+
+386
+00:16:07,160 --> 00:16:10,079
+no dia a dia do seu
+
+387
+00:16:10,440 --> 00:16:14,319
+atendimento mudou que minha secretária
+
+388
+00:16:12,759 --> 00:16:16,639
+tradicional passei a ser muito mais
+
+389
+00:16:14,319 --> 00:16:18,000
+eficiente e eficaz porque ela deixou de
+
+390
+00:16:16,639 --> 00:16:20,079
+fazer algo que ela não tinha competência
+
+391
+00:16:18,000 --> 00:16:22,040
+para fazer que era conversão de paciente
+
+392
+00:16:20,079 --> 00:16:24,279
+ela passou a fazer o que uma secretária
+
+393
+00:16:22,040 --> 00:16:27,040
+humana faz que é administrar os
+
+394
+00:16:24,279 --> 00:16:30,120
+pacientes no dia a dia resolver coisas
+
+395
+00:16:27,040 --> 00:16:32,920
+pontuais lembrete
+
+396
+00:16:30,120 --> 00:16:34,519
+lista de pendências e tudo mais mas o a
+
+397
+00:16:32,920 --> 00:16:36,680
+questão da conversão agendamento
+
+398
+00:16:34,519 --> 00:16:37,839
+lembrete de paciente e tudo mais não tem
+
+399
+00:16:36,680 --> 00:16:38,959
+que usar secretária humana fazer isso
+
+400
+00:16:37,839 --> 00:16:40,920
+humana é para fazer o que a máquina não
+
+401
+00:16:38,959 --> 00:16:43,600
+faz pô se usar sua secretária para ficar
+
+402
+00:16:40,920 --> 00:16:47,000
+agendando o paciente é jogar tempo da
+
+403
+00:16:43,600 --> 00:16:49,000
+secretária no lixo pô no lixo Isso é
+
+404
+00:16:47,000 --> 00:16:51,880
+verdade é o que eu falo muito pro
+
+405
+00:16:49,000 --> 00:16:53,920
+pessoal Existem certas coisas que a
+
+406
+00:16:51,880 --> 00:16:56,360
+gente consegue colocar uma inteligência
+
+407
+00:16:53,920 --> 00:16:58,040
+artificial para fazer que é o caso do
+
+408
+00:16:56,360 --> 00:16:59,360
+atendimento né para fazer toda essa
+
+409
+00:16:58,040 --> 00:17:01,399
+parte de agenda
+
+410
+00:16:59,360 --> 00:17:03,360
+e deixar ali a secretária porque que ela
+
+411
+00:17:01,399 --> 00:17:06,760
+deve fazer melhor que é a experiência
+
+412
+00:17:03,360 --> 00:17:09,240
+presencial daqueles pacientes
+
+413
+00:17:06,760 --> 00:17:12,360
+exatamente online também o tempo que ela
+
+414
+00:17:09,240 --> 00:17:14,400
+é perder respondendo curioso ela atenção
+
+415
+00:17:12,360 --> 00:17:18,480
+ao seu paciente pô Ó que coisa linda ex
+
+416
+00:17:14,400 --> 00:17:20,880
+examente perfeito Dr farani vamos você
+
+417
+00:17:18,480 --> 00:17:22,319
+consegue mostrar pra gente na prática o
+
+418
+00:17:20,880 --> 00:17:23,600
+funcionamento da ia porque eu acho que
+
+419
+00:17:22,319 --> 00:17:26,160
+isso vai ser muito interessante pro
+
+420
+00:17:23,600 --> 00:17:29,160
+pessoal que tá aqui também você consegue
+
+421
+00:17:26,160 --> 00:17:31,480
+compartilhar acredito que sim pronto eu
+
+422
+00:17:29,160 --> 00:17:33,600
+vou abrir aqui agora eu vou vai depender
+
+423
+00:17:31,480 --> 00:17:36,440
+só da internet que eu tô em eu tô
+
+424
+00:17:33,600 --> 00:17:38,080
+viajando agora eu tô em eu tô em onde é
+
+425
+00:17:36,440 --> 00:17:41,640
+que eu tô mesmo São Miguel dos Milagres
+
+426
+00:17:38,080 --> 00:17:43,320
+São Miguel dos Milagres agora mas eu tô
+
+427
+00:17:41,640 --> 00:17:47,880
+abrindo aqui o z
+
+428
+00:17:43,320 --> 00:17:50,960
+arpon e aí vai vai funcionar a internet
+
+429
+00:17:47,880 --> 00:17:55,200
+resolveu ajudar você sabe como
+
+430
+00:17:50,960 --> 00:17:59,039
+compartilha a tela certo Sei sei sim
+
+431
+00:17:55,200 --> 00:18:01,480
+legal tá Tá dominado essa parte eu tô só
+
+432
+00:17:59,039 --> 00:18:03,520
+Fabrina conversa aqui enquanto o Dr
+
+433
+00:18:01,480 --> 00:18:05,960
+farani ele vai compartilhar a tela ele
+
+434
+00:18:03,520 --> 00:18:08,919
+tá separando né direitinho para mostrar
+
+435
+00:18:05,960 --> 00:18:12,320
+pra gente vão enviando aqui as dúvidas
+
+436
+00:18:08,919 --> 00:18:14,799
+que vocês têm tá Lindaura falou boa
+
+437
+00:18:12,320 --> 00:18:16,799
+noite sou de Feira de Santana pertinho
+
+438
+00:18:14,799 --> 00:18:19,919
+Lindaura seja muito
+
+439
+00:18:16,799 --> 00:18:22,240
+bem-vinda Duval seja muito bem-vindo
+
+440
+00:18:19,919 --> 00:18:26,039
+Mateus seja muito
+
+441
+00:18:22,240 --> 00:18:26,039
+bem-vindo boa noite
+
+442
+00:18:26,760 --> 00:18:30,600
+pessoal boa noite Val
+
+443
+00:18:29,520 --> 00:18:33,400
+abrindo
+
+444
+00:18:30,600 --> 00:18:36,520
+aqui perguntou e para quem tem
+
+445
+00:18:33,400 --> 00:18:39,280
+secretári Paes o que pode fazer para
+
+446
+00:18:36,520 --> 00:18:41,360
+aumentar o número de pacientes vamos lá
+
+447
+00:18:39,280 --> 00:18:43,960
+que que ela consegue fazer a sua
+
+448
+00:18:41,360 --> 00:18:46,159
+secretara ela consegue atender 20 30
+
+449
+00:18:43,960 --> 00:18:49,520
+pessoas ao mesmo tempo com a mesma
+
+450
+00:18:46,159 --> 00:18:50,840
+qualidade e rapidez Então porque quando
+
+451
+00:18:49,520 --> 00:18:53,600
+a gente tá falando de atendimento eu
+
+452
+00:18:50,840 --> 00:18:56,200
+preciso atender aquelas pessoas antes de
+
+453
+00:18:53,600 --> 00:18:58,799
+5 minutos ter uma boa conversão eu
+
+454
+00:18:56,200 --> 00:19:00,640
+preciso ter a qualidade do meu
+
+455
+00:18:58,799 --> 00:19:02,559
+atendimento então sempre prestando
+
+456
+00:19:00,640 --> 00:19:04,960
+atenção no que o paciente tá falando
+
+457
+00:19:02,559 --> 00:19:08,840
+Chamando pelo nome trazendo essa
+
+458
+00:19:04,960 --> 00:19:10,600
+qualidade tá e eu preciso ser eficaz
+
+459
+00:19:08,840 --> 00:19:13,320
+também você acredita que a sua
+
+460
+00:19:10,600 --> 00:19:16,559
+secretária conseguiria falar com 30 40
+
+461
+00:19:13,320 --> 00:19:20,360
+pessoas ao mesmo tempo isso é algo que a
+
+462
+00:19:16,559 --> 00:19:24,880
+inteligência artificial ela faz também
+
+463
+00:19:20,360 --> 00:19:28,880
+tá boa noite boa noite Certo boa noite
+
+464
+00:19:24,880 --> 00:19:28,880
+Maria Priscila
+
+465
+00:19:30,480 --> 00:19:35,720
+Maravilha pode compartilhar Então tá
+
+466
+00:19:33,120 --> 00:19:40,790
+deixa compartilhar
+
+467
+00:19:35,720 --> 00:19:40,790
+[Música]
+
+468
+00:19:43,200 --> 00:19:51,280
+aqui pert teleconsulta em alergia e
+
+469
+00:19:47,440 --> 00:19:51,280
+dermatologia Como pode me
+
+470
+00:19:52,360 --> 00:19:59,159
+ajud sim conseguindo ver então pess tem
+
+471
+00:19:56,919 --> 00:20:00,559
+conversas aqui basicamente aqui ó para
+
+472
+00:19:59,159 --> 00:20:04,520
+iniciarmos seu atendimento Qual o seu
+
+473
+00:20:00,559 --> 00:20:07,799
+nome Mateus né Isso aí a já tá
+
+474
+00:20:04,520 --> 00:20:11,360
+respondendo a minha tá programada para
+
+475
+00:20:07,799 --> 00:20:13,799
+para 10 segundos né de tempo de resposta
+
+476
+00:20:11,360 --> 00:20:15,640
+boa você tem pram até isso a gente
+
+477
+00:20:13,799 --> 00:20:18,159
+consegue configurar também tá pessoal o
+
+478
+00:20:15,640 --> 00:20:18,159
+tempo de
+
+479
+00:20:25,159 --> 00:20:29,159
+resposta hum
+
+480
+00:20:31,720 --> 00:20:35,640
+minha internet tá um pouco lenta isso
+
+481
+00:20:33,280 --> 00:20:39,640
+acaba dificultando um
+
+482
+00:20:35,640 --> 00:20:39,640
+pouco ainda não processou
+
+483
+00:20:40,240 --> 00:20:45,000
+aqui ainda não enviu a mensagem né É
+
+484
+00:20:43,440 --> 00:20:48,000
+porque eu acho que nosso
+
+485
+00:20:45,000 --> 00:20:48,000
+qu
+
+486
+00:20:51,200 --> 00:20:56,480
+é Tá vendo você vê que ó como é que tá
+
+487
+00:20:53,840 --> 00:20:56,480
+Tá vendo
+
+488
+00:20:56,600 --> 00:21:01,520
+uhum faz parte
+
+489
+00:20:59,159 --> 00:21:03,000
+compartilhando faz parte a internet é
+
+490
+00:21:01,520 --> 00:21:04,200
+assim mesmo mas você viu que ela já
+
+491
+00:21:03,000 --> 00:21:06,559
+respondeu aqui ó para iniciar o
+
+492
+00:21:04,200 --> 00:21:09,120
+atendimento Qual o seu nome o mandei o
+
+493
+00:21:06,559 --> 00:21:09,120
+oi aqui ela
+
+494
+00:21:10,799 --> 00:21:18,159
+já já respondeu
+
+495
+00:21:13,720 --> 00:21:19,440
+boa aí ó respondeu aqui ó consegue ler
+
+496
+00:21:18,159 --> 00:21:22,640
+rapidinho PR gente porque tá um
+
+497
+00:21:19,440 --> 00:21:23,880
+pouquinho embaçado respondeu Claro claro
+
+498
+00:21:22,640 --> 00:21:25,760
+Mateus antes de falarmos sobre as
+
+499
+00:21:23,880 --> 00:21:27,360
+consult gostaria de saber em qual cidade
+
+500
+00:21:25,760 --> 00:21:28,640
+você está assim posso fornecer as
+
+501
+00:21:27,360 --> 00:21:29,840
+informações mais adequadas para você
+
+502
+00:21:28,640 --> 00:21:32,200
+Lembrando que eu atendo presencialmente
+
+503
+00:21:29,840 --> 00:21:34,559
+em em dois em dois estados né na Bahia e
+
+504
+00:21:32,200 --> 00:21:37,640
+em São Paulo né em Salvador em Marília
+
+505
+00:21:34,559 --> 00:21:43,559
+vou falar aqui eu tô em Salvador
+
+506
+00:21:37,640 --> 00:21:43,559
+né Salvador que ele vai puxar pro
+
+507
+00:21:53,919 --> 00:21:59,120
+presencial
+
+508
+00:21:55,720 --> 00:22:01,559
+Ah tá escrevendo ó meu temem espanhol
+
+509
+00:21:59,120 --> 00:22:03,880
+aqui né escribiendo
+
+510
+00:22:01,559 --> 00:22:05,720
+aí ótimo Mateus como você está Salvador
+
+511
+00:22:03,880 --> 00:22:07,559
+posso oferecer curas presenciais o
+
+512
+00:22:05,720 --> 00:22:09,279
+atendimento em curso Inicial que é o que
+
+513
+00:22:07,559 --> 00:22:12,159
+eu faço né eu faço um atendimento e uma
+
+514
+00:22:09,279 --> 00:22:17,120
+reavaliação n no primeiro momento e a
+
+515
+00:22:12,159 --> 00:22:21,200
+impedância aí ó desejo desejo
+
+516
+00:22:17,120 --> 00:22:24,200
+emagrecimento mas não posso gastar uma
+
+517
+00:22:21,200 --> 00:22:24,200
+fortuna
+
+518
+00:22:35,679 --> 00:22:40,360
+Então pessoal perceba que aá a primeira
+
+519
+00:22:38,840 --> 00:22:42,159
+coisa que ela fez foi perguntar como é
+
+520
+00:22:40,360 --> 00:22:44,039
+que ele tava para dar seguimento no
+
+521
+00:22:42,159 --> 00:22:46,799
+atendimento perguntou pelo nome então
+
+522
+00:22:44,039 --> 00:22:49,640
+ela sempre vai falar com o paciente
+
+523
+00:22:46,799 --> 00:22:53,080
+usando o nome do paciente no caso do Dr
+
+524
+00:22:49,640 --> 00:22:55,559
+farani aí ela precisou perguntar onde
+
+525
+00:22:53,080 --> 00:22:58,080
+está esse paciente porque a depender da
+
+526
+00:22:55,559 --> 00:23:01,159
+onde ele esteja poderia ter ser atendido
+
+527
+00:22:58,080 --> 00:23:03,840
+na Bahia em María ou
+
+528
+00:23:01,159 --> 00:23:06,679
+teleconsulta tá então por isso que ela
+
+529
+00:23:03,840 --> 00:23:06,679
+fez essa pergunta
+
+530
+00:23:11,039 --> 00:23:16,240
+antes aí tá vendo entendo uma entendo
+
+531
+00:23:14,520 --> 00:23:17,400
+mais resultados cons sustentáveis ainda
+
+532
+00:23:16,240 --> 00:23:18,600
+per de gordura você ganhará mais
+
+533
+00:23:17,400 --> 00:23:19,760
+motivação disciplina autoestima
+
+534
+00:23:18,600 --> 00:23:21,840
+garantindo que os resultados sejam
+
+535
+00:23:19,760 --> 00:23:24,360
+duradores a consulta Inicial junto com a
+
+536
+00:23:21,840 --> 00:23:26,240
+reavaliação tem preço inicial de R 800
+
+537
+00:23:24,360 --> 00:23:28,520
+que já inclui de impedância significa
+
+538
+00:23:26,240 --> 00:23:30,559
+que você que cara sairá por apenas R 400
+
+539
+00:23:28,520 --> 00:23:32,240
+aí se o valor for PR ocupação ela D
+
+540
+00:23:30,559 --> 00:23:36,080
+opção de parcelar aade de pagamento
+
+541
+00:23:32,240 --> 00:23:38,080
+parcelado um sinal 210 mais duas vezes 3
+
+542
+00:23:36,080 --> 00:23:42,200
+250 no cartão aí o que você acha disso
+
+543
+00:23:38,080 --> 00:23:47,840
+tá vendo tá assim bem bem legal né assim
+
+544
+00:23:42,200 --> 00:23:50,880
+não sei aí ó não sei sei se terei um bom
+
+545
+00:23:47,840 --> 00:23:52,679
+resultado né eu vou mandar isso aqui ver
+
+546
+00:23:50,880 --> 00:23:54,880
+se ela vai puxar para mim os resultados
+
+547
+00:23:52,679 --> 00:23:54,880
+dos
+
+548
+00:23:55,840 --> 00:24:02,640
+pacientes vamos ver o que que ela vai
+
+549
+00:23:57,799 --> 00:24:02,640
+falar tenho medo de
+
+550
+00:24:03,840 --> 00:24:08,760
+investir são coisas que os pacientes
+
+551
+00:24:05,880 --> 00:24:12,400
+falam geralmente né oente V com objeção
+
+552
+00:24:08,760 --> 00:24:14,840
+Ah não posso gastar Ah não não sei se
+
+553
+00:24:12,400 --> 00:24:14,840
+vou ter
+
+554
+00:24:15,559 --> 00:24:23,200
+resultado exatamente qual ela trabalha
+
+555
+00:24:18,559 --> 00:24:26,880
+dentro disso ela já escrevendo aí ó tá
+
+556
+00:24:23,200 --> 00:24:26,880
+vendo escribiendo
+
+557
+00:24:29,200 --> 00:24:37,880
+aí ó aí Ela traz provas sociais tá vendo
+
+558
+00:24:33,919 --> 00:24:40,000
+resultado de de mulheres né e de homens
+
+559
+00:24:37,880 --> 00:24:41,640
+que a gente segundo a gente seguindo as
+
+560
+00:24:40,000 --> 00:24:43,679
+nas do cfm a gente pode divulgar
+
+561
+00:24:41,640 --> 00:24:46,159
+resultado tá de antes e depois desde que
+
+562
+00:24:43,679 --> 00:24:47,600
+você não exponha né o paciente né então
+
+563
+00:24:46,159 --> 00:24:51,279
+assim eu tenho esses links que mostram
+
+564
+00:24:47,600 --> 00:24:54,360
+né resultados dos pacientes perfeito e e
+
+565
+00:24:51,279 --> 00:24:55,960
+ela traz aqui ó né resultado resultados
+
+566
+00:24:54,360 --> 00:24:59,200
+focados né não tem mais
+
+567
+00:24:55,960 --> 00:25:02,120
+confiança né então assim bem bem legal
+
+568
+00:24:59,200 --> 00:25:04,799
+né isso aqui só uma uma mostr né Essa aí
+
+569
+00:25:02,120 --> 00:25:09,000
+aqui faz faz muita
+
+570
+00:25:04,799 --> 00:25:11,320
+coisa muito bom contin aqui
+
+571
+00:25:09,000 --> 00:25:12,200
+interação ela manda áudio também quer
+
+572
+00:25:11,320 --> 00:25:15,480
+ver
+
+573
+00:25:12,200 --> 00:25:15,480
+ó áudio
+
+574
+00:25:17,960 --> 00:25:20,960
+aqui
+
+575
+00:25:24,880 --> 00:25:30,520
+legal faran Dr faran ainda tá aí ou
+
+576
+00:25:30,880 --> 00:25:39,360
+caiu Opa tá vendo a tela hein Tá vendo a
+
+577
+00:25:34,760 --> 00:25:40,760
+tela ou saiu não saiu a tela saiu foi
+
+578
+00:25:39,360 --> 00:25:42,440
+porque eu gravei o áudio aí por é por
+
+579
+00:25:40,760 --> 00:25:46,679
+isso que ela
+
+580
+00:25:42,440 --> 00:25:49,679
+saiu voltou voltou voltou Ah você enviou
+
+581
+00:25:46,679 --> 00:25:53,279
+um áudio legal que eu gravei isso eu
+
+582
+00:25:49,679 --> 00:25:55,279
+enviei o áudio né Isso dá para ver se se
+
+583
+00:25:53,279 --> 00:25:58,000
+enviou um
+
+584
+00:25:55,279 --> 00:26:04,240
+áudio envi o áudio aí ela tá gravando
+
+585
+00:25:58,000 --> 00:26:04,240
+áudio tá vendo ó gravando áudio grabando
+
+586
+00:26:11,960 --> 00:26:16,919
+áudio e ela sempre traz horários Você
+
+587
+00:26:15,360 --> 00:26:19,480
+pode ter 1000 horários na agenda ela vai
+
+588
+00:26:16,919 --> 00:26:22,640
+sempre filtrar horários para gerar
+
+589
+00:26:19,480 --> 00:26:24,039
+escassez Entendeu Legal então assim tem
+
+590
+00:26:22,640 --> 00:26:25,559
+isso também a pessoa que fala assim que
+
+591
+00:26:24,039 --> 00:26:26,640
+ah que eu tenho minha agenda eu tô
+
+592
+00:26:25,559 --> 00:26:29,320
+começando agora tenho um monte de
+
+593
+00:26:26,640 --> 00:26:32,159
+horário na agenda que não sei qu né a i
+
+594
+00:26:29,320 --> 00:26:35,200
+ela sabe fazer isso né ela ela filtra
+
+595
+00:26:32,159 --> 00:26:37,360
+isso a gente sempre faz aqui ah de
+
+596
+00:26:35,200 --> 00:26:39,600
+disponibilizar dois horários dentro da
+
+597
+00:26:37,360 --> 00:26:41,720
+disponibilidade do médico caso o
+
+598
+00:26:39,600 --> 00:26:43,159
+paciente ele não consiga naqueles dois
+
+599
+00:26:41,720 --> 00:26:45,520
+horários disponíveis a gente vai
+
+600
+00:26:43,159 --> 00:26:49,240
+liberando outros horários de acordo com
+
+601
+00:26:45,520 --> 00:26:53,240
+a preferência também do paciente
+
+602
+00:26:49,240 --> 00:26:55,640
+tá E aí ela tá gravando o áudio né
+
+603
+00:26:53,240 --> 00:26:57,120
+processando ela já vai enviar um áudio
+
+604
+00:26:55,640 --> 00:26:59,919
+pra gente né E você pode mandar um áudio
+
+605
+00:26:57,120 --> 00:27:04,320
+de um minuto que ela ela vai escutar o
+
+606
+00:26:59,919 --> 00:27:06,480
+áudio de um minuto e vai gravar um áudio
+
+607
+00:27:04,320 --> 00:27:09,720
+equivalente maravilha eu tenho um caso
+
+608
+00:27:06,480 --> 00:27:12,520
+aqui de um de um paciente
+
+609
+00:27:09,720 --> 00:27:14,919
+até um um possível paciente hoje que ele
+
+610
+00:27:12,520 --> 00:27:18,279
+mandou três áudios um minuto e aí a
+
+611
+00:27:14,919 --> 00:27:20,720
+gravou osos respondendo tudo certinho ó
+
+612
+00:27:18,279 --> 00:27:22,480
+a Aline perguntou podemos programar
+
+613
+00:27:20,720 --> 00:27:25,000
+respostas para todos os tipes de
+
+614
+00:27:22,480 --> 00:27:27,240
+tratamentos oferecidos na clínica é
+
+615
+00:27:25,000 --> 00:27:31,440
+possível fazer essa personalização sim
+
+616
+00:27:27,240 --> 00:27:33,799
+Aline é possível sim tá a e a ela 100%
+
+617
+00:27:31,440 --> 00:27:37,840
+personalizada para o seu caso né a gente
+
+618
+00:27:33,799 --> 00:27:40,279
+constrói uma do completo zero focando em
+
+619
+00:27:37,840 --> 00:27:41,840
+quem é você Qual sua especialidade O que
+
+620
+00:27:40,279 --> 00:27:44,279
+que você faz como funciona seu
+
+621
+00:27:41,840 --> 00:27:48,039
+atendimento Quais são os tratamentos que
+
+622
+00:27:44,279 --> 00:27:50,000
+você tem tá a Luciana perguntou quanto
+
+623
+00:27:48,039 --> 00:27:51,159
+tempo para programar e personalizar uma
+
+624
+00:27:50,000 --> 00:27:53,960
+inteligência
+
+625
+00:27:51,159 --> 00:27:57,840
+artificial leva em torno de 10 dias
+
+626
+00:27:53,960 --> 00:27:57,840
+úteis tá
+
+627
+00:27:59,919 --> 00:28:04,279
+como minha internet tá lenta ela não
+
+628
+00:28:01,679 --> 00:28:07,159
+recebeu ainda o áudio não tem problema
+
+629
+00:28:04,279 --> 00:28:08,799
+vou seguir aqui com algumas perguntas tá
+
+630
+00:28:07,159 --> 00:28:11,279
+pra gente
+
+631
+00:28:08,799 --> 00:28:14,320
+conseguir caminhar com com a nossa
+
+632
+00:28:11,279 --> 00:28:16,600
+entrevista aqui Dr faran vamos lá o que
+
+633
+00:28:14,320 --> 00:28:18,760
+que você diria para os médicos que ainda
+
+634
+00:28:16,600 --> 00:28:22,039
+não utilizam inteligência artificial no
+
+635
+00:28:18,760 --> 00:28:22,039
+seu atendimento
+
+636
+00:28:29,559 --> 00:28:34,840
+Oi que eu tinha Você pode repetir por
+
+637
+00:28:31,840 --> 00:28:36,919
+favor clar o que você diria para os
+
+638
+00:28:34,840 --> 00:28:40,880
+médicos que ainda não estão utilizando
+
+639
+00:28:36,919 --> 00:28:40,880
+inteligência artificial no seu
+
+640
+00:28:43,600 --> 00:28:49,480
+atendimento basicamente que vocês estão
+
+641
+00:28:48,360 --> 00:28:52,799
+para
+
+642
+00:28:49,480 --> 00:28:54,919
+trás porque in artificial não é não é
+
+643
+00:28:52,799 --> 00:28:56,120
+algo futurista é realidade pô tá
+
+644
+00:28:54,919 --> 00:28:58,640
+acontecendo aqui n exato momento Tô
+
+645
+00:28:56,120 --> 00:29:00,399
+mostrando para vocês e acontecendo né
+
+646
+00:28:58,640 --> 00:29:02,320
+Vocês estão para trás né Você pode ser
+
+647
+00:29:00,399 --> 00:29:04,840
+muito bom mas me desculpe você tá para
+
+648
+00:29:02,320 --> 00:29:06,600
+trás aí ó acabou de responder com áudio
+
+649
+00:29:04,840 --> 00:29:11,200
+aí com áudio tá só carregando que minha
+
+650
+00:29:06,600 --> 00:29:11,200
+internet tá tá lenta que ela falou aqui
+
+651
+00:29:12,240 --> 00:29:16,919
+ó o primeiro acho que no processor F
+
+652
+00:29:14,720 --> 00:29:20,480
+minha internet aí
+
+653
+00:29:16,919 --> 00:29:22,919
+ó eu não tô conseguindo ouvir
+
+654
+00:29:20,480 --> 00:29:25,240
+É acho que não dá para ouvir né porque
+
+655
+00:29:22,919 --> 00:29:27,240
+não pega Ah já sei já sei já sei já sei
+
+656
+00:29:25,240 --> 00:29:28,760
+vai dar certo ó vou botar por aqui ó
+
+657
+00:29:27,240 --> 00:29:31,120
+Claro Mate
+
+658
+00:29:28,760 --> 00:29:35,480
+estou aqui para ajudar e que posso te
+
+659
+00:29:31,120 --> 00:29:38,200
+auxiliar hoje deu deu para escutar deu ó
+
+660
+00:29:35,480 --> 00:29:40,480
+olha que interessante Daniele perguntou
+
+661
+00:29:38,200 --> 00:29:44,440
+qual voz ela tá
+
+662
+00:29:40,480 --> 00:29:46,760
+usando ela tá usando a voz da Estela pô
+
+663
+00:29:44,440 --> 00:29:49,120
+que eu eu que eu clonei a voz da Estela
+
+664
+00:29:46,760 --> 00:29:51,080
+para poder clonar entendeu a voz dela
+
+665
+00:29:49,120 --> 00:29:52,919
+você pode botar a voz que você quiser
+
+666
+00:29:51,080 --> 00:29:55,760
+basta um áudio de um minuto o ideal de
+
+667
+00:29:52,919 --> 00:29:58,279
+um minuto eu usei menos né menos tempo e
+
+668
+00:29:55,760 --> 00:29:59,919
+aí você consegue copiar a voz você clona
+
+669
+00:29:58,279 --> 00:30:01,640
+pode ser a voz quem você quiser até sua
+
+670
+00:29:59,919 --> 00:30:04,320
+voz dá para você usar nos áudios é então
+
+671
+00:30:01,640 --> 00:30:06,679
+você pode usar a sua voz tá para você
+
+672
+00:30:04,320 --> 00:30:09,159
+enviar os áudios através da inteligência
+
+673
+00:30:06,679 --> 00:30:10,799
+artificial para seus pacientes Aine
+
+674
+00:30:09,159 --> 00:30:13,960
+perguntou essa programação é feita por
+
+675
+00:30:10,799 --> 00:30:16,840
+nós mesmos doutores não nós que fazemos
+
+676
+00:30:13,960 --> 00:30:19,640
+toda a parte de programação tá
+
+677
+00:30:16,840 --> 00:30:22,000
+certo aqui um outro áudio aqui ó ó
+
+678
+00:30:19,640 --> 00:30:25,279
+trabalha com a prescrição de hormônios
+
+679
+00:30:22,000 --> 00:30:27,279
+sempre priorizando a saúde e o bem-estar
+
+680
+00:30:25,279 --> 00:30:29,640
+quais desafios você tem enfrentado em
+
+681
+00:30:27,279 --> 00:30:32,640
+relação a sua saúde que o levaram a
+
+682
+00:30:29,640 --> 00:30:36,399
+buscar acompanhamento
+
+683
+00:30:32,640 --> 00:30:40,279
+médico muito bom tipo assim bem é bem
+
+684
+00:30:36,399 --> 00:30:42,279
+bem legal muito bom Dr far assim eles
+
+685
+00:30:40,279 --> 00:30:44,039
+fazem tudo só que eu como eu sou sou
+
+686
+00:30:42,279 --> 00:30:46,240
+engenheiro como eu sou engenheiro também
+
+687
+00:30:44,039 --> 00:30:48,240
+né Aí eu sou meio fuçado n eu gosto de
+
+688
+00:30:46,240 --> 00:30:49,640
+mexer nas coisas mas se eu tivesse
+
+689
+00:30:48,240 --> 00:30:52,039
+deixado eles fazer tudo sozinho era
+
+690
+00:30:49,640 --> 00:30:54,120
+teria dado mais certo eu fiz umas coisas
+
+691
+00:30:52,039 --> 00:30:59,000
+erradas aí no no
+
+692
+00:30:54,120 --> 00:31:02,200
+sistema sem problema dout PR gente
+
+693
+00:30:59,000 --> 00:31:05,039
+finalizar eu gostaria que você resumisse
+
+694
+00:31:02,200 --> 00:31:09,760
+a sua experiência com essa tecnologia em
+
+695
+00:31:05,039 --> 00:31:09,760
+uma frase né E qual seria essa
+
+696
+00:31:11,000 --> 00:31:17,240
+frase a frase a frase é nada é tão bom
+
+697
+00:31:14,399 --> 00:31:21,320
+que não posso ser melhorado Ah que minha
+
+698
+00:31:17,240 --> 00:31:24,919
+secretária dona neid é maravilhosa Tá
+
+699
+00:31:21,320 --> 00:31:27,200
+mas pode melhorar E por que não melhorar
+
+700
+00:31:24,919 --> 00:31:29,279
+por sério Sinceramente eu não tenho
+
+701
+00:31:27,200 --> 00:31:31,840
+objeção pessoal isso aqui vocês vão ver
+
+702
+00:31:29,279 --> 00:31:33,519
+que é barato pô é barato eu eu quando eu
+
+703
+00:31:31,840 --> 00:31:36,440
+fiz o Web eu pensei Falei pô vou gastar
+
+704
+00:31:33,519 --> 00:31:38,159
+50.000 com isso aqui eu falei mas fiquei
+
+705
+00:31:36,440 --> 00:31:42,240
+triste mas falei vou gastar quando eu
+
+706
+00:31:38,159 --> 00:31:46,480
+fiz a quando eu fiz a a chamada rapaz na
+
+707
+00:31:42,240 --> 00:31:48,679
+hora né Na hora né então assim vocês não
+
+708
+00:31:46,480 --> 00:31:50,960
+vão ter trabalho nenhum né com relação a
+
+709
+00:31:48,679 --> 00:31:53,440
+programação sistema nada disso tipo é
+
+710
+00:31:50,960 --> 00:31:55,880
+tudo muito intuitivo né Só se você
+
+711
+00:31:53,440 --> 00:31:57,399
+quiser né até se você quiser você pode
+
+712
+00:31:55,880 --> 00:31:58,919
+mexer no código né Tem essa
+
+713
+00:31:57,399 --> 00:32:01,960
+possibilidade mas não queiram não porque
+
+714
+00:31:58,919 --> 00:32:04,200
+porque dá trabalho tá V deixar com
+
+715
+00:32:01,960 --> 00:32:06,840
+pessoal que vocês pagaram é importante
+
+716
+00:32:04,200 --> 00:32:09,639
+que as pessoas saibam que a gente faz
+
+717
+00:32:06,840 --> 00:32:11,200
+tudo tá então muitas pessoas perguntaram
+
+718
+00:32:09,639 --> 00:32:16,559
+aqui eu que tenho que
+
+719
+00:32:11,200 --> 00:32:18,559
+programar eu posso como é que funciona a
+
+720
+00:32:16,559 --> 00:32:20,600
+gente que faz tudo tá a gente que
+
+721
+00:32:18,559 --> 00:32:23,919
+implementa tudo isso para vocês a gente
+
+722
+00:32:20,600 --> 00:32:25,840
+que entrega isso para vocês tá é é o que
+
+723
+00:32:23,919 --> 00:32:29,200
+a gente promete toda essa entrega feita
+
+724
+00:32:25,840 --> 00:32:31,200
+por nós tá Dr faran eu queria muito te
+
+725
+00:32:29,200 --> 00:32:33,279
+agradecer pela sua participação eu fico
+
+726
+00:32:31,200 --> 00:32:36,840
+muito feliz pelo seu resultado tão
+
+727
+00:32:33,279 --> 00:32:39,559
+rápido né então em poucas semanas você
+
+728
+00:32:36,840 --> 00:32:41,399
+já teve esse resultado expressivo né Eu
+
+729
+00:32:39,559 --> 00:32:43,519
+lembro quando a gente conversava e você
+
+730
+00:32:41,399 --> 00:32:45,559
+falava Estela pelo amor de Deus a minha
+
+731
+00:32:43,519 --> 00:32:48,840
+secretária Tô perdendo um
+
+732
+00:32:45,559 --> 00:32:50,559
+paciente então exato pô perdi uma grana
+
+733
+00:32:48,840 --> 00:32:52,720
+pô pela falta da ia uma grana então
+
+734
+00:32:50,559 --> 00:32:55,200
+assim esse esse esse esse faturamento
+
+735
+00:32:52,720 --> 00:32:57,840
+meu ele foi justamente por pacientes que
+
+736
+00:32:55,200 --> 00:32:59,799
+eram para ser meus e eu tava perdendo pô
+
+737
+00:32:57,840 --> 00:33:02,880
+entendeu Por isso não teve nada
+
+738
+00:32:59,799 --> 00:33:05,639
+extraordinário né Então isso que é o
+
+739
+00:33:02,880 --> 00:33:08,039
+legal é fico muito feliz e muito
+
+740
+00:33:05,639 --> 00:33:11,360
+obrigada por participar né Por topar tá
+
+741
+00:33:08,039 --> 00:33:15,159
+aqui com a gente tá muito muito muito
+
+742
+00:33:11,360 --> 00:33:18,360
+obrigada tá eu vou continuar aqui com o
+
+743
+00:33:15,159 --> 00:33:20,760
+pessoal tá certo obrigada doutor Valeu
+
+744
+00:33:18,360 --> 00:33:22,279
+show de bola tchau tchau eu também tô
+
+745
+00:33:20,760 --> 00:33:25,440
+por aqui ainda assistindo aprendendo com
+
+746
+00:33:22,279 --> 00:33:30,279
+você aí obrigado pode continuar
+
+747
+00:33:25,440 --> 00:33:34,799
+aí vamos lá pessoal Deixa eu voltar aqui
+
+748
+00:33:30,279 --> 00:33:37,080
+com vocês Tá então vocês viram o que
+
+749
+00:33:34,799 --> 00:33:40,000
+aconteceu com Dr faran vocês viram
+
+750
+00:33:37,080 --> 00:33:42,320
+também como é que a Iá ela funciona né
+
+751
+00:33:40,000 --> 00:33:44,000
+eu sei que tava ali um pouco embaçada a
+
+752
+00:33:42,320 --> 00:33:46,600
+apresentação mas vocês viram ali a
+
+753
+00:33:44,000 --> 00:33:49,360
+inteligência artificial dele funcionando
+
+754
+00:33:46,600 --> 00:33:52,559
+então sempre perguntando o nome né e a
+
+755
+00:33:49,360 --> 00:33:55,039
+gente prossegue ali sendo um paciente e
+
+756
+00:33:52,559 --> 00:33:57,519
+essa inteligência artificial ela vai ser
+
+757
+00:33:55,039 --> 00:34:00,399
+modelada de acordo com a sua situação no
+
+758
+00:33:57,519 --> 00:34:02,679
+caso do Dr far precisa ser perguntado
+
+759
+00:34:00,399 --> 00:34:05,000
+onde é que está esse paciente porque Ele
+
+760
+00:34:02,679 --> 00:34:07,159
+atende dois locais diferentes e
+
+761
+00:34:05,000 --> 00:34:09,399
+teleconsulta então a depender do que o
+
+762
+00:34:07,159 --> 00:34:12,639
+paciente ele responder a inteligência
+
+763
+00:34:09,399 --> 00:34:15,159
+artificial vai encaminhar né vai
+
+764
+00:34:12,639 --> 00:34:18,760
+responder vai dar continuidade de acordo
+
+765
+00:34:15,159 --> 00:34:21,879
+com aquilo que o paciente falou Tá certo
+
+766
+00:34:18,760 --> 00:34:25,320
+então vamos continuar
+
+767
+00:34:21,879 --> 00:34:27,359
+aqui Não Somente o Dr farani né ele não
+
+768
+00:34:25,320 --> 00:34:29,200
+é a única pessoa que teve resultado a
+
+769
+00:34:27,359 --> 00:34:31,720
+gente tem também aqui o consultório da
+
+770
+00:34:29,200 --> 00:34:34,679
+Dra Marcela Lemos que antes ela
+
+771
+00:34:31,720 --> 00:34:37,399
+conseguiria conseguia gerar 8200
+
+772
+00:34:34,679 --> 00:34:38,599
+contatos após a inteligência artificial
+
+773
+00:34:37,399 --> 00:34:41,960
+teve mais de
+
+774
+00:34:38,599 --> 00:34:43,000
+13.000 antes os seus agendamentos Iam em
+
+775
+00:34:41,960 --> 00:34:47,960
+torno de
+
+776
+00:34:43,000 --> 00:34:50,960
+754 após a inteligência artificial ela
+
+777
+00:34:47,960 --> 00:34:54,440
+foi para mais de 2.000 pessoas sendo
+
+778
+00:34:50,960 --> 00:34:57,280
+agendadas e de comparecimento mais de
+
+779
+00:34:54,440 --> 00:34:58,720
+1000 comparecimentos em relação a antes
+
+780
+00:34:57,280 --> 00:35:03,079
+que era de
+
+781
+00:34:58,720 --> 00:35:06,119
+243 tá e quais são as cinco principais
+
+782
+00:35:03,079 --> 00:35:09,040
+vantagens que você terá ao implementar
+
+783
+00:35:06,119 --> 00:35:11,800
+essa inteligência artificial dentro da
+
+784
+00:35:09,040 --> 00:35:13,960
+sua Clínica ou do seu consultório tá
+
+785
+00:35:11,800 --> 00:35:15,640
+então com as as inteligências
+
+786
+00:35:13,960 --> 00:35:19,040
+artificiais você vai ter uma secretária
+
+787
+00:35:15,640 --> 00:35:20,720
+que atende 24 horas por dia 7 dias por
+
+788
+00:35:19,040 --> 00:35:23,800
+semana tá e o que que a gente já
+
+789
+00:35:20,720 --> 00:35:27,000
+conseguiu mapear com os nossos clientes
+
+790
+00:35:23,800 --> 00:35:30,200
+59 dos atendimentos hoje acontecem fora
+
+791
+00:35:27,000 --> 00:35:34,119
+do horário comercial então você precisa
+
+792
+00:35:30,200 --> 00:35:38,000
+ter pessoas atendendo né Você precisa
+
+793
+00:35:34,119 --> 00:35:40,480
+ter pessoas ali conversando né uma
+
+794
+00:35:38,000 --> 00:35:43,880
+inteligência artificial conversando com
+
+795
+00:35:40,480 --> 00:35:46,880
+essas pessoas fora do horário comercial
+
+796
+00:35:43,880 --> 00:35:48,839
+Tá além disso você tem a velocidade
+
+797
+00:35:46,880 --> 00:35:52,119
+então falar com o contato no seu
+
+798
+00:35:48,839 --> 00:35:54,480
+primeiro minuto aumenta 400% a sua
+
+799
+00:35:52,119 --> 00:35:58,839
+conversão então nunca mais você vai ter
+
+800
+00:35:54,480 --> 00:36:02,000
+contatos né que vão ficar horas sem
+
+801
+00:35:58,839 --> 00:36:04,520
+respostas Além disso você tem resposta
+
+802
+00:36:02,000 --> 00:36:07,720
+em tempo real com todos os seus contatos
+
+803
+00:36:04,520 --> 00:36:09,480
+né então aqui é um caso Eh que que
+
+804
+00:36:07,720 --> 00:36:11,960
+sempre acontece né então pacientes
+
+805
+00:36:09,480 --> 00:36:14,720
+perguntando qual o valor da consulta
+
+806
+00:36:11,960 --> 00:36:18,839
+Então isso é você percebe que foi
+
+807
+00:36:14,720 --> 00:36:20,720
+perguntado ali 17 e9 e 17 e9 a
+
+808
+00:36:18,839 --> 00:36:24,599
+inteligência artificial Já
+
+809
+00:36:20,720 --> 00:36:27,000
+respondeu Tá além disso a inteligência
+
+810
+00:36:24,599 --> 00:36:29,560
+artificial ela entende áudio situações
+
+811
+00:36:27,000 --> 00:36:33,480
+delicadas conte melhor do que qualquer
+
+812
+00:36:29,560 --> 00:36:35,960
+secretária e nesse caso em específico né
+
+813
+00:36:33,480 --> 00:36:37,319
+o paciente ele enviou uma mensagem PR
+
+814
+00:36:35,960 --> 00:36:40,200
+Inteligência Artificial dizendo que
+
+815
+00:36:37,319 --> 00:36:41,680
+tinha um imprevisto n precisava remarcar
+
+816
+00:36:40,200 --> 00:36:44,079
+porque uma pessoa da Família tinha
+
+817
+00:36:41,680 --> 00:36:46,480
+falecido e essa foi a resposta da
+
+818
+00:36:44,079 --> 00:36:48,680
+Inteligência Artificial sinto muito pela
+
+819
+00:36:46,480 --> 00:36:50,240
+sua perda Gustavo minhas condolências a
+
+820
+00:36:48,680 --> 00:36:53,200
+você e a sua família nesse momento
+
+821
+00:36:50,240 --> 00:36:55,160
+difícil se precisar de alguma ajuda ou
+
+822
+00:36:53,200 --> 00:37:00,119
+quiser agendar a consulta Em outro
+
+823
+00:36:55,160 --> 00:37:01,720
+momento eu estarei aqui ajudar tá Isso
+
+824
+00:37:00,119 --> 00:37:05,040
+foi a resposta de uma inteligência
+
+825
+00:37:01,720 --> 00:37:07,000
+artificial então com a inteligência você
+
+826
+00:37:05,040 --> 00:37:08,800
+deixa de gastar dinheiro com mais
+
+827
+00:37:07,000 --> 00:37:10,480
+colaboradores ou seja com novas
+
+828
+00:37:08,800 --> 00:37:14,160
+secretárias que às vezes você à
+
+829
+00:37:10,480 --> 00:37:16,200
+acreditam que precisam contratar tá você
+
+830
+00:37:14,160 --> 00:37:18,319
+vai reduzir o número de pessoas vai
+
+831
+00:37:16,200 --> 00:37:20,960
+aumentar a sua eficiência como eu já te
+
+832
+00:37:18,319 --> 00:37:24,160
+mostrei vocês não vão precisar depender
+
+833
+00:37:20,960 --> 00:37:26,760
+de agência Afinal Vocês também vão ter
+
+834
+00:37:24,160 --> 00:37:30,000
+uma máquina de conversão e de atração de
+
+835
+00:37:26,760 --> 00:37:32,359
+pacientes que vai ser construída baseada
+
+836
+00:37:30,000 --> 00:37:36,520
+na sua situação na sua especialidade no
+
+837
+00:37:32,359 --> 00:37:39,760
+seu atendimento Tá certo e por último
+
+838
+00:37:36,520 --> 00:37:43,800
+todas as informações são 100% Integradas
+
+839
+00:37:39,760 --> 00:37:45,599
+com a sua agenda então a gente pergunta
+
+840
+00:37:43,800 --> 00:37:47,319
+também ali no final do atendimento as
+
+841
+00:37:45,599 --> 00:37:49,520
+informações necessárias para serem
+
+842
+00:37:47,319 --> 00:37:52,079
+passadas ali pro prontuário então nome
+
+843
+00:37:49,520 --> 00:37:54,680
+completo RG data de
+
+844
+00:37:52,079 --> 00:37:58,760
+nascimento e agora eu quero que você
+
+845
+00:37:54,680 --> 00:38:01,480
+entenda né eu quero na verdade se você
+
+846
+00:37:58,760 --> 00:38:03,280
+deseja saber como implementar todo esse
+
+847
+00:38:01,480 --> 00:38:05,760
+sistema em sua Clínica ou no seu
+
+848
+00:38:03,280 --> 00:38:09,240
+consultório então comenta aqui embaixo
+
+849
+00:38:05,760 --> 00:38:12,640
+para mim se vocês querem essa
+
+850
+00:38:09,240 --> 00:38:12,640
+inteligência artificial no seu
+
+851
+00:38:13,400 --> 00:38:21,920
+consultório comenta aqui Mateus falou
+
+852
+00:38:17,079 --> 00:38:27,640
+sim Ricardo falou sim Fran Falou sim sim
+
+853
+00:38:21,920 --> 00:38:30,880
+resposta é sim maravil então como éon
+
+854
+00:38:27,640 --> 00:38:33,040
+ação nós temos quatro fases aqui dentro
+
+855
+00:38:30,880 --> 00:38:36,160
+a primeira fase é uma fase de análise
+
+856
+00:38:33,040 --> 00:38:38,640
+onde a gente conhece né a sua Clínica
+
+857
+00:38:36,160 --> 00:38:41,760
+conhece o seu consultório tá então a
+
+858
+00:38:38,640 --> 00:38:44,560
+gente vai entender Quais são as suas
+
+859
+00:38:41,760 --> 00:38:47,599
+especificidades né O que que vocês TM de
+
+860
+00:38:44,560 --> 00:38:50,359
+diferencial a segunda fase nós vamos
+
+861
+00:38:47,599 --> 00:38:54,040
+implementar a máquina de atração de
+
+862
+00:38:50,359 --> 00:38:56,599
+pacientes para vocês a terceira fase a
+
+863
+00:38:54,040 --> 00:38:58,599
+gente vai implementar a inteligência
+
+864
+00:38:56,599 --> 00:39:01,720
+artificial que que converte os seus
+
+865
+00:38:58,599 --> 00:39:04,119
+pacientes e também fideliza esses
+
+866
+00:39:01,720 --> 00:39:08,920
+pacientes ó a galera falando sim Karina
+
+867
+00:39:04,119 --> 00:39:11,560
+sim Luciana sim Aline sim Adélia sim
+
+868
+00:39:08,920 --> 00:39:11,560
+Maravilha
+
+869
+00:39:12,400 --> 00:39:18,079
+pessoal o objetivo é que você tenha uma
+
+870
+00:39:15,920 --> 00:39:21,760
+máquina de pacientes particulares com
+
+871
+00:39:18,079 --> 00:39:24,760
+data e hora marcada todos os dias tá
+
+872
+00:39:21,760 --> 00:39:26,680
+então a gente tem a fase de análise onde
+
+873
+00:39:24,760 --> 00:39:29,720
+eu vou entender como funciona o
+
+874
+00:39:26,680 --> 00:39:32,920
+consultório atendimento quem são vocês
+
+875
+00:39:29,720 --> 00:39:35,599
+eu vou fazer todo esse eh esse apanhado
+
+876
+00:39:32,920 --> 00:39:37,480
+de informações depois de entender nós
+
+877
+00:39:35,599 --> 00:39:40,079
+vamos utilizar essas informações para
+
+878
+00:39:37,480 --> 00:39:42,599
+construir a sua máquina de atração de
+
+879
+00:39:40,079 --> 00:39:44,280
+novos pacientes e sua inteligência
+
+880
+00:39:42,599 --> 00:39:47,520
+artificial que é sua máquina de
+
+881
+00:39:44,280 --> 00:39:49,760
+converter pacientes e por fim você vai
+
+882
+00:39:47,520 --> 00:39:53,040
+ter uma máquina completa que agenda os
+
+883
+00:39:49,760 --> 00:39:55,480
+pacientes de forma automática para você
+
+884
+00:39:53,040 --> 00:39:58,520
+tá então como é que funciona o nosso
+
+885
+00:39:55,480 --> 00:40:01,680
+diagnóstico individual na primeira fase
+
+886
+00:39:58,520 --> 00:40:03,520
+do projeto a nossa equipe né ela vai
+
+887
+00:40:01,680 --> 00:40:05,400
+entender a sua situação como eu falei
+
+888
+00:40:03,520 --> 00:40:07,839
+então qual é a sua área Qual é o tipo de
+
+889
+00:40:05,400 --> 00:40:10,720
+paciente que você deseja receber quais
+
+890
+00:40:07,839 --> 00:40:12,800
+são as dores do seu público o que você
+
+891
+00:40:10,720 --> 00:40:15,240
+deseja ter dentro da sua inteligência
+
+892
+00:40:12,800 --> 00:40:17,480
+artificial e o que você não quer então
+
+893
+00:40:15,240 --> 00:40:21,079
+até esse nível de personalização a gente
+
+894
+00:40:17,480 --> 00:40:24,119
+faz tá nós vamos desenvolver aqui dentro
+
+895
+00:40:21,079 --> 00:40:26,760
+também guias para o seu público alvo O
+
+896
+00:40:24,119 --> 00:40:29,599
+que são esses guias Então hoje a gente
+
+897
+00:40:26,760 --> 00:40:32,319
+compreende endeu que uma forma muito
+
+898
+00:40:29,599 --> 00:40:35,119
+eficiente de retomar contato com aquelas
+
+899
+00:40:32,319 --> 00:40:37,160
+pessoas que estão na sua base Ou aquelas
+
+900
+00:40:35,119 --> 00:40:39,280
+pessoas que mandaram mensagem ali paraa
+
+901
+00:40:37,160 --> 00:40:42,160
+sua secretária e elas não agendaram a
+
+902
+00:40:39,280 --> 00:40:45,040
+consulta é através desses guias então
+
+903
+00:40:42,160 --> 00:40:47,520
+nós construímos ah guias baseados nas
+
+904
+00:40:45,040 --> 00:40:50,280
+principais queixas que os seus pacientes
+
+905
+00:40:47,520 --> 00:40:53,079
+que você atende tem e nós distribuímos
+
+906
+00:40:50,280 --> 00:40:56,240
+para eles como uma forma de retomar
+
+907
+00:40:53,079 --> 00:40:58,960
+esses contatos se vocês fossem
+
+908
+00:40:56,240 --> 00:41:01,280
+ah voltar ali com profissionais com
+
+909
+00:40:58,960 --> 00:41:04,119
+designers que criam esses guias esses
+
+910
+00:41:01,280 --> 00:41:07,280
+e-books seria pelo menos R 1.000 para
+
+911
+00:41:04,119 --> 00:41:09,960
+cada um desses guias tá que a gente
+
+912
+00:41:07,280 --> 00:41:12,160
+constrói Além disso né além da gente
+
+913
+00:41:09,960 --> 00:41:15,119
+construir todas essas máquinas vocês vão
+
+914
+00:41:12,160 --> 00:41:17,760
+ter a cada 30 dias uma análise com os
+
+915
+00:41:15,119 --> 00:41:21,200
+nossos especialistas
+
+916
+00:41:17,760 --> 00:41:24,359
+tá nós vamos construir toda sua máquina
+
+917
+00:41:21,200 --> 00:41:26,880
+de atração né então a máquina de atração
+
+918
+00:41:24,359 --> 00:41:30,800
+ela é responsável por atrair pacientes
+
+919
+00:41:26,880 --> 00:41:32,520
+para dentro do seu consultório tá então
+
+920
+00:41:30,800 --> 00:41:34,040
+você nunca mais vai precisar depender de
+
+921
+00:41:32,520 --> 00:41:35,960
+plano de saúde porque a gente também
+
+922
+00:41:34,040 --> 00:41:39,119
+fica responsável por atrair pacientes
+
+923
+00:41:35,960 --> 00:41:41,319
+para você além da máquina de pacientes
+
+924
+00:41:39,119 --> 00:41:44,760
+nós temos o sistema de
+
+925
+00:41:41,319 --> 00:41:47,040
+conversão você terá a melhor secretária
+
+926
+00:41:44,760 --> 00:41:50,520
+dentro do seu consultório e ela será
+
+927
+00:41:47,040 --> 00:41:52,800
+100% treinada de acordo com as suas
+
+928
+00:41:50,520 --> 00:41:56,319
+informações tá
+
+929
+00:41:52,800 --> 00:41:57,880
+bom além de você ter a atração de novos
+
+930
+00:41:56,319 --> 00:41:59,520
+pacientes
+
+931
+00:41:57,880 --> 00:42:02,079
+uma máquina de conversão que é a
+
+932
+00:41:59,520 --> 00:42:05,160
+inteligência artificial agendando esses
+
+933
+00:42:02,079 --> 00:42:07,319
+pacientes você terá um sistema de
+
+934
+00:42:05,160 --> 00:42:09,359
+fidelização que é responsável por
+
+935
+00:42:07,319 --> 00:42:12,160
+acompanhar os seus pacientes após a
+
+936
+00:42:09,359 --> 00:42:15,200
+consulta enviando a mensagem deixando
+
+937
+00:42:12,160 --> 00:42:18,280
+eles Apaixonados Pela experiência tá o
+
+938
+00:42:15,200 --> 00:42:20,680
+que vai gerar mais indicação para você
+
+939
+00:42:18,280 --> 00:42:23,480
+todos os dias então o que que uma
+
+940
+00:42:20,680 --> 00:42:26,200
+agência de marketing ela geralmente te
+
+941
+00:42:23,480 --> 00:42:28,240
+entrega ela vai te entregar um site né
+
+942
+00:42:26,200 --> 00:42:31,079
+um tráfego e vai enviar todas essas
+
+943
+00:42:28,240 --> 00:42:34,280
+pessoas para dentro de um WhatsApp mas o
+
+944
+00:42:31,079 --> 00:42:37,640
+que que nós fazemos nós entregamos
+
+945
+00:42:34,280 --> 00:42:41,400
+pacientes prontos agendados com data e
+
+946
+00:42:37,640 --> 00:42:44,359
+hora marcadas então nós temos que nós
+
+947
+00:42:41,400 --> 00:42:46,200
+atingimos três níveis de pacientes que a
+
+948
+00:42:44,359 --> 00:42:48,960
+gente divide aqui dentro então paciente
+
+949
+00:42:46,200 --> 00:42:51,280
+urgente aquela pessoa que já sabe que
+
+950
+00:42:48,960 --> 00:42:53,280
+precisa de ajuda o paciente
+
+951
+00:42:51,280 --> 00:42:55,680
+procrastinador que ela sabe que precisa
+
+952
+00:42:53,280 --> 00:42:58,640
+de ajuda mas ela procrastina em procurar
+
+953
+00:42:55,680 --> 00:43:01,319
+um médico e aquele paciente preventivo
+
+954
+00:42:58,640 --> 00:43:04,200
+que busca o médico né vai até o médico
+
+955
+00:43:01,319 --> 00:43:07,040
+porque ele quer se prevenir de algo a
+
+956
+00:43:04,200 --> 00:43:09,319
+gente capta todos esses pacientes e
+
+957
+00:43:07,040 --> 00:43:13,000
+coloca dentro da inteligência artificial
+
+958
+00:43:09,319 --> 00:43:16,839
+para agendar todos esses pacientes
+
+959
+00:43:13,000 --> 00:43:19,559
+agendados eles caem dentro de uma agenda
+
+960
+00:43:16,839 --> 00:43:22,240
+e após a consulta acontecer nós temos
+
+961
+00:43:19,559 --> 00:43:24,119
+toda a parte do pós-consulta entender se
+
+962
+00:43:22,240 --> 00:43:27,520
+aquele paciente tá bem o que que ele
+
+963
+00:43:24,119 --> 00:43:29,200
+precisa quando ele vai retomar né uma
+
+964
+00:43:27,520 --> 00:43:30,440
+nova consulta então a gente faz todo
+
+965
+00:43:29,200 --> 00:43:33,160
+esse tipo de acompanhamento com
+
+966
+00:43:30,440 --> 00:43:35,880
+inteligência artificial como é algo
+
+967
+00:43:33,160 --> 00:43:38,880
+muito individual eu não consigo nós não
+
+968
+00:43:35,880 --> 00:43:41,319
+conseguimos atender todos vocês então é
+
+969
+00:43:38,880 --> 00:43:42,599
+por isso que nós abrimos a cada se meses
+
+970
+00:43:41,319 --> 00:43:46,040
+com um valor
+
+971
+00:43:42,599 --> 00:43:50,079
+maior e é por isso que a gente vai
+
+972
+00:43:46,040 --> 00:43:53,000
+disponibilizar tá para vocês hoje a
+
+973
+00:43:50,079 --> 00:43:57,280
+oportunidade vocês conhecerem mais o
+
+974
+00:43:53,000 --> 00:43:58,800
+nosso a nossa implementação tá E para is
+
+975
+00:43:57,280 --> 00:44:00,800
+Vocês precisam responder um formulário
+
+976
+00:43:58,800 --> 00:44:02,720
+para ver se vocês estão aptos para que
+
+977
+00:44:00,800 --> 00:44:04,680
+vocês participem de uma reunião comigo
+
+978
+00:44:02,720 --> 00:44:07,880
+ou com o meu time para vocês conhecerem
+
+979
+00:44:04,680 --> 00:44:10,599
+mais tá bom então eu vou liberar aqui um
+
+980
+00:44:07,880 --> 00:44:13,960
+botão para vocês clicarem e preencher
+
+981
+00:44:10,599 --> 00:44:13,960
+esse formulário tá
+
+982
+00:44:16,680 --> 00:44:24,440
+bom deixa eu olhar
+
+983
+00:44:20,440 --> 00:44:24,440
+aqui pessoal tá liberado o
+
+984
+00:44:26,040 --> 00:44:29,720
+botão falando com o
+
+985
+00:44:31,000 --> 00:44:34,559
+time Cadê o
+
+986
+00:44:43,440 --> 00:44:48,920
+time Hum ainda não pera aí que o time
+
+987
+00:44:46,800 --> 00:44:48,920
+vai
+
+988
+00:44:54,160 --> 00:45:01,640
+liberar vamos lá
+
+989
+00:44:58,160 --> 00:45:03,960
+pessoal pode clicar nesse botão aí agora
+
+990
+00:45:01,640 --> 00:45:06,520
+Clica nesse botão e vocês vão conseguir
+
+991
+00:45:03,960 --> 00:45:08,319
+preencher o formulrio pra gente agendar
+
+992
+00:45:06,520 --> 00:45:09,800
+uma reunião e vocês conhecerem como
+
+993
+00:45:08,319 --> 00:45:12,280
+funciona a nossa
+
+994
+00:45:09,800 --> 00:45:14,720
+implementação Tá
+
+995
+00:45:12,280 --> 00:45:17,200
+certo falou que eu quero Adélia que eu
+
+996
+00:45:14,720 --> 00:45:21,200
+quero isso pessoal clica nesse
+
+997
+00:45:17,200 --> 00:45:22,640
+botão tá que nós vamos conseguir mostrar
+
+998
+00:45:21,200 --> 00:45:24,280
+para vocês como é que funciona toda essa
+
+999
+00:45:22,640 --> 00:45:27,599
+implementação a mesma implementação que
+
+1000
+00:45:24,280 --> 00:45:30,720
+o Dr far implementou para resultados no
+
+1001
+00:45:27,599 --> 00:45:30,720
+próprio consultório
+
+1002
+00:45:30,880 --> 00:45:38,280
+tá Priscila falou que sim
+
+1003
+00:45:34,480 --> 00:45:42,440
+também isso quem clicou comenta aqui no
+
+1004
+00:45:38,280 --> 00:45:42,440
+no nos comentários quem já
+
+1005
+00:45:51,119 --> 00:45:57,680
+clicou legal legal isso tem que
+
+1006
+00:45:55,440 --> 00:46:01,800
+preencher o formulário
+
+1007
+00:45:57,680 --> 00:46:04,000
+exatamente tá para que a gente possa
+
+1008
+00:46:01,800 --> 00:46:05,400
+conhecer vocês dentro desse formulário e
+
+1009
+00:46:04,000 --> 00:46:06,480
+ver se o seu consultório ele tá
+
+1010
+00:46:05,400 --> 00:46:08,880
+preparado para implementar uma
+
+1011
+00:46:06,480 --> 00:46:10,520
+inteligência artificial tá certo esse é
+
+1012
+00:46:08,880 --> 00:46:13,720
+o motivo
+
+1013
+00:46:10,520 --> 00:46:16,800
+principal o Joel perguntou vocês fazem
+
+1014
+00:46:13,720 --> 00:46:20,119
+fazem tráfego pago dentro desse projeto
+
+1015
+00:46:16,800 --> 00:46:22,880
+fazemos também tá
+
+1016
+00:46:20,119 --> 00:46:27,280
+aá pode atender quantas especialidades
+
+1017
+00:46:22,880 --> 00:46:27,280
+todas as especialidades Maria
+
+1018
+00:46:31,480 --> 00:46:36,559
+se você se tiver que mudar algo na
+
+1019
+00:46:34,319 --> 00:46:39,119
+programação vocês dão assistência por
+
+1020
+00:46:36,559 --> 00:46:41,240
+quanto tempo 12 meses Maria um ano
+
+1021
+00:46:39,119 --> 00:46:44,200
+inteiro tá
+
+1022
+00:46:41,240 --> 00:46:46,480
+bom podem fazer perguntas também pessoal
+
+1023
+00:46:44,200 --> 00:46:48,040
+então se vocês quiserem conhecer mais da
+
+1024
+00:46:46,480 --> 00:46:49,240
+nossa implementação saber como
+
+1025
+00:46:48,040 --> 00:46:51,480
+implementar isso dentro do seu
+
+1026
+00:46:49,240 --> 00:46:53,400
+consultório para que vocês tenham Mais
+
+1027
+00:46:51,480 --> 00:46:57,319
+resultados nos agendamentos na atração
+
+1028
+00:46:53,400 --> 00:47:00,359
+de pacientes clique no botão tá clique
+
+1029
+00:46:57,319 --> 00:47:02,240
+no botão para que vocês sejam levados
+
+1030
+00:47:00,359 --> 00:47:05,079
+para essa reunião e a gente veja se o
+
+1031
+00:47:02,240 --> 00:47:08,280
+seu consultório ele está preparado tá e
+
+1032
+00:47:05,079 --> 00:47:11,240
+podem mandar perguntas aqui
+
+1033
+00:47:08,280 --> 00:47:14,359
+também exatamente Aline nós precisamos
+
+1034
+00:47:11,240 --> 00:47:17,040
+conhecer vocês entender qual situação
+
+1035
+00:47:14,359 --> 00:47:18,720
+você está né para que a gente possa
+
+1036
+00:47:17,040 --> 00:47:21,240
+entender como fazer essa implementação
+
+1037
+00:47:18,720 --> 00:47:23,920
+dentro do seu
+
+1038
+00:47:21,240 --> 00:47:27,690
+consultório tudo que a gente faz aqui é
+
+1039
+00:47:23,920 --> 00:47:30,889
+personalizado tá
+
+1040
+00:47:27,690 --> 00:47:30,889
+[Música]
+
+1041
+00:47:44,280 --> 00:47:47,559
+podem fazer perguntas
+
+1042
+00:47:47,960 --> 00:47:53,359
+pessoal exatamente a inteligência
+
+1043
+00:47:50,960 --> 00:47:55,920
+artificial ela tem de todas as
+
+1044
+00:47:53,359 --> 00:47:58,720
+especialidades E aí como é que nós
+
+1045
+00:47:55,920 --> 00:48:00,880
+treinamos ela a partir das informações
+
+1046
+00:47:58,720 --> 00:48:02,839
+que a gente colhe ali dentro daquele
+
+1047
+00:48:00,880 --> 00:48:05,000
+diagnóstico que eu mostrei para vocês a
+
+1048
+00:48:02,839 --> 00:48:06,599
+gente tem Qual a área que vocês atuam
+
+1049
+00:48:05,000 --> 00:48:09,280
+qual o perfil de paciente que vocês
+
+1050
+00:48:06,599 --> 00:48:11,240
+querem atrair como funciona seus seu
+
+1051
+00:48:09,280 --> 00:48:13,599
+atendimento Qual o valor da sua consulta
+
+1052
+00:48:11,240 --> 00:48:16,119
+nós construímos a inteligência
+
+1053
+00:48:13,599 --> 00:48:18,240
+artificial do zero baseada nessas
+
+1054
+00:48:16,119 --> 00:48:20,880
+informações que vocês passaram pra gente
+
+1055
+00:48:18,240 --> 00:48:26,760
+então toda a construção é a gente que
+
+1056
+00:48:20,880 --> 00:48:26,760
+faz tá bom E claro que vocês vão testar
+
+1057
+00:48:31,880 --> 00:48:37,280
+Maravilha pessoal como vocês não tem
+
+1058
+00:48:35,240 --> 00:48:40,839
+mais nenhuma dúvida eu quero convidar
+
+1059
+00:48:37,280 --> 00:48:43,280
+vocês a a a preencherem esse formulário
+
+1060
+00:48:40,839 --> 00:48:45,480
+tá vocês vão ter uma reunião comigo ou
+
+1061
+00:48:43,280 --> 00:48:47,359
+com o meu time vocês vão entender
+
+1062
+00:48:45,480 --> 00:48:49,119
+exatamente como funciona essa
+
+1063
+00:48:47,359 --> 00:48:50,160
+inteligência artificial vocês vão
+
+1064
+00:48:49,119 --> 00:48:51,640
+entender como é que a gente vai
+
+1065
+00:48:50,160 --> 00:48:54,440
+implementar isso dentro do seu
+
+1066
+00:48:51,640 --> 00:48:57,160
+consultório ou dentro da sua Clínica e
+
+1067
+00:48:54,440 --> 00:48:58,119
+vamos entender como vai funcionar dentro
+
+1068
+00:48:57,160 --> 00:49:00,119
+da sua
+
+1069
+00:48:58,119 --> 00:49:03,760
+realidade Tá
+
+1070
+00:49:00,119 --> 00:49:05,520
+bom então ó Aline perguntou já ia
+
+1071
+00:49:03,760 --> 00:49:08,000
+finalizar se na clínica tiver
+
+1072
+00:49:05,520 --> 00:49:09,680
+profissional Pode sim da áre
+
+1073
+00:49:08,000 --> 00:49:11,319
+Odontológica eles podem se beneficiar
+
+1074
+00:49:09,680 --> 00:49:13,200
+sim então a gente vai entender seu
+
+1075
+00:49:11,319 --> 00:49:14,720
+cenário vai entender como funciona a sua
+
+1076
+00:49:13,200 --> 00:49:18,280
+Clínica O que que tem dentro da sua
+
+1077
+00:49:14,720 --> 00:49:24,000
+Clínica e sim
+
+1078
+00:49:18,280 --> 00:49:27,119
+tá Luciana depende né de da sua situação
+
+1079
+00:49:24,000 --> 00:49:29,119
+tá nós precisamos eh
+
+1080
+00:49:27,119 --> 00:49:31,599
+entender mais sobre você e seu
+
+1081
+00:49:29,119 --> 00:49:33,839
+consultório tá então se você tem essa
+
+1082
+00:49:31,599 --> 00:49:35,559
+dúvida clica no formulário preenche
+
+1083
+00:49:33,839 --> 00:49:38,160
+entra nessa reunião que a gente vai te
+
+1084
+00:49:35,559 --> 00:49:41,839
+ajudar e tirar todas as suas dúvidas tá
+
+1085
+00:49:38,160 --> 00:49:44,359
+bom pessoal muito obrigada tá por essa
+
+1086
+00:49:41,839 --> 00:49:46,359
+por essa apresentação Dr farani também
+
+1087
+00:49:44,359 --> 00:49:49,799
+muito obrigado tá
+
+1088
+00:49:46,359 --> 00:49:49,799
+bom tchau
+
+1089
+00:49:55,640 --> 00:49:59,160
+tchau Y
+

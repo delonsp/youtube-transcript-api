@@ -1,0 +1,628 @@
+1
+00:00:00,000 --> 00:00:05,799
+Era uma terça-feira, 9:12 da manhã,
+
+2
+00:00:03,800 --> 00:00:08,880
+quando a Renata, nome fictício,
+
+3
+00:00:05,799 --> 00:00:12,200
+obviamente, entrou no meu consultório,
+
+4
+00:00:08,880 --> 00:00:15,280
+tinha 44 anos. Ela jogou uma pilha de
+
+5
+00:00:12,200 --> 00:00:18,359
+exames na minha mesa. Proteína serrativa
+
+6
+00:00:15,280 --> 00:00:21,439
+ultrassensível em 18. Dores articulares
+
+7
+00:00:18,359 --> 00:00:24,640
+que a faziam mancar, uma pele inflamada,
+
+8
+00:00:21,439 --> 00:00:26,279
+rosácea, que nenhum creme resolvia e uma
+
+9
+00:00:24,640 --> 00:00:28,720
+neva mental que a impedia de se
+
+10
+00:00:26,279 --> 00:00:31,840
+concentrar no trabalho. Então ela me
+
+11
+00:00:28,720 --> 00:00:33,840
+disse com os olhos cansados: "Doutor, eu
+
+12
+00:00:31,840 --> 00:00:36,879
+me olho no espelho e parece que eu
+
+13
+00:00:33,840 --> 00:00:38,600
+envelheci 10 anos em dois". Ela tinha na
+
+14
+00:00:36,879 --> 00:00:41,719
+mão uma nova receita para um
+
+15
+00:00:38,600 --> 00:00:44,640
+anti-inflamatório mais forte. Eu olhei
+
+16
+00:00:41,719 --> 00:00:46,719
+pra receita, olhei pros exames dela,
+
+17
+00:00:44,640 --> 00:00:49,160
+então olhei para ela e fiz algo que muda
+
+18
+00:00:46,719 --> 00:00:51,480
+o jogo. Eu ignorei a receita por um
+
+19
+00:00:49,160 --> 00:00:53,640
+momento. Eu disse: "Renata, nós não
+
+20
+00:00:51,480 --> 00:00:56,120
+vamos apenas apagar o incêndio, nós
+
+21
+00:00:53,640 --> 00:00:58,680
+vamos descobrir quem está acendendo o
+
+22
+00:00:56,120 --> 00:01:00,840
+fósforo." E a evidência científica mais
+
+23
+00:00:58,680 --> 00:01:04,839
+recente aponta que o fósforo está
+
+24
+00:01:00,840 --> 00:01:07,439
+vazando do seu intestino pro seu sangue.
+
+25
+00:01:04,839 --> 00:01:10,320
+Preparem-se pro choque. Deixa pular 8
+
+26
+00:01:07,439 --> 00:01:14,000
+meses pra frente. A Renata, de 44 anos,
+
+27
+00:01:10,320 --> 00:01:18,720
+que se sentia com 60, hoje o seu PCR é
+
+28
+00:01:14,000 --> 00:01:21,079
+de 0,8. A pele desinflamou, a dor sumiu
+
+29
+00:01:18,720 --> 00:01:24,560
+e o mais importante, a neva mental
+
+30
+00:01:21,079 --> 00:01:26,240
+desapareceu. E como que aconteceu isso?
+
+31
+00:01:24,560 --> 00:01:29,079
+identificando a causa raiz que a
+
+32
+00:01:26,240 --> 00:01:31,640
+medicina ortodoxa estava ignorando. A
+
+33
+00:01:29,079 --> 00:01:34,600
+Renata não é um caso isolado. Deixa eu
+
+34
+00:01:31,640 --> 00:01:37,439
+contar sobre o Carlos, 61 anos,
+
+35
+00:01:34,600 --> 00:01:39,320
+engenheiro de Curitiba, chegou com uma
+
+36
+00:01:37,439 --> 00:01:42,000
+neva mental tão severa que estava
+
+37
+00:01:39,320 --> 00:01:44,600
+esquecendo nomes. O geriatra cogitou
+
+38
+00:01:42,000 --> 00:01:47,040
+Alzheimer precoce. Fizemos uma análise
+
+39
+00:01:44,600 --> 00:01:49,880
+de microbioma. Níveis altíssimos de
+
+40
+00:01:47,040 --> 00:01:52,600
+bactérias que estudos de 2024 ligam à
+
+41
+00:01:49,880 --> 00:01:54,520
+inflamação neural. 90 dias de um
+
+42
+00:01:52,600 --> 00:01:57,240
+protocolo focado em modular essa
+
+43
+00:01:54,520 --> 00:01:59,920
+disbiose. Hoje o Carlos está fazendo uma
+
+44
+00:01:57,240 --> 00:02:02,079
+pós-graduação online. A memória dele
+
+45
+00:01:59,920 --> 00:02:05,520
+está mais afiada. Ou então vamos falar
+
+46
+00:02:02,079 --> 00:02:09,879
+da Patrícia, 39 anos. Pissorias severa
+
+47
+00:02:05,520 --> 00:02:13,080
+cobrida um 40% do corpo. 60 dias.
+
+48
+00:02:09,879 --> 00:02:15,959
+60 dias de um protocolo focado em selar
+
+49
+00:02:13,080 --> 00:02:17,959
+o intestino e a pele dela estava limpa.
+
+50
+00:02:15,959 --> 00:02:20,040
+Agora deixa eu abrir o jogo com vocês.
+
+51
+00:02:17,959 --> 00:02:21,920
+Por que que isso acontece? E estudos
+
+52
+00:02:20,040 --> 00:02:24,959
+recentes, inclusive publicados em
+
+53
+00:02:21,920 --> 00:02:27,560
+periódicos como a Nature Aging, estão
+
+54
+00:02:24,959 --> 00:02:30,840
+consolidando um conceito.
+
+55
+00:02:27,560 --> 00:02:33,319
+Inflamaging é a palavra do momento, a
+
+56
+00:02:30,840 --> 00:02:35,720
+inflamação crônica de baixo grau que
+
+57
+00:02:33,319 --> 00:02:38,040
+acelera o seu relógio biológico. E qual
+
+58
+00:02:35,720 --> 00:02:42,440
+é a maior fonte dessa inflamação?
+
+59
+00:02:38,040 --> 00:02:44,080
+Adivinhe? Adivinhou, né? O intestino,
+
+60
+00:02:42,440 --> 00:02:46,720
+quando sua barr intestinal perde a
+
+61
+00:02:44,080 --> 00:02:50,400
+integridade, o famoso li gut, o
+
+62
+00:02:46,720 --> 00:02:51,920
+intestino hiper permeável, ela vaza, ela
+
+63
+00:02:50,400 --> 00:02:54,280
+literalmente joga fragmentos de
+
+64
+00:02:51,920 --> 00:02:56,400
+bactérias, o chamado LPS
+
+65
+00:02:54,280 --> 00:02:59,120
+lipopóisacarídio na sua corrente
+
+66
+00:02:56,400 --> 00:03:02,640
+sanguínea. Seu sistema imune vê esse LPS
+
+67
+00:02:59,120 --> 00:03:05,760
+no sangue e entra em modo de defesa 24
+
+68
+00:03:02,640 --> 00:03:09,000
+horas por dia. Essa guerra silenciosa é
+
+69
+00:03:05,760 --> 00:03:11,480
+o que aparece na pele de Patrícia, nas
+
+70
+00:03:09,000 --> 00:03:13,760
+juntas da Renata. E no cérebro do
+
+71
+00:03:11,480 --> 00:03:15,799
+Carlos, você não está só envelhecendo,
+
+72
+00:03:13,760 --> 00:03:18,360
+você pode estar sendo inflamado de
+
+73
+00:03:15,799 --> 00:03:20,599
+dentro para fora. E aqui vem a parte que
+
+74
+00:03:18,360 --> 00:03:22,920
+mais me frustra como médico, porque isso
+
+75
+00:03:20,599 --> 00:03:24,840
+não é o padrão de atendimento. Um
+
+76
+00:03:22,920 --> 00:03:28,239
+medicamento biológico para psorias ou
+
+77
+00:03:24,840 --> 00:03:31,080
+artrite pode custar de 5 a R$ 8.000 por
+
+78
+00:03:28,239 --> 00:03:33,959
+mês. Um protocolo para restabelecer a
+
+79
+00:03:31,080 --> 00:03:36,599
+saúde intestinal usa comida de verdade,
+
+80
+00:03:33,959 --> 00:03:39,000
+os alimentos fermentados. O foco do
+
+81
+00:03:36,599 --> 00:03:42,519
+sistema muitas vezes é tratar a fumaça,
+
+82
+00:03:39,000 --> 00:03:46,480
+a dor na junta, a mancha na pele com um
+
+83
+00:03:42,519 --> 00:03:49,239
+extintor químico caro. O meu foco dentro
+
+84
+00:03:46,480 --> 00:03:52,599
+da visão funcional é achar a fonte do
+
+85
+00:03:49,239 --> 00:03:54,920
+fogo. Bem, vamos ao protocolo de três
+
+86
+00:03:52,599 --> 00:03:57,680
+passos. Agora vou revelar a base do
+
+87
+00:03:54,920 --> 00:04:00,280
+protocolo que eu usei com eles. Prestem
+
+88
+00:03:57,680 --> 00:04:03,079
+muito bem atenção, pois isso não
+
+89
+00:04:00,280 --> 00:04:06,239
+substitui acompanhamento médico, mas é a
+
+90
+00:04:03,079 --> 00:04:08,319
+fundação da mudança. Nós dividimos em
+
+91
+00:04:06,239 --> 00:04:12,480
+três Rs. Tem mais RS aqui, mas vamos
+
+92
+00:04:08,319 --> 00:04:15,200
+falar dos principais. Remover, reparar e
+
+93
+00:04:12,480 --> 00:04:18,400
+reinocular. Remover, que é o passo um, é
+
+94
+00:04:15,200 --> 00:04:20,440
+a faxina. Por 30 a 60 dias, precisamos
+
+95
+00:04:18,400 --> 00:04:22,520
+parar de jogar a gasolina no fogo.
+
+96
+00:04:20,440 --> 00:04:25,240
+Removemos os cinco grandes agressores
+
+97
+00:04:22,520 --> 00:04:28,360
+inflamatórios. Glúten, a maioria dos
+
+98
+00:04:25,240 --> 00:04:31,720
+lácteos, especialmente os que têm dos
+
+99
+00:04:28,360 --> 00:04:33,880
+comuns a casa na um. Açúcar refinado,
+
+100
+00:04:31,720 --> 00:04:36,720
+óleo de semente, soja, canola, milho e
+
+101
+00:04:33,880 --> 00:04:38,680
+qualquer comida outra processada. Passo
+
+102
+00:04:36,720 --> 00:04:40,680
+dois, reparar.
+
+103
+00:04:38,680 --> 00:04:42,840
+É como se fosse o cimento. Não adianta
+
+104
+00:04:40,680 --> 00:04:45,039
+só limpar, precisamos tapar os buracos
+
+105
+00:04:42,840 --> 00:04:47,919
+da parede intestinal. O segredo que a
+
+106
+00:04:45,039 --> 00:04:49,880
+medina moderna esqueceu, caldo de ossos.
+
+107
+00:04:47,919 --> 00:04:52,680
+É uma fonte riquíssima de colágeno,
+
+108
+00:04:49,880 --> 00:04:55,080
+glicina e glutamina. Os tijolos para
+
+109
+00:04:52,680 --> 00:04:57,880
+reconstruir a barreira. Uma xícara por
+
+110
+00:04:55,080 --> 00:05:00,600
+dia. Se o paladar for um desafio, use-o
+
+111
+00:04:57,880 --> 00:05:04,039
+como base para uma sopa com cúrcuma,
+
+112
+00:05:00,600 --> 00:05:07,479
+cebola e alho. Passo três, reinocular os
+
+113
+00:05:04,039 --> 00:05:09,880
+soldados. Com a casa limpa e repada,
+
+114
+00:05:07,479 --> 00:05:12,000
+trazemos os soldados bons, alimentos
+
+115
+00:05:09,880 --> 00:05:14,320
+fermentados de verdade, chucrute,
+
+116
+00:05:12,000 --> 00:05:16,919
+quinchi, kefir, que pode ser de água,
+
+117
+00:05:14,320 --> 00:05:19,520
+pode ser de leite, de coco, por exemplo,
+
+118
+00:05:16,919 --> 00:05:20,960
+uma colher de sopo por dia. E precisamos
+
+119
+00:05:19,520 --> 00:05:23,120
+alimentar e soldados com amido
+
+120
+00:05:20,960 --> 00:05:26,039
+resistente. Pense em banana verde cozida
+
+121
+00:05:23,120 --> 00:05:28,759
+ou batata cozida e resfriada por 24
+
+122
+00:05:26,039 --> 00:05:31,199
+horas. Isso é alimento premium para suas
+
+123
+00:05:28,759 --> 00:05:33,479
+bactérias boas produzirem butirato, o
+
+124
+00:05:31,199 --> 00:05:35,720
+antiinflamatório natural do seu
+
+125
+00:05:33,479 --> 00:05:38,039
+intestino. Quando vemos a pele da
+
+126
+00:05:35,720 --> 00:05:41,319
+Patrícia limpar, a memória do Carlos
+
+127
+00:05:38,039 --> 00:05:43,280
+voltar, a dor da Renata desaparecer, a
+
+128
+00:05:41,319 --> 00:05:45,560
+medicina ortodoxa pode chamar isso de
+
+129
+00:05:43,280 --> 00:05:48,199
+remissão espontânea. Eu chamo de
+
+130
+00:05:45,560 --> 00:05:50,360
+fisiologia. é o corpo humano respondendo
+
+131
+00:05:48,199 --> 00:05:53,120
+de forma previsível quando removemos os
+
+132
+00:05:50,360 --> 00:05:56,080
+agressores e fornecemos a matéria-pra
+
+133
+00:05:53,120 --> 00:05:58,160
+reparo. A escolha é sempre sua,
+
+134
+00:05:56,080 --> 00:06:01,080
+continuar gerenciando os sintomas ou
+
+135
+00:05:58,160 --> 00:06:03,680
+finalmente decidir tratar a causa. Agora
+
+136
+00:06:01,080 --> 00:06:05,400
+saia do vídeo se você gosta de ficar no
+
+137
+00:06:03,680 --> 00:06:07,919
+superficial. Eu vou te contar uma
+
+138
+00:06:05,400 --> 00:06:10,479
+verdade inconveniente. O YouTube e o
+
+139
+00:06:07,919 --> 00:06:13,759
+Conselho de Medicina me limitam. Aqui eu
+
+140
+00:06:10,479 --> 00:06:16,800
+preciso simplificar, censurar dosagens,
+
+141
+00:06:13,759 --> 00:06:18,800
+omitir protocolos controversos.
+
+142
+00:06:16,800 --> 00:06:20,800
+Na comunidade fechada não tem esse
+
+143
+00:06:18,800 --> 00:06:22,759
+filtro. Eu compartilho os exatos
+
+144
+00:06:20,800 --> 00:06:24,360
+protocolos que eu uso na minha clínica.
+
+145
+00:06:22,759 --> 00:06:26,960
+Caso e reversão que pareciam
+
+146
+00:06:24,360 --> 00:06:30,639
+impossíveis, combinações of label que
+
+147
+00:06:26,960 --> 00:06:33,919
+funcionam, fornecedores confiáveis,
+
+148
+00:06:30,639 --> 00:06:36,080
+interpretação avançada de exames. É
+
+149
+00:06:33,919 --> 00:06:39,120
+basicamente ter acesso ao meu cérebro
+
+150
+00:06:36,080 --> 00:06:42,199
+médico sem intermediários.
+
+151
+00:06:39,120 --> 00:06:45,360
+Live semanais respondendo perguntas, PDF
+
+152
+00:06:42,199 --> 00:06:47,160
+com 47 protocolos exclusivos. Grupo no
+
+153
+00:06:45,360 --> 00:06:50,039
+WhatsApp. Se você quer a visão funcional
+
+154
+00:06:47,160 --> 00:06:53,319
+real, sem simplificações
+
+155
+00:06:50,039 --> 00:06:55,639
+para as massas, clique em seja membro.
+
+156
+00:06:53,319 --> 00:06:58,560
+Não é para curiosos, é para quem quer
+
+157
+00:06:55,639 --> 00:06:58,560
+resultados. M.
+

@@ -1,0 +1,3680 @@
+1
+00:00:01,480 --> 00:00:08,120
+Boa noite a todos prazer estar novamente
+
+2
+00:00:04,200 --> 00:00:11,559
+com vocês vão me dando um feedback se o
+
+3
+00:00:08,120 --> 00:00:16,360
+áudio tá legal se vocês me ouvem bem boa
+
+4
+00:00:11,559 --> 00:00:16,360
+noite Darling Boa noite
+
+5
+00:00:16,840 --> 00:00:22,840
+Carlos já tem uma pergunta aqui eu vou
+
+6
+00:00:19,960 --> 00:00:26,480
+já responder antes de começar analisar
+
+7
+00:00:22,840 --> 00:00:28,519
+os artigos que eu separei para hoje
+
+8
+00:00:26,480 --> 00:00:30,759
+queria saber se tem no Brasil clínicas
+
+9
+00:00:28,519 --> 00:00:34,320
+ou pediatras que usem monodoses e
+
+10
+00:00:30,759 --> 00:00:37,960
+calendários alternativos no PNI como
+
+11
+00:00:34,320 --> 00:00:37,960
+opção as vacinas do serviço
+
+12
+00:00:41,280 --> 00:00:47,120
+público existem pessoas que têm clínicas
+
+13
+00:00:44,600 --> 00:00:49,520
+de vacina
+
+14
+00:00:47,120 --> 00:00:51,399
+particulares agora se vão utilizar
+
+15
+00:00:49,520 --> 00:00:55,399
+calendário alternativo eu não sei te
+
+16
+00:00:51,399 --> 00:00:55,399
+dizer viu esse é o tipo
+
+17
+00:00:55,520 --> 00:01:00,960
+de situação que eu não tô muito a p
+
+18
+00:00:58,239 --> 00:01:02,960
+porque não trabalho muito com
+
+19
+00:01:00,960 --> 00:01:07,280
+ação mas se
+
+20
+00:01:02,960 --> 00:01:09,240
+eu ficar sabendo eu te aviso tá mas
+
+21
+00:01:07,280 --> 00:01:11,320
+realmente eu não tenho esse conhecimento
+
+22
+00:01:09,240 --> 00:01:15,439
+Boa noite
+
+23
+00:01:11,320 --> 00:01:17,200
+Eliane Bem pessoal vamos aqui discutir
+
+24
+00:01:15,439 --> 00:01:19,400
+uns artigos interessantes e depois a
+
+25
+00:01:17,200 --> 00:01:21,920
+gente vai responder à perguntas do
+
+26
+00:01:19,400 --> 00:01:24,159
+documento tá primeiro artigo é sobre
+
+27
+00:01:21,920 --> 00:01:28,000
+análise da carne vermelha a sua relação
+
+28
+00:01:24,159 --> 00:01:29,880
+com mortalidade então foi efetuado um
+
+29
+00:01:28,000 --> 00:01:32,759
+estudo muito interessante utilizando
+
+30
+00:01:29,880 --> 00:01:35,159
+usando uma análise nova chamada se
+
+31
+00:01:32,759 --> 00:01:38,079
+análise multiversa já vou explicar o que
+
+32
+00:01:35,159 --> 00:01:40,320
+que é isso bem sabemos que no campo da
+
+33
+00:01:38,079 --> 00:01:42,960
+Saúde na nutrição poucos temas geram
+
+34
+00:01:40,320 --> 00:01:44,719
+tanto debate quanto o assunto né do
+
+35
+00:01:42,960 --> 00:01:47,719
+consumo da carne vermelha que muita
+
+36
+00:01:44,719 --> 00:01:49,719
+gente considera carne vermelha como algo
+
+37
+00:01:47,719 --> 00:01:52,200
+não saudável Então ela é
+
+38
+00:01:49,719 --> 00:01:55,000
+tradicionalmente associado tanto a
+
+39
+00:01:52,200 --> 00:01:57,920
+benefícios né Por ter vários nutrientes
+
+40
+00:01:55,000 --> 00:02:00,439
+como vitamina B12 carnosina
+
+41
+00:01:57,920 --> 00:02:02,840
+carnitina entre outros
+
+42
+00:02:00,439 --> 00:02:06,920
+quanto a riscos para a saúde né muita
+
+43
+00:02:02,840 --> 00:02:09,520
+gente acha que pode gerar riscos à
+
+44
+00:02:06,920 --> 00:02:11,560
+saúde então por isso a carne vevera tem
+
+45
+00:02:09,520 --> 00:02:13,560
+sido objeto de estudos variados ao longo
+
+46
+00:02:11,560 --> 00:02:15,360
+dos anos e recentemente houve Esse
+
+47
+00:02:13,560 --> 00:02:18,480
+estudo novo uma abordagem inovadora
+
+48
+00:02:15,360 --> 00:02:22,400
+chamado análise multiversa para tentar
+
+49
+00:02:18,480 --> 00:02:24,959
+esclarecer essa questão Então
+
+50
+00:02:22,400 --> 00:02:28,239
+vamos vamos mergulhar nos detalhes e
+
+51
+00:02:24,959 --> 00:02:30,519
+explicações dessa metodologia e vamos
+
+52
+00:02:28,239 --> 00:02:32,080
+ter uma nova perspectiva sobre o impacto
+
+53
+00:02:30,519 --> 00:02:34,760
+do consumo da carne vermelha na
+
+54
+00:02:32,080 --> 00:02:37,599
+mortalidade tá então A análise
+
+55
+00:02:34,760 --> 00:02:39,879
+multiversa é uma técnica emergente que
+
+56
+00:02:37,599 --> 00:02:43,440
+permite aos pesquisadores explorar uma
+
+57
+00:02:39,879 --> 00:02:45,640
+gama extensa de métodos analíticos em um
+
+58
+00:02:43,440 --> 00:02:48,000
+único conjunto de dados Então isso é
+
+59
+00:02:45,640 --> 00:02:49,920
+feito para identificar como diferentes
+
+60
+00:02:48,000 --> 00:02:52,360
+abordagens podem influenciar os
+
+61
+00:02:49,920 --> 00:02:56,040
+resultados de estudos observacionais
+
+62
+00:02:52,360 --> 00:02:58,640
+então a chamada análise de curva de
+
+63
+00:02:56,040 --> 00:03:01,000
+especificação é uma dessas técnicas onde
+
+64
+00:02:58,640 --> 00:03:04,360
+os dados são analisados so milhares de
+
+65
+00:03:01,000 --> 00:03:06,920
+perspectivas distintas para revelar qual
+
+66
+00:03:04,360 --> 00:03:10,040
+delas mais se aproxima da verdade então
+
+67
+00:03:06,920 --> 00:03:12,799
+eles pegam várias análises estatísticas
+
+68
+00:03:10,040 --> 00:03:15,480
+diferentes e rodam paralelamente uma a
+
+69
+00:03:12,799 --> 00:03:19,480
+outra para gerar um um conjunto muito
+
+70
+00:03:15,480 --> 00:03:21,599
+grande de dados que depois são
+
+71
+00:03:19,480 --> 00:03:24,159
+consolidados a aplicação dessa técnica
+
+72
+00:03:21,599 --> 00:03:26,120
+no estudo do consumo da carne vermelha e
+
+73
+00:03:24,159 --> 00:03:29,040
+da mortalidade mostrou uma variação
+
+74
+00:03:26,120 --> 00:03:34,360
+significativa nos resultados Enquanto
+
+75
+00:03:29,040 --> 00:03:38,319
+algumas sugeriram uma redução de até 50%
+
+76
+00:03:34,360 --> 00:03:40,319
+no risco de mortalidade precoce para
+
+77
+00:03:38,319 --> 00:03:43,080
+consumidores de carne vermelha outras
+
+78
+00:03:40,319 --> 00:03:45,680
+indicaram aumento de risco de até 75%
+
+79
+00:03:43,080 --> 00:03:49,840
+veja como tá dispare né alguns estudos
+
+80
+00:03:45,680 --> 00:03:52,920
+falam que reduz em até 50% o risco de
+
+81
+00:03:49,840 --> 00:03:56,079
+mortalidade precoce e outros dizem que
+
+82
+00:03:52,920 --> 00:03:58,640
+aumenta o risco em 75% Então veja a
+
+83
+00:03:56,079 --> 00:04:00,560
+confusão no entanto a maior parte das
+
+84
+00:03:58,640 --> 00:04:03,680
+análises cerca de
+
+85
+00:04:00,560 --> 00:04:06,159
+64% concluiu que o consumo de carne
+
+86
+00:04:03,680 --> 00:04:06,959
+vermelha não tem Impacto significativo
+
+87
+00:04:06,159 --> 00:04:09,360
+na
+
+88
+00:04:06,959 --> 00:04:11,200
+mortalidade trazendo uma luz sobre o
+
+89
+00:04:09,360 --> 00:04:15,639
+possível exagero das evidências que
+
+90
+00:04:11,200 --> 00:04:18,600
+sugerem um grande risco associado ao
+
+91
+00:04:15,639 --> 00:04:20,680
+consumo então o estudo destacou o
+
+92
+00:04:18,600 --> 00:04:23,199
+problema das pesquisas observacionais
+
+93
+00:04:20,680 --> 00:04:26,000
+que muitas vezes publicam Apenas
+
+94
+00:04:23,199 --> 00:04:28,400
+resultados que mostram associações
+
+95
+00:04:26,000 --> 00:04:30,560
+significativas ignorando análises que
+
+96
+00:04:28,400 --> 00:04:32,400
+apresentam resultados nulos ou
+
+97
+00:04:30,560 --> 00:04:33,199
+contraditórios então isso pode levar a
+
+98
+00:04:32,400 --> 00:04:36,160
+uma visão
+
+99
+00:04:33,199 --> 00:04:40,400
+distorcida e potencialmente alarmista
+
+100
+00:04:36,160 --> 00:04:40,400
+sobre certos comportamentos ou consumos
+
+101
+00:04:40,800 --> 00:04:44,919
+alimentares então a adoção dessa análise
+
+102
+00:04:43,320 --> 00:04:46,479
+multiversa que é uma novidade na
+
+103
+00:04:44,919 --> 00:04:48,639
+estatística porque também é uma coisa
+
+104
+00:04:46,479 --> 00:04:50,880
+que envolve muita capacidade
+
+105
+00:04:48,639 --> 00:04:54,280
+computacional que só tá sendo possível
+
+106
+00:04:50,880 --> 00:04:56,680
+hoje em dia né na era do Big Data essa
+
+107
+00:04:54,280 --> 00:04:58,680
+análise ela é recomendada para aprimorar
+
+108
+00:04:56,680 --> 00:05:01,840
+a precisão e a confiabilidade dos
+
+109
+00:04:58,680 --> 00:05:04,120
+estudos observad ionais especialmente em
+
+110
+00:05:01,840 --> 00:05:06,360
+Campos como a epidemiologia nutricional
+
+111
+00:05:04,120 --> 00:05:09,400
+Então essa abordagem não apenas fornece
+
+112
+00:05:06,360 --> 00:05:11,840
+uma visão mais abrangente sobre os dados
+
+113
+00:05:09,400 --> 00:05:14,240
+como também democratiza as escolhas
+
+114
+00:05:11,840 --> 00:05:16,440
+analíticas mostrando que o Consenso
+
+115
+00:05:14,240 --> 00:05:18,759
+entre múltiplos métodos analíticos que
+
+116
+00:05:16,440 --> 00:05:20,800
+deve ser utilizado né ele pode ser mais
+
+117
+00:05:18,759 --> 00:05:23,039
+informativo do que a dependência de um
+
+118
+00:05:20,800 --> 00:05:25,080
+único método acho isso aqui muito
+
+119
+00:05:23,039 --> 00:05:27,840
+interessante tá explicando de uma forma
+
+120
+00:05:25,080 --> 00:05:30,600
+mais simples para vocês tá métodos
+
+121
+00:05:27,840 --> 00:05:33,520
+analíticos diversos né a pesquisa
+
+122
+00:05:30,600 --> 00:05:35,479
+utilizou muitos métodos diferentes para
+
+123
+00:05:33,520 --> 00:05:37,199
+analisar os dados sobre o consumo da
+
+124
+00:05:35,479 --> 00:05:39,600
+carne vermelha e sua relação com a
+
+125
+00:05:37,199 --> 00:05:41,479
+mortalidade isso é importante porque
+
+126
+00:05:39,600 --> 00:05:45,639
+diferentes maneiras de analisar os
+
+127
+00:05:41,479 --> 00:05:45,639
+mesmos dados podem levar a conclusões
+
+128
+00:05:45,840 --> 00:05:51,400
+diferentes então resultados variados
+
+129
+00:05:48,720 --> 00:05:53,360
+sobre a carne vermelha nos estudos com
+
+130
+00:05:51,400 --> 00:05:56,280
+relação à mortalidade as conclusões do
+
+131
+00:05:53,360 --> 00:05:58,199
+estudo variaram muito né então em alguns
+
+132
+00:05:56,280 --> 00:06:00,800
+casos os resultados mostraram que o b
+
+133
+00:05:58,199 --> 00:06:02,560
+carne vermelha poderia diminuir o risco
+
+134
+00:06:00,800 --> 00:06:04,960
+da Morte precoce quanto em outro
+
+135
+00:06:02,560 --> 00:06:07,080
+aumentava o risco então a maior parte
+
+136
+00:06:04,960 --> 00:06:09,360
+das análises no entanto indicou que não
+
+137
+00:06:07,080 --> 00:06:12,360
+há um impacto significativo do consumo
+
+138
+00:06:09,360 --> 00:06:12,360
+de carne vermelha na
+
+139
+00:06:19,919 --> 00:06:25,360
+mortalidade então só para ficar mais
+
+140
+00:06:23,319 --> 00:06:27,639
+claro aindo para vocês A análise
+
+141
+00:06:25,360 --> 00:06:30,759
+multiversa geralmente envolve uma
+
+142
+00:06:27,639 --> 00:06:32,400
+intensa capacidade
+
+143
+00:06:30,759 --> 00:06:34,400
+isso se deve ao grande número de
+
+144
+00:06:32,400 --> 00:06:36,280
+análises que são realizadas para avaliar
+
+145
+00:06:34,400 --> 00:06:38,560
+os mesmos dados sobre diferentes
+
+146
+00:06:36,280 --> 00:06:41,039
+perspectivas e métodos
+
+147
+00:06:38,560 --> 00:06:42,919
+estatísticos então no estudo da carne
+
+148
+00:06:41,039 --> 00:06:46,080
+vermelha foram consideradas cerca de
+
+149
+00:06:42,919 --> 00:06:48,639
+1200 maneiras 1200 maneiras diferentes
+
+150
+00:06:46,080 --> 00:06:51,160
+de analisar os dados o que exige um
+
+151
+00:06:48,639 --> 00:06:53,000
+processamento computacional considerável
+
+152
+00:06:51,160 --> 00:06:57,000
+para realizar todas essas análises de
+
+153
+00:06:53,000 --> 00:06:57,000
+forma eficiente em um tempo
+
+154
+00:06:57,599 --> 00:07:02,039
+razoável certo
+
+155
+00:07:00,479 --> 00:07:04,240
+Então esse é o primeiro estudo que eu
+
+156
+00:07:02,039 --> 00:07:06,000
+queria discutir com vocês se ficou
+
+157
+00:07:04,240 --> 00:07:08,919
+alguma dúvida sobre o que eu falei se
+
+158
+00:07:06,000 --> 00:07:11,039
+ficar por favor coloque a sua pergunta
+
+159
+00:07:08,919 --> 00:07:15,639
+aí na no
+
+160
+00:07:11,039 --> 00:07:16,440
+bate-papo Boa noite Eliseu e boa noite
+
+161
+00:07:15,639 --> 00:07:19,120
+TAM
+
+162
+00:07:16,440 --> 00:07:23,039
+miquinha próximo estudo é sobre o azeite
+
+163
+00:07:19,120 --> 00:07:26,199
+de oliva e a prevenção da
+
+164
+00:07:23,039 --> 00:07:28,199
+demência o título desse artigo é azeite
+
+165
+00:07:26,199 --> 00:07:31,360
+de oliva e prevenção de demência entre
+
+166
+00:07:28,199 --> 00:07:33,319
+mitos e Evidências científicas então nós
+
+167
+00:07:31,360 --> 00:07:35,840
+sabemos que no universo da nutrição tem
+
+168
+00:07:33,319 --> 00:07:38,280
+muitos assuntos que são polêmicos e que
+
+169
+00:07:35,840 --> 00:07:39,879
+são controversos que conclusões muito
+
+170
+00:07:38,280 --> 00:07:42,199
+diferentes de um estudo pro outro então
+
+171
+00:07:39,879 --> 00:07:44,599
+poucos temas são tão debatidos quanto os
+
+172
+00:07:42,199 --> 00:07:46,400
+benefícios do azeite de oliva então
+
+173
+00:07:44,599 --> 00:07:48,440
+recentemente foi publicado um estudo no
+
+174
+00:07:46,400 --> 00:07:51,319
+jama que é o Journal of American Medical
+
+175
+00:07:48,440 --> 00:07:53,720
+Association que lançou novas luzes sobre
+
+176
+00:07:51,319 --> 00:07:55,720
+o potencial do azeite de oliva em
+
+177
+00:07:53,720 --> 00:07:58,599
+reduzir o risco de morte relacionado à
+
+178
+00:07:55,720 --> 00:08:01,120
+demência então Nesse artigo Eh vamos
+
+179
+00:07:58,599 --> 00:08:03,400
+mergulhar na as nuances explorar as
+
+180
+00:08:01,120 --> 00:08:05,520
+implicações e desvendar até que ponto
+
+181
+00:08:03,400 --> 00:08:08,800
+podemos
+
+182
+00:08:05,520 --> 00:08:12,199
+confiar então o Dr Perry Wilson da
+
+183
+00:08:08,800 --> 00:08:14,759
+escola de medicina de e né proporcionou
+
+184
+00:08:12,199 --> 00:08:16,759
+uma análise crítica sobre essa questão
+
+185
+00:08:14,759 --> 00:08:19,720
+desse artigo do azeite de
+
+186
+00:08:16,759 --> 00:08:21,639
+oliva que vincula o consumo do azeite de
+
+187
+00:08:19,720 --> 00:08:24,240
+oliva a uma menor incidência de mortes
+
+188
+00:08:21,639 --> 00:08:27,199
+por demência o estudo é grande Ele
+
+189
+00:08:24,240 --> 00:08:29,479
+acompanhou quase 100.000 pessoas 100.000
+
+190
+00:08:27,199 --> 00:08:31,919
+Profissionais de Saúde que estavam
+
+191
+00:08:29,479 --> 00:08:34,760
+tratando pacientes com demência ao longo
+
+192
+00:08:31,919 --> 00:08:36,640
+de duas décadas utilizando questionários
+
+193
+00:08:34,760 --> 00:08:38,800
+frequentes sobre hábitos alimentares
+
+194
+00:08:36,640 --> 00:08:41,640
+Então quais foram os principais achados
+
+195
+00:08:38,800 --> 00:08:45,040
+né os participantes que consumiram mais
+
+196
+00:08:41,640 --> 00:08:47,399
+de 7 g de azeite por dia mostraram cerca
+
+197
+00:08:45,040 --> 00:08:50,040
+de 50% menos chances de morrer por
+
+198
+00:08:47,399 --> 00:08:51,640
+demência em comparação com aqueles que
+
+199
+00:08:50,040 --> 00:08:55,480
+não consumiram o
+
+200
+00:08:51,640 --> 00:08:57,399
+azeite porém H desafios na análise dos
+
+201
+00:08:55,480 --> 00:09:00,040
+dados a interpretação dos resultados de
+
+202
+00:08:57,399 --> 00:09:01,760
+estudos nutricionais muitas vezes Barra
+
+203
+00:09:00,040 --> 00:09:04,120
+em vários desafios
+
+204
+00:09:01,760 --> 00:09:06,480
+metodológicos existe a questão do viés
+
+205
+00:09:04,120 --> 00:09:09,480
+alimentar né aqueles que consumiram
+
+206
+00:09:06,480 --> 00:09:11,600
+azeite também provavelmente adotaram uma
+
+207
+00:09:09,480 --> 00:09:14,480
+dieta geralmente mais saudável rica em
+
+208
+00:09:11,600 --> 00:09:16,920
+frutas vegetais e grãos integrais e
+
+209
+00:09:14,480 --> 00:09:19,440
+Pobre em carnes vermelhas e margarinas
+
+210
+00:09:16,920 --> 00:09:21,800
+né que são ruins você sab que elas têm
+
+211
+00:09:19,440 --> 00:09:25,360
+gorduras trans T gorduras intericad
+
+212
+00:09:21,800 --> 00:09:27,440
+Inter esterificados então isso Levanta a
+
+213
+00:09:25,360 --> 00:09:30,360
+questão os benefícios são realmente do
+
+214
+00:09:27,440 --> 00:09:33,279
+azeite ou do padrão ali mentar como todo
+
+215
+00:09:30,360 --> 00:09:33,279
+né esse que é o fator
+
+216
+00:09:34,160 --> 00:09:38,399
+confundidoras isso porque essa pessoa
+
+217
+00:09:36,160 --> 00:09:41,480
+tem vários hábitos aado de vida melhor
+
+218
+00:09:38,399 --> 00:09:46,000
+ainda né mas para em termos estatísticos
+
+219
+00:09:41,480 --> 00:09:48,440
+de você isolar um elemento pode ser um
+
+220
+00:09:46,000 --> 00:09:50,440
+problema e tem também uma influência
+
+221
+00:09:48,440 --> 00:09:52,440
+socioeconômica o azeite de oliva ele é
+
+222
+00:09:50,440 --> 00:09:55,240
+mais caro do que os outros
+
+223
+00:09:52,440 --> 00:09:57,600
+olhos isso sugere que seu consumo pode
+
+224
+00:09:55,240 --> 00:10:00,240
+estar associado a um padrão de vida mais
+
+225
+00:09:57,600 --> 00:10:02,760
+alto né um padrão só econômico mais
+
+226
+00:10:00,240 --> 00:10:05,360
+elevado que geralmente as pessoas que
+
+227
+00:10:02,760 --> 00:10:06,920
+estão nesse patamar T acesso a melhores
+
+228
+00:10:05,360 --> 00:10:09,560
+condições de saúde e hábitos mais
+
+229
+00:10:06,920 --> 00:10:09,560
+saudáveis
+
+230
+00:10:10,000 --> 00:10:16,560
+né Então existe um estudo anterior
+
+231
+00:10:12,760 --> 00:10:20,600
+chamado predimed que foi realizado na
+
+232
+00:10:16,560 --> 00:10:23,839
+Espanha também Ele oferece uma defesa ao
+
+233
+00:10:20,600 --> 00:10:25,160
+azeite nesse ponto aí nesse estudo
+
+234
+00:10:23,839 --> 00:10:27,279
+controlado os participantes que
+
+235
+00:10:25,160 --> 00:10:30,480
+receberam azeite regularmente tiveram
+
+236
+00:10:27,279 --> 00:10:31,880
+uma redução de 30% nos cardiovasculares
+
+237
+00:10:30,480 --> 00:10:34,600
+uma diminuição de
+
+238
+00:10:31,880 --> 00:10:36,920
+65% na taxa de desenvolvimento de
+
+239
+00:10:34,600 --> 00:10:40,519
+comprometimento cognitivo leve então o
+
+240
+00:10:36,920 --> 00:10:44,120
+estudo Inicial falava em 50% e esse aqui
+
+241
+00:10:40,519 --> 00:10:44,120
+o PR médio fala em
+
+242
+00:10:44,920 --> 00:10:49,279
+65% então eu recomendo fortemente que
+
+243
+00:10:47,600 --> 00:10:50,120
+vocês utilizem um azeite de oliva de
+
+244
+00:10:49,279 --> 00:10:52,639
+alta
+
+245
+00:10:50,120 --> 00:10:56,760
+qualidade que
+
+246
+00:10:52,639 --> 00:11:00,880
+seja de baixa acidez e também extra
+
+247
+00:10:56,760 --> 00:11:03,600
+virgem como parte uma diet associada mas
+
+248
+00:11:00,880 --> 00:11:06,560
+não deve considerá-los como um Elixir
+
+249
+00:11:03,600 --> 00:11:08,320
+milagroso Ok tem que ser associado a
+
+250
+00:11:06,560 --> 00:11:10,880
+outras medidas de estilo de vida como a
+
+251
+00:11:08,320 --> 00:11:14,120
+gente sempre fala nos vídeos
+
+252
+00:11:10,880 --> 00:11:16,880
+né bem o último artigo para discutir
+
+253
+00:11:14,120 --> 00:11:20,279
+hoje é em relação o impacto do tempo de
+
+254
+00:11:16,880 --> 00:11:22,320
+tela na saúde psicológica das crianças o
+
+255
+00:11:20,279 --> 00:11:25,720
+que os pais precisam saber vários de
+
+256
+00:11:22,320 --> 00:11:29,360
+vocês podem ter filhos ainda pequenos ou
+
+257
+00:11:25,720 --> 00:11:31,360
+conhecem alguém que tem filho pequeno o
+
+258
+00:11:29,360 --> 00:11:33,519
+dentro da própria família né então
+
+259
+00:11:31,360 --> 00:11:36,160
+devemos ter preocupações constantes com
+
+260
+00:11:33,519 --> 00:11:38,360
+o bem-estar psicológico das Crianças em
+
+261
+00:11:36,160 --> 00:11:40,560
+relação ao tempo de tela Isso tem sido
+
+262
+00:11:38,360 --> 00:11:43,320
+muito discutido é um tema muito atual e
+
+263
+00:11:40,560 --> 00:11:44,959
+tem muitas dúvidas sobre esse tema então
+
+264
+00:11:43,320 --> 00:11:47,000
+Muitos pais discutem sobre isso
+
+265
+00:11:44,959 --> 00:11:49,639
+educadores também profissionais da Saúde
+
+266
+00:11:47,000 --> 00:11:51,760
+então o estudo recente traz novas
+
+267
+00:11:49,639 --> 00:11:54,519
+perspectivas sobre como o tempo Diário
+
+268
+00:11:51,760 --> 00:11:56,880
+de enfrente as telas pode influenciar a
+
+269
+00:11:54,519 --> 00:11:58,399
+saúde mental de crianças pequenas
+
+270
+00:11:56,880 --> 00:12:01,160
+destacando a necessidade de um
+
+271
+00:11:58,399 --> 00:12:03,639
+equilíbrio cuidadoso entre tempo de tela
+
+272
+00:12:01,160 --> 00:12:06,480
+e outras atividades então o estudo em
+
+273
+00:12:03,639 --> 00:12:08,639
+questão é o consumo de tempo de tela ele
+
+274
+00:12:06,480 --> 00:12:10,800
+analisou como tempo Diário de tela está
+
+275
+00:12:08,639 --> 00:12:13,000
+associado ao bem-estar psicológico das
+
+276
+00:12:10,800 --> 00:12:16,160
+Crianças usando dados coletados durante
+
+277
+00:12:13,000 --> 00:12:17,800
+os anos antes da pandemia e durante a
+
+278
+00:12:16,160 --> 00:12:20,560
+mesma o estudo
+
+279
+00:12:17,800 --> 00:12:24,000
+observacional contou com quase 50.000
+
+280
+00:12:20,560 --> 00:12:26,760
+crianças e focou em dois grupos etários
+
+281
+00:12:24,000 --> 00:12:30,839
+principais crianças de 6 meses a 2 anos
+
+282
+00:12:26,760 --> 00:12:33,120
+e de 3 a 5 anos
+
+283
+00:12:30,839 --> 00:12:36,519
+então houve uma influência negativa do
+
+284
+00:12:33,120 --> 00:12:39,040
+tempo de tela nas crianças de 3 a 5 anos
+
+285
+00:12:36,519 --> 00:12:42,320
+que passavam mais de Du horas por dia em
+
+286
+00:12:39,040 --> 00:12:44,120
+frente às telas né e tinham maior
+
+287
+00:12:42,320 --> 00:12:47,040
+probabilidade de ter comportamentos
+
+288
+00:12:44,120 --> 00:12:49,720
+externos negativos como hiperatividade
+
+289
+00:12:47,040 --> 00:12:51,920
+agressividade e menores índices de
+
+290
+00:12:49,720 --> 00:12:56,079
+comportamento desenvolvimento como afeto
+
+291
+00:12:51,920 --> 00:12:58,320
+e curiosidade e curiosamente não teve um
+
+292
+00:12:56,079 --> 00:13:00,959
+efeito notável em bebês e crianças
+
+293
+00:12:58,320 --> 00:13:04,560
+pequenas então na faixa de 6 meses a 2
+
+294
+00:13:00,959 --> 00:13:06,320
+anos o tempo de tela não foi associado a
+
+295
+00:13:04,560 --> 00:13:08,639
+uma relação
+
+296
+00:13:06,320 --> 00:13:10,320
+significativa com índices de
+
+297
+00:13:08,639 --> 00:13:13,320
+desenvolvimento
+
+298
+00:13:10,320 --> 00:13:17,000
+alterado então a pandemia de
+
+299
+00:13:13,320 --> 00:13:18,440
+2019 né ampliou o uso do tempo de tela
+
+300
+00:13:17,000 --> 00:13:22,360
+entre as crianças né que ficaram
+
+301
+00:13:18,440 --> 00:13:24,600
+confinadas nos anos de 2020 e 2021 com
+
+302
+00:13:22,360 --> 00:13:27,000
+variações significativas observadas
+
+303
+00:13:24,600 --> 00:13:29,440
+entre diferentes grupos socioeconômicos
+
+304
+00:13:27,000 --> 00:13:31,639
+raciais e étnicos
+
+305
+00:13:29,440 --> 00:13:33,800
+Então esse estudo destaca a complexidade
+
+306
+00:13:31,639 --> 00:13:36,560
+do impacto do tempo de tela sobre o
+
+307
+00:13:33,800 --> 00:13:38,720
+desenvolvimento infantil não é apenas a
+
+308
+00:13:36,560 --> 00:13:41,399
+quantidade de tempo em frente às telas
+
+309
+00:13:38,720 --> 00:13:43,279
+que importa Mas também o contexto no
+
+310
+00:13:41,399 --> 00:13:46,279
+qual Esse tempo é
+
+311
+00:13:43,279 --> 00:13:49,240
+inserido então o tipo de atividade
+
+312
+00:13:46,279 --> 00:13:52,120
+realizada durante esse tempo de tela
+
+313
+00:13:49,240 --> 00:13:54,680
+seja Educacional Recreativo pode
+
+314
+00:13:52,120 --> 00:13:57,199
+influenciar de maneiras distintas o
+
+315
+00:13:54,680 --> 00:14:00,360
+desenvolvimento infantil programas
+
+316
+00:13:57,199 --> 00:14:03,399
+educativos interativos são
+
+317
+00:14:00,360 --> 00:14:04,920
+recomendados podem oferecer benefícios
+
+318
+00:14:03,399 --> 00:14:07,959
+ao desenvolvimento de habilidades
+
+319
+00:14:04,920 --> 00:14:10,320
+sociais e cognitivas e especialmente em
+
+320
+00:14:07,959 --> 00:14:13,480
+crianças maiores de 2
+
+321
+00:14:10,320 --> 00:14:16,680
+anos é importante equilibrar o tempo de
+
+322
+00:14:13,480 --> 00:14:19,440
+tela com atividades físicas interação
+
+323
+00:14:16,680 --> 00:14:22,560
+Face a Face fundamentais pro
+
+324
+00:14:19,440 --> 00:14:25,040
+desenvolvimento saudável das Crianças
+
+325
+00:14:22,560 --> 00:14:27,800
+Então quais são as diretrizes para pais
+
+326
+00:14:25,040 --> 00:14:30,880
+e cuidadores com base nessa descoberta
+
+327
+00:14:27,800 --> 00:14:34,639
+do estudo eh recomendável que pais e
+
+328
+00:14:30,880 --> 00:14:36,519
+cuidadores limitem o tempo de tela eh
+
+329
+00:14:34,639 --> 00:14:39,360
+seguir as diretrizes da academia
+
+330
+00:14:36,519 --> 00:14:41,959
+americana de Pediatria que recomenda no
+
+331
+00:14:39,360 --> 00:14:45,560
+máximo uma hora por dia de tela para
+
+332
+00:14:41,959 --> 00:14:47,639
+criança de 2 a 5 anos e evitar o uso de
+
+333
+00:14:45,560 --> 00:14:50,079
+telas em geral exceto para videochamadas
+
+334
+00:14:47,639 --> 00:14:52,360
+para crianças menores de 2
+
+335
+00:14:50,079 --> 00:14:55,079
+anos priorizar como eu já falei
+
+336
+00:14:52,360 --> 00:14:57,360
+conteúdos educativos interativos que
+
+337
+00:14:55,079 --> 00:15:00,759
+promovam aprendizado e Desenvolvimento
+
+338
+00:14:57,360 --> 00:15:03,279
+Social incen atividades em família que
+
+339
+00:15:00,759 --> 00:15:07,639
+não envolvam tela como leitura jogos
+
+340
+00:15:03,279 --> 00:15:12,680
+atividades ao ar livre né então isso é
+
+341
+00:15:07,639 --> 00:15:15,600
+importante que nós tenhamos em mente
+
+342
+00:15:12,680 --> 00:15:19,959
+bem Vamos às
+
+343
+00:15:15,600 --> 00:15:19,959
+dúvidas do documento
+
+344
+00:15:34,600 --> 00:15:40,959
+Ah deixa eu voltar aqui
+
+345
+00:15:37,519 --> 00:15:40,959
+para primeira
+
+346
+00:15:45,360 --> 00:15:51,079
+pergunta pergunta do Carlos
+
+347
+00:15:48,319 --> 00:15:53,240
+kman Boa noite muitos produtos
+
+348
+00:15:51,079 --> 00:15:55,519
+problemáticos da Saúde se tornam
+
+349
+00:15:53,240 --> 00:15:57,800
+recomendáveis quando
+
+350
+00:15:55,519 --> 00:15:59,959
+fermentados Quais são as alterações
+
+351
+00:15:57,800 --> 00:16:03,079
+benéficas que o Proc
+
+352
+00:15:59,959 --> 00:16:05,199
+produz presença ou contaminação com
+
+353
+00:16:03,079 --> 00:16:07,120
+hormônios produtos químicos Como o
+
+354
+00:16:05,199 --> 00:16:11,480
+polifluor
+
+355
+00:16:07,120 --> 00:16:15,000
+po fluoro alquil pfa podem ser
+
+356
+00:16:11,480 --> 00:16:19,399
+degradados e inutilizados pergunta bem
+
+357
+00:16:15,000 --> 00:16:22,120
+PK essa aqui viu mas parabéns pela
+
+358
+00:16:19,399 --> 00:16:24,920
+pergunta
+
+359
+00:16:22,120 --> 00:16:30,839
+bastante inteligente
+
+360
+00:16:24,920 --> 00:16:33,519
+tá bem o processo de alimentação ele tem
+
+361
+00:16:30,839 --> 00:16:35,360
+vários características aí que vão
+
+362
+00:16:33,519 --> 00:16:36,880
+melhorar o alimento né é um processo
+
+363
+00:16:35,360 --> 00:16:39,519
+metabólico que vai transformar
+
+364
+00:16:36,880 --> 00:16:43,600
+substâncias complexas em compostos mais
+
+365
+00:16:39,519 --> 00:16:46,560
+simples e é mediado com microorganismos
+
+366
+00:16:43,600 --> 00:16:48,560
+que são bactérias leveduras e fungos
+
+367
+00:16:46,560 --> 00:16:50,480
+Então vai aumentar a biodisponibilidade
+
+368
+00:16:48,560 --> 00:16:52,920
+de vários
+
+369
+00:16:50,480 --> 00:16:55,560
+nutrientes vai produzir compostos
+
+370
+00:16:52,920 --> 00:16:58,880
+bioativos como ácidos orgânicos enzimas
+
+371
+00:16:55,560 --> 00:17:00,880
+e substâncias que podem ajudar na
+
+372
+00:16:58,880 --> 00:17:03,440
+metabolismo que tem propriedades
+
+373
+00:17:00,880 --> 00:17:05,319
+antimicrobianas e antioxidantes melhora
+
+374
+00:17:03,440 --> 00:17:07,720
+a
+
+375
+00:17:05,319 --> 00:17:09,880
+digestibilidade Por exemplo quando você
+
+376
+00:17:07,720 --> 00:17:13,160
+fermenta o leite você vai degradar a
+
+377
+00:17:09,880 --> 00:17:17,400
+lactose do leite Isso vai tornar ele
+
+378
+00:17:13,160 --> 00:17:19,439
+mais digerível reduz os antinutrientes
+
+379
+00:17:17,400 --> 00:17:21,839
+porque destrói também os fitatos os
+
+380
+00:17:19,439 --> 00:17:26,039
+oxalatos processo de
+
+381
+00:17:21,839 --> 00:17:29,640
+eh fermentação e produz também
+
+382
+00:17:26,039 --> 00:17:31,840
+substâncias interessantes pela ação ah
+
+383
+00:17:29,640 --> 00:17:33,559
+bacteriana que ajuda na digestão como eu
+
+384
+00:17:31,840 --> 00:17:36,600
+já falei e também pode fortalecer o
+
+385
+00:17:33,559 --> 00:17:38,400
+sistema de defesa imune agora em relação
+
+386
+00:17:36,600 --> 00:17:41,760
+a pergunta dos
+
+387
+00:17:38,400 --> 00:17:44,280
+pfa não tem evidências Claras que existe
+
+388
+00:17:41,760 --> 00:17:46,120
+algum microrganismo aí comumente
+
+389
+00:17:44,280 --> 00:17:49,280
+encontrado nos produtos fermentados que
+
+390
+00:17:46,120 --> 00:17:54,120
+vai conseguir destruir tá esse produto
+
+391
+00:17:49,280 --> 00:17:57,520
+químico aí então Eh isso não é uma coisa
+
+392
+00:17:54,120 --> 00:17:57,520
+que dá para confiar
+
+393
+00:17:59,520 --> 00:18:02,600
+eles até descobriram alguns
+
+394
+00:18:00,840 --> 00:18:03,760
+microrganismos que podem degradar
+
+395
+00:18:02,600 --> 00:18:06,440
+hormônios
+
+396
+00:18:03,760 --> 00:18:09,600
+estrogênicos mas não é claro ainda que
+
+397
+00:18:06,440 --> 00:18:11,559
+esse caso aí o pfa é um elemento que
+
+398
+00:18:09,600 --> 00:18:14,840
+consegue
+
+399
+00:18:11,559 --> 00:18:17,720
+ser destruído através da ação microbiana
+
+400
+00:18:14,840 --> 00:18:20,919
+dos probióticos Ok então não confie
+
+401
+00:18:17,720 --> 00:18:20,919
+nisso viu
+
+402
+00:18:22,880 --> 00:18:26,600
+Carlos vamos pra
+
+403
+00:18:26,640 --> 00:18:31,600
+próxima ruel poder indicar um
+
+404
+00:18:29,440 --> 00:18:34,520
+cardiologista especializado em ritmia da
+
+405
+00:18:31,600 --> 00:18:37,240
+linha integrativa Eu só conheço um
+
+406
+00:18:34,520 --> 00:18:38,960
+cardiologista para integrativo tá
+
+407
+00:18:37,240 --> 00:18:41,440
+poderia dar dois nomes aqui mas vou dar
+
+408
+00:18:38,960 --> 00:18:43,679
+só um porque o outro não é muito
+
+409
+00:18:41,440 --> 00:18:45,559
+integrativo não é só propaganda tá Eu
+
+410
+00:18:43,679 --> 00:18:50,240
+recomendo o Túlio
+
+411
+00:18:45,559 --> 00:18:52,600
+Sperb Ok então o Túlio Sperb Vou colocar
+
+412
+00:18:50,240 --> 00:18:52,600
+aqui na
+
+413
+00:18:54,240 --> 00:19:00,720
+tela ele não é ritmologia que eu saibo
+
+414
+00:18:57,240 --> 00:19:00,720
+mas é um cardiologista integrativo
+
+415
+00:19:02,640 --> 00:19:06,880
+Ok próxima
+
+416
+00:19:05,010 --> 00:19:09,320
+[Música]
+
+417
+00:19:06,880 --> 00:19:11,080
+pergunta a progesterona pode ser
+
+418
+00:19:09,320 --> 00:19:14,120
+utilizada sem usar o
+
+419
+00:19:11,080 --> 00:19:16,799
+estrogênio ela sozinha traz benefício
+
+420
+00:19:14,120 --> 00:19:19,240
+Sim ela pode ser utilizada isoladamente
+
+421
+00:19:16,799 --> 00:19:22,120
+isso acontece muitas vezes tá por
+
+422
+00:19:19,240 --> 00:19:24,159
+exemplo mulheres na fase ainda que
+
+423
+00:19:22,120 --> 00:19:27,559
+menstruam né que estão
+
+424
+00:19:24,159 --> 00:19:30,520
+ainda férteis ela pode ser usada
+
+425
+00:19:27,559 --> 00:19:32,679
+isoladamente para os ciclos menstruais e
+
+426
+00:19:30,520 --> 00:19:35,280
+mulheres T ciclos irregulares tá para
+
+427
+00:19:32,679 --> 00:19:37,120
+poder ajudar na ovulação pode ser
+
+428
+00:19:35,280 --> 00:19:39,840
+utilizada isoladamente também para
+
+429
+00:19:37,120 --> 00:19:40,720
+tratar síndrome pré-menstrual né o
+
+430
+00:19:39,840 --> 00:19:43,760
+famoso
+
+431
+00:19:40,720 --> 00:19:46,240
+TPM pode ser utilizado para hiperplasia
+
+432
+00:19:43,760 --> 00:19:48,440
+endometrial para reduzir o espessamento
+
+433
+00:19:46,240 --> 00:19:50,799
+do endométrio no
+
+434
+00:19:48,440 --> 00:19:52,840
+útero pode ser utilizado durante a
+
+435
+00:19:50,799 --> 00:19:54,640
+gravidez para dar suporte a gravidez né
+
+436
+00:19:52,840 --> 00:19:57,240
+para segurar a
+
+437
+00:19:54,640 --> 00:19:59,880
+gravidez pode ser utilizado até para
+
+438
+00:19:57,240 --> 00:20:02,280
+questões de trauma ano tá trauma
+
+439
+00:19:59,880 --> 00:20:07,120
+cerebral A progesteron tem uns estudos
+
+440
+00:20:02,280 --> 00:20:07,120
+que ela teve efeito protetor contra o
+
+441
+00:20:09,159 --> 00:20:13,880
+trauma e pode ser utilizado isoladamente
+
+442
+00:20:12,080 --> 00:20:15,159
+também em mulheres tem endometriose como
+
+443
+00:20:13,880 --> 00:20:18,840
+tratamento com
+
+444
+00:20:15,159 --> 00:20:21,679
+endometriose e a sua variação que a
+
+445
+00:20:18,840 --> 00:20:23,840
+adenomiose agora para reposição hormonal
+
+446
+00:20:21,679 --> 00:20:27,159
+você deve utilizar progesterona junto
+
+447
+00:20:23,840 --> 00:20:27,159
+com o estrogênio
+
+448
+00:20:34,240 --> 00:20:40,600
+vamos paraa próxima
+
+449
+00:20:37,200 --> 00:20:43,600
+pergunta Tiago 10 g de Glutamina por dia
+
+450
+00:20:40,600 --> 00:20:45,440
+é muito um tratamento de liqu gante cibo
+
+451
+00:20:43,600 --> 00:20:49,840
+Não não é muito não você pode começar
+
+452
+00:20:45,440 --> 00:20:52,840
+com 5 G por dia e depois aumentar como
+
+453
+00:20:49,840 --> 00:20:55,400
+você mesmo sugeriu aí dividir em duas
+
+454
+00:20:52,840 --> 00:20:57,240
+doses de manhã e e à noite ou à tarde tá
+
+455
+00:20:55,400 --> 00:20:59,960
+é tranquilo você usar a Glutamina na
+
+456
+00:20:57,240 --> 00:21:02,480
+dose mais alta porque pessoas vão ter
+
+457
+00:20:59,960 --> 00:21:04,919
+desconfortos gastrointestinais usando a
+
+458
+00:21:02,480 --> 00:21:08,240
+Glutamina na faixa de 10 g não é muito
+
+459
+00:21:04,919 --> 00:21:08,240
+não não é exagerado
+
+460
+00:21:08,799 --> 00:21:14,440
+tá e doses mais al vão ser mais eficazes
+
+461
+00:21:12,200 --> 00:21:17,520
+nação do intestino na melhora dos
+
+462
+00:21:14,440 --> 00:21:19,200
+sintomas cibo e vai dar maior suporte
+
+463
+00:21:17,520 --> 00:21:22,760
+imunológico
+
+464
+00:21:19,200 --> 00:21:25,440
+também agora algumas pessoas podem ter
+
+465
+00:21:22,760 --> 00:21:29,000
+gases tá ou diarreia mas é raro isso
+
+466
+00:21:25,440 --> 00:21:29,000
+acontecer com glutamina
+
+467
+00:21:32,799 --> 00:21:38,000
+uso indevido de prata pode gerar
+
+468
+00:21:35,039 --> 00:21:40,880
+resistência bacteriana então quando eu
+
+469
+00:21:38,000 --> 00:21:44,039
+estudei ess assunto alguns anos atrás
+
+470
+00:21:40,880 --> 00:21:46,799
+ideia é que a prata não tinha como os
+
+471
+00:21:44,039 --> 00:21:48,600
+microrganismos desenvolverem mecanismos
+
+472
+00:21:46,799 --> 00:21:50,400
+de defesa contra ela foi isso que eu
+
+473
+00:21:48,600 --> 00:21:54,520
+estudei na época tá quando eu fiz os
+
+474
+00:21:50,400 --> 00:21:58,000
+vídeos sobre prata coloidal Agora eu
+
+475
+00:21:54,520 --> 00:22:00,200
+achei material achei literatura dizendo
+
+476
+00:21:58,000 --> 00:22:01,760
+que já foram identificadas bactérias
+
+477
+00:22:00,200 --> 00:22:05,320
+resistentes à
+
+478
+00:22:01,760 --> 00:22:08,080
+prata então elas poderiam a desenvolver
+
+479
+00:22:05,320 --> 00:22:09,440
+resistência a partir de mecanismos de
+
+480
+00:22:08,080 --> 00:22:12,080
+chamad de
+
+481
+00:22:09,440 --> 00:22:14,880
+efluxo tem alguns genes nas bactérias
+
+482
+00:22:12,080 --> 00:22:17,720
+que conseguem espelir essa
+
+483
+00:22:14,880 --> 00:22:21,159
+prata e que também foram identificados
+
+484
+00:22:17,720 --> 00:22:23,440
+genes de resistência à prata que podem
+
+485
+00:22:21,159 --> 00:22:25,840
+ser transferidos de uma bactéria para
+
+486
+00:22:23,440 --> 00:22:27,760
+outra através de plasmídeos que é um
+
+487
+00:22:25,840 --> 00:22:29,600
+tipo de mecanismo de comunicação entre
+
+488
+00:22:27,760 --> 00:22:32,159
+bactérias tá que passa gênes de uma
+
+489
+00:22:29,600 --> 00:22:32,159
+bactéria para
+
+490
+00:22:33,360 --> 00:22:38,279
+outra então isso me surpreendeu na
+
+491
+00:22:36,080 --> 00:22:41,480
+verdade existe sim esse mecanismo de
+
+492
+00:22:38,279 --> 00:22:45,320
+resistência bacteriana à prata mas eu
+
+493
+00:22:41,480 --> 00:22:47,279
+acredito que ele seja muito mais paro do
+
+494
+00:22:45,320 --> 00:22:49,559
+que o mecanismo de resistência
+
+495
+00:22:47,279 --> 00:22:51,880
+bacteriana aos antibióticos tá entre
+
+496
+00:22:49,559 --> 00:22:54,840
+antibiótico e prata eu utilizaria a
+
+497
+00:22:51,880 --> 00:22:54,840
+prata se fosse
+
+498
+00:22:55,400 --> 00:23:00,080
+possível Boa noite Quais são os
+
+499
+00:22:57,559 --> 00:23:02,440
+marcadores íos para verificar a função
+
+500
+00:23:00,080 --> 00:23:06,679
+renal geralmente creatinina não é
+
+501
+00:23:02,440 --> 00:23:08,480
+creatina é creatinina e ureia tá o
+
+502
+00:23:06,679 --> 00:23:10,640
+senhor usa a taxa de filtração
+
+503
+00:23:08,480 --> 00:23:12,240
+glomerular estimada hoje a maioria dos
+
+504
+00:23:10,640 --> 00:23:14,600
+laboratórios já colocam isso
+
+505
+00:23:12,240 --> 00:23:18,480
+automaticamente eu não precisa nem pedir
+
+506
+00:23:14,600 --> 00:23:21,320
+o cálculo é complicado de ser feito tá
+
+507
+00:23:18,480 --> 00:23:23,240
+não vou nem apresentar para vocês aqui a
+
+508
+00:23:21,320 --> 00:23:26,840
+fórmula porque é uma fórmula bem
+
+509
+00:23:23,240 --> 00:23:28,640
+complicadinha tá não mas você pode dar
+
+510
+00:23:26,840 --> 00:23:32,080
+uma pesquisada na internet se você tiver
+
+511
+00:23:28,640 --> 00:23:34,440
+interesse tem um site chamado wolfran
+
+512
+00:23:32,080 --> 00:23:36,640
+Alfa você consegu fazer cálculos
+
+513
+00:23:34,440 --> 00:23:40,400
+matemáticos complicados Inclusive tem um
+
+514
+00:23:36,640 --> 00:23:41,679
+Plugin do Wolf alpa no chat APT caso
+
+515
+00:23:40,400 --> 00:23:46,039
+você tenha interesse
+
+516
+00:23:41,679 --> 00:23:46,039
+eh grande nesse assunto aí
+
+517
+00:23:46,720 --> 00:23:52,679
+tá mas é basicamente creatinina ureia e
+
+518
+00:23:50,760 --> 00:23:54,640
+a taxa de filtração glomerular estimada
+
+519
+00:23:52,679 --> 00:23:57,039
+os laboratórios do dia já dão para você
+
+520
+00:23:54,640 --> 00:23:59,880
+automaticamente não precisa nem fazer o
+
+521
+00:23:57,039 --> 00:24:01,640
+cálculo mas Mas podem ter erros tá por
+
+522
+00:23:59,880 --> 00:24:03,679
+exemplo se a pessa tiver se a pessoa
+
+523
+00:24:01,640 --> 00:24:06,679
+tiver ingerindo muita proteína ou
+
+524
+00:24:03,679 --> 00:24:10,039
+creatina pode aumentar a creatinina no
+
+525
+00:24:06,679 --> 00:24:12,279
+na urina e não ser necessariamente uma
+
+526
+00:24:10,039 --> 00:24:14,520
+insuficiência renal tá então tem que
+
+527
+00:24:12,279 --> 00:24:16,760
+tomar cuidado com esses exames aqui
+
+528
+00:24:14,520 --> 00:24:19,120
+alguns casos tem que pedir a taxa de
+
+529
+00:24:16,760 --> 00:24:21,679
+filtração glomerular real né que é o o
+
+530
+00:24:19,120 --> 00:24:21,679
+clearance de
+
+531
+00:24:23,200 --> 00:24:28,600
+creatinina qual seria o melhor para
+
+532
+00:24:25,559 --> 00:24:30,559
+diminuir resistência à insulina bieron
+
+533
+00:24:28,600 --> 00:24:33,559
+ou gluc
+
+534
+00:24:30,559 --> 00:24:36,640
+ventage pergunta muito boa também até
+
+535
+00:24:33,559 --> 00:24:38,159
+difícil de responder eu utilizaria a
+
+536
+00:24:36,640 --> 00:24:41,240
+princípio a
+
+537
+00:24:38,159 --> 00:24:43,399
+berberina e em alguns casos se a
+
+538
+00:24:41,240 --> 00:24:46,120
+berberina não resolver eu associaria a
+
+539
+00:24:43,399 --> 00:24:47,840
+metiformina na verdade a beberina
+
+540
+00:24:46,120 --> 00:24:50,440
+metformina tem mecanismo de ação muito
+
+541
+00:24:47,840 --> 00:24:52,480
+parecidos com a m da MPK eles são bem
+
+542
+00:24:50,440 --> 00:24:54,279
+semelhantes assim o mecanismo de ação só
+
+543
+00:24:52,480 --> 00:24:58,480
+que a beberina também tem um pouco mais
+
+544
+00:24:54,279 --> 00:25:01,159
+de ação no microbioma intestinal e
+
+545
+00:24:58,480 --> 00:25:03,600
+desses aí que você tá mostrando tanto o
+
+546
+00:25:01,159 --> 00:25:06,240
+bieron que é uma forma aí de auto
+
+547
+00:25:03,600 --> 00:25:09,200
+absorção da beberina quanto o glucovance
+
+548
+00:25:06,240 --> 00:25:11,039
+são bons mas aparentemente aí não tenho
+
+549
+00:25:09,200 --> 00:25:13,960
+certeza fica difícil comparar
+
+550
+00:25:11,039 --> 00:25:18,159
+diretamente mas Aparentemente o gluc
+
+551
+00:25:13,960 --> 00:25:23,919
+ventage é melhor porque a de
+
+552
+00:25:18,159 --> 00:25:26,440
+hidrobel isso potencial Desculpa poten
+
+553
+00:25:23,919 --> 00:25:30,520
+potencializaria os efeitos
+
+554
+00:25:26,440 --> 00:25:32,919
+tá e e é uma forma mais tolerada do que
+
+555
+00:25:30,520 --> 00:25:36,279
+a beberina comum então tanto o bieron
+
+556
+00:25:32,919 --> 00:25:39,399
+quanto o gluc vantage são bons mas
+
+557
+00:25:36,279 --> 00:25:40,919
+Aparentemente o glucanas eh ele é um
+
+558
+00:25:39,399 --> 00:25:44,880
+pouquinho melhor do que o
+
+559
+00:25:40,919 --> 00:25:44,880
+bieron Mas isso não é certeza
+
+560
+00:25:49,039 --> 00:25:53,360
+absoluta qual seria o melhor para
+
+561
+00:25:51,159 --> 00:25:56,840
+diminuir resistência na tá repetida a
+
+562
+00:25:53,360 --> 00:25:58,840
+pergunta Vamos pro próximo a semaglutida
+
+563
+00:25:56,840 --> 00:26:01,600
+manipulada e comprimidos também tem os
+
+564
+00:25:58,840 --> 00:26:04,640
+efeitos colaterais do osque eu acho que
+
+565
+00:26:01,600 --> 00:26:07,240
+você talvez a pergunta melhor seja se
+
+566
+00:26:04,640 --> 00:26:11,080
+semaglutida manipulada e comprimidos
+
+567
+00:26:07,240 --> 00:26:15,480
+teri os mesmos efeitos colaterais
+
+568
+00:26:11,080 --> 00:26:17,559
+do ribelo que é a forma oral do oque tá
+
+569
+00:26:15,480 --> 00:26:20,080
+eu não recomendo que nesse momento vocês
+
+570
+00:26:17,559 --> 00:26:24,000
+manipulem semaglutida tá eu acredito que
+
+571
+00:26:20,080 --> 00:26:26,640
+não é tão eficaz assim o manipulado eu
+
+572
+00:26:24,000 --> 00:26:28,799
+utilizaria mesmo o remédio original que
+
+573
+00:26:26,640 --> 00:26:30,840
+é o ribus
+
+574
+00:26:28,799 --> 00:26:34,720
+tá ele tem uma eficácia semelhante ao
+
+575
+00:26:30,840 --> 00:26:38,080
+ozic injetável na prática Clínica porém
+
+576
+00:26:34,720 --> 00:26:41,760
+o ozen pic injetável ele é mais
+
+577
+00:26:38,080 --> 00:26:44,760
+eficiente do que o rsus só que tem essa
+
+578
+00:26:41,760 --> 00:26:46,640
+facilidade aí do uso oral né o ribel mas
+
+579
+00:26:44,760 --> 00:26:49,440
+eu não utilizaria por enquanto
+
+580
+00:26:46,640 --> 00:26:52,720
+manipulado tá teve uma empresa que me
+
+581
+00:26:49,440 --> 00:26:55,679
+abordou dizendo que estavam fazendo
+
+582
+00:26:52,720 --> 00:26:58,480
+implante de ozic tá eu fiz um teste para
+
+583
+00:26:55,679 --> 00:27:01,240
+esse implante e ele não funcionou então
+
+584
+00:26:58,480 --> 00:27:04,000
+cuidado com
+
+585
+00:27:01,240 --> 00:27:06,600
+esse princípio ativo No momento eu não
+
+586
+00:27:04,000 --> 00:27:09,480
+recomendo que vocês manipulem tá não tá
+
+587
+00:27:06,600 --> 00:27:13,200
+confiável ainda no
+
+588
+00:27:09,480 --> 00:27:14,760
+momento Elian É verdade comer tâmaras em
+
+589
+00:27:13,200 --> 00:27:18,120
+jejum é uma forma natural de acabar com
+
+590
+00:27:14,760 --> 00:27:20,360
+vmes e parasitas não eu não recomendo
+
+591
+00:27:18,120 --> 00:27:23,399
+que você utilize a
+
+592
+00:27:20,360 --> 00:27:28,559
+Tâmara tá até porque a tâmera você vai
+
+593
+00:27:23,399 --> 00:27:30,480
+conseguir ela na forma de fruta
+
+594
+00:27:28,559 --> 00:27:34,039
+seca né E ela tem um alto índice
+
+595
+00:27:30,480 --> 00:27:37,120
+glicêmica nessa forma de fruta
+
+596
+00:27:34,039 --> 00:27:40,399
+seca eu utilizaria semente de mamão para
+
+597
+00:27:37,120 --> 00:27:43,000
+esse objetivo seu aí não semente de m
+
+598
+00:27:40,399 --> 00:27:44,080
+nem e não Tâmara Ok semente de mamão e
+
+599
+00:27:43,000 --> 00:27:47,360
+não
+
+600
+00:27:44,080 --> 00:27:49,600
+Tâmara e alimentos como alho cebola
+
+601
+00:27:47,360 --> 00:27:52,919
+gengibre e sementes de abóbora também
+
+602
+00:27:49,600 --> 00:27:55,880
+são citados como tendo propriedades
+
+603
+00:27:52,919 --> 00:27:58,279
+antiparasitárias Ok então alho cebola
+
+604
+00:27:55,880 --> 00:28:00,399
+gengibre e Semente de abóbora e semente
+
+605
+00:27:58,279 --> 00:28:00,399
+de
+
+606
+00:28:03,039 --> 00:28:08,240
+mamão Marilda Qual a diferença entre
+
+607
+00:28:06,320 --> 00:28:10,039
+ressonância magnética multiparamétrica
+
+608
+00:28:08,240 --> 00:28:13,559
+de próstata e ressonância prostática e
+
+609
+00:28:10,039 --> 00:28:15,720
+classificação de risco pad não é a mesma
+
+610
+00:28:13,559 --> 00:28:18,360
+coisa na verdade o pad é uma
+
+611
+00:28:15,720 --> 00:28:20,120
+classificação não é o exame tá quando
+
+612
+00:28:18,360 --> 00:28:23,519
+você faz uma ressonância magnética
+
+613
+00:28:20,120 --> 00:28:25,200
+multiparamétrica de próstata você pode
+
+614
+00:28:23,519 --> 00:28:27,799
+através desse exame
+
+615
+00:28:25,200 --> 00:28:31,000
+eh através de um radiologista que a
+
+616
+00:28:27,799 --> 00:28:33,399
+Trein você chegar com a classificação de
+
+617
+00:28:31,000 --> 00:28:36,760
+risco pades a classificação pades não é
+
+618
+00:28:33,399 --> 00:28:39,320
+um exame é simplesmente uma avaliação
+
+619
+00:28:36,760 --> 00:28:42,080
+que o radiologista faz em cima da imagem
+
+620
+00:28:39,320 --> 00:28:45,720
+da ressonância tá deu para entender a
+
+621
+00:28:42,080 --> 00:28:48,559
+diferença Marilda se você tiver ao vivo
+
+622
+00:28:45,720 --> 00:28:51,159
+podemos conversar mais a respeito Tá
+
+623
+00:28:48,559 --> 00:28:53,039
+então pirads não é um exame pirads é uma
+
+624
+00:28:51,159 --> 00:28:55,200
+classificação que você pode fazer a
+
+625
+00:28:53,039 --> 00:29:00,039
+partir de um exame que no caso é
+
+626
+00:28:55,200 --> 00:29:00,039
+ressonância magnética de pró
+
+627
+00:29:03,279 --> 00:29:08,720
+multiparamétrica Qual é o exame que mede
+
+628
+00:29:05,799 --> 00:29:13,360
+o volume da próstata ultrassom mede
+
+629
+00:29:08,720 --> 00:29:15,559
+volume ressonância mede volume tá eh mas
+
+630
+00:29:13,360 --> 00:29:16,880
+obviamente não vai pedir só uma você não
+
+631
+00:29:15,559 --> 00:29:18,960
+vai pedir uma ressonância só para ver
+
+632
+00:29:16,880 --> 00:29:21,600
+volume então você pode pedir um trra de
+
+633
+00:29:18,960 --> 00:29:24,080
+próstata via abdominal e se você quiser
+
+634
+00:29:21,600 --> 00:29:27,120
+ter mais precisão você pode pedir
+
+635
+00:29:24,080 --> 00:29:30,039
+ultrassom de próstata transretal que vai
+
+636
+00:29:27,120 --> 00:29:30,039
+ver melhor ainda o
+
+637
+00:29:32,919 --> 00:29:37,960
+volume quando na Live passada perguntei
+
+638
+00:29:36,080 --> 00:29:39,880
+o que se pode concluir quando existe uma
+
+639
+00:29:37,960 --> 00:29:41,320
+grande oscilação nos valores de PSA
+
+640
+00:29:39,880 --> 00:29:44,360
+discrimine os valores não tive a
+
+641
+00:29:41,320 --> 00:29:46,440
+intenção de pôr exames em análise Sim
+
+642
+00:29:44,360 --> 00:29:49,679
+apenas quis relacionar aos valores de
+
+643
+00:29:46,440 --> 00:29:52,120
+PSA e PSA livre para tentar entender o
+
+644
+00:29:49,679 --> 00:29:56,120
+que originaria uma relação percentual
+
+645
+00:29:52,120 --> 00:29:59,159
+tão oscilatória eh que aumentou 6% em 1
+
+646
+00:29:56,120 --> 00:30:02,159
+ano caiu que 5% no final de 19 meses
+
+647
+00:29:59,159 --> 00:30:04,799
+seguintes num paciente que tem 70 anos
+
+648
+00:30:02,159 --> 00:30:07,320
+então uma oscilação no PSA pode ser
+
+649
+00:30:04,799 --> 00:30:10,240
+várias coisas pode ser trauma pode ser
+
+650
+00:30:07,320 --> 00:30:12,480
+infecção de próstata com prostatite que
+
+651
+00:30:10,240 --> 00:30:16,559
+ele teve e aumentou o PSA depois ele
+
+652
+00:30:12,480 --> 00:30:18,720
+melhorou da prostatite e o PSA caiu tá
+
+653
+00:30:16,559 --> 00:30:22,799
+pode ter andado de a cavalo pode ter
+
+654
+00:30:18,720 --> 00:30:25,600
+andado a de moto né são coisas que
+
+655
+00:30:22,799 --> 00:30:27,200
+aumentam o PSA bom geralmente quando o
+
+656
+00:30:25,600 --> 00:30:29,760
+PSA Fica oscilando para cima e para
+
+657
+00:30:27,200 --> 00:30:32,720
+baixo é mais infecção isso daí então
+
+658
+00:30:29,760 --> 00:30:32,720
+mais provável que seja um
+
+659
+00:30:37,880 --> 00:30:46,600
+prostatite o que ocasiona um aumento PSA
+
+660
+00:30:43,200 --> 00:30:49,519
+livre Então o PSA Total
+
+661
+00:30:46,600 --> 00:30:51,600
+eh e o PSA livre são critérios que a
+
+662
+00:30:49,519 --> 00:30:54,960
+gente utiliza quando você tem um PSA
+
+663
+00:30:51,600 --> 00:30:58,399
+entre 4 e 10 tá que é uma faixa de zona
+
+664
+00:30:54,960 --> 00:31:00,480
+cinzenta quando tá o PSA entre 4 e 10 se
+
+665
+00:30:58,399 --> 00:31:02,200
+você utiliza a relação e se a relação
+
+666
+00:31:00,480 --> 00:31:05,240
+tiver abaixo de
+
+667
+00:31:02,200 --> 00:31:10,360
+18% Isso significa que a chance de ser
+
+668
+00:31:05,240 --> 00:31:13,039
+um câncer de PR maior tá Então na
+
+669
+00:31:10,360 --> 00:31:16,320
+verdade quando você tem essa relação
+
+670
+00:31:13,039 --> 00:31:19,000
+diminuída entre PS total e livre é uma
+
+671
+00:31:16,320 --> 00:31:21,000
+sugestão de de câncer de próstata Ok
+
+672
+00:31:19,000 --> 00:31:24,440
+para isso que a gente utiliza esse esse
+
+673
+00:31:21,000 --> 00:31:24,440
+critério aí
+
+674
+00:31:29,120 --> 00:31:33,159
+O que significa quando um PSA Total cai
+
+675
+00:31:31,360 --> 00:31:36,799
+três pontos em 19 meses mas a relação
+
+676
+00:31:33,159 --> 00:31:36,799
+entre PSA livre e Total também
+
+677
+00:31:42,080 --> 00:31:49,000
+reduz tá Eu já falei da questão da
+
+678
+00:31:45,279 --> 00:31:51,679
+prostatite mas a pergunta Tá um pouco
+
+679
+00:31:49,000 --> 00:31:55,080
+confusa então a gente Analisa isso tá se
+
+680
+00:31:51,679 --> 00:31:57,360
+o p tiver entre 4 e 10 e a relação tiver
+
+681
+00:31:55,080 --> 00:31:59,679
+abaixo de 8% isso aumenta o risco de ser
+
+682
+00:31:57,360 --> 00:32:02,919
+um câncer tá fica com isso na cabeça não
+
+683
+00:31:59,679 --> 00:32:05,919
+tenta complicar demais a pergunta porque
+
+684
+00:32:02,919 --> 00:32:09,320
+aí não não fica uma pergunta tão
+
+685
+00:32:05,919 --> 00:32:09,320
+coerente assim
+
+686
+00:32:11,960 --> 00:32:15,880
+tá pergunta da
+
+687
+00:32:16,840 --> 00:32:22,080
+Eliseu Qual é o nome do exame para saber
+
+688
+00:32:19,440 --> 00:32:25,480
+se eu tenho boas quantidades de DH a DH
+
+689
+00:32:22,080 --> 00:32:29,320
+sulfatado tá melhor exame mais confiável
+
+690
+00:32:25,480 --> 00:32:29,320
+do que o DH simples
+
+691
+00:32:30,760 --> 00:32:35,279
+Ahã ao fazer o exame de dha qual deve
+
+692
+00:32:34,000 --> 00:32:38,399
+ser o resultado para confirmar as
+
+693
+00:32:35,279 --> 00:32:43,840
+quantidades ideais acima de 150 tá entre
+
+694
+00:32:38,399 --> 00:32:43,840
+150 e 300 mais ou menos o dha ass
+
+695
+00:32:44,360 --> 00:32:48,559
+sulfatado você disse no vídeo que o DGA
+
+696
+00:32:47,000 --> 00:32:51,279
+não é liberado pela Anvisa para vender
+
+697
+00:32:48,559 --> 00:32:53,720
+em fá e manipulação é com esse nome não
+
+698
+00:32:51,279 --> 00:32:56,120
+tá mas agora é liberado já tem uns 2
+
+699
+00:32:53,720 --> 00:32:58,799
+anos ou dois ou TR anos com o nome prac
+
+700
+00:32:56,120 --> 00:33:02,240
+serona tá mas não com o nome dhe Mas é a
+
+701
+00:32:58,799 --> 00:33:05,559
+mesma coisa qual que é a dose de dhe por
+
+702
+00:33:02,240 --> 00:33:09,120
+dia por volta de 10 mg para mulher e
+
+703
+00:33:05,559 --> 00:33:11,360
+entre 20 e 50 mg para homem suplemento
+
+704
+00:33:09,120 --> 00:33:13,919
+dhe deve ser tomado longe das afeições
+
+705
+00:33:11,360 --> 00:33:16,480
+Não não precisa não vai atrapalha
+
+706
+00:33:13,919 --> 00:33:16,480
+absorção
+
+707
+00:33:19,919 --> 00:33:28,480
+não o site que vende dhea tem um
+
+708
+00:33:25,799 --> 00:33:32,919
+chama-se tem vários que vend aí o último
+
+709
+00:33:28,480 --> 00:33:34,720
+que eu ouvi falar era loja Maromba tá
+
+710
+00:33:32,919 --> 00:33:37,600
+você tem esse nome esse nome engraçado
+
+711
+00:33:34,720 --> 00:33:40,080
+aí mas é é o nome da loja loja Maromba
+
+712
+00:33:37,600 --> 00:33:43,240
+procura no Google você vai achar eles
+
+713
+00:33:40,080 --> 00:33:43,240
+vendem o dhea
+
+714
+00:33:52,200 --> 00:33:59,720
+tá há um ano você disse no YouTube que
+
+715
+00:33:56,000 --> 00:33:59,720
+carboidratos complexo
+
+716
+00:33:59,799 --> 00:34:03,720
+de qualidade aumentam a testosterona e
+
+717
+00:34:01,880 --> 00:34:05,440
+logo em seguida você citou exemplos de
+
+718
+00:34:03,720 --> 00:34:08,960
+que maneira a batata doce aumenta a
+
+719
+00:34:05,440 --> 00:34:12,359
+testosterona os carboidratos de digestão
+
+720
+00:34:08,960 --> 00:34:15,760
+lenta de modo geral aumentam a
+
+721
+00:34:12,359 --> 00:34:18,760
+testosterona dando substratos pro corpo
+
+722
+00:34:15,760 --> 00:34:20,760
+produzir a testosterona tá o problema da
+
+723
+00:34:18,760 --> 00:34:24,399
+aveia é que ela atrapalha a absorção dos
+
+724
+00:34:20,760 --> 00:34:28,480
+outros nutrientes confere que outros
+
+725
+00:34:24,399 --> 00:34:30,119
+nutrientes Eliseu você TNA lista o arroz
+
+726
+00:34:28,480 --> 00:34:32,480
+integral É verdade que o arroz integral
+
+727
+00:34:30,119 --> 00:34:34,839
+é pior que o arroz branco não não é pior
+
+728
+00:34:32,480 --> 00:34:38,320
+Ele é parecido em relação a índice
+
+729
+00:34:34,839 --> 00:34:40,359
+glicêmico a Mas ele tem mais nutrientes
+
+730
+00:34:38,320 --> 00:34:43,760
+arroz branco não aumenta a
+
+731
+00:34:40,359 --> 00:34:46,560
+testosterona não a quinoa que você citou
+
+732
+00:34:43,760 --> 00:34:48,560
+pode ser quinou em flocos pode é verdade
+
+733
+00:34:46,560 --> 00:34:50,679
+que quinou em grãos pode cozinhar fritar
+
+734
+00:34:48,560 --> 00:34:53,399
+que não perde nutriente nenhum que eu
+
+735
+00:34:50,679 --> 00:34:55,440
+saiba não perde nutriente tá uma colher
+
+736
+00:34:53,399 --> 00:34:58,040
+de sopa de Quino em floc potencializa o
+
+737
+00:34:55,440 --> 00:35:02,000
+efeito do suplemento creatina não não
+
+738
+00:34:58,040 --> 00:35:02,000
+potencializa o efeito do creatina
+
+739
+00:35:03,800 --> 00:35:11,119
+não tomar vinagre de maçã e beberina não
+
+740
+00:35:07,560 --> 00:35:15,720
+ao mesmo tempo mas juntas podem ser
+
+741
+00:35:11,119 --> 00:35:15,720
+prejudicial Não não é prejudicial não
+
+742
+00:35:15,760 --> 00:35:21,000
+Antônio câimbra no braço e perda de
+
+743
+00:35:18,839 --> 00:35:23,720
+força no braço de uma mulher diabética
+
+744
+00:35:21,000 --> 00:35:26,839
+está tomando beberina mas não faz uma
+
+745
+00:35:23,720 --> 00:35:29,920
+boa dieta é perigoso ela está iniciando
+
+746
+00:35:26,839 --> 00:35:33,280
+caminhada todos dias pode
+
+747
+00:35:29,920 --> 00:35:35,680
+ajudar se a cvra é
+
+748
+00:35:33,280 --> 00:35:37,640
+perigosa pode ser tem que ser tem que
+
+749
+00:35:35,680 --> 00:35:39,720
+ser avaliada por médico não dá para
+
+750
+00:35:37,640 --> 00:35:41,040
+responder aqui isso não viu Antônio tá
+
+751
+00:35:39,720 --> 00:35:43,760
+muito vago isso aqui para poder
+
+752
+00:35:41,040 --> 00:35:46,119
+responder tá bom tem que ser analisada
+
+753
+00:35:43,760 --> 00:35:48,200
+leva logo no médico para analisar essa P
+
+754
+00:35:46,119 --> 00:35:50,480
+de força no prç Pode até ser um AVC isso
+
+755
+00:35:48,200 --> 00:35:50,480
+daí
+
+756
+00:35:51,680 --> 00:35:58,720
+tá caminhar 4,6 KM e de volta é
+
+757
+00:35:56,440 --> 00:36:01,480
+suficiente para saúde de uma forma geral
+
+758
+00:35:58,720 --> 00:36:05,079
+sim é suficiente
+
+759
+00:36:01,480 --> 00:36:08,440
+sim é um é um bom trajeto se você fizer
+
+760
+00:36:05,079 --> 00:36:08,440
+todo dia tá O Suficiente
+
+761
+00:36:10,850 --> 00:36:18,079
+[Música]
+
+762
+00:36:14,839 --> 00:36:20,160
+sim qual a minha opinião sobre uma
+
+763
+00:36:18,079 --> 00:36:24,240
+refeição que tem amêndoas castanha do
+
+764
+00:36:20,160 --> 00:36:26,760
+Pará Caju Baru nós pecã velan pistache
+
+765
+00:36:24,240 --> 00:36:29,240
+semente de girassol Covo manteiga e
+
+766
+00:36:26,760 --> 00:36:31,839
+Flora Nil
+
+767
+00:36:29,240 --> 00:36:33,359
+Acho ótimo acho uma refeição excelente
+
+768
+00:36:31,839 --> 00:36:36,200
+tem vários nutrientes aqui nessa
+
+769
+00:36:33,359 --> 00:36:39,359
+refeição né inclusive paraa saúde
+
+770
+00:36:36,200 --> 00:36:44,280
+cerebral Acho ótimo também é muito bom
+
+771
+00:36:39,359 --> 00:36:44,280
+paraa saúde cardiológica isso aqui
+
+772
+00:36:46,200 --> 00:36:51,160
+tá com as enchentes no Rio Grande do Sul
+
+773
+00:36:49,480 --> 00:36:53,160
+Pode ser que falte arroz por isso minha
+
+774
+00:36:51,160 --> 00:36:54,960
+família comprou arroz Só que no entanto
+
+775
+00:36:53,160 --> 00:36:56,640
+meu pai pesquisou e comprou arroz branco
+
+776
+00:36:54,960 --> 00:36:58,800
+supostamente é melhor no quesito
+
+777
+00:36:56,640 --> 00:37:01,160
+preservação morora a estragar qual sua
+
+778
+00:36:58,800 --> 00:37:03,839
+opinião numa emergência se você quer
+
+779
+00:37:01,160 --> 00:37:05,720
+estocar arroz para por exemplo você
+
+780
+00:37:03,839 --> 00:37:08,800
+acredita que pode ter
+
+781
+00:37:05,720 --> 00:37:11,119
+uma crise muito grande que pode ter um
+
+782
+00:37:08,800 --> 00:37:14,000
+um colapso social como muita gente
+
+783
+00:37:11,119 --> 00:37:16,160
+acredita que possa acontecer faz mais
+
+784
+00:37:14,000 --> 00:37:19,880
+sentido você realmente armazenar o arroz
+
+785
+00:37:16,160 --> 00:37:24,319
+branco tá numa caso no caso de uma
+
+786
+00:37:19,880 --> 00:37:27,560
+emergência tá eh o Ross branco é melhor
+
+787
+00:37:24,319 --> 00:37:27,560
+ou pior do que o parborizado
+
+788
+00:37:28,599 --> 00:37:32,240
+não acho que eles são equivalentes tá
+
+789
+00:37:30,400 --> 00:37:36,920
+não vejo muita diferença entre os dois
+
+790
+00:37:32,240 --> 00:37:41,839
+não o pizado é ele ele gruda menos
+
+791
+00:37:36,920 --> 00:37:46,760
+né tá vamos ver as perguntas aqui ao
+
+792
+00:37:41,839 --> 00:37:49,760
+vivo Raí de Ortiga bloqueia aromatização
+
+793
+00:37:46,760 --> 00:37:54,040
+de testosterona tem tem um efeito sim
+
+794
+00:37:49,760 --> 00:37:54,040
+leve de bloqueio de aromatização
+
+795
+00:38:00,119 --> 00:38:05,640
+será que isso não é a causa das novas
+
+796
+00:38:02,040 --> 00:38:05,640
+carnes que querem que venhamos
+
+797
+00:38:07,560 --> 00:38:12,440
+comer sim eles utilizam o o argumento
+
+798
+00:38:10,640 --> 00:38:14,720
+que a carne vermelha faz mal para
+
+799
+00:38:12,440 --> 00:38:18,160
+empurrar essa agenda de comer carne
+
+800
+00:38:14,720 --> 00:38:18,160
+artificial concordo com
+
+801
+00:38:19,240 --> 00:38:24,560
+você é verdade que no Brasil aceita 20%
+
+802
+00:38:22,760 --> 00:38:29,079
+em todos os azeites
+
+803
+00:38:24,560 --> 00:38:31,560
+embalados eu não entendi essa pergunta
+
+804
+00:38:29,079 --> 00:38:34,520
+aceit o quê 20% do
+
+805
+00:38:31,560 --> 00:38:37,720
+quê Eu recomendo todas as marcas de de
+
+806
+00:38:34,520 --> 00:38:39,720
+bons produtores né de Portugal da
+
+807
+00:38:37,720 --> 00:38:44,599
+Espanha da do
+
+808
+00:38:39,720 --> 00:38:49,160
+Chile da Grécia da Turquia da Itália tá
+
+809
+00:38:44,599 --> 00:38:49,160
+eh agora não entendi sua pergunta Tá
+
+810
+00:38:49,680 --> 00:38:56,240
+miquinha sim eu recomendo essa marca
+
+811
+00:38:52,240 --> 00:38:56,240
+esporão é uma boa marca
+
+812
+00:38:57,920 --> 00:39:02,280
+prona para quem não tem útero pode ser
+
+813
+00:38:59,960 --> 00:39:05,400
+tomar todos os dias sem interromper pode
+
+814
+00:39:02,280 --> 00:39:05,400
+não tem problema nenhum
+
+815
+00:39:05,760 --> 00:39:10,280
+tá o tempo de validade que eu saiba
+
+816
+00:39:08,680 --> 00:39:12,480
+prata coloidal não tem um tempo de
+
+817
+00:39:10,280 --> 00:39:14,839
+validade específico não ele não vence tá
+
+818
+00:39:12,480 --> 00:39:17,760
+TAM
+
+819
+00:39:14,839 --> 00:39:21,440
+miquinha androgel É sim é bioidêntico
+
+820
+00:39:17,760 --> 00:39:21,440
+sim é testosteron na
+
+821
+00:39:22,599 --> 00:39:28,880
+base o vídeo que mandou assistirmos tem
+
+822
+00:39:25,480 --> 00:39:31,400
+alguma tem algum lugar nos recomendaria
+
+823
+00:39:28,880 --> 00:39:34,800
+que vídeo não tô entendendo Que vídeo é
+
+824
+00:39:31,400 --> 00:39:34,800
+esse que você tá
+
+825
+00:39:34,839 --> 00:39:39,839
+falando 20% de óleo de soja tá agora
+
+826
+00:39:37,960 --> 00:39:41,960
+entendi não não é verdade que todo o
+
+827
+00:39:39,839 --> 00:39:44,720
+azeite de oliva tem 20% de óleo de soja
+
+828
+00:39:41,960 --> 00:39:46,960
+não tá É só você você Alê o rótulo se
+
+829
+00:39:44,720 --> 00:39:49,640
+for um azeite extra virgem não tem nada
+
+830
+00:39:46,960 --> 00:39:49,640
+de óleo de
+
+831
+00:39:50,599 --> 00:39:55,560
+soja aquele vídeo que você colocou no
+
+832
+00:39:52,920 --> 00:39:58,079
+grupo eu vi eliz ele faz todo sentido tá
+
+833
+00:39:55,560 --> 00:40:03,480
+não compraria nenhum tipo de o quebrada
+
+834
+00:39:58,079 --> 00:40:03,480
+não ele tem razão a da a gordura da das
+
+835
+00:40:05,880 --> 00:40:12,000
+oleaginosas se for empacotada a vácuo é
+
+836
+00:40:08,920 --> 00:40:12,000
+mais confiável sim com
+
+837
+00:40:12,359 --> 00:40:17,599
+certeza eh oag genosa oxida se ficar em
+
+838
+00:40:15,560 --> 00:40:20,599
+contato com o ar durante Quanto tempo
+
+839
+00:40:17,599 --> 00:40:20,599
+mais de TRS
+
+840
+00:40:22,680 --> 00:40:27,839
+dias sim já respondi isso aqui
+
+841
+00:40:27,920 --> 00:40:31,040
+não sei dizer
+
+842
+00:40:32,720 --> 00:40:39,680
+eu dos que estão ao vivo assistindo
+
+843
+00:40:37,119 --> 00:40:42,640
+ah das perguntas que eu respondi do
+
+844
+00:40:39,680 --> 00:40:46,480
+documento ficou alguma dúvida das
+
+845
+00:40:42,640 --> 00:40:48,920
+respostas quem tá ao vivo e que também
+
+846
+00:40:46,480 --> 00:40:51,920
+fez pergunta no documento tem alguma
+
+847
+00:40:48,920 --> 00:40:51,920
+dúvida
+
+848
+00:41:16,240 --> 00:41:24,359
+Antônio Renato eu fiz uma pergunta agora
+
+849
+00:41:19,319 --> 00:41:26,839
+no documento você tá falando Ah sim já
+
+850
+00:41:24,359 --> 00:41:30,560
+vi que tem mais uma pergunta aqui se uma
+
+851
+00:41:26,839 --> 00:41:30,560
+pessoa está deixa eu colocar na
+
+852
+00:41:32,119 --> 00:41:38,960
+tela se uma pessoa está prestes a ter
+
+853
+00:41:35,079 --> 00:41:41,240
+uma AVC a caminhada ou exercício em alta
+
+854
+00:41:38,960 --> 00:41:45,400
+intensidade pode ajudar a
+
+855
+00:41:41,240 --> 00:41:47,280
+evitar não vai ajudar a evitar a longo
+
+856
+00:41:45,400 --> 00:41:50,119
+prazo mas não se a pessoa tá tendo uma
+
+857
+00:41:47,280 --> 00:41:50,119
+crise naquele exato
+
+858
+00:41:50,760 --> 00:41:55,680
+momento tá então se você fizer caminhada
+
+859
+00:41:53,560 --> 00:41:58,560
+a longo prazo obviamente vai te proteger
+
+860
+00:41:55,680 --> 00:42:00,400
+Mas se a pessoa tiver a um passo de ter
+
+861
+00:41:58,560 --> 00:42:02,640
+um AVC não adianta pô ela para correr
+
+862
+00:42:00,400 --> 00:42:05,920
+que não vai evitar o AVC não sei se é
+
+863
+00:42:02,640 --> 00:42:05,920
+isso que você quis
+
+864
+00:42:06,640 --> 00:42:09,640
+dizer
+
+865
+00:42:12,800 --> 00:42:17,240
+tá todas as oleaginosas ficam macias
+
+866
+00:42:16,119 --> 00:42:20,240
+quando
+
+867
+00:42:17,240 --> 00:42:20,240
+oxidadas
+
+868
+00:42:21,200 --> 00:42:27,240
+ã Quais são os sinais de
+
+869
+00:42:24,160 --> 00:42:30,079
+oxidação não não acho que seja visível
+
+870
+00:42:27,240 --> 00:42:31,880
+sinais de oxidação não Eliseu talvez se
+
+871
+00:42:30,079 --> 00:42:34,680
+que mole mesmo como você tá falando mas
+
+872
+00:42:31,880 --> 00:42:36,839
+não é não conheço outro sinal além desse
+
+873
+00:42:34,680 --> 00:42:39,119
+não
+
+874
+00:42:36,839 --> 00:42:42,440
+oleaginosas guardadas na geladeira tem
+
+875
+00:42:39,119 --> 00:42:42,440
+algum problema não não
+
+876
+00:42:43,319 --> 00:42:49,960
+tem não a cândida não vai morrer com a
+
+877
+00:42:46,359 --> 00:42:52,359
+com a com a temperatura da geladeira não
+
+878
+00:42:49,960 --> 00:42:55,359
+não é confiável esse método aí não viu
+
+879
+00:42:52,359 --> 00:42:55,359
+Eliseu
+
+880
+00:43:00,760 --> 00:43:05,720
+não o plástico Ele tá em todos os
+
+881
+00:43:02,839 --> 00:43:08,839
+lugares né elizu O ideal seria não
+
+882
+00:43:05,720 --> 00:43:10,680
+utilizar por causa dos produtos aí
+
+883
+00:43:08,839 --> 00:43:12,200
+derivados do plásticos que são Chen
+
+884
+00:43:10,680 --> 00:43:15,240
+estrógenos mas
+
+885
+00:43:12,200 --> 00:43:17,599
+eh entre os males o menor é muito mais
+
+886
+00:43:15,240 --> 00:43:19,960
+muito melhor você lidar com isso do que
+
+887
+00:43:17,599 --> 00:43:22,359
+ter um problema de contaminação aí de de
+
+888
+00:43:19,960 --> 00:43:22,359
+fungo
+
+889
+00:43:22,440 --> 00:43:29,119
+né Não não é comum ter agrotóxico em
+
+890
+00:43:26,160 --> 00:43:29,119
+olear genosa não
+
+891
+00:43:33,040 --> 00:43:40,240
+não é um um um produto especialmente
+
+892
+00:43:36,400 --> 00:43:40,240
+rico em agrotóxico Que eu saiba não
+
+893
+00:43:52,160 --> 00:43:58,400
+Eliseu bem pessoal Estamos indo para 45
+
+894
+00:43:55,160 --> 00:44:00,680
+minutos de Live né até para ficar mais
+
+895
+00:43:58,400 --> 00:44:02,800
+fácil para vocês verem os vídeos depois
+
+896
+00:44:00,680 --> 00:44:05,200
+eu eu não gosto de estender demais essas
+
+897
+00:44:02,800 --> 00:44:05,200
+lives
+
+898
+00:44:05,880 --> 00:44:11,680
+Tá eu vou ficar mais um minuto para
+
+899
+00:44:08,440 --> 00:44:11,680
+responder dúvidas de
+
+900
+00:44:17,800 --> 00:44:22,079
+vocês obrigado Eliseu pelo
+
+901
+00:44:24,920 --> 00:44:32,040
+feedback Antônio Renato tem alguma
+
+902
+00:44:27,720 --> 00:44:35,520
+dúvida TAM miquinha Carlos kman que
+
+903
+00:44:32,040 --> 00:44:35,520
+deixou Pergunta lá no
+
+904
+00:44:36,520 --> 00:44:42,000
+questionário Denise Eloí alguém com mais
+
+905
+00:44:39,680 --> 00:44:42,000
+alguma
+
+906
+00:44:53,000 --> 00:44:58,559
+dúvida Obrigado Tami quinha
+
+907
+00:44:56,040 --> 00:45:01,200
+pelo boa noite bom descanso também para
+
+908
+00:44:58,559 --> 00:45:04,200
+você e para todos que estão assistindo a
+
+909
+00:45:01,200 --> 00:45:06,440
+Live Então pessoal vou encerrar Tá bom
+
+910
+00:45:04,200 --> 00:45:09,440
+já que não tem mais dúvidas e agradeço
+
+911
+00:45:06,440 --> 00:45:11,440
+novamente tem uma dúvida última aqui do
+
+912
+00:45:09,440 --> 00:45:12,599
+Eliseu Mas agradeço novamente aí a
+
+913
+00:45:11,440 --> 00:45:16,800
+audiência de
+
+914
+00:45:12,599 --> 00:45:19,440
+vocês não essa aqui Eu já
+
+915
+00:45:16,800 --> 00:45:22,450
+respondi já te falei que o agrotóxico
+
+916
+00:45:19,440 --> 00:45:23,960
+não é um problema pro pras oleaginosas
+
+917
+00:45:22,450 --> 00:45:26,680
+[Música]
+
+918
+00:45:23,960 --> 00:45:28,520
+tá boa noite a todos um grande abraço a
+
+919
+00:45:26,680 --> 00:45:31,920
+todos vocês até a próxima semana um
+
+920
+00:45:28,520 --> 00:45:31,920
+beijo no coração
+

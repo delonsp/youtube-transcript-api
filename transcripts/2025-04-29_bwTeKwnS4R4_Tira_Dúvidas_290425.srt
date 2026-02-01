@@ -1,0 +1,5048 @@
+1
+00:00:00,000 --> 00:00:03,000
+เฮ
+
+2
+00:00:05,670 --> 00:00:08,860
+[Música]
+
+3
+00:00:13,050 --> 00:00:34,160
+[Música]
+
+4
+00:00:32,160 --> 00:00:35,520
+Boa noite a todos. É um prazer estar
+
+5
+00:00:34,160 --> 00:00:37,920
+aqui com
+
+6
+00:00:35,520 --> 00:00:40,719
+vocês. Vamos discutir um pouquinho sobre
+
+7
+00:00:37,920 --> 00:00:42,960
+o assunto da MPOX que vocês pediram no
+
+8
+00:00:40,719 --> 00:00:44,600
+grupo. Não estou acompanhando muitas
+
+9
+00:00:42,960 --> 00:00:45,879
+mensagens, mas a última mensagem que eu
+
+10
+00:00:44,600 --> 00:00:48,680
+vi que vocês queriam que eu falasse de
+
+11
+00:00:45,879 --> 00:00:50,879
+MIPOX e dos casos que tiveram
+
+12
+00:00:48,680 --> 00:00:53,239
+recentemente. Boa noite, Antônio. Me
+
+13
+00:00:50,879 --> 00:00:55,760
+diga se o áudio tá legal. Eu tô
+
+14
+00:00:53,239 --> 00:00:58,079
+usando um fone novo da Apple que eu
+
+15
+00:00:55,760 --> 00:00:59,760
+comprei na viagem, eh, que ele é
+
+16
+00:00:58,079 --> 00:01:03,159
+portátil, né?
+
+17
+00:00:59,760 --> 00:01:05,680
+Me diga se o som tá saindo legal, tá,
+
+18
+00:01:03,159 --> 00:01:07,960
+Antônio? E quem fori entrando também se
+
+19
+00:01:05,680 --> 00:01:11,080
+manifeste, diga se tá tudo bem. Sandra,
+
+20
+00:01:07,960 --> 00:01:13,280
+boa noite. Obrigado tá presente na live.
+
+21
+00:01:11,080 --> 00:01:16,119
+Antônio dizendo que está
+
+22
+00:01:13,280 --> 00:01:18,920
+OK. Sandra, por favor, também diga se
+
+23
+00:01:16,119 --> 00:01:20,400
+você escuta bem. Ok. Bem, eu não sei se
+
+24
+00:01:18,920 --> 00:01:22,400
+vocês estão tão interessados no assunto
+
+25
+00:01:20,400 --> 00:01:25,040
+da da Mipox, mas me pareceu que era o
+
+26
+00:01:22,400 --> 00:01:26,240
+caso, tá? Vamos começar com esse
+
+27
+00:01:25,040 --> 00:01:29,240
+assunto, depois a gente vai paraas
+
+28
+00:01:26,240 --> 00:01:29,240
+dúvidas.
+
+29
+00:01:29,400 --> 00:01:34,079
+Então vamos abordar de uma maneira
+
+30
+00:01:31,040 --> 00:01:36,399
+detalhada a situação atual da MPOX no
+
+31
+00:01:34,079 --> 00:01:39,560
+estado do Pará. Vamos analisar aqui
+
+32
+00:01:36,399 --> 00:01:42,079
+dados oficiais, dados e casos
+
+33
+00:01:39,560 --> 00:01:46,719
+confirmados, aspectos clínicos e
+
+34
+00:01:42,079 --> 00:01:49,680
+controvérsias em torno das soluções
+
+35
+00:01:46,719 --> 00:01:52,399
+aí imunológicas disponíveis, né? Então
+
+36
+00:01:49,680 --> 00:01:54,920
+essa apresentação foi preparada com base
+
+37
+00:01:52,399 --> 00:01:57,399
+nas informações que eu pude apurar mais
+
+38
+00:01:54,920 --> 00:01:59,920
+recentes sobre esse assunto e que foram
+
+39
+00:01:57,399 --> 00:02:02,880
+disponibilizadas aí pelas autoridades
+
+40
+00:01:59,920 --> 00:02:05,000
+sanitárias e também na
+
+41
+00:02:02,880 --> 00:02:07,360
+internet. Então temos a seguinte
+
+42
+00:02:05,000 --> 00:02:11,000
+situação. No estado do Pará foram
+
+43
+00:02:07,360 --> 00:02:16,120
+documentados 19 casos desde o início de
+
+44
+00:02:11,000 --> 00:02:18,560
+2025 até 23 de abril e esses casos estão
+
+45
+00:02:16,120 --> 00:02:21,680
+distribuídos em regiões geográficas de
+
+46
+00:02:18,560 --> 00:02:24,400
+Belém. da capital do
+
+47
+00:02:21,680 --> 00:02:28,160
+estado, que registrou a maioria dos
+
+48
+00:02:24,400 --> 00:02:30,920
+casos, né, dos 19, registrou 14.
+
+49
+00:02:28,160 --> 00:02:33,519
+E a segunda localidade registrada foi a
+
+50
+00:02:30,920 --> 00:02:34,280
+Nanindeua, né, que é uma cidade menor lá
+
+51
+00:02:33,519 --> 00:02:37,360
+do
+
+52
+00:02:34,280 --> 00:02:41,000
+estado. Teve três casos em Anindua, um
+
+53
+00:02:37,360 --> 00:02:43,360
+caso em Marituba e outro caso em portado
+
+54
+00:02:41,000 --> 00:02:43,360
+de outro
+
+55
+00:02:43,400 --> 00:02:48,480
+estado. E apesar desses números, as
+
+56
+00:02:46,000 --> 00:02:50,280
+autoridades sanitárias mantém que não há
+
+57
+00:02:48,480 --> 00:02:52,200
+situação de surto na
+
+58
+00:02:50,280 --> 00:02:54,640
+região. Então esse padrão de
+
+59
+00:02:52,200 --> 00:02:56,720
+distribuição ele sugere uma concentração
+
+60
+00:02:54,640 --> 00:02:59,760
+urbana, particularmente na área
+
+61
+00:02:56,720 --> 00:03:03,080
+metropolitana de Belém, que responde por
+
+62
+00:02:59,760 --> 00:03:05,879
+95% dos casos. E essa concentração pode
+
+63
+00:03:03,080 --> 00:03:08,120
+refletir tanto fatores de densidade
+
+64
+00:03:05,879 --> 00:03:10,760
+populacional quanto potencialmente
+
+65
+00:03:08,120 --> 00:03:12,680
+sistemas de vigilância mais robustos que
+
+66
+00:03:10,760 --> 00:03:13,720
+estão captando os casos, né? Então pode
+
+67
+00:03:12,680 --> 00:03:16,080
+ser tanto
+
+68
+00:03:13,720 --> 00:03:17,599
+que tá relacionada à densidade
+
+69
+00:03:16,080 --> 00:03:22,640
+populacional, que nós sabemos que faz
+
+70
+00:03:17,599 --> 00:03:22,640
+sentido, quanto que é a região que tem
+
+71
+00:03:23,440 --> 00:03:29,040
+mais eh notificações. Então isso pode
+
+72
+00:03:26,280 --> 00:03:31,040
+estar também, de certa forma tá
+
+73
+00:03:29,040 --> 00:03:34,319
+distorcendo um pouco os dados, OK? Que
+
+74
+00:03:31,040 --> 00:03:37,080
+áreas rurais a notificação é bem menor.
+
+75
+00:03:34,319 --> 00:03:38,480
+Então não foram registrados duas mortes
+
+76
+00:03:37,080 --> 00:03:42,080
+entre esses
+
+77
+00:03:38,480 --> 00:03:45,159
+casos, ambos indivíduos falecidos.
+
+78
+00:03:42,080 --> 00:03:46,720
+tinham comorbidades, tá? Isso aumentou o
+
+79
+00:03:45,159 --> 00:03:49,000
+risco de doença grave. Então isso que a
+
+80
+00:03:46,720 --> 00:03:51,439
+gente discutiu em momentos anteriores,
+
+81
+00:03:49,000 --> 00:03:54,920
+em lives anteriores, né, que a mipoxia é
+
+82
+00:03:51,439 --> 00:03:57,159
+um problema para quem tem comorbidades e
+
+83
+00:03:54,920 --> 00:03:59,000
+não é uma doença grave em pessoas de boa
+
+84
+00:03:57,159 --> 00:04:00,920
+saúde, tá?
+
+85
+00:03:59,000 --> 00:04:03,040
+Então, as autoridades sanitárias
+
+86
+00:04:00,920 --> 00:04:05,280
+enfatizaram que essas fatalidades
+
+87
+00:04:03,040 --> 00:04:07,959
+ocorreram em pacientes com condições de
+
+88
+00:04:05,280 --> 00:04:10,840
+saúde subjacentes, né, como eu
+
+89
+00:04:07,959 --> 00:04:12,000
+expliquei, sugerindo que o risco real e
+
+90
+00:04:10,840 --> 00:04:14,680
+geral de
+
+91
+00:04:12,000 --> 00:04:16,919
+mortalidade permanece relativamente
+
+92
+00:04:14,680 --> 00:04:20,280
+baixo para indivíduos
+
+93
+00:04:16,919 --> 00:04:22,800
+saudáveis. Temos aqui um caso que ficou
+
+94
+00:04:20,280 --> 00:04:26,400
+famoso de uma pessoa notável aí da
+
+95
+00:04:22,800 --> 00:04:29,800
+região, que é o guto xibatada, né? Essa
+
+96
+00:04:26,400 --> 00:04:32,440
+morte ganhou a atenção pública porque
+
+97
+00:04:29,800 --> 00:04:35,280
+foi de um cantor local de forró, né, que
+
+98
+00:04:32,440 --> 00:04:38,199
+tem uma fama local. Chama-se Augusto
+
+99
+00:04:35,280 --> 00:04:41,560
+Demétrio Neto, também conhecido como
+
+100
+00:04:38,199 --> 00:04:43,479
+Guto Shibatada, tinha 39 anos, né? chama
+
+101
+00:04:41,560 --> 00:04:47,039
+atenção à idade, né, desse
+
+102
+00:04:43,479 --> 00:04:50,919
+rapaz e teria contraído o vírus no final
+
+103
+00:04:47,039 --> 00:04:53,759
+de 2024 durante uma viagem, mas
+
+104
+00:04:50,919 --> 00:04:56,800
+inicialmente não foi revelado a condição
+
+105
+00:04:53,759 --> 00:04:56,800
+de saúde para os
+
+106
+00:04:57,199 --> 00:05:01,199
+familiares. Então, segundo o secretário
+
+107
+00:04:59,360 --> 00:05:04,000
+municipal de saúde de Belém, que é o
+
+108
+00:05:01,199 --> 00:05:07,199
+Rômulina, a morte do chibatada em 23 de
+
+109
+00:05:04,000 --> 00:05:08,680
+abril de 2025 resultou de complicações
+
+110
+00:05:07,199 --> 00:05:11,440
+respiratórias associadas a outras
+
+111
+00:05:08,680 --> 00:05:13,960
+doenças, não diretamente a MIPOX. Então
+
+112
+00:05:11,440 --> 00:05:15,960
+esse caso trouxe maior conscientização
+
+113
+00:05:13,960 --> 00:05:18,680
+sobre a doença na região, porque ele era
+
+114
+00:05:15,960 --> 00:05:20,440
+uma pessoa famosa, obviamente, embora as
+
+115
+00:05:18,680 --> 00:05:22,680
+autoridades mantenham que foi um caso
+
+116
+00:05:20,440 --> 00:05:24,120
+isolado e não tem evidências de surto
+
+117
+00:05:22,680 --> 00:05:26,639
+pelo número de casos, realmente a gente
+
+118
+00:05:24,120 --> 00:05:29,319
+não pode falar em surto, né, que foram
+
+119
+00:05:26,639 --> 00:05:31,520
+pouco mais aí de 20 casos.
+
+120
+00:05:29,319 --> 00:05:34,400
+Então, o cantor havia sido hospitalizado
+
+121
+00:05:31,520 --> 00:05:37,039
+no pronto socorro Mário Pinote em Belém,
+
+122
+00:05:34,400 --> 00:05:38,880
+após apresentar convulsões e febre e
+
+123
+00:05:37,039 --> 00:05:41,479
+antes da hospitalização ele estava
+
+124
+00:05:38,880 --> 00:05:44,840
+recebendo tratamento em isolamento do
+
+125
+00:05:41,479 --> 00:05:47,400
+homiciliar, conforme foi recomendado. E
+
+126
+00:05:44,840 --> 00:05:50,400
+vamos falar então sobre a resposta
+
+127
+00:05:47,400 --> 00:05:53,319
+oficial ao caso e à
+
+128
+00:05:50,400 --> 00:05:56,199
+declarações. Então, em 28 de abril de
+
+129
+00:05:53,319 --> 00:05:58,360
+2025, a Secretaria de Estado, a
+
+130
+00:05:56,199 --> 00:06:01,039
+Secretaria de Estado de Saúde do Pará, o
+
+131
+00:05:58,360 --> 00:06:03,520
+CESPA e a Secretaria Municipal de Saúde
+
+132
+00:06:01,039 --> 00:06:05,919
+de Belém, que é o Sesma, realizaram uma
+
+133
+00:06:03,520 --> 00:06:08,880
+coletiva de imprensa para abordar
+
+134
+00:06:05,919 --> 00:06:10,960
+preocupações públicas sobre o potencial
+
+135
+00:06:08,880 --> 00:06:14,240
+surto dessa doença do Mipox. Então,
+
+136
+00:06:10,960 --> 00:06:17,280
+durante esse evento, o secretário Romina
+
+137
+00:06:14,240 --> 00:06:19,120
+declarou de forma explícita que estariam
+
+138
+00:06:17,280 --> 00:06:22,400
+fora de um surto, fora de qualquer
+
+139
+00:06:19,120 --> 00:06:24,479
+hipótese dessa categoria.
+
+140
+00:06:22,400 --> 00:06:26,479
+As autoridades sanitárias
+
+141
+00:06:24,479 --> 00:06:29,319
+enfatizaram que todos os casos
+
+142
+00:06:26,479 --> 00:06:31,520
+confirmados estão sendo monitorados por
+
+143
+00:06:29,319 --> 00:06:33,520
+equipes de saúde, que não teria
+
+144
+00:06:31,520 --> 00:06:34,319
+indicação de agravamento da doença em
+
+145
+00:06:33,520 --> 00:06:36,599
+nível
+
+146
+00:06:34,319 --> 00:06:39,240
+populacional. Essa resposta demonstra
+
+147
+00:06:36,599 --> 00:06:41,599
+uma tentativa de manter a calma enquanto
+
+148
+00:06:39,240 --> 00:06:44,000
+se reconhece a presença da doença na
+
+149
+00:06:41,599 --> 00:06:46,000
+região. Então, a situação está sendo
+
+150
+00:06:44,000 --> 00:06:48,880
+ativamente monitorada dentro da
+
+151
+00:06:46,000 --> 00:06:51,599
+estrutura de vigilância nacional. O
+
+152
+00:06:48,880 --> 00:06:53,880
+Ministério da Saúde implementou um plano
+
+153
+00:06:51,599 --> 00:06:57,120
+de contingência para responder o Ipox
+
+154
+00:06:53,880 --> 00:06:59,680
+com estágios operacionais definidos com
+
+155
+00:06:57,120 --> 00:07:01,639
+base na situação epidemiológica. Então,
+
+156
+00:06:59,680 --> 00:07:04,280
+com base nos atuais números de casos
+
+157
+00:07:01,639 --> 00:07:07,240
+registrados e padrões de transmissão, o
+
+158
+00:07:04,280 --> 00:07:09,479
+Pará parece estar classificado em status
+
+159
+00:07:07,240 --> 00:07:12,000
+não emergencial. Então, pelo número de
+
+160
+00:07:09,479 --> 00:07:14,560
+casos, eu concordo com isso.
+
+161
+00:07:12,000 --> 00:07:16,360
+OK? Então, vamos falar de novo sobre
+
+162
+00:07:14,560 --> 00:07:18,599
+MPOX. Nós falamos sobre isso ano
+
+163
+00:07:16,360 --> 00:07:21,639
+passado, sobre mecanismos de
+
+164
+00:07:18,599 --> 00:07:24,160
+transmissão, características clínicas.
+
+165
+00:07:21,639 --> 00:07:27,840
+Então, MPOX ele é causado pel vírus que
+
+166
+00:07:24,160 --> 00:07:30,240
+é da família da varíula, é o vírus
+
+167
+00:07:27,840 --> 00:07:33,120
+Monkeyippox, que mais tecnicamente
+
+168
+00:07:30,240 --> 00:07:35,479
+falando pertence à família Ortopox
+
+169
+00:07:33,120 --> 00:07:38,960
+Vírus. É um dos maiores e mais
+
+170
+00:07:35,479 --> 00:07:41,240
+resistentes vírus de DNA conhecidos. E a
+
+171
+00:07:38,960 --> 00:07:44,120
+doença pode se espalhar por várias vias,
+
+172
+00:07:41,240 --> 00:07:47,080
+por contato corpo a corpo, né? Contato
+
+173
+00:07:44,120 --> 00:07:49,400
+próximo ou íntimo entre indivíduos
+
+174
+00:07:47,080 --> 00:07:52,280
+infectados, particularmente através de
+
+175
+00:07:49,400 --> 00:07:54,639
+contato direto pele à pele, através de
+
+176
+00:07:52,280 --> 00:07:57,039
+contato com a erupção cutânea ou crostas
+
+177
+00:07:54,639 --> 00:08:00,800
+na doença, contato com fluidos
+
+178
+00:07:57,039 --> 00:08:03,199
+corporais, que pode ser saliva, fêmeas,
+
+179
+00:08:00,800 --> 00:08:07,639
+secreções
+
+180
+00:08:03,199 --> 00:08:10,360
+respiratórias e o contato sexual. OK?
+
+181
+00:08:07,639 --> 00:08:12,159
+E se fala muito também de contato
+
+182
+00:08:10,360 --> 00:08:15,599
+homossexual, apesar que não ser
+
+183
+00:08:12,159 --> 00:08:17,720
+exclusivo por essa via, né? E também tem
+
+184
+00:08:15,599 --> 00:08:20,720
+contato com objetos contaminados,
+
+185
+00:08:17,720 --> 00:08:24,120
+incluindo roupas, roupas de cama,
+
+186
+00:08:20,720 --> 00:08:26,800
+toalha, utensílio, prato, itens pessoais
+
+187
+00:08:24,120 --> 00:08:29,080
+de forma geral. E existe também uma
+
+188
+00:08:26,800 --> 00:08:31,839
+transmissão entre animal e humano, que é
+
+189
+00:08:29,080 --> 00:08:34,039
+a chamada zoonótica, né?
+
+190
+00:08:31,839 --> 00:08:36,599
+Zoonoses, particularmente em regiões
+
+191
+00:08:34,039 --> 00:08:39,599
+endêmicas. Então, existe sim isso na
+
+192
+00:08:36,599 --> 00:08:42,159
+África Ocidental e Central, que pessoas
+
+193
+00:08:39,599 --> 00:08:44,039
+têm contatos com animais infectados, ou
+
+194
+00:08:42,159 --> 00:08:45,560
+pode acontecer através de mordidas ou
+
+195
+00:08:44,039 --> 00:08:48,959
+arranhões desses
+
+196
+00:08:45,560 --> 00:08:52,080
+animais. No Brasil, não é uma forma de
+
+197
+00:08:48,959 --> 00:08:55,000
+transmissão que esteja sendo
+
+198
+00:08:52,080 --> 00:08:58,160
+divulgada. Então, o Ministério da Saúde
+
+199
+00:08:55,000 --> 00:09:01,000
+observa que a transmissão do vírus tem
+
+200
+00:08:58,160 --> 00:09:03,560
+ocorrido principalmente por via sexual e
+
+201
+00:09:01,000 --> 00:09:07,079
+a detecção precoce continua sendo chave,
+
+202
+00:09:03,560 --> 00:09:09,600
+OK? para tentar interromper a a
+
+203
+00:09:07,079 --> 00:09:11,959
+propagação. E qual é a manifestação
+
+204
+00:09:09,600 --> 00:09:14,920
+clínica? Então, tem vários sintomas, dor
+
+205
+00:09:11,959 --> 00:09:19,279
+de cabeça, linfonos inchados, que são as
+
+206
+00:09:14,920 --> 00:09:22,760
+ínguas, erupções cutâneas, né, com
+
+207
+00:09:19,279 --> 00:09:24,279
+crostas e febre malestar geral.
+
+208
+00:09:22,760 --> 00:09:26,440
+Então, o diagnóstico é realizado através
+
+209
+00:09:24,279 --> 00:09:28,480
+de testes laboratoriais, testes
+
+210
+00:09:26,440 --> 00:09:31,160
+moleculares e sequenciamento genético
+
+211
+00:09:28,480 --> 00:09:34,000
+que devem ser conduzidos em pacientes
+
+212
+00:09:31,160 --> 00:09:36,760
+que têm suspeita da doença. As amostras
+
+213
+00:09:34,000 --> 00:09:40,320
+são coletadas de secreções de lesões ou
+
+214
+00:09:36,760 --> 00:09:43,640
+quando as lesões secaram das crostas.
+
+215
+00:09:40,320 --> 00:09:47,800
+OK? Então, como podemos prevenir essa
+
+216
+00:09:43,640 --> 00:09:51,760
+situação? A principal prevenção eh em
+
+217
+00:09:47,800 --> 00:09:55,120
+relação à contração do MPOX é evitar
+
+218
+00:09:51,760 --> 00:09:56,600
+contato direto com casos suspeitos ou
+
+219
+00:09:55,120 --> 00:09:58,320
+confirmados, usar equipamento de
+
+220
+00:09:56,600 --> 00:09:59,720
+proteção individual, que é luva,
+
+221
+00:09:58,320 --> 00:10:03,600
+máscara, isso que o pessoal da área de
+
+222
+00:09:59,720 --> 00:10:06,279
+saúde, né? aventais, proteção
+
+223
+00:10:03,600 --> 00:10:08,240
+ocular, isolamento imediato de casos
+
+224
+00:10:06,279 --> 00:10:10,440
+suspeitos ou confirmados, lavagem
+
+225
+00:10:08,240 --> 00:10:13,360
+regular das mãos com água e sabão ou uso
+
+226
+00:10:10,440 --> 00:10:15,279
+de higienizadores à base de álcool,
+
+227
+00:10:13,360 --> 00:10:18,160
+limpeza e desinfecção adequada
+
+228
+00:10:15,279 --> 00:10:20,560
+superfícies e objetos contaminados.
+
+229
+00:10:18,160 --> 00:10:23,279
+Então, para contatos de indivíduos
+
+230
+00:10:20,560 --> 00:10:24,640
+infectados, precações adicionais, além
+
+231
+00:10:23,279 --> 00:10:27,320
+de usar os equipamentos de proteção
+
+232
+00:10:24,640 --> 00:10:29,480
+individual, é a lavagem adequada de
+
+233
+00:10:27,320 --> 00:10:32,120
+roupa de cama, de toalha, de utensílio,
+
+234
+00:10:29,480 --> 00:10:34,680
+de itens pessoais, água morna e
+
+235
+00:10:32,120 --> 00:10:37,920
+detergente. Descarte apropriado de
+
+236
+00:10:34,680 --> 00:10:39,920
+materiais contaminados. OK?
+
+237
+00:10:37,920 --> 00:10:41,959
+Vamos falar um pouquinho da vacinação.
+
+238
+00:10:39,920 --> 00:10:45,000
+Eh, deixando claro para vocês que eu não
+
+239
+00:10:41,959 --> 00:10:48,079
+estou acompanhando assim muito de perto
+
+240
+00:10:45,000 --> 00:10:50,279
+essa questão da vacinação. Eu vou
+
+241
+00:10:48,079 --> 00:10:53,320
+dividir com vocês o que eu pude apurar
+
+242
+00:10:50,279 --> 00:10:55,000
+sobre isso e se eu tiver mais
+
+243
+00:10:53,320 --> 00:10:55,800
+informações futuramente eu vou dividir
+
+244
+00:10:55,000 --> 00:11:00,480
+com
+
+245
+00:10:55,800 --> 00:11:03,399
+vocês. Tem uma vacina chamada Invanex.
+
+246
+00:11:00,480 --> 00:11:07,399
+Invanex
+
+247
+00:11:03,399 --> 00:11:11,040
+imv, também conhecida como Gineos com J.
+
+248
+00:11:07,399 --> 00:11:14,240
+Gineos, que demonstrou teoricamente 84%
+
+249
+00:11:11,040 --> 00:11:16,800
+de eficácia contra a infecção por esse
+
+250
+00:11:14,240 --> 00:11:18,800
+vírus com uma única dose. Segundo o
+
+251
+00:11:16,800 --> 00:11:21,760
+estudo que foi publicado no The Lens
+
+252
+00:11:18,800 --> 00:11:24,639
+infectious Diseas, isso em março desse
+
+253
+00:11:21,760 --> 00:11:27,200
+ano, OK? Então, é bem recente essa
+
+254
+00:11:24,639 --> 00:11:28,839
+publicação. No entanto, para indivíduos
+
+255
+00:11:27,200 --> 00:11:31,399
+imunocomprometidos, particularmente
+
+256
+00:11:28,839 --> 00:11:35,200
+aqueles que têm HIV, duas
+
+257
+00:11:31,399 --> 00:11:37,519
+doses são necessárias para a
+
+258
+00:11:35,200 --> 00:11:39,160
+proteção. Essa vacina foi recentemente
+
+259
+00:11:37,519 --> 00:11:42,519
+aprovada pela Agência Nacional de
+
+260
+00:11:39,160 --> 00:11:44,240
+Vigilância Sanitária, um Visa, OK? Está
+
+261
+00:11:42,519 --> 00:11:47,360
+disponível através do Sistema Único de
+
+262
+00:11:44,240 --> 00:11:49,720
+Saúde, segundo eles. E quanto a
+
+263
+00:11:47,360 --> 00:11:52,000
+tratamento, atualmente não tem medicação
+
+264
+00:11:49,720 --> 00:11:54,639
+específica para o MPOX. A Agência
+
+265
+00:11:52,000 --> 00:11:57,040
+Reguladora de Saúde Brasileira Anvisa
+
+266
+00:11:54,639 --> 00:12:00,800
+estendeu autorização para o Ministério
+
+267
+00:11:57,040 --> 00:12:03,040
+da Saúde importar e usar o
+
+268
+00:12:00,800 --> 00:12:04,760
+Tecovirimate, um medicamento para tratar
+
+269
+00:12:03,040 --> 00:12:08,079
+doenças por
+
+270
+00:12:04,760 --> 00:12:09,519
+ortopox vírus, que é essa classe que à
+
+271
+00:12:08,079 --> 00:12:12,800
+qual pertence o
+
+272
+00:12:09,519 --> 00:12:14,880
+MPOX. Mas esse medicamento ele é usado
+
+273
+00:12:12,800 --> 00:12:16,399
+caso a caso, né, geralmente nos casos
+
+274
+00:12:14,880 --> 00:12:18,519
+graves,
+
+275
+00:12:16,399 --> 00:12:20,120
+tecovirat, tá? Não conheço nada essa
+
+276
+00:12:18,519 --> 00:12:21,560
+medicação, vou ter que estudar um pouco
+
+277
+00:12:20,120 --> 00:12:23,959
+depois sobre
+
+278
+00:12:21,560 --> 00:12:26,040
+isso. Então, paraa maioria dos pacientes
+
+279
+00:12:23,959 --> 00:12:28,240
+o tratamento se concentra em manejar os
+
+280
+00:12:26,040 --> 00:12:31,240
+sintomas, controlar os sintomas,
+
+281
+00:12:28,240 --> 00:12:33,440
+aliviando a dor, prevenindo infecções
+
+282
+00:12:31,240 --> 00:12:35,560
+secundárias, tratamentos tópicos das
+
+283
+00:12:33,440 --> 00:12:38,199
+feridas para elas não infectarem, né, de
+
+284
+00:12:35,560 --> 00:12:40,240
+maneira secundária e cuidado, suporte
+
+285
+00:12:38,199 --> 00:12:42,160
+para manter hidratação e nutrição, tá?
+
+286
+00:12:40,240 --> 00:12:44,800
+Vamos falar um pouco sobre controvérsias
+
+287
+00:12:42,160 --> 00:12:46,480
+em torno da vacina.
+
+288
+00:12:44,800 --> 00:12:49,959
+Então, tem várias controvérsias e pontos
+
+289
+00:12:46,480 --> 00:12:52,120
+de debate que emergeram em relação às
+
+290
+00:12:49,959 --> 00:12:56,320
+vacinas contra Mipox,
+
+291
+00:12:52,120 --> 00:12:59,560
+particularmente as vacinas da classe MVA
+
+292
+00:12:56,320 --> 00:13:02,680
+BN, que é a que eu acabei de falar,
+
+293
+00:12:59,560 --> 00:13:08,000
+Gineus/INVanex, e também o ACAN 2000,
+
+294
+00:13:02,680 --> 00:13:12,240
+né? Então, a AC 2000 é uma vacina viva
+
+295
+00:13:08,000 --> 00:13:14,920
+contra a varíula, então é um vírus vivo
+
+296
+00:13:12,240 --> 00:13:17,320
+e competente para replicação, né? né?
+
+297
+00:13:14,920 --> 00:13:19,720
+Então essa vacina ACAN 2000 estaria
+
+298
+00:13:17,320 --> 00:13:21,760
+associado a um risco mais elevado de
+
+299
+00:13:19,720 --> 00:13:23,279
+efeitos colaterais graves, incluído
+
+300
+00:13:21,760 --> 00:13:26,440
+miocardite,
+
+301
+00:13:23,279 --> 00:13:30,279
+pericardite, vaxínia progressiva,
+
+302
+00:13:26,440 --> 00:13:32,240
+exczema vacinatum, encefalite e até
+
+303
+00:13:30,279 --> 00:13:34,839
+mortes em casos raros de pessoas
+
+304
+00:13:32,240 --> 00:13:36,519
+imunosuprimidas. Então, houve relatos de
+
+305
+00:13:34,839 --> 00:13:39,199
+indivíduos não vacinados que
+
+306
+00:13:36,519 --> 00:13:41,320
+desenvolveram doenças graves após o
+
+307
+00:13:39,199 --> 00:13:44,320
+contato com pessoas recentemente
+
+308
+00:13:41,320 --> 00:13:44,320
+vacinadas.
+
+309
+00:13:44,560 --> 00:13:49,600
+devido à eliminação do vírus vacinal do
+
+310
+00:13:46,680 --> 00:13:51,839
+local da vacinação. Então tem essa
+
+311
+00:13:49,600 --> 00:13:54,680
+polêmica em torno desse vírus com vus
+
+312
+00:13:51,839 --> 00:13:58,600
+vivo. OK? Já essa que o Ministério da
+
+313
+00:13:54,680 --> 00:14:01,360
+Saúde aprovou, né, a Gineos ou
+
+314
+00:13:58,600 --> 00:14:03,360
+Invanex, ela é considerada uma vacina
+
+315
+00:14:01,360 --> 00:14:07,279
+mais segura, não replicante, ou seja, o
+
+316
+00:14:03,360 --> 00:14:09,000
+vírus não se multiplica, OK? Eh, e a
+
+317
+00:14:07,279 --> 00:14:11,680
+maioria dos efeitos colaterais são
+
+318
+00:14:09,000 --> 00:14:14,240
+leves, amoderados, dor no local da
+
+319
+00:14:11,680 --> 00:14:17,199
+injeção, dor de cabeça, dores
+
+320
+00:14:14,240 --> 00:14:20,000
+musculares, cansaço, mas efeitos
+
+321
+00:14:17,199 --> 00:14:22,120
+colaterais raros incluem linfadenopatia,
+
+322
+00:14:20,000 --> 00:14:25,560
+que seria aumento do linfonodo com dor,
+
+323
+00:14:22,120 --> 00:14:27,880
+né, febre, dor nas circulações em
+
+324
+00:14:25,560 --> 00:14:31,120
+pessoas com eczema, possíveis
+
+325
+00:14:27,880 --> 00:14:33,360
+exacerbações e a dados limitados sobre o
+
+326
+00:14:31,120 --> 00:14:36,399
+uso em crianças e mulheres grávidas
+
+327
+00:14:33,360 --> 00:14:38,800
+amamentando, né? E eu esqueci de ver
+
+328
+00:14:36,399 --> 00:14:40,839
+qual que é a tecnologia dessa vacina. Eu
+
+329
+00:14:38,800 --> 00:14:42,199
+vou checar isso rapidamente para falar
+
+330
+00:14:40,839 --> 00:14:46,680
+para
+
+331
+00:14:42,199 --> 00:14:46,680
+vocês. Me de só um instante.
+
+332
+00:15:13,079 --> 00:15:17,759
+Tá. Vamos ver se vocês estão se
+
+333
+00:15:15,560 --> 00:15:20,600
+manifestando. A Sandra tá dizendo que o
+
+334
+00:15:17,759 --> 00:15:23,959
+áudio está excelente. Alice Vog dando
+
+335
+00:15:20,600 --> 00:15:27,120
+boa noite. Boa noite, Alice. Eloía, boa
+
+336
+00:15:23,959 --> 00:15:30,920
+noite também. Eh, boa noite,
+
+337
+00:15:27,120 --> 00:15:30,920
+Miram. Vamos ver aqui
+
+338
+00:15:31,000 --> 00:15:38,360
+se respondo para vocês com mais
+
+339
+00:15:34,079 --> 00:15:38,360
+categoria sobre essa vacina.
+
+340
+00:15:49,199 --> 00:15:55,959
+Bem, essa vacina Gineus ou
+
+341
+00:15:52,519 --> 00:15:58,759
+Ivanex, tá, ela não é de RNA mensageiro.
+
+342
+00:15:55,959 --> 00:16:03,360
+A tecnologia dela é baseada numa
+
+343
+00:15:58,759 --> 00:16:03,360
+plataforma de vírus vivo, atenuado, não
+
+344
+00:16:04,800 --> 00:16:11,600
+replicante e ele utiliza na plataforma
+
+345
+00:16:07,720 --> 00:16:14,199
+dela o vírus vacínia Ancara modificado.
+
+346
+00:16:11,600 --> 00:16:17,399
+É uma cepa altamente atenuada,
+
+347
+00:16:14,199 --> 00:16:20,160
+enfraquecida do vírus
+
+348
+00:16:17,399 --> 00:16:22,160
+vacínia. Ele é vivo, mas não consegue se
+
+349
+00:16:20,160 --> 00:16:24,519
+replicar em células humanas, segundo
+
+350
+00:16:22,160 --> 00:16:28,160
+consta.
+
+351
+00:16:24,519 --> 00:16:30,399
+E essa cepa MVA, né, que essa que eu tô
+
+352
+00:16:28,160 --> 00:16:31,959
+falando aqui é um vírus atenuado, foi
+
+353
+00:16:30,399 --> 00:16:34,120
+desenvolvido através de múltiplas
+
+354
+00:16:31,959 --> 00:16:36,759
+passagens, células de fibroblasto de
+
+355
+00:16:34,120 --> 00:16:39,399
+embrião de galinha, tornando segura e
+
+356
+00:16:36,759 --> 00:16:42,800
+incapaz de causar doença, segundo
+
+357
+00:16:39,399 --> 00:16:46,839
+consta. OK?
+
+358
+00:16:42,800 --> 00:16:46,839
+São duas doses, o intervalo é de 4
+
+359
+00:16:47,959 --> 00:16:52,199
+semanas, aparentemente. Então, ele
+
+360
+00:16:49,920 --> 00:16:54,920
+utiliza uma tecnologia convencional, não
+
+361
+00:16:52,199 --> 00:16:58,160
+tem nada a ver com Ren mensageiro e nem
+
+362
+00:16:54,920 --> 00:17:00,920
+com modificação genética. OK?
+
+363
+00:16:58,160 --> 00:17:00,920
+Bem, vamos continuar
+
+364
+00:17:03,720 --> 00:17:08,079
+aqui. Então, tem essa situação que por
+
+365
+00:17:06,520 --> 00:17:10,760
+enquanto não tá liberado para criança
+
+366
+00:17:08,079 --> 00:17:12,439
+nem mulher grávida amamentando. Tem os
+
+367
+00:17:10,760 --> 00:17:15,039
+efeitos colaterais que já comentamos,
+
+368
+00:17:12,439 --> 00:17:17,839
+que são dor de cabeça, dor no local de
+
+369
+00:17:15,039 --> 00:17:20,360
+injeção, dor muscular e cansaço e
+
+370
+00:17:17,839 --> 00:17:23,640
+raramente linfadenopatia, febre, dor na
+
+371
+00:17:20,360 --> 00:17:23,640
+articulação e
+
+372
+00:17:24,880 --> 00:17:31,520
+e sobre a eficácia dessas vacinas contra
+
+373
+00:17:28,120 --> 00:17:33,320
+mipox, está configurado que pode
+
+374
+00:17:31,520 --> 00:17:35,120
+diminuir ao longo do tempo e o grau de
+
+375
+00:17:33,320 --> 00:17:37,720
+proteção pode depender do número de
+
+376
+00:17:35,120 --> 00:17:40,440
+doses recebidas. Então, alguns estudos
+
+377
+00:17:37,720 --> 00:17:42,280
+observam que, embora as vacinas gerem
+
+378
+00:17:40,440 --> 00:17:44,640
+anticorpos adequados, elas não
+
+379
+00:17:42,280 --> 00:17:48,000
+ofereceriam proteção total contra a
+
+380
+00:17:44,640 --> 00:17:50,400
+infecção sistêmica e caso infecção
+
+381
+00:17:48,000 --> 00:17:53,600
+ocorreram tanto indivíduos vacinados
+
+382
+00:17:50,400 --> 00:17:55,960
+quanto não vacinados.
+
+383
+00:17:53,600 --> 00:17:57,760
+As vacinas contra a varíula, como a CAN
+
+384
+00:17:55,960 --> 00:17:59,559
+2000, que é essa que deu mais problema,
+
+385
+00:17:57,760 --> 00:18:02,720
+que é o vírus não
+
+386
+00:17:59,559 --> 00:18:05,559
+atenuado, oferece alguma proteção
+
+387
+00:18:02,720 --> 00:18:09,559
+cruzada contra o Mipox, mas o nível de
+
+388
+00:18:05,559 --> 00:18:09,559
+proteção e duração permanece em
+
+389
+00:18:11,520 --> 00:18:17,280
+sudo. E nós sabemos, né, que eu acredito
+
+390
+00:18:14,559 --> 00:18:20,000
+que por bons motivos, né, vocês conhecem
+
+391
+00:18:17,280 --> 00:18:23,200
+minha opinião sobre esse assunto, está
+
+392
+00:18:20,000 --> 00:18:27,480
+acontecendo muita hesitação, né?
+
+393
+00:18:23,200 --> 00:18:30,360
+hesitação quanto essa nova vacina do
+
+394
+00:18:27,480 --> 00:18:32,440
+Mipox e influenciada por preocupações
+
+395
+00:18:30,360 --> 00:18:34,440
+sobre efeitos colaterais, dúvidas sobre
+
+396
+00:18:32,440 --> 00:18:36,159
+eficácia e informações inconsistentes.
+
+397
+00:18:34,440 --> 00:18:40,080
+Então, estudos indicam que a disposição
+
+398
+00:18:36,159 --> 00:18:42,559
+para receber a vacina varia por gênero e
+
+399
+00:18:40,080 --> 00:18:44,799
+orientação sexual. Mulheres geralmente
+
+400
+00:18:42,559 --> 00:18:47,039
+são menos dispostas a indivíduos
+
+401
+00:18:44,799 --> 00:18:49,200
+homossexuais estão mais dispostos porque
+
+402
+00:18:47,039 --> 00:18:51,480
+eles reconhecem que estão mais em risco,
+
+403
+00:18:49,200 --> 00:18:54,720
+né?
+
+404
+00:18:51,480 --> 00:18:58,520
+Existe aí alegações fazendo associações
+
+405
+00:18:54,720 --> 00:19:03,679
+do surto de MPOX
+
+406
+00:18:58,520 --> 00:19:05,400
+a OK da COVID, OK? E sugerindo que MPOX
+
+407
+00:19:03,679 --> 00:19:08,480
+é na
+
+408
+00:19:05,400 --> 00:19:11,440
+verdade uma outra situação, outro vírus
+
+409
+00:19:08,480 --> 00:19:11,440
+que seria o vírus do
+
+410
+00:19:12,039 --> 00:19:18,400
+episóter, que na verdade aparentemente
+
+411
+00:19:15,640 --> 00:19:21,360
+não procede isso. São vírus diferentes,
+
+412
+00:19:18,400 --> 00:19:21,360
+OK?
+
+413
+00:19:25,799 --> 00:19:30,679
+Tem havido também críticas a ênfase
+
+414
+00:19:28,280 --> 00:19:33,159
+excessiva da vacinação como única
+
+415
+00:19:30,679 --> 00:19:35,200
+solução e tem tido apelos para abordar
+
+416
+00:19:33,159 --> 00:19:38,679
+medidas mais amplas de saúde pública e
+
+417
+00:19:35,200 --> 00:19:40,960
+garantir acesso equitativo às vacinas,
+
+418
+00:19:38,679 --> 00:19:43,440
+né, que isso não está acontecendo.
+
+419
+00:19:40,960 --> 00:19:47,120
+Geralmente o a compra dessas vacinas
+
+420
+00:19:43,440 --> 00:19:47,120
+ainda tá muito limitada.
+
+421
+00:19:49,640 --> 00:19:56,280
+Então, existe aí planos no Ministério da
+
+422
+00:19:51,840 --> 00:20:00,440
+Saúde para adquirir
+
+423
+00:19:56,280 --> 00:20:04,159
+34.560 testes para MPOX nesse ano de
+
+424
+00:20:00,440 --> 00:20:06,159
+2025. Eh, que se essa situação não
+
+425
+00:20:04,159 --> 00:20:09,799
+piorar, parece bem razoável esse número
+
+426
+00:20:06,159 --> 00:20:09,799
+de testes, né?
+
+427
+00:20:11,280 --> 00:20:16,559
+Então essa iniciativa fortalece a
+
+428
+00:20:14,000 --> 00:20:18,520
+capacidade diagnóstica do país e pode
+
+429
+00:20:16,559 --> 00:20:21,640
+permitir o sequenciamento genômico do
+
+430
+00:20:18,520 --> 00:20:23,559
+vírus que fornece informações essenciais
+
+431
+00:20:21,640 --> 00:20:26,559
+para entender a evolução e padrões de
+
+432
+00:20:23,559 --> 00:20:26,559
+transmissão.
+
+433
+00:20:32,039 --> 00:20:36,480
+E também o país estaria particularmente
+
+434
+00:20:34,880 --> 00:20:38,640
+atento à situação internacional,
+
+435
+00:20:36,480 --> 00:20:41,760
+especialmente em relação à variante
+
+436
+00:20:38,640 --> 00:20:43,919
+clado 1B, que foi detectado em vários
+
+437
+00:20:41,760 --> 00:20:45,880
+países com aumento notável de casos na
+
+438
+00:20:43,919 --> 00:20:48,360
+República Democrática do Congo e outras
+
+439
+00:20:45,880 --> 00:20:50,000
+nações africanas.
+
+440
+00:20:48,360 --> 00:20:53,280
+Então, embora o Pará tenha registrado
+
+441
+00:20:50,000 --> 00:20:56,240
+esses 19 casos, né, e duas mortes pelo
+
+442
+00:20:53,280 --> 00:20:58,679
+MPOX, nos primeiros 4 meses desse ano,
+
+443
+00:20:56,240 --> 00:21:01,320
+as autoridades sanitárias mantém que não
+
+444
+00:20:58,679 --> 00:21:03,919
+há surto andamento no estado e os casos
+
+445
+00:21:01,320 --> 00:21:05,400
+parecem ser isolados, não tem uma CAD
+
+446
+00:21:03,919 --> 00:21:08,440
+estabelecida de
+
+447
+00:21:05,400 --> 00:21:12,159
+transmissão. Eh, porém, essa morte de
+
+448
+00:21:08,440 --> 00:21:15,159
+uma figura pública chamou atenção aí da
+
+449
+00:21:12,159 --> 00:21:17,039
+comunidade. E esse assunto voltou à
+
+450
+00:21:15,159 --> 00:21:19,840
+Volga que tinha uns dois anos que o
+
+451
+00:21:17,039 --> 00:21:22,400
+pessoal não estava falando muito disso.
+
+452
+00:21:19,840 --> 00:21:24,600
+Daí uma situação destaca a importância
+
+453
+00:21:22,400 --> 00:21:27,039
+de vigilância contínua, detectação
+
+454
+00:21:24,600 --> 00:21:30,760
+precoce e educação pública contra as
+
+455
+00:21:27,039 --> 00:21:30,760
+medidas sobre medidas
+
+456
+00:21:32,600 --> 00:21:37,279
+preventivas. Beleza, pessoal? Então,
+
+457
+00:21:34,640 --> 00:21:39,840
+vamos às perguntas da live. Alguém tem
+
+458
+00:21:37,279 --> 00:21:43,679
+pergunta agora ao vivo sobre essa
+
+459
+00:21:39,840 --> 00:21:43,679
+questão aí do MBOX?
+
+460
+00:21:43,760 --> 00:21:48,279
+Aparentemente não. Se tiver depois vocês
+
+461
+00:21:45,320 --> 00:21:50,320
+falam, tá? Então vamos responder as
+
+462
+00:21:48,279 --> 00:21:52,559
+dúvidas. Deixa eu ver se tá bem visível
+
+463
+00:21:50,320 --> 00:21:52,559
+isso
+
+464
+00:21:55,919 --> 00:22:01,320
+aqui. Tá bem visível, né? Primeira
+
+465
+00:21:58,840 --> 00:22:04,400
+pergunta da Maria Helena sobre portes de
+
+466
+00:22:01,320 --> 00:22:05,880
+nata de leite preparados pela indústria
+
+467
+00:22:04,400 --> 00:22:09,159
+contém as mesmas quantidades de
+
+468
+00:22:05,880 --> 00:22:13,480
+contaminação do leite. Teria algo mais
+
+469
+00:22:09,159 --> 00:22:13,480
+para me ensinar sobre nata do leite?
+
+470
+00:22:15,440 --> 00:22:18,799
+Vamos lá então falar sobre
+
+471
+00:22:20,080 --> 00:22:25,880
+nata, tá? Primeiro, o que que é a nata?
+
+472
+00:22:23,279 --> 00:22:29,720
+Pelo menos um contexto industrializado,
+
+473
+00:22:25,880 --> 00:22:32,679
+é o o produto obtido pela centrifugação
+
+474
+00:22:29,720 --> 00:22:35,559
+do leite para separar a fração rica em
+
+475
+00:22:32,679 --> 00:22:39,000
+gordura, seguida de tratamentos térmicos
+
+476
+00:22:35,559 --> 00:22:40,120
+com pausterização, né, ou UHT, né, que
+
+477
+00:22:39,000 --> 00:22:42,960
+também é um processo de alta
+
+478
+00:22:40,120 --> 00:22:42,960
+temperatura.
+
+479
+00:22:43,960 --> 00:22:48,640
+e a contaminação da nata estaria
+
+480
+00:22:46,080 --> 00:22:50,760
+diretamente relacionada à do leite de
+
+481
+00:22:48,640 --> 00:22:53,159
+origem. OK? Então, quais são os
+
+482
+00:22:50,760 --> 00:22:55,480
+possíveis contaminantes químicos da
+
+483
+00:22:53,159 --> 00:22:59,120
+nata?
+
+484
+00:22:55,480 --> 00:23:01,520
+Como existem aí compostos lipossolúveis
+
+485
+00:22:59,120 --> 00:23:03,720
+que podem diluir no leite, que vem do
+
+486
+00:23:01,520 --> 00:23:05,080
+meio ambiente e são tóxicos, que é o
+
+487
+00:23:03,720 --> 00:23:06,600
+caso de
+
+488
+00:23:05,080 --> 00:23:09,240
+dioxinas,
+
+489
+00:23:06,600 --> 00:23:13,039
+PCBs, já falei disso em lives no canal
+
+490
+00:23:09,240 --> 00:23:15,480
+anteriormente, dioxina, PCB, pesticida,
+
+491
+00:23:13,039 --> 00:23:18,840
+micotoxina, que são toxinas de fungo,
+
+492
+00:23:15,480 --> 00:23:21,600
+especialmente a aflatoxina M1.
+
+493
+00:23:18,840 --> 00:23:24,159
+Eles, como são liposolúbres, tendem a se
+
+494
+00:23:21,600 --> 00:23:26,600
+concentrar na fração gordurosa do leite,
+
+495
+00:23:24,159 --> 00:23:28,159
+né? Como a nata é muito mais rica em
+
+496
+00:23:26,600 --> 00:23:30,080
+gordura que o leite, esses contaminantes
+
+497
+00:23:28,159 --> 00:23:32,760
+geralmente aparecem com situações mais
+
+498
+00:23:30,080 --> 00:23:35,120
+altas na nata, em derivados como a
+
+499
+00:23:32,760 --> 00:23:37,919
+manteiga, ok? Então, por exemplo, a
+
+500
+00:23:35,120 --> 00:23:40,960
+aflatxina M1 de grande preocupação
+
+501
+00:23:37,919 --> 00:23:43,159
+toxicológica é encontrada tanto no leite
+
+502
+00:23:40,960 --> 00:23:45,120
+quanto na nata, muitas vezes em níveis
+
+503
+00:23:43,159 --> 00:23:47,120
+mais elevados na nata devido à
+
+504
+00:23:45,120 --> 00:23:51,320
+concentrações de gordura. OK? Também
+
+505
+00:23:47,120 --> 00:23:53,159
+podemos ter microbió eh perdão,
+
+506
+00:23:51,320 --> 00:23:55,520
+contaminantes microbiológicos. Então, a
+
+507
+00:23:53,159 --> 00:23:58,200
+pausterização e o tratamento
+
+508
+00:23:55,520 --> 00:24:00,480
+UHT reduzem de forma significativa a
+
+509
+00:23:58,200 --> 00:24:03,600
+carga microbiana, tanto no leite quanto
+
+510
+00:24:00,480 --> 00:24:06,520
+na nata, mas não eliminam totalmente o
+
+511
+00:24:03,600 --> 00:24:09,039
+risco, especialmente se houver falhas na
+
+512
+00:24:06,520 --> 00:24:10,799
+higiene ou contaminação pós
+
+513
+00:24:09,039 --> 00:24:13,279
+processamento. Então, a gordura pode
+
+514
+00:24:10,799 --> 00:24:15,559
+proteger algumas bactérias durante o
+
+515
+00:24:13,279 --> 00:24:17,640
+aquecimento. Por isso, a posterização da
+
+516
+00:24:15,559 --> 00:24:20,440
+nat costuma ser feita em temperaturas um
+
+517
+00:24:17,640 --> 00:24:22,320
+pouco mais altas do que a do leite. E
+
+518
+00:24:20,440 --> 00:24:24,080
+tem estudos mostrando que a nata
+
+519
+00:24:22,320 --> 00:24:26,159
+industrializada apresenta menor
+
+520
+00:24:24,080 --> 00:24:29,480
+incidência de contaminação microbiana em
+
+521
+00:24:26,159 --> 00:24:31,679
+comparação com nata artesanal, porém
+
+522
+00:24:29,480 --> 00:24:33,799
+ainda pode haver presença de coliformes
+
+523
+00:24:31,679 --> 00:24:36,799
+e raramente patógenos como
+
+524
+00:24:33,799 --> 00:24:39,799
+estafilococosuros queixa colhe se houver
+
+525
+00:24:36,799 --> 00:24:39,799
+falhas no
+
+526
+00:24:44,399 --> 00:24:48,559
+processo. Falando um pouquinho sobre
+
+527
+00:24:46,360 --> 00:24:51,279
+perfil nutricional da nata, como é uma
+
+528
+00:24:48,559 --> 00:24:53,399
+fração rica em gordura. ela vai ter mais
+
+529
+00:24:51,279 --> 00:24:55,919
+vitaminas liposolúveis, é o caso da
+
+530
+00:24:53,399 --> 00:24:58,960
+vitamina A, que é de duas a 12 vezes
+
+531
+00:24:55,919 --> 00:25:01,399
+mais alta na nata do que no leite
+
+532
+00:24:58,960 --> 00:25:03,320
+integral. Já comentei sobre isso, mas na
+
+533
+00:25:01,399 --> 00:25:05,640
+pasterização é feita em temperaturas
+
+534
+00:25:03,320 --> 00:25:08,880
+mais altas quando é a nata, porque
+
+535
+00:25:05,640 --> 00:25:13,720
+existe um risco maior de proteção
+
+536
+00:25:08,880 --> 00:25:13,720
+bacteriana conferida pela gordura.
+
+537
+00:25:14,240 --> 00:25:20,279
+Então, no leite não homogeneizado,
+
+538
+00:25:17,360 --> 00:25:22,399
+quando você faz a preparação da nata em
+
+539
+00:25:20,279 --> 00:25:24,440
+casa, ela vai se separar
+
+540
+00:25:22,399 --> 00:25:26,399
+naturalmente. Mas na indústria esse
+
+541
+00:25:24,440 --> 00:25:27,600
+processo é feito por centrifugação, né,
+
+542
+00:25:26,399 --> 00:25:29,799
+que fica
+
+543
+00:25:27,600 --> 00:25:31,960
+girando. E a nata é utilizada em
+
+544
+00:25:29,799 --> 00:25:36,760
+culinária, em confeitaria, em produção
+
+545
+00:25:31,960 --> 00:25:36,760
+de manteiga, de cremes e sobremesas.
+
+546
+00:25:45,600 --> 00:25:49,320
+OK, então é só o
+
+547
+00:25:50,720 --> 00:25:58,200
+ponto. Vamos pra próxima
+
+548
+00:25:53,159 --> 00:25:58,200
+pergunta. Maria Helena tá ao
+
+549
+00:25:58,399 --> 00:26:05,880
+vivo? Não sei. Acho que não. Próxima
+
+550
+00:26:02,279 --> 00:26:08,000
+pergunta. Você falou na live passada que
+
+551
+00:26:05,880 --> 00:26:10,480
+nem todo diabético poderia tomar
+
+552
+00:26:08,000 --> 00:26:13,679
+verberina. Por quê? É a pergunta do
+
+553
+00:26:10,480 --> 00:26:15,679
+Antônio Renato que está ao vivo. Bem,
+
+554
+00:26:13,679 --> 00:26:18,200
+Antônio, eu não falei exatamente isso.
+
+555
+00:26:15,679 --> 00:26:20,320
+OK. O que eu quis dizer é
+
+556
+00:26:18,200 --> 00:26:23,799
+que
+
+557
+00:26:20,320 --> 00:26:26,799
+diabéticos que não estão fazendo
+
+558
+00:26:23,799 --> 00:26:28,520
+dieta e estão confiando na beberina para
+
+559
+00:26:26,799 --> 00:26:30,240
+resolver o problema, muitas vezes não é
+
+560
+00:26:28,520 --> 00:26:32,000
+o caso, tá?
+
+561
+00:26:30,240 --> 00:26:33,760
+E também dependendo do tipo de
+
+562
+00:26:32,000 --> 00:26:35,559
+medicamento que esse diabético tiver
+
+563
+00:26:33,760 --> 00:26:38,760
+tomando, às vezes não é interessante
+
+564
+00:26:35,559 --> 00:26:41,399
+associar a beberina, tá? Explico, né? A
+
+565
+00:26:38,760 --> 00:26:45,200
+beberina é um ótimo hipoglicemiante. Ele
+
+566
+00:26:41,399 --> 00:26:48,120
+pode ser utilizado junto com a
+
+567
+00:26:45,200 --> 00:26:50,120
+mediformina na maioria dos casos, mas em
+
+568
+00:26:48,120 --> 00:26:53,679
+alguns casos ele pode potencializar a
+
+569
+00:26:50,120 --> 00:26:56,320
+ação de alguns outros medicamentos
+
+570
+00:26:53,679 --> 00:26:58,039
+antidiabéticos de uma maneira ao
+
+571
+00:26:56,320 --> 00:26:59,799
+aumentar o risco de hipoglicemia. Mas
+
+572
+00:26:58,039 --> 00:27:02,320
+isso para mim não é um problema tão
+
+573
+00:26:59,799 --> 00:27:04,279
+sério, porque se essa pessoa já tem
+
+574
+00:27:02,320 --> 00:27:06,080
+nessa situação de tá correndo o risco de
+
+575
+00:27:04,279 --> 00:27:08,480
+hipoglicemia, é
+
+576
+00:27:06,080 --> 00:27:10,159
+porque ela geralmente precisa baixar a
+
+577
+00:27:08,480 --> 00:27:13,240
+dose dos medicamentos,
+
+578
+00:27:10,159 --> 00:27:16,279
+ok? Então existe essa potencialização,
+
+579
+00:27:13,240 --> 00:27:18,720
+existe essa possibilidade de interação
+
+580
+00:27:16,279 --> 00:27:21,360
+da beberina com metiformina, que apesar
+
+581
+00:27:18,720 --> 00:27:23,880
+da prática eu não vejo acontecer isso, e
+
+582
+00:27:21,360 --> 00:27:26,159
+mesmo com sulfonil ureas, aí eu acho que
+
+583
+00:27:23,880 --> 00:27:27,799
+o risco maior é o uso associado à
+
+584
+00:27:26,159 --> 00:27:31,600
+insulina, tá? Então tem que ficar muito
+
+585
+00:27:27,799 --> 00:27:31,600
+atento se você usar beberina junto com a
+
+586
+00:27:31,840 --> 00:27:36,320
+insulina. Idosos são mais suscetíveis e
+
+587
+00:27:34,320 --> 00:27:38,960
+mais sensíveis a variações bruscas de
+
+588
+00:27:36,320 --> 00:27:38,960
+glicose.
+
+589
+00:27:39,760 --> 00:27:46,640
+Tá? Então a beberina às vezes tem uma
+
+590
+00:27:43,440 --> 00:27:49,559
+interação ruim com outros
+
+591
+00:27:46,640 --> 00:27:51,440
+fármacos. Já aconteceu de paciente meu
+
+592
+00:27:49,559 --> 00:27:54,440
+que tava tomando remédio para pressão
+
+593
+00:27:51,440 --> 00:27:57,519
+arterial, teve interação com beberina,
+
+594
+00:27:54,440 --> 00:28:01,240
+né? Isso gerou uma situação aí que a
+
+595
+00:27:57,519 --> 00:28:03,640
+pessoa passou mal, né? Então a pressão
+
+596
+00:28:01,240 --> 00:28:06,080
+caiu muito porque houve alteração do
+
+597
+00:28:03,640 --> 00:28:09,159
+metabolismo dessa droga com a beberina,
+
+598
+00:28:06,080 --> 00:28:12,440
+ok? Então tem que tomar cuidado, tem que
+
+599
+00:28:09,159 --> 00:28:15,159
+começar com doses baixas e verificar
+
+600
+00:28:12,440 --> 00:28:15,159
+como é que fica a
+
+601
+00:28:19,159 --> 00:28:23,480
+situação. A beberina por si só pode
+
+602
+00:28:21,720 --> 00:28:25,720
+causar efeitos adversos, né? efeitos
+
+603
+00:28:23,480 --> 00:28:29,519
+colaterais como náuses, constipação,
+
+604
+00:28:25,720 --> 00:28:31,360
+diarreia, dor abdominal, refluxo e pode
+
+605
+00:28:29,519 --> 00:28:32,960
+ser mais problemático com a situação em
+
+606
+00:28:31,360 --> 00:28:36,039
+pessoas com histórico de distúrbios
+
+607
+00:28:32,960 --> 00:28:38,559
+digestivos ou constipação crônica, né?
+
+608
+00:28:36,039 --> 00:28:41,240
+Mais comum é dar diarré e gases do que
+
+609
+00:28:38,559 --> 00:28:44,320
+dar necessariamente constipação, tá? Mas
+
+610
+00:28:41,240 --> 00:28:45,880
+pode acontecer um ou outro.
+
+611
+00:28:44,320 --> 00:28:47,519
+E como sempre, a beberina não é
+
+612
+00:28:45,880 --> 00:28:49,480
+recomendada para gestante, para
+
+613
+00:28:47,519 --> 00:28:52,159
+lactante, para criança, pessoas que têm
+
+614
+00:28:49,480 --> 00:28:58,120
+insuficiência hepática, hipotensão ou
+
+615
+00:28:52,159 --> 00:28:58,120
+deficiência de enzima G6 PD,
+
+616
+00:29:01,880 --> 00:29:08,760
+tá? Então, recapitulando, a Bebelina é
+
+617
+00:29:05,840 --> 00:29:10,880
+excelente opção para controlar tanto a
+
+618
+00:29:08,760 --> 00:29:13,720
+glicose do sangue quanto baixar a
+
+619
+00:29:10,880 --> 00:29:16,039
+triglice. É muito bom também.
+
+620
+00:29:13,720 --> 00:29:18,480
+é uma ótima opção para tratamento
+
+621
+00:29:16,039 --> 00:29:23,840
+coaduvante do diabetes tipo
+
+622
+00:29:18,480 --> 00:29:25,440
+2, porém temos que avaliar caso a caso,
+
+623
+00:29:23,840 --> 00:29:26,960
+tá? O perfil clínico individual
+
+624
+00:29:25,440 --> 00:29:28,760
+importante, a presença de outras
+
+625
+00:29:26,960 --> 00:29:31,360
+comorbidades, o risco de interações,
+
+626
+00:29:28,760 --> 00:29:34,919
+como eu falei, e também deve ser feito
+
+627
+00:29:31,360 --> 00:29:37,320
+acompanhamento regular dos níveis
+
+628
+00:29:34,919 --> 00:29:39,880
+glicêmicos. Não é todo diabético, então,
+
+629
+00:29:37,320 --> 00:29:42,039
+que pode usar a berberina de forma
+
+630
+00:29:39,880 --> 00:29:43,880
+livre. existe algum risco de
+
+631
+00:29:42,039 --> 00:29:47,600
+hipoglicemia que obviamente vai ser
+
+632
+00:29:43,880 --> 00:29:50,039
+muito maior naqueles diabéticos que já
+
+633
+00:29:47,600 --> 00:29:52,399
+conseguiram controlar bem com a
+
+634
+00:29:50,039 --> 00:29:54,760
+dieta. Existe o risco de interação com
+
+635
+00:29:52,399 --> 00:29:57,720
+antihipertensivos e outros medicamentos
+
+636
+00:29:54,760 --> 00:30:00,480
+com
+
+637
+00:29:57,720 --> 00:30:03,919
+anticoagulantes. Então exige
+
+638
+00:30:00,480 --> 00:30:07,919
+monitoramento contínuo dos
+
+639
+00:30:03,919 --> 00:30:09,519
+médicos. Vamos pra próxima pergunta.
+
+640
+00:30:07,919 --> 00:30:13,039
+Se você quiser perguntar, Antônio, você
+
+641
+00:30:09,519 --> 00:30:16,039
+tá ao vivo aí, né? Perguntar se você
+
+642
+00:30:13,039 --> 00:30:16,039
+entendeu a
+
+643
+00:30:16,919 --> 00:30:23,120
+explicação. Vi uma reportagem que
+
+644
+00:30:20,559 --> 00:30:25,640
+influencer pegou bactéria estafococos
+
+645
+00:30:23,120 --> 00:30:28,720
+após o unhas e essa bactéria foi para o
+
+646
+00:30:25,640 --> 00:30:29,679
+coração e teve que fazer cirurgia grave
+
+647
+00:30:28,720 --> 00:30:32,840
+e as
+
+648
+00:30:29,679 --> 00:30:35,480
+pessoas e as pressas, mas se curou
+
+649
+00:30:32,840 --> 00:30:37,559
+graças a Deus. Sua opinião, por favor,
+
+650
+00:30:35,480 --> 00:30:40,000
+dos perigos da
+
+651
+00:30:37,559 --> 00:30:42,159
+bactéria. Bem, eu não fiquei sabendo
+
+652
+00:30:40,000 --> 00:30:44,480
+muito bem sobre
+
+653
+00:30:42,159 --> 00:30:46,279
+essa situação que você tá falando aí,
+
+654
+00:30:44,480 --> 00:30:48,240
+tá? Mas vamos falar sobre
+
+655
+00:30:46,279 --> 00:30:52,279
+estaflococusalos. é uma bactéria muito
+
+656
+00:30:48,240 --> 00:30:54,159
+comum na pele, geralmente também ela tá
+
+657
+00:30:52,279 --> 00:30:57,320
+presente debaixo das
+
+658
+00:30:54,159 --> 00:30:59,399
+unhas, em pessoas imunocompetentes, ou
+
+659
+00:30:57,320 --> 00:31:01,880
+seja, que tá com sistema imune OK, ela
+
+660
+00:30:59,399 --> 00:31:04,200
+geralmente pode causar infecções leves.
+
+661
+00:31:01,880 --> 00:31:07,399
+Geralmente ela não dá nada mais grave do
+
+662
+00:31:04,200 --> 00:31:09,279
+que um furúnculo ou inflamações, né,
+
+663
+00:31:07,399 --> 00:31:12,080
+paroníquias, né, inflamações ao redor
+
+664
+00:31:09,279 --> 00:31:14,480
+das unhas, mas em alguns casos mais
+
+665
+00:31:12,080 --> 00:31:17,360
+raros pode se tornar
+
+666
+00:31:14,480 --> 00:31:20,440
+perigosa caso entre na corrente
+
+667
+00:31:17,360 --> 00:31:22,240
+sanguínea. Obviamente que se ela correr
+
+668
+00:31:20,440 --> 00:31:23,720
+pelo sangue, ela pode atingir órgãos
+
+669
+00:31:22,240 --> 00:31:25,440
+distantes, pode atingir o coração
+
+670
+00:31:23,720 --> 00:31:29,840
+causando endocardite, né, que é uma
+
+671
+00:31:25,440 --> 00:31:31,840
+inflamação das válvulas cardíacas.
+
+672
+00:31:29,840 --> 00:31:34,679
+E essa infecção das válvulas cardíacas
+
+673
+00:31:31,840 --> 00:31:38,279
+pode até exigir futuramente o uso
+
+674
+00:31:34,679 --> 00:31:42,120
+de eh próteses de válvula, né? Pode ter
+
+675
+00:31:38,279 --> 00:31:43,880
+que fazer uma cirurgia muito invasiva e
+
+676
+00:31:42,120 --> 00:31:47,600
+ter que fazer
+
+677
+00:31:43,880 --> 00:31:49,760
+esse replacement, né? Ou seja, reposição
+
+678
+00:31:47,600 --> 00:31:49,760
+de
+
+679
+00:31:51,080 --> 00:31:56,360
+válvula. Em casos graves também isso
+
+680
+00:31:53,679 --> 00:31:58,720
+gera insuficiência cardíaca, né? esse
+
+681
+00:31:56,360 --> 00:32:01,080
+problema nas válvulas cardíacas e pode
+
+682
+00:31:58,720 --> 00:32:03,080
+ter que exigir uma cirurgia. Talvez a
+
+683
+00:32:01,080 --> 00:32:07,080
+cirurgia de emergência, não sei detalhes
+
+684
+00:32:03,080 --> 00:32:10,320
+desse caso, tenha sido eh por conta de
+
+685
+00:32:07,080 --> 00:32:12,320
+suficiência volvar, né? Não sei se foi o
+
+686
+00:32:10,320 --> 00:32:13,200
+caso, mas vamos falar um pouquinho sobre
+
+687
+00:32:12,320 --> 00:32:15,880
+ruer
+
+688
+00:32:13,200 --> 00:32:17,440
+unhas. Então, se você r unhas com muita
+
+689
+00:32:15,880 --> 00:32:20,799
+frequência, isso pode se tornar uma
+
+690
+00:32:17,440 --> 00:32:22,919
+porta de entrada para infecções, porque
+
+691
+00:32:20,799 --> 00:32:25,919
+o ato de rolar a unha pode causar
+
+692
+00:32:22,919 --> 00:32:27,960
+pequenas lesões na pele ao redor das
+
+693
+00:32:25,919 --> 00:32:31,720
+unhas. Isso pode facilitar a entrar de
+
+694
+00:32:27,960 --> 00:32:34,039
+bactérias, como é o caso da
+
+695
+00:32:31,720 --> 00:32:35,639
+flococos. Então, como eu já disse,
+
+696
+00:32:34,039 --> 00:32:38,440
+debaixo das unhas tem grande
+
+697
+00:32:35,639 --> 00:32:40,679
+concentração desses microorganismos.
+
+698
+00:32:38,440 --> 00:32:43,639
+O eunhas pode transferir esses
+
+699
+00:32:40,679 --> 00:32:45,320
+patógenos, esses bichos paraa boca e
+
+700
+00:32:43,639 --> 00:32:47,960
+pode também introduzi-los na corrente
+
+701
+00:32:45,320 --> 00:32:51,679
+sanguínea, mesmo através da ferida do
+
+702
+00:32:47,960 --> 00:32:53,760
+dedo ou através da boca. Ã, quando é
+
+703
+00:32:51,679 --> 00:32:56,720
+infecção local na unha, pode ser uma
+
+704
+00:32:53,760 --> 00:32:58,519
+paroníquia, né? E se houver aí uma
+
+705
+00:32:56,720 --> 00:33:02,360
+imunossupressão, o sistema imune dessa
+
+706
+00:32:58,519 --> 00:33:04,760
+pessoa tá ruim, essa infecção pode
+
+707
+00:33:02,360 --> 00:33:07,760
+viajar pelo sangue, levando infecções
+
+708
+00:33:04,760 --> 00:33:07,760
+sistêmicas.
+
+709
+00:33:07,840 --> 00:33:12,120
+Então é raro isso aconteceu, por isso
+
+710
+00:33:09,840 --> 00:33:16,080
+que virou notícia, a maioria das
+
+711
+00:33:12,120 --> 00:33:18,120
+infecções são leves e quando acontecem
+
+712
+00:33:16,080 --> 00:33:19,639
+pessoas imunosuprimidas, as bactérias
+
+713
+00:33:18,120 --> 00:33:21,360
+podem entrar na corrente sanguínea e
+
+714
+00:33:19,639 --> 00:33:24,880
+atingir órgãos vitais, como eu falei,
+
+715
+00:33:21,360 --> 00:33:28,960
+coração, causando hocardite, que é uma
+
+716
+00:33:24,880 --> 00:33:28,960
+infecção grave do coração.
+
+717
+00:33:29,159 --> 00:33:35,600
+Ro unhas também tá associado a problemas
+
+718
+00:33:32,320 --> 00:33:37,360
+dentários, danos aos dentes e gingivite,
+
+719
+00:33:35,600 --> 00:33:40,320
+problemas digestórios por causa da
+
+720
+00:33:37,360 --> 00:33:44,080
+ingestão de patógenos, de doenças e
+
+721
+00:33:40,320 --> 00:33:44,080
+impactos psicológicos,
+
+722
+00:33:50,039 --> 00:33:56,399
+tá? Então esse é o caso aí, tá? Isso
+
+723
+00:33:53,440 --> 00:33:58,600
+virou notícia porque é raro, mas é um
+
+724
+00:33:56,399 --> 00:34:01,080
+sinal de alerta para as pessoas evitarem
+
+725
+00:33:58,600 --> 00:34:01,080
+de ruer
+
+726
+00:34:02,639 --> 00:34:10,119
+unha. Se uma mulher tem diabetes de 200
+
+727
+00:34:05,760 --> 00:34:10,119
+e não se cuida, quais seriam os
+
+728
+00:34:11,599 --> 00:34:17,960
+perigos? Bem, existe uma série de
+
+729
+00:34:14,679 --> 00:34:21,079
+riscos, tanto a curto quanto a longo
+
+730
+00:34:17,960 --> 00:34:23,399
+prazo. Complicações de curto prazo seria
+
+731
+00:34:21,079 --> 00:34:25,599
+cetoacidose diabética.
+
+732
+00:34:23,399 --> 00:34:28,520
+que altos níveis de glicose pode levar a
+
+733
+00:34:25,599 --> 00:34:31,960
+cetacidose. Não é a mesma acidose leve
+
+734
+00:34:28,520 --> 00:34:34,320
+metabólica que você faz com jejum ou com
+
+735
+00:34:31,960 --> 00:34:38,520
+a dieta cetogênica, é outro tipo de
+
+736
+00:34:34,320 --> 00:34:41,240
+cetooacidose, tá? E leva a um acúmulo de
+
+737
+00:34:38,520 --> 00:34:44,240
+ácidos no sangue e pode ser fatal se não
+
+738
+00:34:41,240 --> 00:34:47,240
+for tratado de forma rápida. OK? Outra
+
+739
+00:34:44,240 --> 00:34:49,560
+complicação é a síndrome hiperglicêmica
+
+740
+00:34:47,240 --> 00:34:52,399
+hiperosmolar, tá? quando a glicose tá
+
+741
+00:34:49,560 --> 00:34:55,320
+muito muito alta no sangue, isso é mais
+
+742
+00:34:52,399 --> 00:34:57,560
+comum em idosos, que pode causar
+
+743
+00:34:55,320 --> 00:34:59,920
+desidratação severa e alterações
+
+744
+00:34:57,560 --> 00:35:01,480
+neurológicas. E em relação aos mais
+
+745
+00:34:59,920 --> 00:35:04,440
+comuns, que são as complicações
+
+746
+00:35:01,480 --> 00:35:07,920
+crônicas, ou seja, de instalação lenta e
+
+747
+00:35:04,440 --> 00:35:10,480
+progressiva ao longo do tempo, existe
+
+748
+00:35:07,920 --> 00:35:12,800
+complicações vasculares, né? o risco do
+
+749
+00:35:10,480 --> 00:35:15,200
+infarto do miocárdio, o risco de
+
+750
+00:35:12,800 --> 00:35:17,800
+acidente vascular cerebral
+
+751
+00:35:15,200 --> 00:35:18,680
+isquêmico que é significativamente maior
+
+752
+00:35:17,800 --> 00:35:21,400
+em
+
+753
+00:35:18,680 --> 00:35:22,960
+diabéticos e isso aumenta muito após a
+
+754
+00:35:21,400 --> 00:35:25,200
+menopausa em
+
+755
+00:35:22,960 --> 00:35:27,280
+mulheres. Pode também acontecer doença
+
+756
+00:35:25,200 --> 00:35:30,839
+renal crônica, que diabetes é uma grande
+
+757
+00:35:27,280 --> 00:35:32,880
+causa física renal crônica. Isso leva a
+
+758
+00:35:30,839 --> 00:35:35,240
+necessidade às vezes de diálise e até de
+
+759
+00:35:32,880 --> 00:35:38,480
+transplante renal. Existe também a
+
+760
+00:35:35,240 --> 00:35:41,960
+retinopatia diabética, que é a doença da
+
+761
+00:35:38,480 --> 00:35:45,200
+retina, por danos aos vasos sanguíneos,
+
+762
+00:35:41,960 --> 00:35:47,680
+por excesso de açúcar, levando a perda
+
+763
+00:35:45,200 --> 00:35:50,319
+progressiva da visão e até cegueira. E
+
+764
+00:35:47,680 --> 00:35:52,880
+tem também a neuropatia diabética, que é
+
+765
+00:35:50,319 --> 00:35:55,359
+muito comum, que acontece nas etmidades,
+
+766
+00:35:52,880 --> 00:35:57,880
+especialmente membros inferiores, devido
+
+767
+00:35:55,359 --> 00:36:00,319
+ao dano aos nervos e também dano aos
+
+768
+00:35:57,880 --> 00:36:02,520
+vasos periféricos desses membros
+
+769
+00:36:00,319 --> 00:36:05,079
+inferiores, que leva a dor, leva a
+
+770
+00:36:02,520 --> 00:36:07,480
+formigamento, perda de sensibilidade e
+
+771
+00:36:05,079 --> 00:36:10,000
+risco aumentado de feridas que podem não
+
+772
+00:36:07,480 --> 00:36:12,040
+cicatrizar e que geralmente não dói,
+
+773
+00:36:10,000 --> 00:36:15,079
+porque o diabético tem baixa
+
+774
+00:36:12,040 --> 00:36:17,440
+sensibilidade e isso pode levar até
+
+775
+00:36:15,079 --> 00:36:19,720
+amputações. OK? Então, a má circulação,
+
+776
+00:36:17,440 --> 00:36:22,160
+que eu já comentei, e a neuropatia
+
+777
+00:36:19,720 --> 00:36:25,240
+aumenta o risco de que essas feridas de
+
+778
+00:36:22,160 --> 00:36:29,599
+difícil cicatrização vão piorando,
+
+779
+00:36:25,240 --> 00:36:32,040
+levando a úlceras grandes, infecções e
+
+780
+00:36:29,599 --> 00:36:34,280
+amputações. E pessoas diabéticas também,
+
+781
+00:36:32,040 --> 00:36:36,280
+especialmente mulheres,
+
+782
+00:36:34,280 --> 00:36:38,560
+torceptibilidade a infecções,
+
+783
+00:36:36,280 --> 00:36:41,880
+especialmente infecções urinárias e
+
+784
+00:36:38,560 --> 00:36:44,599
+ginecológicas, tá? É bem comum tanto
+
+785
+00:36:41,880 --> 00:36:45,960
+infecção urinária quanto candidíase
+
+786
+00:36:44,599 --> 00:36:48,680
+vaginal de
+
+787
+00:36:45,960 --> 00:36:50,400
+repetição e em alguns casos pode evoluir
+
+788
+00:36:48,680 --> 00:36:53,400
+até para sepsica, a infecção
+
+789
+00:36:50,400 --> 00:36:53,400
+generalizada.
+
+790
+00:36:55,680 --> 00:37:01,880
+E além disso, o diabetes pode causar
+
+791
+00:36:58,599 --> 00:37:05,079
+irregularidades menstruais, pode causar
+
+792
+00:37:01,880 --> 00:37:07,000
+disfunção sexual, pode causar
+
+793
+00:37:05,079 --> 00:37:09,760
+dificuldade para engravidar em mulheres
+
+794
+00:37:07,000 --> 00:37:12,680
+mais jovens, pode dar uma gestação de
+
+795
+00:37:09,760 --> 00:37:15,040
+risco essa mulher engravite, causando o
+
+796
+00:37:12,680 --> 00:37:17,599
+diabetes da gestação, né, o diabetes
+
+797
+00:37:15,040 --> 00:37:19,480
+gestacional e também aumentar o risco de
+
+798
+00:37:17,599 --> 00:37:22,200
+aumento de pressão arterial durante a
+
+799
+00:37:19,480 --> 00:37:23,880
+gravidez, que é a pré-eclâmpsia, né, ou
+
+800
+00:37:22,200 --> 00:37:26,599
+doença hipertensiva. específica da
+
+801
+00:37:23,880 --> 00:37:29,119
+gravidez. O DG aumenta o risco de aborto
+
+802
+00:37:26,599 --> 00:37:32,359
+de infecções durante a gravidez,
+
+803
+00:37:29,119 --> 00:37:34,720
+malformações também para o bebê, além de
+
+804
+00:37:32,359 --> 00:37:37,599
+prematuridade e alguns casos mais graves
+
+805
+00:37:34,720 --> 00:37:39,440
+até óbito do bebê. Em relação ao saúde
+
+806
+00:37:37,599 --> 00:37:42,200
+mental, mulheres diabéticas têm maior
+
+807
+00:37:39,440 --> 00:37:44,599
+risco de depressão, risco dobrado de
+
+808
+00:37:42,200 --> 00:37:46,800
+depressão, que pode dificultar o
+
+809
+00:37:44,599 --> 00:37:48,960
+autocuidado e o controle do açúcar.
+
+810
+00:37:46,800 --> 00:37:51,640
+Então, existe um risco aumentado de
+
+811
+00:37:48,960 --> 00:37:54,520
+morte precoce em mulheres diabéticas.
+
+812
+00:37:51,640 --> 00:37:56,599
+Mulheres com diabetes t até 60% mais
+
+813
+00:37:54,520 --> 00:37:57,920
+riscos de morte prematura do que pessoas
+
+814
+00:37:56,599 --> 00:38:00,359
+sem a
+
+815
+00:37:57,920 --> 00:38:02,760
+doença. Então tem que ficar muito atento
+
+816
+00:38:00,359 --> 00:38:05,480
+em relação a isso. Então, resumindo,
+
+817
+00:38:02,760 --> 00:38:07,960
+doença cardiovascular como infarto AVC
+
+818
+00:38:05,480 --> 00:38:10,160
+isquêmico insuficiência cardíaca,
+
+819
+00:38:07,960 --> 00:38:13,800
+insuficiência renal com perda da função
+
+820
+00:38:10,160 --> 00:38:17,560
+do órgão e necessidade de transplante,
+
+821
+00:38:13,800 --> 00:38:20,440
+perda de da visão por lesão à retina,
+
+822
+00:38:17,560 --> 00:38:23,480
+neuropatia periférica, alterações
+
+823
+00:38:20,440 --> 00:38:25,160
+vasculares periféricas, risco de lesões
+
+824
+00:38:23,480 --> 00:38:27,440
+graves e
+
+825
+00:38:25,160 --> 00:38:30,400
+amputações, infecções de repetição,
+
+826
+00:38:27,440 --> 00:38:33,119
+tanto ginecológicas quanto urinárias,
+
+827
+00:38:30,400 --> 00:38:35,599
+alterações ações de saúde mental com
+
+828
+00:38:33,119 --> 00:38:38,599
+aumento de depressão e aumento de
+
+829
+00:38:35,599 --> 00:38:41,240
+mortalidade precoce.
+
+830
+00:38:38,599 --> 00:38:44,640
+Beleza? Deixa eu ver se nesse intervalo
+
+831
+00:38:41,240 --> 00:38:44,640
+chegou mais perguntas
+
+832
+00:38:45,160 --> 00:38:50,520
+aqui. Opa, tem mais perguntas aqui. Tem
+
+833
+00:38:47,960 --> 00:38:52,920
+mais perguntas
+
+834
+00:38:50,520 --> 00:38:56,359
+aqui. Ah, tem a pergunta do Antônio
+
+835
+00:38:52,920 --> 00:38:56,359
+sobre a live. Pera aí que eu
+
+836
+00:39:00,880 --> 00:39:05,240
+vou O que que você achou do trabalho do
+
+837
+00:39:03,560 --> 00:39:07,680
+professor Alexandre Costa? Dei uma
+
+838
+00:39:05,240 --> 00:39:09,760
+olhada, tá, no trabalho dele. Achei bem
+
+839
+00:39:07,680 --> 00:39:10,920
+parecido com o professor Luís Antônio
+
+840
+00:39:09,760 --> 00:39:13,720
+Peixoto do
+
+841
+00:39:10,920 --> 00:39:16,960
+Vale. Eu vi que ele fala muito sobreva
+
+842
+00:39:13,720 --> 00:39:19,599
+Mundial, que ele fala bastante sobre Big
+
+843
+00:39:16,960 --> 00:39:22,079
+Farma, ele fala bastante sobre
+
+844
+00:39:19,599 --> 00:39:26,079
+manipulações aí globais
+
+845
+00:39:22,079 --> 00:39:27,520
+para escravidão dos povos, né, de
+
+846
+00:39:26,079 --> 00:39:29,640
+supressão do livre
+
+847
+00:39:27,520 --> 00:39:32,440
+arbítrio. Então eu gostei do trabalho
+
+848
+00:39:29,640 --> 00:39:34,240
+dele, sim. e eu vou procurar entrar em
+
+849
+00:39:32,440 --> 00:39:36,800
+contato com ele e vou pensar seriamente
+
+850
+00:39:34,240 --> 00:39:38,880
+nessa live. Sim. Tá bom. Agora a gente
+
+851
+00:39:36,800 --> 00:39:42,240
+tem mais perguntas que entraram depois,
+
+852
+00:39:38,880 --> 00:39:43,400
+entraram agora durante a live, tá? Esse
+
+853
+00:39:42,240 --> 00:39:45,400
+aqui eu não sei se eu vou conseguir
+
+854
+00:39:43,400 --> 00:39:48,119
+mostrar. Deixa eu ver se eu consigo
+
+855
+00:39:45,400 --> 00:39:49,680
+mostrar. Eu acho que consigo sim. Vou
+
+856
+00:39:48,119 --> 00:39:56,359
+pedir um minuto para vocês aqui para
+
+857
+00:39:49,680 --> 00:39:56,359
+criar rapidamente a estrutura, tá?
+
+858
+00:40:04,880 --> 00:40:10,960
+Dá só um minutinho que eu vou criar aqui
+
+859
+00:40:07,319 --> 00:40:14,920
+só apresentação das próximas perguntas
+
+860
+00:40:10,960 --> 00:40:17,480
+aqui para ficar mais fácil de vocês
+
+861
+00:40:14,920 --> 00:40:19,960
+visualizarem. Já estamos aí com 40
+
+862
+00:40:17,480 --> 00:40:19,960
+minutos de
+
+863
+00:40:21,560 --> 00:40:27,240
+live.Quanto tá criando as novas
+
+864
+00:40:23,599 --> 00:40:27,240
+perguntas aí.
+
+865
+00:41:06,800 --> 00:41:11,760
+Ver se já criou o site aqui. Não tá
+
+866
+00:41:08,920 --> 00:41:11,760
+fazendo edições
+
+867
+00:41:19,240 --> 00:41:24,240
+ainda. Pera aí que eu vou ter que
+
+868
+00:41:20,960 --> 00:41:24,240
+atualizar esse essa
+
+869
+00:41:29,200 --> 00:41:34,079
+apresentação. OK. Vamos ver se a
+
+870
+00:41:34,920 --> 00:41:41,319
+gente tá aqui. Já atualizou aqui. Ah,
+
+871
+00:41:38,720 --> 00:41:46,400
+vamos publicar.
+
+872
+00:41:41,319 --> 00:41:46,400
+Copiar. OK. P.
+
+873
+00:41:49,880 --> 00:41:53,839
+Uai, por que que não apareceu aqui? Pera
+
+874
+00:41:54,119 --> 00:41:57,119
+aí.
+
+875
+00:42:01,680 --> 00:42:05,960
+Pronto. Ver se tá dividindo a tela com
+
+876
+00:42:04,119 --> 00:42:07,490
+vocês
+
+877
+00:42:05,960 --> 00:42:09,440
+aqui. Próxima
+
+878
+00:42:07,490 --> 00:42:12,319
+[Música]
+
+879
+00:42:09,440 --> 00:42:15,000
+pergunta aqui do
+
+880
+00:42:12,319 --> 00:42:18,319
+autismo. A próxima pergunta que
+
+881
+00:42:15,000 --> 00:42:18,319
+colocaram aqui?
+
+882
+00:42:21,640 --> 00:42:26,960
+H, então
+
+883
+00:42:24,280 --> 00:42:30,040
+pergunta. Existe pessoas que ao se
+
+884
+00:42:26,960 --> 00:42:32,319
+deparar com TDH e autismo tendem a
+
+885
+00:42:30,040 --> 00:42:34,960
+atribuir a pessoas com essas doenças um
+
+886
+00:42:32,319 --> 00:42:36,960
+certo nível de inteligência, mas na
+
+887
+00:42:34,960 --> 00:42:39,599
+prática vemos que a maioria das pessoas,
+
+888
+00:42:36,960 --> 00:42:41,920
+exceto algumas pessoas com essas doenças
+
+889
+00:42:39,599 --> 00:42:46,480
+têm uma baixa qualidade de vida.
+
+890
+00:42:41,920 --> 00:42:48,200
+Qual sua opinião como um pai acha que as
+
+891
+00:42:46,480 --> 00:42:51,160
+pessoas deveriam olhar mais para a
+
+892
+00:42:48,200 --> 00:42:53,400
+realidade e assim tentar buscar cura ou
+
+893
+00:42:51,160 --> 00:42:55,880
+continuar com essa mentalidade? Então é
+
+894
+00:42:53,400 --> 00:42:57,880
+uma coisa que me incomoda bastante, viu?
+
+895
+00:42:55,880 --> 00:43:00,880
+Quando eu falei desse
+
+896
+00:42:57,880 --> 00:43:03,760
+assunto uma vez num vídeo uns anos atrás
+
+897
+00:43:00,880 --> 00:43:06,599
+que eu falei do meu filho e quando eu
+
+898
+00:43:03,760 --> 00:43:09,240
+disse que meu filho tinha uma forma
+
+899
+00:43:06,599 --> 00:43:12,640
+de grau de cuidados,
+
+900
+00:43:09,240 --> 00:43:14,280
+né, grau um, né, uma forma leve, o
+
+901
+00:43:12,640 --> 00:43:16,520
+pessoal ficou meio chocado porque eu
+
+902
+00:43:14,280 --> 00:43:19,079
+falei que ele tinha um autismo leve,
+
+903
+00:43:16,520 --> 00:43:22,280
+graças a Deus. O pessoal que tem filho
+
+904
+00:43:19,079 --> 00:43:26,240
+com autismo moderado e severo se
+
+905
+00:43:22,280 --> 00:43:28,040
+sentiu ofendido quando eu comentei isso.
+
+906
+00:43:26,240 --> 00:43:32,760
+E isso na época me chamou muita atenção,
+
+907
+00:43:28,040 --> 00:43:37,480
+né? Porque existe essa eh ideia assim de
+
+908
+00:43:32,760 --> 00:43:39,800
+romantizada, né, de que o autismo são
+
+909
+00:43:37,480 --> 00:43:43,000
+crianças cristais, são crianças
+
+910
+00:43:39,800 --> 00:43:46,359
+evoluídas, são crianças na nova era por
+
+911
+00:43:43,000 --> 00:43:48,599
+aí vai, né? E eu acho que isso pode ser,
+
+912
+00:43:46,359 --> 00:43:50,880
+por um lado, um alívio pros pais que têm
+
+913
+00:43:48,599 --> 00:43:53,760
+essa situação tão sofrida dentro de
+
+914
+00:43:50,880 --> 00:43:57,240
+casa, mas por outro lado pode ser uma
+
+915
+00:43:53,760 --> 00:43:57,240
+maneira de se autoiludir,
+
+916
+00:43:57,520 --> 00:44:03,559
+né? E o pessoal sempre gosta de usar a
+
+917
+00:44:00,720 --> 00:44:07,319
+exceção como regra, né? Porque tem os
+
+918
+00:44:03,559 --> 00:44:10,720
+savantes que tem que tem o o pessoal que
+
+919
+00:44:07,319 --> 00:44:12,960
+tem a forma de Deia de
+
+920
+00:44:10,720 --> 00:44:17,000
+Tea,
+
+921
+00:44:12,960 --> 00:44:18,800
+como também o o tem o Savan que tem que
+
+922
+00:44:17,000 --> 00:44:22,640
+eles são meio gênios em algumas áreas. E
+
+923
+00:44:18,800 --> 00:44:22,640
+tem também o o me fugiu agora o
+
+924
+00:44:22,880 --> 00:44:28,280
+nome o daqui a pouco eu lembro. Enfim.
+
+925
+00:44:25,839 --> 00:44:30,200
+Tá. Mas, mas então existe na mídia, em
+
+926
+00:44:28,280 --> 00:44:32,440
+algumas comunidades, essa necessidade de
+
+927
+00:44:30,200 --> 00:44:35,079
+associar o TDAH e o autismo a
+
+928
+00:44:32,440 --> 00:44:36,760
+inteligência elevada, nível criatividade
+
+929
+00:44:35,079 --> 00:44:39,440
+elevado, talentos
+
+930
+00:44:36,760 --> 00:44:41,359
+especiais. Existem pessoas que têm essas
+
+931
+00:44:39,440 --> 00:44:43,920
+situações, como eu falei, como Savan,
+
+932
+00:44:41,359 --> 00:44:46,800
+como Astinger, lembrei agora, o Savã e o
+
+933
+00:44:43,920 --> 00:44:47,839
+Astinger. Essa é a exceção, não é a
+
+934
+00:44:46,800 --> 00:44:50,520
+regra,
+
+935
+00:44:47,839 --> 00:44:53,280
+tá? Apenas uma minoria dos autistas tem
+
+936
+00:44:50,520 --> 00:44:55,960
+habilidades extraordinárias, tá? A
+
+937
+00:44:53,280 --> 00:44:57,720
+maioria enfrenta dificuldade social.
+
+938
+00:44:55,960 --> 00:45:00,000
+dificuldade de comunicação. Meu filho
+
+939
+00:44:57,720 --> 00:45:01,640
+agora que tá na adolescência, ele tá com
+
+940
+00:45:00,000 --> 00:45:03,920
+muita confusão
+
+941
+00:45:01,640 --> 00:45:06,000
+mental. A gente tá tendo que ter muito
+
+942
+00:45:03,920 --> 00:45:07,359
+cuidado com ele. Muitas vezes ele não
+
+943
+00:45:06,000 --> 00:45:09,040
+sabe nem expressar o que ele tá
+
+944
+00:45:07,359 --> 00:45:12,319
+sentindo, né? Isso porque ele é uma
+
+945
+00:45:09,040 --> 00:45:14,800
+forma leve, né? Pessoas também com TDH
+
+946
+00:45:12,319 --> 00:45:16,599
+podem ser muito inteligentes, tá? Mas
+
+947
+00:45:14,800 --> 00:45:19,319
+muitas delas têm problemas de
+
+948
+00:45:16,599 --> 00:45:20,920
+organização, de foco, podem ser
+
+949
+00:45:19,319 --> 00:45:23,760
+impulsivas, podem ter problema de
+
+950
+00:45:20,920 --> 00:45:25,640
+regulação emocional que vai prejudicar
+
+951
+00:45:23,760 --> 00:45:27,920
+desempenho acadêmico, desempenho
+
+952
+00:45:25,640 --> 00:45:30,720
+profissional, programas de relações
+
+953
+00:45:27,920 --> 00:45:33,960
+pessoais, né, relações de
+
+954
+00:45:30,720 --> 00:45:36,160
+trabalho. Muitos estudos mostram que TDH
+
+955
+00:45:33,960 --> 00:45:39,079
+e o autismo estão associados à qualidade
+
+956
+00:45:36,160 --> 00:45:41,599
+de vida mais baixa. Isso não tem a ver
+
+957
+00:45:39,079 --> 00:45:43,599
+necessariamente com QI por causa de
+
+958
+00:45:41,599 --> 00:45:46,640
+dificuldade de socialização, dificuldade
+
+959
+00:45:43,599 --> 00:45:48,319
+de construção de relações, risco maior
+
+960
+00:45:46,640 --> 00:45:50,839
+de ansiedade,
+
+961
+00:45:48,319 --> 00:45:52,480
+depressão, transtornos mentais,
+
+962
+00:45:50,839 --> 00:45:54,240
+problemas acadêmicos, problemas
+
+963
+00:45:52,480 --> 00:45:58,079
+profissionais, estresse familiar,
+
+964
+00:45:54,240 --> 00:46:01,079
+estresse conjugal, sobrecarga de
+
+965
+00:45:58,079 --> 00:46:01,079
+cuidadores,
+
+966
+00:46:01,559 --> 00:46:07,240
+né? Então, a gente tem que tentar
+
+967
+00:46:04,240 --> 00:46:10,079
+balançar eh o realismo com a compaixão,
+
+968
+00:46:07,240 --> 00:46:12,599
+né? O pessoal que fica eh romantizando
+
+969
+00:46:10,079 --> 00:46:14,400
+essas doenças, a gente tem que ter
+
+970
+00:46:12,599 --> 00:46:17,359
+compressão, tem que ter carinho, tem que
+
+971
+00:46:14,400 --> 00:46:20,880
+ter afeto e não tá atirando na na cara
+
+972
+00:46:17,359 --> 00:46:22,440
+das pessoas o problema, né? Quando eu
+
+973
+00:46:20,880 --> 00:46:24,200
+fiz essa live, comentei que meu filho
+
+974
+00:46:22,440 --> 00:46:26,720
+tinha uma fama leve, graças a Deus, eu
+
+975
+00:46:24,200 --> 00:46:30,160
+não tava atacando de forma nenhuma
+
+976
+00:46:26,720 --> 00:46:32,079
+outros pais que têm essa situação. Mas
+
+977
+00:46:30,160 --> 00:46:35,880
+na nossa sociedade hoje, que
+
+978
+00:46:32,079 --> 00:46:37,559
+tá eh muito na base do vitimismo, né, é
+
+979
+00:46:35,880 --> 00:46:40,559
+muito complicado hoje você falar
+
+980
+00:46:37,559 --> 00:46:43,800
+qualquer coisa, porque existe
+
+981
+00:46:40,559 --> 00:46:45,079
+essa esse estímulo ao vitimismo, né? E
+
+982
+00:46:43,800 --> 00:46:48,200
+as
+
+983
+00:46:45,079 --> 00:46:50,160
+pessoas eh muitas vezes começam a
+
+984
+00:46:48,200 --> 00:46:52,720
+fantasiar em cima disso.
+
+985
+00:46:50,160 --> 00:46:57,480
+Daí então a gente tem que tentar
+
+986
+00:46:52,720 --> 00:46:59,920
+balançar a compaixão, a ética, com essa
+
+987
+00:46:57,480 --> 00:47:02,680
+percepção eh apurada do que tá
+
+988
+00:46:59,920 --> 00:47:05,040
+acontecendo com essa esse estímulo ao
+
+989
+00:47:02,680 --> 00:47:06,960
+vitimismo. OK?
+
+990
+00:47:05,040 --> 00:47:10,000
+E a gente tem que também evitar de
+
+991
+00:47:06,960 --> 00:47:12,359
+romantizar esses casos raros de gênios
+
+992
+00:47:10,000 --> 00:47:13,280
+autistas ou pessoas que tm TDH que
+
+993
+00:47:12,359 --> 00:47:15,599
+seriam
+
+994
+00:47:13,280 --> 00:47:17,559
+superotadas, porque isso pode piorar a
+
+995
+00:47:15,599 --> 00:47:19,880
+situação paraa maioria das pessoas. tem
+
+996
+00:47:17,559 --> 00:47:22,839
+que evitar essa banalização que tá
+
+997
+00:47:19,880 --> 00:47:25,400
+acontecendo. Outro dia eu vi lá que o
+
+998
+00:47:22,839 --> 00:47:27,079
+não acompanho o material dele, não sei
+
+999
+00:47:25,400 --> 00:47:28,720
+se ele tá sendo correto no que ele tá
+
+1000
+00:47:27,079 --> 00:47:30,599
+afirmando, mas o
+
+1001
+00:47:28,720 --> 00:47:32,760
+Nutritom, isso eu só fiquei sabendo
+
+1002
+00:47:30,599 --> 00:47:35,280
+através da Ana Paula que me falou que o
+
+1003
+00:47:32,760 --> 00:47:37,400
+Nutritonton estaria se decalarando ao
+
+1004
+00:47:35,280 --> 00:47:40,599
+mesmo tempo autista e ao mesmo tempo
+
+1005
+00:47:37,400 --> 00:47:42,160
+TDH, tá? Eh, eu posso tá errado. Não
+
+1006
+00:47:40,599 --> 00:47:45,000
+conheço bem o
+
+1007
+00:47:42,160 --> 00:47:47,720
+Nutritontom, porém a chance disso ser
+
+1008
+00:47:45,000 --> 00:47:51,200
+verdade, eu acho que é tipo
+
+1009
+00:47:47,720 --> 00:47:53,200
+2,1%, tá? Eh, eu acho que ele tá sendo
+
+1010
+00:47:51,200 --> 00:47:55,800
+um pouco incorreto nessa abordagem que
+
+1011
+00:47:53,200 --> 00:47:57,880
+ele tá fazendo, tá tentando conseguir
+
+1012
+00:47:55,800 --> 00:47:59,440
+holofotes, tá? Posso estar enganado, tá,
+
+1013
+00:47:57,880 --> 00:48:02,240
+pessoal? Então, vocês me perdoem se
+
+1014
+00:47:59,440 --> 00:48:07,359
+vocês têm informações aí super claras
+
+1015
+00:48:02,240 --> 00:48:09,720
+que o do Tritonton não é TDAH e autista.
+
+1016
+00:48:07,359 --> 00:48:11,200
+E quando a gente banaliza essa doença,
+
+1017
+00:48:09,720 --> 00:48:13,839
+tá, e começa a achar que todo mundo é
+
+1018
+00:48:11,200 --> 00:48:17,040
+altíssimo, todo mundo é TDAH, a gente
+
+1019
+00:48:13,839 --> 00:48:20,200
+cria um dano muito grande nas reais
+
+1020
+00:48:17,040 --> 00:48:23,000
+vítimas do problema, né? A gente pode
+
+1021
+00:48:20,200 --> 00:48:26,280
+realmente causar uma reação da sociedade
+
+1022
+00:48:23,000 --> 00:48:28,200
+achando que é frescura, que é invenção e
+
+1023
+00:48:26,280 --> 00:48:30,040
+isso prejudicar muito realmente as
+
+1024
+00:48:28,200 --> 00:48:31,640
+pessoas que têm problemas em relação a
+
+1025
+00:48:30,040 --> 00:48:34,200
+isso,
+
+1026
+00:48:31,640 --> 00:48:36,920
+né? Então a gente tem que tentar aqui se
+
+1027
+00:48:34,200 --> 00:48:40,760
+equilibrar na corda banda.
+
+1028
+00:48:36,920 --> 00:48:44,160
+eh tentando aí balancear a esperança,
+
+1029
+00:48:40,760 --> 00:48:45,000
+balancear essa essas atitudes aí um
+
+1030
+00:48:44,160 --> 00:48:47,559
+pouco
+
+1031
+00:48:45,000 --> 00:48:49,640
+fantasiosas com uma abordagem prática e
+
+1032
+00:48:47,559 --> 00:48:51,240
+realista sobre esse problema, certo?
+
+1033
+00:48:49,640 --> 00:48:53,480
+para poder melhorar a qualidade de vida
+
+1034
+00:48:51,240 --> 00:48:55,640
+dessas pessoas, respeitando
+
+1035
+00:48:53,480 --> 00:48:58,040
+individualidades. Lembrando que por trás
+
+1036
+00:48:55,640 --> 00:49:01,280
+do diagnóstico tem um indivíduo com as
+
+1037
+00:48:58,040 --> 00:49:04,000
+suas particularidades. O indivíduo não é
+
+1038
+00:49:01,280 --> 00:49:06,480
+definido pela doença. Lembrar que cada
+
+1039
+00:49:04,000 --> 00:49:09,119
+pessoa tem as suas necessidades
+
+1040
+00:49:06,480 --> 00:49:14,359
+individuais que não devem ser enxergados
+
+1041
+00:49:09,119 --> 00:49:15,040
+como estereótipos. OK? Eu acho que deu
+
+1042
+00:49:14,359 --> 00:49:18,160
+para
+
+1043
+00:49:15,040 --> 00:49:21,240
+abordar de maneira bem completa essa
+
+1044
+00:49:18,160 --> 00:49:21,240
+questão aí. Tá
+
+1045
+00:49:22,240 --> 00:49:27,559
+bom. Próxima
+
+1046
+00:49:25,040 --> 00:49:30,760
+pergunta. Deixa eu ver se eu consigo pôr
+
+1047
+00:49:27,559 --> 00:49:30,760
+na tela.
+
+1048
+00:49:34,559 --> 00:49:41,440
+Ã, Dr. Alan, essa doença, nova doença
+
+1049
+00:49:38,319 --> 00:49:43,530
+de, estão falando do MPOX, né? Não seria
+
+1050
+00:49:41,440 --> 00:49:46,000
+gerado pelas
+
+1051
+00:49:43,530 --> 00:49:48,359
+[Música]
+
+1052
+00:49:46,000 --> 00:49:50,480
+picadinhas. Essa pergunta não é a
+
+1053
+00:49:48,359 --> 00:49:52,880
+mesma. Deixa eu ver se eu pulei alguma
+
+1054
+00:49:50,480 --> 00:49:52,880
+pergunta
+
+1055
+00:49:53,680 --> 00:50:01,960
+aqui. Minutinho só. Ah, tá. Eu pulei
+
+1056
+00:49:58,520 --> 00:50:04,319
+sim. Mas por que que não apareceu aqui?
+
+1057
+00:50:01,960 --> 00:50:06,119
+Pera aí. Pergunta anterior. Tá, não
+
+1058
+00:50:04,319 --> 00:50:08,559
+apareceu. Não sei por. Tá, acho que
+
+1059
+00:50:06,119 --> 00:50:09,920
+pulou aqui. Mas a próxima pergunta seria
+
+1060
+00:50:08,559 --> 00:50:12,319
+o seguinte.
+
+1061
+00:50:09,920 --> 00:50:14,520
+Essa nova doença, tá falando, eu acho da
+
+1062
+00:50:12,319 --> 00:50:18,880
+MPOX, não seria gerada
+
+1063
+00:50:14,520 --> 00:50:21,119
+pelas injeções. Será que não é só em
+
+1064
+00:50:18,880 --> 00:50:23,680
+pessoas que sofreram as
+
+1065
+00:50:21,119 --> 00:50:26,119
+injeções? Já pensou nessa
+
+1066
+00:50:23,680 --> 00:50:30,119
+possibilidade? Pensar na possibilidade
+
+1067
+00:50:26,119 --> 00:50:33,000
+eu já pensei, tá? Mas eh não é o que me
+
+1068
+00:50:30,119 --> 00:50:34,680
+parece baseado no meu conhecimento e
+
+1069
+00:50:33,000 --> 00:50:37,000
+baseado no bom senso, tá, pessoal? A
+
+1070
+00:50:34,680 --> 00:50:40,000
+gente pode tem que tomar
+
+1071
+00:50:37,000 --> 00:50:40,000
+cuidado
+
+1072
+00:50:45,359 --> 00:50:53,599
+porque a gente pode ceder aí alguns
+
+1073
+00:50:49,000 --> 00:50:53,599
+exageros que estão acontecendo, tá?
+
+1074
+00:50:58,079 --> 00:51:04,200
+Na sua opinião, uma pessoa que tomou a
+
+1075
+00:51:00,160 --> 00:51:09,799
+última dose da injeção em
+
+1076
+00:51:04,200 --> 00:51:13,480
+2014, por que 2014 da hepatite eh
+
+1077
+00:51:09,799 --> 00:51:16,480
+B1 RNA mensageiro, que quer dizer
+
+1078
+00:51:13,480 --> 00:51:16,480
+calchante.
+
+1079
+00:51:18,920 --> 00:51:24,240
+Bem, talvez tá falando 2024, não tô
+
+1080
+00:51:21,319 --> 00:51:27,520
+entendendo direito isso aqui. O que que
+
+1081
+00:51:24,240 --> 00:51:31,400
+seria a injeção composta num cartão de
+
+1082
+00:51:27,520 --> 00:51:34,640
+vacina em 2013? Tem RNA mensageiro?
+
+1083
+00:51:31,400 --> 00:51:36,559
+Olha, não tem, porque nesse ano de 2014,
+
+1084
+00:51:34,640 --> 00:51:42,079
+se você não errou aí na agitação, não
+
+1085
+00:51:36,559 --> 00:51:44,880
+tem essa essa vacina aí de RNA, não, né?
+
+1086
+00:51:42,079 --> 00:51:44,880
+Porque em
+
+1087
+00:51:46,960 --> 00:51:50,559
+2014 não existia essa tecnologia de
+
+1088
+00:51:49,240 --> 00:51:52,400
+herné
+
+1089
+00:51:50,559 --> 00:51:57,240
+mensageiro. Essa
+
+1090
+00:51:52,400 --> 00:52:00,400
+tecnologia que se utilizava até 2020 era
+
+1091
+00:51:57,240 --> 00:52:04,720
+de proteínas recombinantes do antígeno
+
+1092
+00:52:00,400 --> 00:52:07,240
+de superfície do hepatite B, tá? Não
+
+1093
+00:52:04,720 --> 00:52:11,760
+tinha nada de RNA mensageiro aí, né?
+
+1094
+00:52:07,240 --> 00:52:11,760
+Isso era produzido em levedura.
+
+1095
+00:52:13,119 --> 00:52:18,839
+E as primeiras vacinas aí de RNA
+
+1096
+00:52:15,880 --> 00:52:22,000
+mensageiro para hepatite B são começaram
+
+1097
+00:52:18,839 --> 00:52:22,000
+a ser testadas em
+
+1098
+00:52:30,520 --> 00:52:35,520
+2022. Então eu não sei se você tem mais
+
+1099
+00:52:33,440 --> 00:52:37,559
+informações sobre esse assunto, me fale,
+
+1100
+00:52:35,520 --> 00:52:40,240
+tá? Mas eu não sei porque que você
+
+1101
+00:52:37,559 --> 00:52:43,319
+chegou a essa conclusão que em 2014 já
+
+1102
+00:52:40,240 --> 00:52:45,000
+existiu eh essa tecnologia aí de RNA
+
+1103
+00:52:43,319 --> 00:52:48,079
+mensageiro. Talvez você tenha uma
+
+1104
+00:52:45,000 --> 00:52:50,359
+informação aí que eu não tô com acesso
+
+1105
+00:52:48,079 --> 00:52:50,359
+no
+
+1106
+00:52:51,680 --> 00:52:57,240
+momento. Bem, vamos para a próxima aqui.
+
+1107
+00:52:55,079 --> 00:53:00,000
+Quais o período os perigos da
+
+1108
+00:52:57,240 --> 00:53:04,799
+metiformina com a dose segura, tá?
+
+1109
+00:53:00,000 --> 00:53:04,799
+Genérico original. Qual é melhor?
+
+1110
+00:53:05,200 --> 00:53:08,839
+Então vamos falar
+
+1111
+00:53:09,400 --> 00:53:15,720
+então
+
+1112
+00:53:10,920 --> 00:53:15,720
+sobre os efeitos colaterais da
+
+1113
+00:53:18,040 --> 00:53:24,720
+metformmina. Tanto a metformina quanto o
+
+1114
+00:53:21,000 --> 00:53:28,440
+glifá, né, que é o nome comercial mais
+
+1115
+00:53:24,720 --> 00:53:30,319
+comum, né, eles têm basicamente aí os
+
+1116
+00:53:28,440 --> 00:53:33,440
+mesmos efeitos colaterais. não não
+
+1117
+00:53:30,319 --> 00:53:36,680
+existiria essa necessidade aí
+
+1118
+00:53:33,440 --> 00:53:39,559
+de distinguir um do outro,
+
+1119
+00:53:36,680 --> 00:53:43,000
+tá? Os efeitos mais comuns é diarreia,
+
+1120
+00:53:39,559 --> 00:53:46,720
+constipação, náusea, eh gases e perdas
+
+1121
+00:53:43,000 --> 00:53:48,920
+de apetite, tá? E geralmente começam no
+
+1122
+00:53:46,720 --> 00:53:51,000
+início do tratamento e depois vão
+
+1123
+00:53:48,920 --> 00:53:53,240
+melhorando. Outro efeito muito comum é a
+
+1124
+00:53:51,000 --> 00:53:56,160
+deficiência de B12, tá? A mediformina
+
+1125
+00:53:53,240 --> 00:53:59,440
+pode atrapalhar a absorção de B12. Então
+
+1126
+00:53:56,160 --> 00:53:59,440
+eu tem que ficar muito atento quanto a
+
+1127
+00:53:59,880 --> 00:54:05,920
+isso. Existe um risco
+
+1128
+00:54:03,119 --> 00:54:07,720
+muito leve e raro de
+
+1129
+00:54:05,920 --> 00:54:10,720
+hipoglicemia quando você usa
+
+1130
+00:54:07,720 --> 00:54:14,359
+metifformina de forma isolada. E uma
+
+1131
+00:54:10,720 --> 00:54:16,640
+crise aí de acidose láctica é muito rara
+
+1132
+00:54:14,359 --> 00:54:19,640
+que é caracterizada pelo acúmulo de
+
+1133
+00:54:16,640 --> 00:54:21,640
+ácido láctico no sangue, ok? A dose que
+
+1134
+00:54:19,640 --> 00:54:25,839
+se usa de 500
+
+1135
+00:54:21,640 --> 00:54:30,480
+mg até três vezes ao
+
+1136
+00:54:25,839 --> 00:54:30,480
+dia. Então essa que é a faixa de
+
+1137
+00:54:38,440 --> 00:54:43,599
+dose. Existe também uma forma de
+
+1138
+00:54:41,359 --> 00:54:46,400
+liberação prolongada de 2000 mg, ou
+
+1139
+00:54:43,599 --> 00:54:48,200
+seja, 2 g ao dia. Então, a dose máxima
+
+1140
+00:54:46,400 --> 00:54:51,359
+poderia chegar até
+
+1141
+00:54:48,200 --> 00:54:55,839
+2,5 g, mas geralmente o pessoal não
+
+1142
+00:54:51,359 --> 00:54:55,839
+passa de 1,5 g pro dia, tá
+
+1143
+00:54:56,400 --> 00:55:03,000
+bom? E até onde eu sei, o genérico e o
+
+1144
+00:54:59,960 --> 00:55:03,000
+original não tem muita
+
+1145
+00:55:06,720 --> 00:55:11,760
+diferença. Bem, vamos pra próxima
+
+1146
+00:55:08,760 --> 00:55:11,760
+pergunta.
+
+1147
+00:55:14,160 --> 00:55:17,799
+Não, parece que esse foi a última. Deixa
+
+1148
+00:55:15,520 --> 00:55:21,079
+eu ver se tem mais alguma
+
+1149
+00:55:17,799 --> 00:55:22,400
+aqui. Ah, não tem mais uma aqui. Mas
+
+1150
+00:55:21,079 --> 00:55:24,799
+esse aqui não vou colocar na tela, não,
+
+1151
+00:55:22,400 --> 00:55:27,039
+tá? Se a gente vai perder tempo aqui.
+
+1152
+00:55:24,799 --> 00:55:29,480
+Dout. Alan, você falou que tem um outro
+
+1153
+00:55:27,039 --> 00:55:32,319
+lado além da medicina integrativa que é
+
+1154
+00:55:29,480 --> 00:55:35,200
+a tecnologia. Então, acho
+
+1155
+00:55:32,319 --> 00:55:38,480
+pertinente perguntar qual a sua opinião
+
+1156
+00:55:35,200 --> 00:55:40,359
+sobre Bitcoin. Você investe? É seguro,
+
+1157
+00:55:38,480 --> 00:55:42,440
+acha que tem futuro? Eu particularmente
+
+1158
+00:55:40,359 --> 00:55:44,680
+não sou muito fã. Ah, tá. Obrigado pela
+
+1159
+00:55:42,440 --> 00:55:47,839
+pergunta. Eu acompanho Bitcoin há muito
+
+1160
+00:55:44,680 --> 00:55:51,039
+tempo, mas não acompanho no sentido de
+
+1161
+00:55:47,839 --> 00:55:52,400
+ser especialista em Bitcoin, tá? Mas
+
+1162
+00:55:51,039 --> 00:55:56,319
+sim,
+
+1163
+00:55:52,400 --> 00:55:57,559
+porque é uma coisa que é da tecnologia.
+
+1164
+00:55:56,319 --> 00:55:59,440
+Eu gosto muito de tecnologia já há
+
+1165
+00:55:57,559 --> 00:56:01,640
+muitos anos, né? Mas eu nunca tive
+
+1166
+00:55:59,440 --> 00:56:03,720
+coragem de investir em Bitcoin, tá? Eh,
+
+1167
+00:56:01,640 --> 00:56:06,400
+e vou te dizer por quê. Eu acho que o
+
+1168
+00:56:03,720 --> 00:56:10,480
+Bitcoin é um conceito
+
+1169
+00:56:06,400 --> 00:56:14,240
+muito complicado, né, de você
+
+1170
+00:56:10,480 --> 00:56:17,920
+colocar poder computacional a serviço de
+
+1171
+00:56:14,240 --> 00:56:22,839
+um algoritmo para gerar um
+
+1172
+00:56:17,920 --> 00:56:25,680
+código. E esse código ele tenta imitar
+
+1173
+00:56:22,839 --> 00:56:27,680
+uma escassez que acontece na
+
+1174
+00:56:25,680 --> 00:56:30,559
+natureza e
+
+1175
+00:56:27,680 --> 00:56:32,680
+isso por uma convenção humana ser
+
+1176
+00:56:30,559 --> 00:56:36,000
+considerada uma coisa de valor, tá? Eu
+
+1177
+00:56:32,680 --> 00:56:40,079
+tenho muita dificuldade de aceitar o
+
+1178
+00:56:36,000 --> 00:56:42,599
+conceito primordial essencial do
+
+1179
+00:56:40,079 --> 00:56:45,119
+Bitcoin, porque eu entendo que esse
+
+1180
+00:56:42,599 --> 00:56:48,400
+conceito de escassez gerado por
+
+1181
+00:56:45,119 --> 00:56:52,599
+algoritmos computacionais é uma
+
+1182
+00:56:48,400 --> 00:56:55,400
+coisa extremamente artificial, tá? E
+
+1183
+00:56:52,599 --> 00:56:58,039
+essa é uma coisa também extremamente
+
+1184
+00:56:55,400 --> 00:57:01,440
+manipulável, tá? No meu ponto de vista,
+
+1185
+00:56:58,039 --> 00:57:05,319
+o pessoal que divul divulga o Bitcoin,
+
+1186
+00:57:01,440 --> 00:57:08,359
+eles falam muito em liberdade, falta de
+
+1187
+00:57:05,319 --> 00:57:13,280
+controle dos governos, tá? Mas eu não
+
+1188
+00:57:08,359 --> 00:57:13,280
+caio muito nessa conversa. Eu acho que
+
+1189
+00:57:13,880 --> 00:57:19,039
+eh é muito temeroso, tá? O meu feeling,
+
+1190
+00:57:17,440 --> 00:57:22,559
+tá?
+
+1191
+00:57:19,039 --> 00:57:26,000
+é que essa tecnologia, apesar de ser
+
+1192
+00:57:22,559 --> 00:57:28,039
+blockchain, uma tecnologia muito segura,
+
+1193
+00:57:26,000 --> 00:57:30,319
+que não pode ser
+
+1194
+00:57:28,039 --> 00:57:32,000
+hackeada até o momento, apesar de que
+
+1195
+00:57:30,319 --> 00:57:37,039
+eles estão tentando criar tecnologias de
+
+1196
+00:57:32,000 --> 00:57:41,640
+computadores quânticos para quebrar aí
+
+1197
+00:57:37,039 --> 00:57:43,680
+as tecnologias de segurança, né, de de
+
+1198
+00:57:41,640 --> 00:57:46,760
+criptografia, eu acho que vai chegar em
+
+1199
+00:57:43,680 --> 00:57:50,039
+algum momento que vai ser quebrado essas
+
+1200
+00:57:46,760 --> 00:57:53,280
+essas as seguranças aí do do
+
+1201
+00:57:50,039 --> 00:57:55,440
+blockchain. Então é assim, eu tenho esse
+
+1202
+00:57:53,280 --> 00:57:57,559
+feeling, por conta desse feeling, eu
+
+1203
+00:57:55,440 --> 00:58:00,079
+nunca investi em Bitcoin, tá? Eu acho
+
+1204
+00:57:57,559 --> 00:58:02,440
+que é um mercado extremamente instável.
+
+1205
+00:58:00,079 --> 00:58:03,839
+O meu irmão, por acaso, trabalha, aliás,
+
+1206
+00:58:02,440 --> 00:58:05,680
+trabalhou, né? Ele já saiu da empresa,
+
+1207
+00:58:03,839 --> 00:58:07,359
+ele trabalhou uns dois anos numa empresa
+
+1208
+00:58:05,680 --> 00:58:12,559
+de Bitcoin.
+
+1209
+00:58:07,359 --> 00:58:16,000
+E a a orientação mesmo para quem
+
+1210
+00:58:12,559 --> 00:58:19,680
+e é investidor é que coloque no máximo
+
+1211
+00:58:16,000 --> 00:58:22,839
+5% do patrimônio em Bitcoin, tá? Então
+
+1212
+00:58:19,680 --> 00:58:25,000
+eu não recomendo investimento em Bitcoin
+
+1213
+00:58:22,839 --> 00:58:26,799
+e eu particularmente não gosto de
+
+1214
+00:58:25,000 --> 00:58:31,559
+Bitcoin, tá? Espero que tenha ficado
+
+1215
+00:58:26,799 --> 00:58:31,559
+claro aí meu posicionamento. Oem.
+
+1216
+00:58:33,079 --> 00:58:39,240
+Tá bom, eu tô terminando a live
+
+1217
+00:58:35,839 --> 00:58:41,920
+aqui. Vamos uma pergunta ao vivo
+
+1218
+00:58:39,240 --> 00:58:43,920
+aqui. Eh, Dr. Alan, aquelas vacinas que
+
+1219
+00:58:41,920 --> 00:58:46,280
+tomamos e demos aos filhos há décadas
+
+1220
+00:58:43,920 --> 00:58:49,680
+atrás ainda são eficientes para proteção
+
+1221
+00:58:46,280 --> 00:58:52,119
+e prevenção? Sim, mas existe teorias da
+
+1222
+00:58:49,680 --> 00:58:55,200
+conspiração, entre aspas, aí dizendo que
+
+1223
+00:58:52,119 --> 00:58:58,319
+elas poderiam estar já contaminadas com
+
+1224
+00:58:55,200 --> 00:59:00,440
+na mensageiro. Ou já estaria essa cepa
+
+1225
+00:58:58,319 --> 00:59:03,160
+de vírus fora da cobertura das vacinas?
+
+1226
+00:59:00,440 --> 00:59:06,240
+Não tá em cobertura. Sim. Tá. O que se
+
+1227
+00:59:03,160 --> 00:59:07,680
+discute aí nos círculos é que poderia
+
+1228
+00:59:06,240 --> 00:59:10,319
+ter já uma
+
+1229
+00:59:07,680 --> 00:59:13,119
+contaminação
+
+1230
+00:59:10,319 --> 00:59:15,280
+eh com René mensageiro nessas vacinas
+
+1231
+00:59:13,119 --> 00:59:16,680
+que eu não tenho essa confirmação. E eu
+
+1232
+00:59:15,280 --> 00:59:19,559
+também recebi um material aí de uma
+
+1233
+00:59:16,680 --> 00:59:21,359
+seguidora minha eh falando que já existe
+
+1234
+00:59:19,559 --> 00:59:23,680
+uma vacina de RNA
+
+1235
+00:59:21,359 --> 00:59:26,000
+mensageiro nos Estados Unidos para
+
+1236
+00:59:23,680 --> 00:59:29,079
+porcos, para uma diarreia lá dos porcos
+
+1237
+00:59:26,000 --> 00:59:32,160
+que é viral e que estaria já
+
+1238
+00:59:29,079 --> 00:59:35,079
+contaminando essa vacina RNA. estaria
+
+1239
+00:59:32,160 --> 00:59:36,559
+contaminando já a cadeia alimentar
+
+1240
+00:59:35,079 --> 00:59:39,119
+naquele
+
+1241
+00:59:36,559 --> 00:59:43,599
+país. E sinceramente eu não tive ainda
+
+1242
+00:59:39,119 --> 00:59:43,599
+nenhum artigo que eu tenha ficado com
+
+1243
+00:59:45,720 --> 00:59:52,039
+certeza ciente de que exista o shed, né,
+
+1244
+00:59:48,799 --> 00:59:54,599
+que é aquela situação de espalhar as
+
+1245
+00:59:52,039 --> 00:59:57,640
+partículas de RNA mensageiro através de
+
+1246
+00:59:54,599 --> 01:00:00,280
+contato, beijo, secreção, alimentação,
+
+1247
+00:59:57,640 --> 01:00:02,359
+etc. Então, sinceramente, espero que não
+
+1248
+01:00:00,280 --> 01:00:04,920
+aconteça o sheding, porque se o sheding
+
+1249
+01:00:02,359 --> 01:00:07,799
+for real, isso vai ser muito, muito
+
+1250
+01:00:04,920 --> 01:00:10,160
+problemático, essa questão aí da
+
+1251
+01:00:07,799 --> 01:00:12,720
+vacinação dos porcos americanos que vão
+
+1252
+01:00:10,160 --> 01:00:15,960
+chegar uma hora ou outra no Brasil, né,
+
+1253
+01:00:12,720 --> 01:00:18,240
+essa situação aí, tá, pessoal? Pessoal,
+
+1254
+01:00:15,960 --> 01:00:22,280
+vamos encerrar a live de hoje. Então, eu
+
+1255
+01:00:18,240 --> 01:00:24,680
+agradeço a participação de vocês, OK? Eu
+
+1256
+01:00:22,280 --> 01:00:26,319
+não sei se colocaram mais, não, não
+
+1257
+01:00:24,680 --> 01:00:30,599
+colocaram mais nenhuma pergunta aqui no
+
+1258
+01:00:26,319 --> 01:00:32,960
+documento não. E vamos nos falando e até
+
+1259
+01:00:30,599 --> 01:00:34,440
+semana que vem, tá? Um abraço no coração
+
+1260
+01:00:32,960 --> 01:00:37,920
+de
+
+1261
+01:00:34,440 --> 01:00:42,440
+vocês. Até a próxima. Tudo de
+
+1262
+01:00:37,920 --> 01:00:42,440
+bom. Eu não.
+

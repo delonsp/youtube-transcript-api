@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:04,799
+Olha essa descoberta aqui que é de
+
+2
+00:00:02,159 --> 00:00:07,359
+enlouquecer. O nosso cérebro consegue
+
+3
+00:00:04,799 --> 00:00:10,120
+sabotar um tumor cortando o fornecimento
+
+4
+00:00:07,359 --> 00:00:12,000
+de nutrientes para ele. Pois é, o corpo
+
+5
+00:00:10,120 --> 00:00:14,920
+tem estratégias que a gente nem
+
+6
+00:00:12,000 --> 00:00:18,400
+imaginava. Um estudo publicado na PL
+
+7
+00:00:14,920 --> 00:00:20,880
+Biology mostrou isso usando moscas da
+
+8
+00:00:18,400 --> 00:00:23,439
+fruta. Olha só, quando falta nutriente
+
+9
+00:00:20,880 --> 00:00:25,840
+no organismo, um cérebro saudável
+
+10
+00:00:23,439 --> 00:00:28,400
+aumenta o transporte de aminoácidos para
+
+11
+00:00:25,840 --> 00:00:30,759
+se proteger, certo? Mas quando tem um
+
+12
+00:00:28,400 --> 00:00:33,239
+tumor presente, acontece o contrário. O
+
+13
+00:00:30,759 --> 00:00:35,960
+cérebro reduz esse transporte de
+
+14
+00:00:33,239 --> 00:00:38,320
+propósito. É como se fechasse portão de
+
+15
+00:00:35,960 --> 00:00:41,239
+entrada. Veja bem, existe uma proteína
+
+16
+00:00:38,320 --> 00:00:43,920
+chamada Path, que funciona como esse
+
+17
+00:00:41,239 --> 00:00:46,000
+porteiro na barreira hematoencefálica.
+
+18
+00:00:43,920 --> 00:00:48,320
+Em cérebros com tumor, quando falta
+
+19
+00:00:46,000 --> 00:00:50,960
+nutriente, essa proteína diminui sua
+
+20
+00:00:48,320 --> 00:00:53,879
+atividade. O resultado, o tumor fica sem
+
+21
+00:00:50,960 --> 00:00:56,480
+combustível e desacelera o crescimento.
+
+22
+00:00:53,879 --> 00:00:58,920
+Quando os cientistas forçaram o PEF a
+
+23
+00:00:56,480 --> 00:01:01,000
+aumentar, mesmo com pouca comida
+
+24
+00:00:58,920 --> 00:01:04,239
+disponível, o tumor voltou a crescer
+
+25
+00:01:01,000 --> 00:01:06,240
+rápido. Isso abre uma porta fascinante.
+
+26
+00:01:04,239 --> 00:01:08,400
+E se conseguirmos manipular esse
+
+27
+00:01:06,240 --> 00:01:10,960
+mecanismo de forma terapêutica,
+
+28
+00:01:08,400 --> 00:01:13,159
+controlar o acesso tumor aos nutrientes
+
+29
+00:01:10,960 --> 00:01:15,320
+pode ser uma estratégia poderosa no
+
+30
+00:01:13,159 --> 00:01:16,840
+futuro. em decedo para aplicar em
+
+31
+00:01:15,320 --> 00:01:19,520
+humanos, mas o conceito é
+
+32
+00:01:16,840 --> 00:01:19,520
+revolucionário.
+

@@ -1,0 +1,3356 @@
+1
+00:00:00,960 --> 00:00:05,319
+Boa noite, Eliseu. Tudo bem? Você tá me
+
+2
+00:00:02,679 --> 00:00:06,919
+ouvindo bem? Eu tô transmitindo pelo
+
+3
+00:00:05,319 --> 00:00:10,960
+própria ferramenta do YouTube que
+
+4
+00:00:06,919 --> 00:00:15,960
+geralmente eu uso streams. Tá
+
+5
+00:00:10,960 --> 00:00:15,960
+ótimo. O vídeo tá bom também,
+
+6
+00:00:19,000 --> 00:00:22,920
+tá? Eu vou começar aqui pra gente não
+
+7
+00:00:21,160 --> 00:00:26,080
+atrapalhar
+
+8
+00:00:22,920 --> 00:00:28,519
+mais ainda, né? Boa noite, Estela.
+
+9
+00:00:26,080 --> 00:00:30,840
+Ótimo, obrigado pelo
+
+10
+00:00:28,519 --> 00:00:33,160
+comentário.
+
+11
+00:00:30,840 --> 00:00:37,120
+O Stream Art deu um bug aqui, deu um
+
+12
+00:00:33,160 --> 00:00:38,719
+pau, coisa que eu nunca vi antes.
+
+13
+00:00:37,120 --> 00:00:42,239
+Bem, mas vamos lá, né? Tô usando a
+
+14
+00:00:38,719 --> 00:00:44,039
+própria ferramenta aqui do YouTube,
+
+15
+00:00:42,239 --> 00:00:46,559
+só que eu acho que eu não vou conseguir
+
+16
+00:00:44,039 --> 00:00:48,879
+compartilhar a tela como eu geralmente
+
+17
+00:00:46,559 --> 00:00:51,039
+faço com vocês, tá? Boa noite,
+
+18
+00:00:48,879 --> 00:00:53,920
+Tamiquinha. Boa noite, Estela Mares. Boa
+
+19
+00:00:51,039 --> 00:00:56,199
+noite, Eliseu. Bem, pessoal, vamos
+
+20
+00:00:53,920 --> 00:00:59,320
+começar respondendo as dúvidas de vocês
+
+21
+00:00:56,199 --> 00:01:02,760
+e depois a gente passa pro discussão de
+
+22
+00:00:59,320 --> 00:01:02,760
+artigos, né?
+
+23
+00:01:03,120 --> 00:01:10,000
+Então, eu separei um material bacana
+
+24
+00:01:04,839 --> 00:01:12,360
+aqui para discutir com vocês, né?
+
+25
+00:01:10,000 --> 00:01:14,320
+Vocês já pararam para pensar como que a
+
+26
+00:01:12,360 --> 00:01:16,759
+quantidade de sono pode influenciar o
+
+27
+00:01:14,320 --> 00:01:18,640
+que nós comemos?
+
+28
+00:01:16,759 --> 00:01:20,640
+Você
+
+29
+00:01:18,640 --> 00:01:22,920
+já leram algum artigo ou já ouviram
+
+30
+00:01:20,640 --> 00:01:26,200
+falar de alguma notícia
+
+31
+00:01:22,920 --> 00:01:29,040
+sobre a correlação entre a quantidade de
+
+32
+00:01:26,200 --> 00:01:31,799
+sono e os alimentos que a gente prefere
+
+33
+00:01:29,040 --> 00:01:35,479
+comer? Se você já ouviu falar, por
+
+34
+00:01:31,799 --> 00:01:37,040
+favor, mande uma mensagem aqui. Nós
+
+35
+00:01:35,479 --> 00:01:40,479
+vamos explorar hoje uma pesquisa
+
+36
+00:01:37,040 --> 00:01:42,840
+fascinante que revela como dormir menos
+
+37
+00:01:40,479 --> 00:01:44,960
+pode nos fazer preferir alimentos mais
+
+38
+00:01:42,840 --> 00:01:46,560
+doces.
+
+39
+00:01:44,960 --> 00:01:49,320
+Então, preparem-se para descobrir como é
+
+40
+00:01:46,560 --> 00:01:52,079
+que o sono e o sabor tem correlação.
+
+41
+00:01:49,320 --> 00:01:54,200
+Estão mais conectados como do que nós
+
+42
+00:01:52,079 --> 00:01:55,759
+imaginamos.
+
+43
+00:01:54,200 --> 00:01:57,880
+Pessoal, só antes de eu continuar aqui,
+
+44
+00:01:55,759 --> 00:02:00,159
+só quero avisar que o post que eu
+
+45
+00:01:57,880 --> 00:02:02,320
+coloquei lá na área fechada do YouTube
+
+46
+00:02:00,159 --> 00:02:03,920
+com link original,
+
+47
+00:02:02,320 --> 00:02:07,119
+eu não consegui editar e eu não tô
+
+48
+00:02:03,920 --> 00:02:08,479
+conseguindo apagar também aqui.
+
+49
+00:02:07,119 --> 00:02:11,640
+Pelo menos eu não descobri aqui como é
+
+50
+00:02:08,479 --> 00:02:11,640
+que apaga.
+
+51
+00:02:13,040 --> 00:02:19,040
+Então, o link anterior não tá válido,
+
+52
+00:02:14,480 --> 00:02:19,040
+depois eu vou até apagar essa live, tá?
+
+53
+00:02:20,879 --> 00:02:24,680
+Então, você já notou que depois de uma
+
+54
+00:02:22,599 --> 00:02:27,800
+noite mal dormida, aquela vontade de
+
+55
+00:02:24,680 --> 00:02:30,080
+comer algo doce aumenta? Isso não é só
+
+56
+00:02:27,800 --> 00:02:32,760
+impressão sua. Tem estudos recentes que
+
+57
+00:02:30,080 --> 00:02:35,000
+mostram que a falta de sono pode
+
+58
+00:02:32,760 --> 00:02:36,959
+realmente aumentar a nossa preferência
+
+59
+00:02:35,000 --> 00:02:38,760
+por sabores doces.
+
+60
+00:02:36,959 --> 00:02:41,360
+Em uma revisão sistemática de vários
+
+61
+00:02:38,760 --> 00:02:44,480
+estudos, foi descoberto que dormir menos
+
+62
+00:02:41,360 --> 00:02:48,000
+de 6 horas por noite, menos de 6 horas
+
+63
+00:02:44,480 --> 00:02:50,800
+por noite, estaria associado a um
+
+64
+00:02:48,000 --> 00:02:53,360
+aumento na preferência pelo sabor doce,
+
+65
+00:02:50,800 --> 00:02:58,159
+mas não afeta outros sabores, como
+
+66
+00:02:53,360 --> 00:02:58,159
+salgado, azedo, amargo ou mami.
+
+67
+00:02:58,519 --> 00:03:04,920
+Boa noite, Fernando Castelane ou
+
+68
+00:03:00,480 --> 00:03:06,280
+Casteliane, né, melhor falando.
+
+69
+00:03:04,920 --> 00:03:07,760
+Mas como então que os cientistas
+
+70
+00:03:06,280 --> 00:03:11,000
+chegaram a essa conclusão? Eles
+
+71
+00:03:07,760 --> 00:03:12,920
+analisaram três estudos, incluindo sete
+
+72
+00:03:11,000 --> 00:03:15,000
+ensaios clínicos randomizados e seis
+
+73
+00:03:12,920 --> 00:03:17,080
+estudos observacionais,
+
+74
+00:03:15,000 --> 00:03:19,000
+envolvendo adultos de várias idades e
+
+75
+00:03:17,080 --> 00:03:21,040
+índices de massa corporal. Então, a
+
+76
+00:03:19,000 --> 00:03:23,920
+maioria das pesquisas foi conduzida nos
+
+77
+00:03:21,040 --> 00:03:27,840
+Estados Unidos, mas também países como
+
+78
+00:03:23,920 --> 00:03:29,920
+Brasil, Turquia, Espanha, Suécia e
+
+79
+00:03:27,840 --> 00:03:32,599
+Japão. Então, os participantes que
+
+80
+00:03:29,920 --> 00:03:35,519
+dormiam menos foram comparados com
+
+81
+00:03:32,599 --> 00:03:38,200
+aqueles que tinham um sono habitual de 7
+
+82
+00:03:35,519 --> 00:03:40,599
+a 9 horas.
+
+83
+00:03:38,200 --> 00:03:42,439
+Então, por que que isso importa?
+
+84
+00:03:40,599 --> 00:03:44,239
+Nós sabemos que o sono ele é essencial
+
+85
+00:03:42,439 --> 00:03:47,400
+paraa nossa saúde, assim como a nutrição
+
+86
+00:03:44,239 --> 00:03:49,920
+e exercício. E a privação de sono pode
+
+87
+00:03:47,400 --> 00:03:53,000
+afetar humor, cognição e até mesmo
+
+88
+00:03:49,920 --> 00:03:56,120
+aumentar o risco de doenças crônicas e
+
+89
+00:03:53,000 --> 00:03:58,560
+aumentar o risco até de ganhar peso.
+
+90
+00:03:56,120 --> 00:04:01,519
+Além disso, tumipouco tá associado à
+
+91
+00:03:58,560 --> 00:04:03,840
+desegulação de hormônios como os
+
+92
+00:04:01,519 --> 00:04:07,640
+hormônios do apetite, que a grelina e a
+
+93
+00:04:03,840 --> 00:04:10,200
+leptina, aumentando a fome e a ingestão
+
+94
+00:04:07,640 --> 00:04:13,040
+calórica. Então, compreender como o sono
+
+95
+00:04:10,200 --> 00:04:15,239
+afeta nossas preferências alimentares
+
+96
+00:04:13,040 --> 00:04:18,239
+pode ser a chave para melhorar na saúde
+
+97
+00:04:15,239 --> 00:04:18,239
+geral.
+
+98
+00:04:18,600 --> 00:04:25,080
+Então, é descoberto que a falta de sono
+
+99
+00:04:21,680 --> 00:04:27,240
+não só aumenta a fome, mas também pode
+
+100
+00:04:25,080 --> 00:04:29,520
+alterar a forma como nós percebemos os
+
+101
+00:04:27,240 --> 00:04:32,479
+sabores. Então, pessoas com privação de
+
+102
+00:04:29,520 --> 00:04:35,080
+sono tendem a consumir mais açúcares
+
+103
+00:04:32,479 --> 00:04:38,120
+adicionados e t maior desejo por
+
+104
+00:04:35,080 --> 00:04:40,600
+alimentos doces. Além disso, o sono
+
+105
+00:04:38,120 --> 00:04:43,800
+insuficiente pode aumentar a sensação de
+
+106
+00:04:40,600 --> 00:04:46,160
+prazer ao comer, levando-nos a buscar
+
+107
+00:04:43,800 --> 00:04:48,120
+alimentos mais palatáveis. Isso ocorre
+
+108
+00:04:46,160 --> 00:04:51,199
+porque o sono influencia sistemas de
+
+109
+00:04:48,120 --> 00:04:53,960
+recompensa no cérebro, possivelmente
+
+110
+00:04:51,199 --> 00:04:58,639
+levando a um ciclo de sono ruim e
+
+111
+00:04:53,960 --> 00:04:58,639
+escolhas alimentares pouco saudáveis.
+
+112
+00:04:59,039 --> 00:05:04,680
+Então essa preferência aumentada por
+
+113
+00:05:00,919 --> 00:05:07,400
+doces pode explicar em parte, porque
+
+114
+00:05:04,680 --> 00:05:10,440
+pessoas que dormem pouco tem maior risco
+
+115
+00:05:07,400 --> 00:05:13,720
+de obesidade. Então o gosto é um fator
+
+116
+00:05:10,440 --> 00:05:16,759
+crucial na escolha alimentar e uma maior
+
+117
+00:05:13,720 --> 00:05:19,560
+preferência por doces pode levar ao
+
+118
+00:05:16,759 --> 00:05:21,600
+consumo excessivo de calorias. Embora
+
+119
+00:05:19,560 --> 00:05:24,680
+ainda seja necessário mais pesquisas
+
+120
+00:05:21,600 --> 00:05:26,800
+para entender completamente esses
+
+121
+00:05:24,680 --> 00:05:29,960
+mecanismos,
+
+122
+00:05:26,800 --> 00:05:31,400
+fica claro que fica claro que melhorar a
+
+123
+00:05:29,960 --> 00:05:34,800
+qualidade do sono pode ser uma
+
+124
+00:05:31,400 --> 00:05:37,080
+estratégia eficaz para promover hábitos
+
+125
+00:05:34,800 --> 00:05:38,600
+alimentares mais saudáveis e combater a
+
+126
+00:05:37,080 --> 00:05:40,720
+obesidade.
+
+127
+00:05:38,600 --> 00:05:43,080
+Então pessoal, mais uma razão para
+
+128
+00:05:40,720 --> 00:05:45,080
+dormir direito,
+
+129
+00:05:43,080 --> 00:05:47,360
+mais uma razão para dormir bem, mais de
+
+130
+00:05:45,080 --> 00:05:50,479
+6 horas por noite
+
+131
+00:05:47,360 --> 00:05:52,080
+vai diminuir a compulsão por doce. Da
+
+132
+00:05:50,479 --> 00:05:55,199
+próxima vez que você pensar em cortar
+
+133
+00:05:52,080 --> 00:05:56,960
+algumas horas de sono, lembre-se de que
+
+134
+00:05:55,199 --> 00:05:59,520
+isso pode influenciar não só o seu nível
+
+135
+00:05:56,960 --> 00:06:01,600
+de energia, mas também as suas escolhas
+
+136
+00:05:59,520 --> 00:06:03,800
+alimentares, fazendo você ter compulsão
+
+137
+00:06:01,600 --> 00:06:06,599
+por doce. Então é muito importante
+
+138
+00:06:03,800 --> 00:06:08,800
+priorizar um bom descanso,
+
+139
+00:06:06,599 --> 00:06:12,639
+que é um dos quatro pilares principais
+
+140
+00:06:08,800 --> 00:06:14,479
+da saúde. Beleza? Bem, vou responder as
+
+141
+00:06:12,639 --> 00:06:15,960
+dúvidas agora. Eu acabei falando esse
+
+142
+00:06:14,479 --> 00:06:18,520
+artigo. Eu tenho mais dois artigos para
+
+143
+00:06:15,960 --> 00:06:20,400
+discutir com vocês aqui, mas vamos às
+
+144
+00:06:18,520 --> 00:06:23,960
+perguntas, tá? Eu não vou conseguir
+
+145
+00:06:20,400 --> 00:06:23,960
+dividir minha tela.
+
+146
+00:06:26,080 --> 00:06:29,080
+Vocês
+
+147
+00:06:31,080 --> 00:06:35,400
+vão, quer dizer, na verdade, eu não sei
+
+148
+00:06:32,440 --> 00:06:37,360
+se eu consigo dividir a tela aqui usando
+
+149
+00:06:35,400 --> 00:06:40,080
+essa ferramenta nativa do YouTube que eu
+
+150
+00:06:37,360 --> 00:06:43,319
+nunca usei pelo computador. Eu vou ver
+
+151
+00:06:40,080 --> 00:06:46,840
+se eu consigo divulgar aqui. Divulgar
+
+152
+00:06:43,319 --> 00:06:51,280
+não, dividir. Abriu outra janela.
+
+153
+00:06:46,840 --> 00:06:51,280
+Configurações. Feedback.
+
+154
+00:06:52,720 --> 00:06:56,120
+Eu acho que não, viu? Eu não vou tentar
+
+155
+00:06:54,160 --> 00:06:57,919
+não, tá? porque já teve essa confusão
+
+156
+00:06:56,120 --> 00:07:00,120
+hoje.
+
+157
+00:06:57,919 --> 00:07:01,680
+Bem, vamos lá.
+
+158
+00:07:00,120 --> 00:07:05,599
+Ah, não, eu já achei aqui onde é que eu
+
+159
+00:07:01,680 --> 00:07:05,599
+compartilhei a tela. Pronto.
+
+160
+00:07:13,599 --> 00:07:17,120
+Pronto, consegui compartilhar agora
+
+161
+00:07:15,319 --> 00:07:18,400
+aqui.
+
+162
+00:07:17,120 --> 00:07:21,400
+Mas eu vou ter que aumentar o tamanho,
+
+163
+00:07:18,400 --> 00:07:21,400
+né?
+
+164
+00:07:23,199 --> 00:07:27,639
+Tá dando para ler aí, pessoal, a tela?
+
+165
+00:07:27,960 --> 00:07:32,479
+Vou esperar o feedback de vocês aí.
+
+166
+00:07:38,919 --> 00:07:46,080
+Deixa eu ver aqui.
+
+167
+00:07:41,800 --> 00:07:48,400
+Dá para ler? Sim. Ok, Eliseu. Obrigado.
+
+168
+00:07:46,080 --> 00:07:50,479
+Primeira pergunta do Fernando. Qual que
+
+169
+00:07:48,400 --> 00:07:54,479
+é a fonte de consulta que eu posso
+
+170
+00:07:50,479 --> 00:07:57,000
+procurar para obter as recomendações
+
+171
+00:07:54,479 --> 00:07:58,599
+da ingestão de área de vitaminas e
+
+172
+00:07:57,000 --> 00:08:01,560
+minerais recomendadas pela
+
+173
+00:07:58,599 --> 00:08:03,280
+ortomolecular? Li um livro que os
+
+174
+00:08:01,560 --> 00:08:05,280
+valores
+
+175
+00:08:03,280 --> 00:08:07,680
+são 10 a 20 vezes maiores do que o
+
+176
+00:08:05,280 --> 00:08:09,520
+recomendados. Eu teve uma pergunta bem
+
+177
+00:08:07,680 --> 00:08:11,319
+parecida com essa. Em outra live eu
+
+178
+00:08:09,520 --> 00:08:13,240
+respondi que tem vários livros aí que
+
+179
+00:08:11,319 --> 00:08:15,039
+você pode comprar. compra os livros de
+
+180
+00:08:13,240 --> 00:08:16,840
+ortomolecular do Artur Lemos. O Artur
+
+181
+00:08:15,039 --> 00:08:19,199
+Lemos já publicou mais de 10 livros de
+
+182
+00:08:16,840 --> 00:08:21,199
+ortomolecular.
+
+183
+00:08:19,199 --> 00:08:23,159
+Qualquer livro de orto molecular que foi
+
+184
+00:08:21,199 --> 00:08:26,919
+publicado por um médico brasileiro vai
+
+185
+00:08:23,159 --> 00:08:29,360
+ser de bom tamanho, tá? E eu mostrei uma
+
+186
+00:08:26,919 --> 00:08:31,960
+live aqui, o Gabe, né, o Alan Gabe, o
+
+187
+00:08:29,360 --> 00:08:34,240
+livro Nutritional Medicine. Esse livro é
+
+188
+00:08:31,960 --> 00:08:36,200
+muito completo, mas tá em inglês, tá? E
+
+189
+00:08:34,240 --> 00:08:37,519
+é um livro caro,
+
+190
+00:08:36,200 --> 00:08:39,919
+então não sei se vocês vão querer
+
+191
+00:08:37,519 --> 00:08:43,360
+comprar isso, mas compra um livro do
+
+192
+00:08:39,919 --> 00:08:45,200
+Artur Lemos, tá?
+
+193
+00:08:43,360 --> 00:08:47,640
+Tem vários livros do Atom Lemos aí que
+
+194
+00:08:45,200 --> 00:08:50,440
+você pode tá
+
+195
+00:08:47,640 --> 00:08:53,720
+conferindo, dá uma pesquisada no site do
+
+196
+00:08:50,440 --> 00:08:53,720
+próprio médico.
+
+197
+00:08:54,959 --> 00:08:59,079
+Então, vou fazer algumas observações
+
+198
+00:08:56,600 --> 00:09:01,760
+aqui. As recomendações de digestões
+
+199
+00:08:59,079 --> 00:09:03,399
+diárias de vitaminas e minerais pela
+
+200
+00:09:01,760 --> 00:09:06,600
+ortomolecular geralmente realmente é
+
+201
+00:09:03,399 --> 00:09:11,000
+superior, mas vai variar de vitamina
+
+202
+00:09:06,600 --> 00:09:11,000
+para vitamina, de pessoa para pessoa.
+
+203
+00:09:12,680 --> 00:09:15,399
+Só que tem que tomar muito cuidado com
+
+204
+00:09:14,000 --> 00:09:17,079
+isso. Geralmente você tem que fazer isso
+
+205
+00:09:15,399 --> 00:09:20,800
+com o acompanhamento de um médico,
+
+206
+00:09:17,079 --> 00:09:20,800
+entenda o que tá fazendo.
+
+207
+00:09:27,120 --> 00:09:31,079
+Tem um site aqui que eu descobri agora,
+
+208
+00:09:28,839 --> 00:09:33,440
+chama-se Passei Direto, tá? Deve ser a
+
+209
+00:09:31,079 --> 00:09:35,360
+coisa para vestibular, que tem também
+
+210
+00:09:33,440 --> 00:09:39,160
+uns textos mais simples sobre iotomo
+
+211
+00:09:35,360 --> 00:09:39,160
+molecular. OK?
+
+212
+00:09:43,640 --> 00:09:48,360
+Vamos pra próxima pergunta aqui. É do
+
+213
+00:09:46,600 --> 00:09:50,560
+Thago. Em um vídeo no Instagram, um
+
+214
+00:09:48,360 --> 00:09:53,480
+médico comentou que está aumentando os
+
+215
+00:09:50,560 --> 00:09:55,480
+casos de pessoas com pólipos no ouvido e
+
+216
+00:09:53,480 --> 00:09:57,480
+outras neoplasias por conta de AirPods,
+
+217
+00:09:55,480 --> 00:09:59,519
+fones, Bluetooth.
+
+218
+00:09:57,480 --> 00:10:01,480
+O senhor tem algum conselho, aliás, tem
+
+219
+00:09:59,519 --> 00:10:03,560
+algum conhecimento sobre isso? As
+
+220
+00:10:01,480 --> 00:10:05,519
+empresas dizem que a radiação emitida
+
+221
+00:10:03,560 --> 00:10:10,000
+por esses aparelhos
+
+222
+00:10:05,519 --> 00:10:10,000
+não causam dano celular.
+
+223
+00:10:12,880 --> 00:10:17,320
+Porém, não há estudos a longo prazo
+
+224
+00:10:15,079 --> 00:10:19,160
+feitos ainda. Qual sua opinião e
+
+225
+00:10:17,320 --> 00:10:21,800
+recomendação com relação ao uso desses
+
+226
+00:10:19,160 --> 00:10:23,800
+dispositivos? É muito polêmico esse
+
+227
+00:10:21,800 --> 00:10:26,680
+assunto. Existe várias opiniões
+
+228
+00:10:23,800 --> 00:10:31,760
+diferentes sobre isso.
+
+229
+00:10:26,680 --> 00:10:34,680
+Dependendo de quem você checa, quem você
+
+230
+00:10:31,760 --> 00:10:38,079
+verifica, vai falar que que pode fazer
+
+231
+00:10:34,680 --> 00:10:40,399
+mal ou não fazer mal. Eu evitaria uso
+
+232
+00:10:38,079 --> 00:10:43,120
+prolongado desses aparelhos o máximo que
+
+233
+00:10:40,399 --> 00:10:45,320
+você puder. Se você puder usar sem fio,
+
+234
+00:10:43,120 --> 00:10:48,160
+aliás, com fio, o máximo que você puder,
+
+235
+00:10:45,320 --> 00:10:50,480
+melhor ainda. Na verdade, eu uso sem fio
+
+236
+00:10:48,160 --> 00:10:53,240
+em um único ambiente, tá? Só usa o fone
+
+237
+00:10:50,480 --> 00:10:56,519
+sem fio na academia, porque eu acho que
+
+238
+00:10:53,240 --> 00:11:00,120
+até complicado você usar aqueles fones
+
+239
+00:10:56,519 --> 00:11:03,360
+com fio na esteira da academia, porque
+
+240
+00:11:00,120 --> 00:11:06,200
+corre o risco aí de ter acidente.
+
+241
+00:11:03,360 --> 00:11:07,440
+Então eu uso no máximo meia hora na
+
+242
+00:11:06,200 --> 00:11:09,200
+esteira quando eu faço esteira na
+
+243
+00:11:07,440 --> 00:11:12,360
+academia. Então em outros ambientes eu
+
+244
+00:11:09,200 --> 00:11:16,760
+não recomendo você utilizar o sem fio,
+
+245
+00:11:12,360 --> 00:11:16,760
+tá? Use o o mínimo possível.
+
+246
+00:11:16,880 --> 00:11:22,440
+Oficialmente eles vão dizer o seguinte:
+
+247
+00:11:18,760 --> 00:11:25,519
+qualquer um desses fones Bluetooth, eles
+
+248
+00:11:22,440 --> 00:11:27,920
+emitem radiação não ionizante, que são
+
+249
+00:11:25,519 --> 00:11:30,680
+ondas de rádio especiais, né? No
+
+250
+00:11:27,920 --> 00:11:32,639
+protocolo Bluetooth,
+
+251
+00:11:30,680 --> 00:11:34,680
+nós sabemos que a radiação não ionizante
+
+252
+00:11:32,639 --> 00:11:37,560
+é diferente da radiação ionizante, como
+
+253
+00:11:34,680 --> 00:11:40,480
+raio X ou radiação nuclear, que é muito
+
+254
+00:11:37,560 --> 00:11:43,360
+mais potente, muito mais problemático.
+
+255
+00:11:40,480 --> 00:11:46,600
+As empresas sempre dizem que a radiação
+
+256
+00:11:43,360 --> 00:11:48,079
+que os equipamentos emitem que está
+
+257
+00:11:46,600 --> 00:11:52,079
+dentro dos limites de segurança, mas
+
+258
+00:11:48,079 --> 00:11:52,079
+óbvio que eles vão falar isso, né?
+
+259
+00:11:52,839 --> 00:11:56,000
+Porém, é verdade, como você mesmo
+
+260
+00:11:54,399 --> 00:11:58,120
+comentou, que não existem ainda estudos
+
+261
+00:11:56,000 --> 00:12:00,760
+a longo prazo que comprovem de forma
+
+262
+00:11:58,120 --> 00:12:05,600
+definitiva que esses equipamentos são
+
+263
+00:12:00,760 --> 00:12:08,800
+seguros anos e anos de uso, OK?
+
+264
+00:12:05,600 --> 00:12:11,279
+Então, use esses fones o mínimo
+
+265
+00:12:08,800 --> 00:12:13,160
+possível, mantenha o dispositivo que
+
+266
+00:12:11,279 --> 00:12:15,519
+está transmitindo o sinal mais próximo
+
+267
+00:12:13,160 --> 00:12:16,680
+também, porque se você deixar longe, o
+
+268
+00:12:15,519 --> 00:12:21,079
+sinal Bluetooth vai ter que ser
+
+269
+00:12:16,680 --> 00:12:22,680
+ampliado, né? Então, mantenha próximo
+
+270
+00:12:21,079 --> 00:12:24,760
+porque vai ter menos radiação dessa
+
+271
+00:12:22,680 --> 00:12:26,839
+forma.
+
+272
+00:12:24,760 --> 00:12:29,920
+E mantém uma dieta rica em antioxidantes
+
+273
+00:12:26,839 --> 00:12:33,440
+e nutrientes, né? Uma dieta rica em
+
+274
+00:12:29,920 --> 00:12:35,600
+fito, né? Nutrientes, plantas coloridas
+
+275
+00:12:33,440 --> 00:12:38,120
+que vão ter antioxidantes
+
+276
+00:12:35,600 --> 00:12:40,800
+e minerais que vão ajudar a proteger
+
+277
+00:12:38,120 --> 00:12:45,480
+suas células.
+
+278
+00:12:40,800 --> 00:12:45,480
+Então, cautela nunca é demais.
+
+279
+00:12:50,240 --> 00:12:56,279
+Qual a sua opinião em relação ao uso
+
+280
+00:12:53,079 --> 00:12:58,800
+controlado de nandrolona idosa com
+
+281
+00:12:56,279 --> 00:13:00,600
+sarcopenia
+
+282
+00:12:58,800 --> 00:13:02,839
+e osteoporose, levando em consideração
+
+283
+00:13:00,600 --> 00:13:05,399
+que os exames de sangue estão normais?
+
+284
+00:13:02,839 --> 00:13:07,720
+Thago, eu uso bastante, quer dizer,
+
+285
+00:13:05,399 --> 00:13:10,720
+bastante modo de falar, né? Eu tenho
+
+286
+00:13:07,720 --> 00:13:13,959
+aqui várias pacientes idosas
+
+287
+00:13:10,720 --> 00:13:16,199
+com sacopenia que eu já usei ferramenta
+
+288
+00:13:13,959 --> 00:13:18,519
+na androlona. Nunca me arrependi porque
+
+289
+00:13:16,199 --> 00:13:20,920
+eu usei por pouco tempo
+
+290
+00:13:18,519 --> 00:13:23,440
+e usei com parcimônia. Então, na
+
+291
+00:13:20,920 --> 00:13:25,519
+androlona usado com responsabilidade
+
+292
+00:13:23,440 --> 00:13:27,240
+numa mulher idosa,
+
+293
+00:13:25,519 --> 00:13:32,680
+funciona muito bem para osteoporose e
+
+294
+00:13:27,240 --> 00:13:32,680
+para sacopenia. Nunca me arrependi, tá?
+
+295
+00:13:33,839 --> 00:13:39,120
+Porque ela pode ganhar 4 ou 5 kg de peso
+
+296
+00:13:37,079 --> 00:13:41,880
+muito rápido usando androlona em poucas
+
+297
+00:13:39,120 --> 00:13:44,519
+semanas, tá? E esse é o uso original
+
+298
+00:13:41,880 --> 00:13:46,079
+desses anabolizantes. Eh, tudo que vocês
+
+299
+00:13:44,519 --> 00:13:47,920
+conhecem sobre anabolizantes, falando
+
+300
+00:13:46,079 --> 00:13:53,000
+mal de anabolizante,
+
+301
+00:13:47,920 --> 00:13:55,240
+é no contexto de uso recreativo,
+
+302
+00:13:53,000 --> 00:13:58,800
+que é o garotinho marombeiro usando para
+
+303
+00:13:55,240 --> 00:14:02,839
+ficar grandão, certo? Mas o uso original
+
+304
+00:13:58,800 --> 00:14:05,519
+dos anabonizantes é para
+
+305
+00:14:02,839 --> 00:14:07,199
+essa situação de pessoas que estão com
+
+306
+00:14:05,519 --> 00:14:09,360
+síndromes consuptivas, geralmente
+
+307
+00:14:07,199 --> 00:14:11,399
+pessoas que estão internadas em UTI e
+
+308
+00:14:09,360 --> 00:14:14,560
+que estão perdendo muita massa muscular,
+
+309
+00:14:11,399 --> 00:14:16,800
+estão caquéticas e também para pessoas
+
+310
+00:14:14,560 --> 00:14:20,320
+que tm osteoporose e sarcopenia. Então,
+
+311
+00:14:16,800 --> 00:14:22,639
+nesse contexto de pessoas de idade,
+
+312
+00:14:20,320 --> 00:14:25,360
+mulheres ou homens,
+
+313
+00:14:22,639 --> 00:14:27,360
+sacopenia chuporose, funciona muito bem
+
+314
+00:14:25,360 --> 00:14:30,000
+utilizar anandrolona. Nunca tive
+
+315
+00:14:27,360 --> 00:14:33,320
+problema. Tem que ficar atento só com
+
+316
+00:14:30,000 --> 00:14:36,839
+alguns detalhes, tá? Porque realmente o
+
+317
+00:14:33,320 --> 00:14:40,320
+HDL colesterol cai.
+
+318
+00:14:36,839 --> 00:14:44,959
+Pode acontecer uma dislipidemia,
+
+319
+00:14:40,320 --> 00:14:48,399
+pode acontecer um estresse no fígado
+
+320
+00:14:44,959 --> 00:14:51,160
+e pode ter um pouquinho de aumento, né,
+
+321
+00:14:48,399 --> 00:14:52,639
+na resistência à insulina.
+
+322
+00:14:51,160 --> 00:14:54,600
+Então tem que ficar atento esses efeitos
+
+323
+00:14:52,639 --> 00:14:56,440
+colaterais. Mas o médico vai est
+
+324
+00:14:54,600 --> 00:14:59,160
+observando isso. Isso quando é poucas
+
+325
+00:14:56,440 --> 00:15:02,639
+semanas de uso,
+
+326
+00:14:59,160 --> 00:15:04,480
+não é uma coisa que geralmente é
+
+327
+00:15:02,639 --> 00:15:07,199
+significativa. Obviamente você não vai
+
+328
+00:15:04,480 --> 00:15:09,639
+usar anabolizante em pessoas comência
+
+329
+00:15:07,199 --> 00:15:11,959
+renal importante, nem com essência
+
+330
+00:15:09,639 --> 00:15:16,000
+hepática importante. Você vai utilizar
+
+331
+00:15:11,959 --> 00:15:19,440
+em pessoas que têm eh uma saúde geral
+
+332
+00:15:16,000 --> 00:15:20,800
+razoável, né?
+
+333
+00:15:19,440 --> 00:15:22,680
+É muito importante que essa pessoa
+
+334
+00:15:20,800 --> 00:15:25,000
+também faça musculação, qualquer outro
+
+335
+00:15:22,680 --> 00:15:27,399
+exercício de força. É muito importante
+
+336
+00:15:25,000 --> 00:15:29,560
+que utilize uma dieta rica em proteínas,
+
+337
+00:15:27,399 --> 00:15:34,160
+que utilize cálcio, que utilize vitamina
+
+338
+00:15:29,560 --> 00:15:35,360
+D. Então não é só dar o anolizante e
+
+339
+00:15:34,160 --> 00:15:39,120
+usar também os outros minerais,
+
+340
+00:15:35,360 --> 00:15:41,279
+magnésio, zinco, cobre,
+
+341
+00:15:39,120 --> 00:15:43,759
+boro, silício, tudo isso vai ajudar no
+
+342
+00:15:41,279 --> 00:15:46,519
+osso, né? Vitamina A, D também vai
+
+343
+00:15:43,759 --> 00:15:48,759
+ajudar.
+
+344
+00:15:46,519 --> 00:15:50,639
+Então é uma abordagem holística, né? Não
+
+345
+00:15:48,759 --> 00:15:53,079
+é uma abordagem
+
+346
+00:15:50,639 --> 00:15:56,120
+só com anabolizante.
+
+347
+00:15:53,079 --> 00:15:58,800
+Fernando Cediani show o Nutritional
+
+348
+00:15:56,120 --> 00:16:01,399
+Medicine. Eu consegui o PDF e
+
+349
+00:15:58,800 --> 00:16:02,759
+disponibilizei no grupo.
+
+350
+00:16:01,399 --> 00:16:06,959
+Ah, sim. Você comprou, você tá falando
+
+351
+00:16:02,759 --> 00:16:06,959
+de um livro, né? Beleza.
+
+352
+00:16:07,319 --> 00:16:13,680
+Próxima pergunta do Eliseu. Deixa eu ver
+
+353
+00:16:09,720 --> 00:16:13,680
+se tá aparecendo na tela.
+
+354
+00:16:13,759 --> 00:16:16,920
+Tá aqui,
+
+355
+00:16:20,639 --> 00:16:23,880
+tá aqui.
+
+356
+00:16:27,000 --> 00:16:30,720
+Me de só um instante
+
+357
+00:16:34,399 --> 00:16:37,399
+aqui.
+
+358
+00:16:41,880 --> 00:16:47,000
+Então, pergunta:
+
+359
+00:16:44,800 --> 00:16:49,920
+"Recebi a informação que tatuagens
+
+360
+00:16:47,000 --> 00:16:52,720
+provocam doenças oculares, inflação,
+
+361
+00:16:49,920 --> 00:16:54,519
+inflamação intraocular, inflamação na
+
+362
+00:16:52,720 --> 00:16:56,040
+retina e coroide, uma condição rara
+
+363
+00:16:54,519 --> 00:16:58,920
+conhecida como uvite secundária a
+
+364
+00:16:56,040 --> 00:17:00,959
+tatuagem. Os sintomas podem surgir logo
+
+365
+00:16:58,920 --> 00:17:03,959
+no primeiro ano após a realização da da
+
+366
+00:17:00,959 --> 00:17:07,520
+tatuagem e inclui dor ocular, vemidão e
+
+367
+00:17:03,959 --> 00:17:09,439
+baixa visual. É verdade, é verdade,
+
+368
+00:17:07,520 --> 00:17:11,079
+Eliseu. Mas eu acho que você fez uma
+
+369
+00:17:09,439 --> 00:17:12,919
+confusão,
+
+370
+00:17:11,079 --> 00:17:16,839
+porque essas informações das
+
+371
+00:17:12,919 --> 00:17:20,120
+complicações oculares em relação à
+
+372
+00:17:16,839 --> 00:17:22,400
+tatuagem no olho, tá? Não sei se a
+
+373
+00:17:20,120 --> 00:17:25,000
+pergunta que você tá fazendo é essa. Eu
+
+374
+00:17:22,400 --> 00:17:27,880
+acho que não. Eu acho que você tava
+
+375
+00:17:25,000 --> 00:17:30,200
+perguntando sobre tatuagens em geral e
+
+376
+00:17:27,880 --> 00:17:35,000
+essas informações que você leu é
+
+377
+00:17:30,200 --> 00:17:35,000
+relativo à tatuagem feito na esclera.
+
+378
+00:17:35,440 --> 00:17:40,880
+OK? Não é a tatuagem feita na pele, não.
+
+379
+00:17:38,400 --> 00:17:42,640
+Então, mas tem que ser muito doido para
+
+380
+00:17:40,880 --> 00:17:45,320
+fazer tatuagem no olho, né? Mas tem
+
+381
+00:17:42,640 --> 00:17:48,080
+gente que faz, né?
+
+382
+00:17:45,320 --> 00:17:50,360
+Então, a tatuagem feita no olho provoca
+
+383
+00:17:48,080 --> 00:17:53,799
+inflamação intraocular,
+
+384
+00:17:50,360 --> 00:17:56,559
+inflamação na retina e na coroide,
+
+385
+00:17:53,799 --> 00:17:58,960
+uveite, né, que é uma inflamação na no
+
+386
+00:17:56,559 --> 00:18:00,760
+compartimento principal do olho, que é
+
+387
+00:17:58,960 --> 00:18:02,360
+úvia.
+
+388
+00:18:00,760 --> 00:18:05,720
+Então essa tatuagem maluca aí, a
+
+389
+00:18:02,360 --> 00:18:07,799
+tatuagem ocular, é uma injeção de tinta
+
+390
+00:18:05,720 --> 00:18:10,320
+diretamente na esclerocórnea. Tem que
+
+391
+00:18:07,799 --> 00:18:12,880
+ser muito louco para fazer isso, né?
+
+392
+00:18:10,320 --> 00:18:15,720
+E isso pode causar danos aos tecidos
+
+393
+00:18:12,880 --> 00:18:18,280
+oculares. São altamente arriscados esses
+
+394
+00:18:15,720 --> 00:18:20,200
+procedimentos,
+
+395
+00:18:18,280 --> 00:18:23,840
+porque as tintas não foram validadas
+
+396
+00:18:20,200 --> 00:18:25,480
+para uso no olho. Tem químicos tóxicos,
+
+397
+00:18:23,840 --> 00:18:27,919
+né, que nós sabemos tem metal pesado
+
+398
+00:18:25,480 --> 00:18:30,080
+nessas tintas
+
+399
+00:18:27,919 --> 00:18:32,120
+e podem acontecer esse sintomas todos
+
+400
+00:18:30,080 --> 00:18:34,840
+aí, dor ocular, vermelidão,
+
+401
+00:18:32,120 --> 00:18:38,720
+sensibilidade à luz, baixa visual, perda
+
+402
+00:18:34,840 --> 00:18:38,720
+parcial total da visão
+
+403
+00:18:39,600 --> 00:18:44,840
+e essa uveite, né, que é a inflamação da
+
+404
+00:18:41,559 --> 00:18:46,760
+úvia, a camada pigmentada do olho que
+
+405
+00:18:44,840 --> 00:18:49,760
+inclui a íris, a coroide, o corpo
+
+406
+00:18:46,760 --> 00:18:49,760
+ciliar,
+
+407
+00:18:49,840 --> 00:18:54,840
+que é a parte principal do olho aí. fora
+
+408
+00:18:52,640 --> 00:18:56,520
+retina pode ser uma das complicações
+
+409
+00:18:54,840 --> 00:18:58,760
+mais graves e pode surgir logo no
+
+410
+00:18:56,520 --> 00:19:01,120
+primeiro ano após a tatuagem. Então
+
+411
+00:18:58,760 --> 00:19:03,799
+também já foram descritos inflamação
+
+412
+00:19:01,120 --> 00:19:07,640
+ocular, catarata e glaucoma por conta
+
+413
+00:19:03,799 --> 00:19:10,640
+dessa tatuagem, tá? Doença do olho seco
+
+414
+00:19:07,640 --> 00:19:10,640
+também.
+
+415
+00:19:12,280 --> 00:19:19,240
+Eu acho que você mirou no passarinho e
+
+416
+00:19:15,480 --> 00:19:20,720
+acertou na galinha. Acho que foi isso.
+
+417
+00:19:19,240 --> 00:19:22,880
+Beleza, Eliseu? Então, o que você leu,
+
+418
+00:19:20,720 --> 00:19:26,480
+tudo que você leu aí
+
+419
+00:19:22,880 --> 00:19:30,039
+é aplicado a tatuagem ocular, não a
+
+420
+00:19:26,480 --> 00:19:34,039
+tatuagem na pele.
+
+421
+00:19:30,039 --> 00:19:36,080
+Pode tomar lugol e vitamina C ao mesmo
+
+422
+00:19:34,039 --> 00:19:39,159
+tempo.
+
+423
+00:19:36,080 --> 00:19:42,159
+Não vejo nenhum problema nisso não,
+
+424
+00:19:39,159 --> 00:19:42,159
+tá?
+
+425
+00:19:42,520 --> 00:19:46,919
+Não vejo nenhum problema nisso não.
+
+426
+00:19:48,360 --> 00:19:52,480
+Por que que você tá perguntando e você
+
+427
+00:19:50,280 --> 00:19:54,919
+já leu alguma coisa dizendo que não
+
+428
+00:19:52,480 --> 00:19:57,760
+podia?
+
+429
+00:19:54,919 --> 00:20:00,240
+Você tá ao vivo aí acompanhando?
+
+430
+00:19:57,760 --> 00:20:01,640
+Deixa eu ver quem fez a pergunta.
+
+431
+00:20:00,240 --> 00:20:06,200
+É Maria Helena. Eu acho que ela não tá
+
+432
+00:20:01,640 --> 00:20:06,200
+ao vivo não. Você tá aí, Maria Helena?
+
+433
+00:20:10,000 --> 00:20:15,760
+Será que você tá querendo dizer ao mesmo
+
+434
+00:20:11,520 --> 00:20:15,760
+tempo no sentido de tomar
+
+435
+00:20:16,960 --> 00:20:22,200
+eh na mesma solução? Seria isso? Porque
+
+436
+00:20:20,559 --> 00:20:26,360
+o logol você sabe que é uma solução
+
+437
+00:20:22,200 --> 00:20:26,360
+totalmente concentrada em iodo
+
+438
+00:20:27,280 --> 00:20:35,679
+e a vitamina C é um antioxidante, certo?
+
+439
+00:20:32,840 --> 00:20:37,799
+E a vitamina C na mesma solução do iodo,
+
+440
+00:20:35,679 --> 00:20:40,799
+pode ser que ela neutralize o iodo
+
+441
+00:20:37,799 --> 00:20:40,799
+livre.
+
+442
+00:20:45,240 --> 00:20:49,840
+Então, se você tá falando de juntar os
+
+443
+00:20:46,880 --> 00:20:52,320
+dois no mesmo copo, digamos assim, não,
+
+444
+00:20:49,840 --> 00:20:56,880
+não faça isso, tá? Porque pode a
+
+445
+00:20:52,320 --> 00:20:56,880
+vitamina, você pode neutralizar o iodo.
+
+446
+00:20:58,360 --> 00:21:04,480
+Próxima pergunta da Maria Helena também.
+
+447
+00:21:01,799 --> 00:21:06,320
+Cadê? Aqui tem muita defesa pelos
+
+448
+00:21:04,480 --> 00:21:09,039
+investidores,
+
+449
+00:21:06,320 --> 00:21:11,159
+mas é verdade que relógio no pulso com
+
+450
+00:21:09,039 --> 00:21:15,400
+bateria de lítium prejudica as nossas
+
+451
+00:21:11,159 --> 00:21:15,400
+células? Boa pergunta.
+
+452
+00:21:17,520 --> 00:21:21,919
+A gente tem que entender primeiro que as
+
+453
+00:21:19,400 --> 00:21:24,120
+baterias de lítio tem metais que
+
+454
+00:21:21,919 --> 00:21:27,000
+poderiam ter impacto a saúde se você
+
+455
+00:21:24,120 --> 00:21:28,600
+tiver um contato direto com ele. Então,
+
+456
+00:21:27,000 --> 00:21:30,880
+se for um relógio vagabundo, por
+
+457
+00:21:28,600 --> 00:21:34,480
+exemplo, isso
+
+458
+00:21:30,880 --> 00:21:37,919
+pode denotar que esse lítio pode entrar
+
+459
+00:21:34,480 --> 00:21:39,600
+em contato com a tua pele.
+
+460
+00:21:37,919 --> 00:21:42,080
+Aí o fabricante vai dizer que os
+
+461
+00:21:39,600 --> 00:21:43,679
+relógios modernos são projetados para
+
+462
+00:21:42,080 --> 00:21:45,039
+minimizar
+
+463
+00:21:43,679 --> 00:21:46,760
+qualquer risco de exposição de
+
+464
+00:21:45,039 --> 00:21:49,080
+toxicidade, né? Então, se for um bom
+
+465
+00:21:46,760 --> 00:21:51,520
+fabricante, isso não vai acontecer. Em
+
+466
+00:21:49,080 --> 00:21:53,880
+relação a campos eletromagnéticos, no
+
+467
+00:21:51,520 --> 00:21:55,440
+momento a gente tá no campo da suspeita.
+
+468
+00:21:53,880 --> 00:21:57,480
+Vai ter gente que vai defender com unhas
+
+469
+00:21:55,440 --> 00:22:01,120
+e dentes. A mesma situação lá do fone
+
+470
+00:21:57,480 --> 00:22:02,640
+Bluetooth que eu falei.
+
+471
+00:22:01,120 --> 00:22:04,640
+Vai ter estudo falando que o campo
+
+472
+00:22:02,640 --> 00:22:06,440
+eletromagnético desses relógios não é
+
+473
+00:22:04,640 --> 00:22:07,600
+intenso suficiente para causar problema.
+
+474
+00:22:06,440 --> 00:22:10,159
+Vai ter gente que vai dizer que não, que
+
+475
+00:22:07,600 --> 00:22:11,720
+vai causar problema, então é complicado,
+
+476
+00:22:10,159 --> 00:22:14,440
+tá? E vai ter estudos tanto para um lado
+
+477
+00:22:11,720 --> 00:22:16,080
+quanto pro outro.
+
+478
+00:22:14,440 --> 00:22:18,799
+Inclusive,
+
+479
+00:22:16,080 --> 00:22:21,320
+uma vez eu fui lá na clínica do Vent
+
+480
+00:22:18,799 --> 00:22:25,919
+fazer uma avaliação com ele e eu tava
+
+481
+00:22:21,320 --> 00:22:27,919
+com Apple Watch no pulso e aí ele fez lá
+
+482
+00:22:25,919 --> 00:22:32,640
+um, ele tem uma microscopista lá na
+
+483
+00:22:27,919 --> 00:22:35,720
+clínica dele, né? E eu fiz aquela exame
+
+484
+00:22:32,640 --> 00:22:38,799
+de microscopia de campo escuro e tirei
+
+485
+00:22:35,720 --> 00:22:42,640
+uma gotinha do sangue e a microscopista
+
+486
+00:22:38,799 --> 00:22:44,919
+avaliou. Tava dando aquela situação do
+
+487
+00:22:42,640 --> 00:22:48,640
+rollon, né, que as emácias estavam
+
+488
+00:22:44,919 --> 00:22:51,600
+empilhadas em moeda. Aí eu tirei o o
+
+489
+00:22:48,640 --> 00:22:55,960
+relógio de pulso, o Apple Watch, tomei
+
+490
+00:22:51,600 --> 00:22:59,039
+água, mais água e refiz e a agregação
+
+491
+00:22:55,960 --> 00:23:01,520
+deácias, né, o rollon lá.
+
+492
+00:22:59,039 --> 00:23:05,520
+Eh, não era rolão, é rolou, fenômeno
+
+493
+00:23:01,520 --> 00:23:07,400
+rolou, né, que em francês, eh, tinha
+
+494
+00:23:05,520 --> 00:23:10,200
+sumido. Ou seja, eu não sei se foi a
+
+495
+00:23:07,400 --> 00:23:12,039
+hidratação que resolveu isso ou se foi a
+
+496
+00:23:10,200 --> 00:23:13,760
+retirada do relógio, mas eu fiquei meio
+
+497
+00:23:12,039 --> 00:23:15,400
+cismado com isso e desde então eu tenho
+
+498
+00:23:13,760 --> 00:23:17,799
+utilizado bem menos esse Apple Watch.
+
+499
+00:23:15,400 --> 00:23:20,039
+Inclusive, ele tá até aqui numa gaveta
+
+500
+00:23:17,799 --> 00:23:23,600
+aqui meio parado. Tem vários dias que eu
+
+501
+00:23:20,039 --> 00:23:23,600
+não coloco ele.
+
+502
+00:23:24,400 --> 00:23:30,600
+Temos mais perguntas? Não, deixa eu ver
+
+503
+00:23:27,200 --> 00:23:30,600
+se tem ao vivo.
+
+504
+00:23:33,799 --> 00:23:38,200
+Ah, tá, miquinha, tá. É porque você tem
+
+505
+00:23:35,720 --> 00:23:41,000
+esse seu nick aí que eu não associei o
+
+506
+00:23:38,200 --> 00:23:42,720
+seu nome.
+
+507
+00:23:41,000 --> 00:23:45,080
+Você ouviu num grupo sobre iodo e
+
+508
+00:23:42,720 --> 00:23:49,440
+vitamina C, mas você ouviu no contexto
+
+509
+00:23:45,080 --> 00:23:52,760
+de de juntar os dois produtos, digamos
+
+510
+00:23:49,440 --> 00:23:56,039
+assim, no mesmo copo ou tomado juntos ou
+
+511
+00:23:52,760 --> 00:23:58,480
+você ouviu no contexto de, tipo, mesmo
+
+512
+00:23:56,039 --> 00:24:02,240
+tomando o iodo de manhã e a vitamina C à
+
+513
+00:23:58,480 --> 00:24:02,240
+tarde, daria problema?
+
+514
+00:24:08,840 --> 00:24:13,400
+Vou aguardar você me responder, tá?
+
+515
+00:24:13,960 --> 00:24:19,200
+Enquanto isso, eu vou discutir o segundo
+
+516
+00:24:17,400 --> 00:24:22,039
+artigo do dia. Ah, ela já respondeu
+
+517
+00:24:19,200 --> 00:24:24,320
+aqui. Contexto de tomar os dois no café
+
+518
+00:24:22,039 --> 00:24:27,000
+da manhã. Então você se você tomar eles
+
+519
+00:24:24,320 --> 00:24:28,799
+em momentos separados, assim, que seja
+
+520
+00:24:27,000 --> 00:24:30,960
+um intervalo de meia hora, não vejo
+
+521
+00:24:28,799 --> 00:24:33,080
+problema não, tá? Na verdade, vocês já
+
+522
+00:24:30,960 --> 00:24:35,080
+sabem, eu não sou grande fã do LOL, não.
+
+523
+00:24:33,080 --> 00:24:39,279
+Eu não usaria LOL mais, tá? Se vocês
+
+524
+00:24:35,080 --> 00:24:41,039
+puderem, usem o Yodo Kelp, tá? É mais
+
+525
+00:24:39,279 --> 00:24:46,640
+seguro.
+
+526
+00:24:41,039 --> 00:24:46,640
+Bem, vamos partir pro próximo artigo.
+
+527
+00:24:48,120 --> 00:24:54,240
+Saiu aí um estudo sobre a taurina.
+
+528
+00:24:51,240 --> 00:24:54,240
+Interessante.
+
+529
+00:24:55,080 --> 00:24:58,440
+Eu não sei se vocês assistiram meu vídeo
+
+530
+00:24:56,480 --> 00:25:00,799
+sobre taurina que eu publiquei anos
+
+531
+00:24:58,440 --> 00:25:04,760
+atrás.
+
+532
+00:25:00,799 --> 00:25:06,840
+falando dos benefícios, tá?
+
+533
+00:25:04,760 --> 00:25:09,840
+Então, esse estudo ele confirmou os
+
+534
+00:25:06,840 --> 00:25:09,840
+achados
+
+535
+00:25:10,760 --> 00:25:16,760
+e sobre a parte de saúde cardiovascular.
+
+536
+00:25:20,399 --> 00:25:23,559
+Então, o que que foi exatamente
+
+537
+00:25:21,760 --> 00:25:25,320
+estudado? Os pesquisadores estavam
+
+538
+00:25:23,559 --> 00:25:28,520
+interessados em entender o efeito da
+
+539
+00:25:25,320 --> 00:25:30,640
+suplementação da taurina em relação a
+
+540
+00:25:28,520 --> 00:25:33,559
+parâmetros cardiovasculares, pressão
+
+541
+00:25:30,640 --> 00:25:35,640
+arterial, entre outras coisas.
+
+542
+00:25:33,559 --> 00:25:39,840
+Então eles verificaram a frequência
+
+543
+00:25:35,640 --> 00:25:41,799
+cardíaca, a pressão arterial sistólica e
+
+544
+00:25:39,840 --> 00:25:44,000
+diastólica, a fração de ejeção do
+
+545
+00:25:41,799 --> 00:25:46,080
+ventrículo esquerdo, que é um parâmetro
+
+546
+00:25:44,000 --> 00:25:48,399
+principal aí do ecocardiograma, que é o
+
+547
+00:25:46,080 --> 00:25:51,880
+tanto que o ventrículo esquerdo consegue
+
+548
+00:25:48,399 --> 00:25:53,919
+jogar para fora do sangue que entra lá
+
+549
+00:25:51,880 --> 00:25:57,480
+dentro dele.
+
+550
+00:25:53,919 --> 00:26:00,240
+e a classe de insuficiência cardíaca
+
+551
+00:25:57,480 --> 00:26:03,840
+que é avaliada usando a classificação
+
+552
+00:26:00,240 --> 00:26:07,760
+funcional da New York Heart Association.
+
+553
+00:26:03,840 --> 00:26:11,600
+Quem participou do estudo foram 808
+
+554
+00:26:07,760 --> 00:26:14,919
+participantes, idades entre 89 anos. foi
+
+555
+00:26:11,600 --> 00:26:17,640
+uma faixa bem larga de idade, um grupo
+
+556
+00:26:14,919 --> 00:26:20,279
+bem diverso
+
+557
+00:26:17,640 --> 00:26:22,080
+e eles desde pessoas sem problemas de
+
+558
+00:26:20,279 --> 00:26:24,279
+saúde aparentes até indivíduos com
+
+559
+00:26:22,080 --> 00:26:25,919
+problemas cardiovasculares, defeitos de
+
+560
+00:26:24,279 --> 00:26:28,720
+válvulas cardíacas, insuficiência
+
+561
+00:26:25,919 --> 00:26:33,320
+cardíaca, miocardiopatia dilatada, aqui
+
+562
+00:26:28,720 --> 00:26:33,320
+é o coração inchado, né, dilatado,
+
+563
+00:26:33,440 --> 00:26:38,360
+pressão alta e diabetes tipo dois. Então
+
+564
+00:26:36,200 --> 00:26:40,440
+foi um espectro de várias doenças, um
+
+565
+00:26:38,360 --> 00:26:42,960
+espectro amplo,
+
+566
+00:26:40,440 --> 00:26:47,320
+né, que então vendo que a taurina pode
+
+567
+00:26:42,960 --> 00:26:49,279
+ser benéfica para vários grupos aí.
+
+568
+00:26:47,320 --> 00:26:51,760
+Então é uma metaanálise, tem um estudo
+
+569
+00:26:49,279 --> 00:26:54,279
+bem realizado porque foi juntado aí 20
+
+570
+00:26:51,760 --> 00:26:56,360
+estudos diferentes, 20 ensaios clínicos
+
+571
+00:26:54,279 --> 00:26:58,000
+randomizados. Então isso dá um peso para
+
+572
+00:26:56,360 --> 00:27:00,159
+esse estudo porque ele é a junção de
+
+573
+00:26:58,000 --> 00:27:02,960
+outros 20 estudos
+
+574
+00:27:00,159 --> 00:27:04,679
+que foram analisados com a mesma régua
+
+575
+00:27:02,960 --> 00:27:06,840
+estatística, né? Então, estudos que
+
+576
+00:27:04,679 --> 00:27:09,720
+foram conduzidos em vários países, né?
+
+577
+00:27:06,840 --> 00:27:12,840
+Rússia, Irã, Japão, Canadá, Irlanda,
+
+578
+00:27:09,720 --> 00:27:15,960
+Áustria, Dinamarca, China e Egito. A
+
+579
+00:27:12,840 --> 00:27:18,880
+dose de taurina varou de 500 mg a 6 g
+
+580
+00:27:15,960 --> 00:27:22,880
+por dia. A duração das intervenções foi
+
+581
+00:27:18,880 --> 00:27:25,440
+de 5 dias a 12 meses. Então você viu que
+
+582
+00:27:22,880 --> 00:27:29,399
+a variedade de doses foi bem abrangente,
+
+583
+00:27:25,440 --> 00:27:32,480
+né? 12 vezes, né? de diferença de 500 mg
+
+584
+00:27:29,399 --> 00:27:35,080
+para 6 g por dia.
+
+585
+00:27:32,480 --> 00:27:37,279
+E também os estudos foram analisando a
+
+586
+00:27:35,080 --> 00:27:40,480
+taurina, tanto a taurina tanto a curto
+
+587
+00:27:37,279 --> 00:27:42,320
+quanto a longo prazo.
+
+588
+00:27:40,480 --> 00:27:44,080
+Então, comparado ao place, que é pílula
+
+589
+00:27:42,320 --> 00:27:45,880
+de farinha, a suplementação com taurina
+
+590
+00:27:44,080 --> 00:27:49,519
+reduziu a frequência cardíaca em cerca
+
+591
+00:27:45,880 --> 00:27:51,440
+de quatro batidas por minuto. Além
+
+592
+00:27:49,519 --> 00:27:54,799
+disso, houve uma diminuição na pressão
+
+593
+00:27:51,440 --> 00:27:58,000
+arterial sistólica em 4 mmúrio, na
+
+594
+00:27:54,799 --> 00:28:00,679
+diastólica em 1,4 mm de mercúrio. Então,
+
+595
+00:27:58,000 --> 00:28:04,200
+teve um impacto relativamente baixo aí,
+
+596
+00:28:00,679 --> 00:28:04,200
+né, isoladamente.
+
+597
+00:28:04,640 --> 00:28:08,919
+E a classe de cardíaca também melhorou.
+
+598
+00:28:07,559 --> 00:28:10,840
+Então, os as pessoas que tinham
+
+599
+00:28:08,919 --> 00:28:12,840
+inspência cardíaca tomaram taurina,
+
+600
+00:28:10,840 --> 00:28:14,760
+tiveram melhor da função cardíaca e a
+
+601
+00:28:12,840 --> 00:28:18,320
+fração de ejeção do ventrículo esquerdo
+
+602
+00:28:14,760 --> 00:28:18,320
+aumentou em 5%.
+
+603
+00:28:18,919 --> 00:28:24,080
+E a certeza das evidências foi alta para
+
+604
+00:28:22,360 --> 00:28:26,320
+todos esses resultados. Então a taurina
+
+605
+00:28:24,080 --> 00:28:29,360
+sozinho já tem algum resultado. Eu nunca
+
+606
+00:28:26,320 --> 00:28:30,960
+usaria só taurina para pessoas com
+
+607
+00:28:29,360 --> 00:28:35,840
+doenças cardíacas, né? Eu usaria
+
+608
+00:28:30,960 --> 00:28:37,880
+taurina, carnetina, derribose, creatina
+
+609
+00:28:35,840 --> 00:28:41,440
+e também usaria com enzema Q10. Em
+
+610
+00:28:37,880 --> 00:28:46,200
+alguns casos eu colocaria também
+
+611
+00:28:41,440 --> 00:28:48,640
+a a nicotinamida ribosí, né, o niagen.
+
+612
+00:28:46,200 --> 00:28:51,799
+Então a conclusão é que a taurina pode
+
+613
+00:28:48,640 --> 00:28:54,399
+ter um impacto positivo significativo na
+
+614
+00:28:51,799 --> 00:28:57,279
+saúde do coração, melhorando vários
+
+615
+00:28:54,399 --> 00:28:59,080
+indicadores importantes. Então vale a
+
+616
+00:28:57,279 --> 00:29:01,120
+pena você colocar a taurina no seu
+
+617
+00:28:59,080 --> 00:29:03,519
+esquema. Se você tiver problema
+
+618
+00:29:01,120 --> 00:29:05,799
+cardíaco, se você tiver problema também
+
+619
+00:29:03,519 --> 00:29:09,120
+de memória ou de concentração, taurina
+
+620
+00:29:05,799 --> 00:29:12,480
+também tem uma ação eh perdão, cerebral
+
+621
+00:29:09,120 --> 00:29:14,080
+boa e a taurina também é top para detox.
+
+622
+00:29:12,480 --> 00:29:15,480
+Então, taurina é um um dos melhores
+
+623
+00:29:14,080 --> 00:29:18,760
+suplementos que a gente tem disponível
+
+624
+00:29:15,480 --> 00:29:18,760
+aí no mercado.
+
+625
+00:29:21,919 --> 00:29:26,000
+Eu tenho mais uma pergunta aqui da Maria
+
+626
+00:29:23,640 --> 00:29:29,000
+Helena Tamiquinha. É verdade que
+
+627
+00:29:26,000 --> 00:29:29,000
+estradiol
+
+628
+00:29:29,480 --> 00:29:35,559
+é melhor absorvido à noite? Não, não é
+
+629
+00:29:32,799 --> 00:29:37,559
+verdade isso não. Eh, o estradiol melhor
+
+630
+00:29:35,559 --> 00:29:39,399
+horário para você usar de manhã, mas não
+
+631
+00:29:37,559 --> 00:29:41,799
+tem nada a ver com absorção, tem a ver
+
+632
+00:29:39,399 --> 00:29:45,320
+com
+
+633
+00:29:41,799 --> 00:29:47,200
+a questão de seu horário mais apropriado
+
+634
+00:29:45,320 --> 00:29:50,200
+para você ter o pico do stride allol,
+
+635
+00:29:47,200 --> 00:29:50,200
+tá?
+
+636
+00:29:52,760 --> 00:29:58,399
+Acho que cabe mais um artigo, né, que
+
+637
+00:29:54,600 --> 00:29:58,399
+hoje teve pouca pergunta.
+
+638
+00:30:00,080 --> 00:30:07,360
+Bem, o próximo artigo
+
+639
+00:30:02,679 --> 00:30:11,279
+é sobre exercício de força em idosos
+
+640
+00:30:07,360 --> 00:30:11,279
+com mais de 70 anos.
+
+641
+00:30:11,720 --> 00:30:15,039
+Então, já falo aqui para vocês há muito
+
+642
+00:30:13,279 --> 00:30:17,519
+tempo que a musculação é fundamental
+
+643
+00:30:15,039 --> 00:30:19,799
+paraa saúde tanto muscular e óssea
+
+644
+00:30:17,519 --> 00:30:22,519
+quanto cerebral. E teve um estudo que
+
+645
+00:30:19,799 --> 00:30:25,320
+analisou exatamente o efeito da
+
+646
+00:30:22,519 --> 00:30:27,000
+musculação em idosos, o treinamento de
+
+647
+00:30:25,320 --> 00:30:29,919
+resistência, né, que é o termo mais
+
+648
+00:30:27,000 --> 00:30:31,960
+técnico. E o interessante nesse estudo é
+
+649
+00:30:29,919 --> 00:30:34,919
+que esse treinamento de resistência foi
+
+650
+00:30:31,960 --> 00:30:39,519
+pesado. O pessoal aí meteu bronca nos
+
+651
+00:30:34,919 --> 00:30:42,279
+idosos, né? Meteu bronca nos velhinhos.
+
+652
+00:30:39,519 --> 00:30:46,039
+Então, foi um ano de avaliação, um ano
+
+653
+00:30:42,279 --> 00:30:47,919
+de treino, eles verificaram que houve
+
+654
+00:30:46,039 --> 00:30:50,279
+realmente benefícios muito interessantes
+
+655
+00:30:47,919 --> 00:30:53,440
+que nós vamos discutir aqui.
+
+656
+00:30:50,279 --> 00:30:55,399
+Então, estudo ensaio clínico randomizado
+
+657
+00:30:53,440 --> 00:30:58,399
+avaliou o impacto do treinamento de
+
+658
+00:30:55,399 --> 00:31:00,799
+resistência pesada na força muscular e
+
+659
+00:30:58,399 --> 00:31:04,679
+na composição corporal de adultos mais
+
+660
+00:31:00,799 --> 00:31:06,639
+velhos acima de 70. Os pesquisadores
+
+661
+00:31:04,679 --> 00:31:08,279
+queriam entender se esse tipo de treino
+
+662
+00:31:06,639 --> 00:31:11,000
+poderia manter a massa muscular e a
+
+663
+00:31:08,279 --> 00:31:13,200
+força ao longo do tempo em comparação
+
+664
+00:31:11,000 --> 00:31:14,559
+com o treino de intensidade moderada ou
+
+665
+00:31:13,200 --> 00:31:16,799
+ausência de exercício. Então eles
+
+666
+00:31:14,559 --> 00:31:19,080
+compararam sem exercício, moderado, que
+
+667
+00:31:16,799 --> 00:31:24,880
+é geralmente o idoso quer fazer, e o
+
+668
+00:31:19,080 --> 00:31:27,159
+intenso. Então a idade era entre 64 e 75
+
+669
+00:31:24,880 --> 00:31:30,200
+anos de idade. São três grupos, como eu
+
+670
+00:31:27,159 --> 00:31:31,720
+falei, um que praticava exercícios
+
+671
+00:31:30,200 --> 00:31:34,440
+pesados
+
+672
+00:31:31,720 --> 00:31:36,600
+de força, né, de resistência, outro com
+
+673
+00:31:34,440 --> 00:31:39,039
+treino moderado e o grupo controle que
+
+674
+00:31:36,600 --> 00:31:41,880
+não fazia nada. Então o foco principal
+
+675
+00:31:39,039 --> 00:31:44,000
+era a força dos músculos extensores das
+
+676
+00:31:41,880 --> 00:31:46,240
+pernas,
+
+677
+00:31:44,000 --> 00:31:49,240
+medida de várias formas, além da
+
+678
+00:31:46,240 --> 00:31:51,240
+composição corporal, massa magra e
+
+679
+00:31:49,240 --> 00:31:54,919
+gordura visceral.
+
+680
+00:31:51,240 --> 00:31:57,760
+Então, o estudo envolveu 369 idosos que
+
+681
+00:31:54,919 --> 00:32:02,600
+não tinham problemas de saúde aparentes.
+
+682
+00:31:57,760 --> 00:32:04,720
+Eram 61% de mulheres, 39% de homens.
+
+683
+00:32:02,600 --> 00:32:06,360
+E o que torna esse estudo especial é o
+
+684
+00:32:04,720 --> 00:32:10,080
+acompanhamento a longo prazo que
+
+685
+00:32:06,360 --> 00:32:12,919
+observou os participantes por 4 anos
+
+686
+00:32:10,080 --> 00:32:14,200
+após o início da intervenção. Ou seja,
+
+687
+00:32:12,919 --> 00:32:18,039
+mesmo que tenha sido só um ano de
+
+688
+00:32:14,200 --> 00:32:20,279
+atividade, o a observação foi por 4 anos
+
+689
+00:32:18,039 --> 00:32:22,000
+e isso permitiu uma análise sólida dos
+
+690
+00:32:20,279 --> 00:32:24,360
+resultados a longo prazo. Então, durante
+
+691
+00:32:22,000 --> 00:32:26,120
+o período de treinamento, o grupo de
+
+692
+00:32:24,360 --> 00:32:29,120
+resistência pesada realizou exercícios
+
+693
+00:32:26,120 --> 00:32:31,600
+de academias privadas, enquanto o grupo
+
+694
+00:32:29,120 --> 00:32:34,519
+de intensidade moderada praticou em casa
+
+695
+00:32:31,600 --> 00:32:38,279
+e em hospitais. Então, ambos os grupos
+
+696
+00:32:34,519 --> 00:32:41,000
+seguiram programas supervisionados,
+
+697
+00:32:38,279 --> 00:32:43,279
+uma progressão prédeterminada, enquanto
+
+698
+00:32:41,000 --> 00:32:45,519
+o grupo controle permaneceu sedentário.
+
+699
+00:32:43,279 --> 00:32:48,279
+Então, resultados,
+
+700
+00:32:45,519 --> 00:32:50,600
+os mais importantes resultados. Após os
+
+701
+00:32:48,279 --> 00:32:52,279
+4 anos de observação,
+
+702
+00:32:50,600 --> 00:32:54,120
+o grupo que praticou exercício de
+
+703
+00:32:52,279 --> 00:32:57,159
+resistência pesada conseguiu manter a
+
+704
+00:32:54,120 --> 00:32:59,880
+força isométrica das pernas, enquanto o
+
+705
+00:32:57,159 --> 00:33:02,039
+grupo de treino moderado e o grupo de
+
+706
+00:32:59,880 --> 00:33:06,039
+controle perderam força. Olha só isso
+
+707
+00:33:02,039 --> 00:33:07,440
+aqui, gente. O grupo de treino moderado
+
+708
+00:33:06,039 --> 00:33:11,279
+teve um resultado muito parecido com o
+
+709
+00:33:07,440 --> 00:33:13,080
+grupo controle. Olha só, a massa magra
+
+710
+00:33:11,279 --> 00:33:15,240
+também foi mantida no grupo de
+
+711
+00:33:13,080 --> 00:33:17,679
+resistência pesada, enquanto diminuiu
+
+712
+00:33:15,240 --> 00:33:19,159
+nos outros dois grupos.
+
+713
+00:33:17,679 --> 00:33:21,360
+Então isso aqui me chamou muita atenção,
+
+714
+00:33:19,159 --> 00:33:24,200
+tá? Essa história de fazer isso moderado
+
+715
+00:33:21,360 --> 00:33:26,120
+em idoso não é uma boa não.
+
+716
+00:33:24,200 --> 00:33:28,120
+Então esse resultado são significativos
+
+717
+00:33:26,120 --> 00:33:30,360
+que mostram que um ano de treinamento
+
+718
+00:33:28,120 --> 00:33:33,039
+pesado pode ter efeitos duradouros na
+
+719
+00:33:30,360 --> 00:33:35,000
+manutenção da força e da massa muscular.
+
+720
+00:33:33,039 --> 00:33:36,639
+E curiosamente os níveis de gordura
+
+721
+00:33:35,000 --> 00:33:39,120
+visceral
+
+722
+00:33:36,639 --> 00:33:41,279
+permaneceram estáveis tanto no grupo de
+
+723
+00:33:39,120 --> 00:33:44,159
+resistência pesada quanto no de
+
+724
+00:33:41,279 --> 00:33:46,720
+intensidade moderada, mas aumentaram em
+
+725
+00:33:44,159 --> 00:33:50,200
+8% do grupo controle. Então aqui nesse
+
+726
+00:33:46,720 --> 00:33:53,039
+ponto valeu a pena fazer o moderado, né?
+
+727
+00:33:50,200 --> 00:33:54,639
+Porque aí não acumulou mais gordura
+
+728
+00:33:53,039 --> 00:33:57,639
+visceral enquanto que os sedentários
+
+729
+00:33:54,639 --> 00:33:57,639
+acumularam.
+
+730
+00:33:57,679 --> 00:34:01,840
+Então você sabe, como eu já falei várias
+
+731
+00:33:59,320 --> 00:34:04,200
+vezes, que manter a força muscular em
+
+732
+00:34:01,840 --> 00:34:07,200
+doses é crucial, pois isso tá
+
+733
+00:34:04,200 --> 00:34:09,679
+diretamente ligado à mobilidade também,
+
+734
+00:34:07,200 --> 00:34:11,720
+agilidade, independência e qualidade de
+
+735
+00:34:09,679 --> 00:34:13,679
+vida. Então, esse estudo fornece
+
+736
+00:34:11,720 --> 00:34:16,720
+evidências claras de que o treinamento
+
+737
+00:34:13,679 --> 00:34:18,480
+de resistência pesada deve ser parte do
+
+738
+00:34:16,720 --> 00:34:21,280
+plano de exercício de qualquer pessoa
+
+739
+00:34:18,480 --> 00:34:23,320
+que queira envelhecer com saúde. Apenas
+
+740
+00:34:21,280 --> 00:34:25,839
+um ano de treino intenso, ou seja, foram
+
+741
+00:34:23,320 --> 00:34:29,480
+4 anos de observação, mas só foi um ano
+
+742
+00:34:25,839 --> 00:34:32,399
+de treino intenso. Pode gerar benefícios
+
+743
+00:34:29,480 --> 00:34:34,399
+que duram por anos. Isso é fundamental
+
+744
+00:34:32,399 --> 00:34:36,359
+para preservar capacidade funcional e
+
+745
+00:34:34,399 --> 00:34:40,040
+prevenir quedas e outras complicações
+
+746
+00:34:36,359 --> 00:34:40,040
+associadas ao envelhecimento.
+
+747
+00:34:40,679 --> 00:34:44,720
+Os pesquisadores acreditam que o sucesso
+
+748
+00:34:42,839 --> 00:34:47,879
+do treinamento pesado está ligado à
+
+749
+00:34:44,720 --> 00:34:49,800
+adaptações neuromusculares.
+
+750
+00:34:47,879 --> 00:34:53,599
+Mesmo quando a massa muscular diminui de
+
+751
+00:34:49,800 --> 00:34:56,280
+forma ligeira, né, ou leve, o corpo
+
+752
+00:34:53,599 --> 00:34:59,920
+consegue manter a força graças a uma
+
+753
+00:34:56,280 --> 00:35:02,640
+melhor função neuromuscular.
+
+754
+00:34:59,920 --> 00:35:05,960
+Isso inclui maior recrutamento
+
+755
+00:35:02,640 --> 00:35:08,040
+de unidades motoras e o aprimoramento
+
+756
+00:35:05,960 --> 00:35:10,800
+das conexões entre os nervos e os
+
+757
+00:35:08,040 --> 00:35:13,320
+músculos, resultando uma performance
+
+758
+00:35:10,800 --> 00:35:16,079
+muscular melhorada.
+
+759
+00:35:13,320 --> 00:35:17,640
+Então, comparando esse estudo com outros
+
+760
+00:35:16,079 --> 00:35:20,240
+anteriores,
+
+761
+00:35:17,640 --> 00:35:22,200
+isso aí faz o quê?
+
+762
+00:35:20,240 --> 00:35:25,200
+mais evidências,
+
+763
+00:35:22,200 --> 00:35:27,760
+aumentando o corpo de pesquisa que
+
+764
+00:35:25,200 --> 00:35:30,240
+confirma os benefícios do treinamento de
+
+765
+00:35:27,760 --> 00:35:32,320
+resistência em adultos mais velhos.
+
+766
+00:35:30,240 --> 00:35:35,000
+Estudos anteriores já tinham demonstrado
+
+767
+00:35:32,320 --> 00:35:38,200
+que treinos de conta duração podem
+
+768
+00:35:35,000 --> 00:35:40,640
+melhorar a força muscular, mas poucas
+
+769
+00:35:38,200 --> 00:35:43,280
+pesquisas haviam acompanhado os efeitos
+
+770
+00:35:40,640 --> 00:35:47,560
+a longo prazo, 4 anos, né? Como foi esse
+
+771
+00:35:43,280 --> 00:35:47,560
+estudo que eu falei para vocês aqui?
+
+772
+00:35:47,960 --> 00:35:52,640
+Eu, se eu fosse velhinho, não teria
+
+773
+00:35:49,800 --> 00:35:55,920
+feito só um ano, não. Faria os 4 anos aí
+
+774
+00:35:52,640 --> 00:35:57,440
+do período de observação, né?
+
+775
+00:35:55,920 --> 00:35:59,280
+O que o estudo destaca é que o
+
+776
+00:35:57,440 --> 00:36:01,960
+treinamento de resistência pesada é mais
+
+777
+00:35:59,280 --> 00:36:03,640
+eficaz do que o treino moderado para
+
+778
+00:36:01,960 --> 00:36:05,440
+manter a força ao longo do tempo. Isso é
+
+779
+00:36:03,640 --> 00:36:09,160
+meu óbvio, mas aqui me chamou muita
+
+780
+00:36:05,440 --> 00:36:11,280
+atenção o fato de o pessoal que fez esse
+
+781
+00:36:09,160 --> 00:36:15,000
+de força moderada não ter tido umas
+
+782
+00:36:11,280 --> 00:36:16,359
+melhoras. e alguns critérios.
+
+783
+00:36:15,000 --> 00:36:18,440
+E óbvio que você sabe que esses
+
+784
+00:36:16,359 --> 00:36:20,760
+benefícios do treino de resistência não
+
+785
+00:36:18,440 --> 00:36:22,160
+só é exclusivo pros idosos, né? Precisa
+
+786
+00:36:20,760 --> 00:36:24,680
+com adultos mais jovens mostrar
+
+787
+00:36:22,160 --> 00:36:26,400
+resultados semelhantes com treinos
+
+788
+00:36:24,680 --> 00:36:29,400
+intensos proporcionando maiores
+
+789
+00:36:26,400 --> 00:36:31,480
+benefícios a longo prazo. Beleza? Então,
+
+790
+00:36:29,400 --> 00:36:33,640
+se você tá acima dos 60 anos ou conhece
+
+791
+00:36:31,480 --> 00:36:36,800
+alguém que tá próximo
+
+792
+00:36:33,640 --> 00:36:41,040
+acima dos 60, pede para ele virar
+
+793
+00:36:36,800 --> 00:36:43,680
+marumbeiro. Certo?
+
+794
+00:36:41,040 --> 00:36:46,160
+Aqui ele não tá especificando com tanta
+
+795
+00:36:43,680 --> 00:36:47,599
+clareza o que que é treino pesado, tá?
+
+796
+00:36:46,160 --> 00:36:50,680
+Às vezes o que eu acho que é treino
+
+797
+00:36:47,599 --> 00:36:55,599
+pesado para ele é é é
+
+798
+00:36:50,680 --> 00:36:55,599
+treino ultra pesado. Não sei, né?
+
+799
+00:36:55,960 --> 00:37:00,800
+Isso é muito importante, pessoal. A
+
+800
+00:36:58,040 --> 00:37:05,119
+musculação é muito importante. Tem uma
+
+801
+00:37:00,800 --> 00:37:08,160
+pergunta sem responder. Vamos lá.
+
+802
+00:37:05,119 --> 00:37:09,680
+Ué, para mim não tem não. Eu respondi
+
+803
+00:37:08,160 --> 00:37:13,520
+todas.
+
+804
+00:37:09,680 --> 00:37:15,560
+Só se for é ao vivo que você tá falando
+
+805
+00:37:13,520 --> 00:37:20,920
+ou do documento.
+
+806
+00:37:15,560 --> 00:37:20,920
+Documento eu já cobri o documento todo
+
+807
+00:37:26,240 --> 00:37:31,359
+ao vivo. Tá bom. Mas eu não vi não.
+
+808
+00:37:28,359 --> 00:37:31,359
+Cadê?
+
+809
+00:37:31,880 --> 00:37:37,119
+Não, o do Stradió eu já respondi. Qual
+
+810
+00:37:33,599 --> 00:37:40,839
+foi a pergunta que eu não respondi?
+
+811
+00:37:37,119 --> 00:37:40,839
+Não, eu respondi tudo.
+
+812
+00:37:45,040 --> 00:37:49,319
+Ó, aquela história do logol da vitamina
+
+813
+00:37:47,079 --> 00:37:51,960
+C, eu já respondi.
+
+814
+00:37:49,319 --> 00:37:54,280
+O estradiol melhor absolvido da noite,
+
+815
+00:37:51,960 --> 00:37:56,560
+eu já respondi.
+
+816
+00:37:54,280 --> 00:37:59,240
+Antes do estradiol,
+
+817
+00:37:56,560 --> 00:38:02,640
+não,
+
+818
+00:37:59,240 --> 00:38:06,599
+da tatuagem eu respondi.
+
+819
+00:38:02,640 --> 00:38:06,599
+Eu perguntava no documento.
+
+820
+00:38:08,760 --> 00:38:13,000
+Você não tá se confundindo não, Maria
+
+821
+00:38:10,000 --> 00:38:13,000
+Helena.
+
+822
+00:38:21,760 --> 00:38:27,000
+Qual que é a pergunta? Eu não tô achando
+
+823
+00:38:23,760 --> 00:38:27,000
+essa pergunta.
+
+824
+00:38:28,599 --> 00:38:32,880
+É de tatuagem. Respondi.
+
+825
+00:38:37,520 --> 00:38:43,720
+É pergunta é tua.
+
+826
+00:38:39,920 --> 00:38:43,720
+Não apareceu para mim.
+
+827
+00:38:49,760 --> 00:38:53,319
+É longa, então. Mas é, então foi algum
+
+828
+00:38:51,760 --> 00:38:56,079
+problema aí, ó. Quando você escreve um
+
+829
+00:38:53,319 --> 00:38:58,520
+texto muito longo aqui no
+
+830
+00:38:56,079 --> 00:39:01,480
+chat ao vivo dá da BO, entendeu? Deve
+
+831
+00:38:58,520 --> 00:39:04,200
+ter sido isso, tá bom? Então, a gente
+
+832
+00:39:01,480 --> 00:39:06,680
+pode estar respondendo essa sua dúvida
+
+833
+00:39:04,200 --> 00:39:08,000
+na próxima live, tá? Eu vou encerrar
+
+834
+00:39:06,680 --> 00:39:09,680
+então, pessoal. Obrigado por ter
+
+835
+00:39:08,000 --> 00:39:13,640
+assistido essa live. Espero que semana
+
+836
+00:39:09,680 --> 00:39:15,280
+que vem o Streamyard esteja funcionando
+
+837
+00:39:13,640 --> 00:39:17,000
+corretamente.
+
+838
+00:39:15,280 --> 00:39:19,200
+Até a próxima. Um beijo no coração de
+
+839
+00:39:17,000 --> 00:39:19,200
+vocês.
+
