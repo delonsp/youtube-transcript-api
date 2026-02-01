@@ -386,7 +386,7 @@ class YouTubeBatchProcessor:
         cmd = [
             'python',
             'transcript_processor.py',
-            '--cookies', 'youtube_cookies.txt',  # Usar arquivo de cookies (mais confiável)
+            '--cookies', 'chrome' if not os.path.exists('/.dockerenv') else 'youtube_cookies.txt',
             '--',  # Separador para IDs que começam com hífen (ex: -YMooVl3oms)
             video_id
         ]
@@ -438,7 +438,7 @@ class YouTubeBatchProcessor:
         cmd = [
             'python',
             'transcript_processor.py',
-            '--cookies', 'youtube_cookies.txt',  # Usar arquivo de cookies (mais confiável)
+            '--cookies', 'chrome' if not os.path.exists('/.dockerenv') else 'youtube_cookies.txt',
             '--sibling-videos',
             video_ids,
             '--',  # Separador para IDs que começam com hífen (ex: -YMooVl3oms)

@@ -420,7 +420,7 @@ class EstudosAvancadosManager:
     """Gerenciador para lives de Estudos Avancados."""
 
     def __init__(self, credentials_file: str = 'client_secrets.json'):
-        self.transcript_downloader = TranscriptDownloader(cookies_file='youtube_cookies.txt')
+        self.transcript_downloader = TranscriptDownloader()
         self.ai_processor = DeepSeekProcessor()
         self.youtube_manager = YouTubeManager(credentials_file=credentials_file)
         self.docs_manager = GoogleDocsManager()

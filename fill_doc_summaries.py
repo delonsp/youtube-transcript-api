@@ -61,8 +61,7 @@ class DocSummaryFiller:
         self.youtube_service = None
         self.token_path = Path('token_docs.pickle')
         self.client_secrets_path = Path('client_secrets.json')
-        # Usar arquivo de cookies exportado (mais confiável que extração do browser)
-        self.transcript_downloader = TranscriptDownloader(cookies_file='youtube_cookies.txt')
+        self.transcript_downloader = TranscriptDownloader()
 
     def authenticate(self):
         """Autentica com Google APIs."""

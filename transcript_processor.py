@@ -31,11 +31,18 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+def get_default_cookies():
+    """Retorna 'chrome' localmente ou 'youtube_cookies.txt' no Docker."""
+    if os.path.exists('/.dockerenv'):
+        return 'youtube_cookies.txt'
+    return 'chrome'
+
+
 class TranscriptDownloader:
     """Handles downloading transcripts from YouTube videos"""
 
     def __init__(self, cookies_file: Optional[str] = None):
-        self.cookies_file = cookies_file
+        self.cookies_file = cookies_file or get_default_cookies()
 
     def download(self, video_id: str, languages: Optional[List[str]] = None) -> Dict:
         """
