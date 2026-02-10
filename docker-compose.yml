@@ -10,3 +10,5 @@ services:
       - TOKEN_CAPTIONS_B64
       - TOKEN_DOCS_B64
       - TOKEN_ESTUDOS_B64
+      - TELEGRAM_BOT_TOKEN
+      - TELEGRAM_CHAT_ID

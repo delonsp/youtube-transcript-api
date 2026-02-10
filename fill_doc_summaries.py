@@ -47,9 +47,13 @@ DOCUMENT_ID = '1wUM7wHVIK5C46Tqp30e-DqMSy1gqg5wt72Ppi701U4g'
 # DeepSeek API - busca de keyring primeiro, fallback para env var
 def get_deepseek_api_key():
     """Obtém API key do keyring ou variável de ambiente."""
-    import keyring
-    api_key = keyring.get_password('deepseek', 'api_key') or os.getenv('DEEPSEEK_API_KEY')
-    return api_key
+    api_key = None
+    try:
+        import keyring
+        api_key = keyring.get_password('deepseek', 'api_key')
+    except Exception:
+        pass
+    return api_key or os.getenv('DEEPSEEK_API_KEY')
 
 
 class DocSummaryFiller:

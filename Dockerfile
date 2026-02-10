@@ -2,14 +2,19 @@ FROM python:3.12-slim
 
 WORKDIR /app
 
-# Instala cron, Node.js (necessario para yt-dlp) e utilitarios
+# Instala cron, Node.js e utilitarios
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     cron \
     nodejs \
     npm \
     ca-certificates \
+    curl \
+    unzip \
     && rm -rf /var/lib/apt/lists/*
+
+# Instala deno (runtime JS preferido pelo yt-dlp)
+RUN curl -fsSL https://deno.land/install.sh | DENO_INSTALL=/usr/local sh
 
 # Dependencias Python
 COPY requirements_local.txt .

@@ -250,12 +250,14 @@ class DeepSeekProcessor:
     def _init_client(self):
         """Inicializa cliente DeepSeek (API compativel com OpenAI)."""
         from openai import OpenAI
-        import keyring
 
-        api_key = (
-            keyring.get_password('deepseek', 'api_key') or
-            os.getenv('DEEPSEEK_API_KEY')
-        )
+        api_key = None
+        try:
+            import keyring
+            api_key = keyring.get_password('deepseek', 'api_key')
+        except Exception:
+            pass
+        api_key = api_key or os.getenv('DEEPSEEK_API_KEY')
         if not api_key:
             raise ValueError(
                 "DeepSeek API key not found. Set it with:\n"
