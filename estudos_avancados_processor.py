@@ -269,7 +269,11 @@ class DeepSeekProcessor:
 
     def generate_detailed_analysis(self, transcript_data: Dict, video_title: str) -> Dict:
         """
-        Gera analise completa da live usando DeepSeek.
+        Gera analise completa da live usando DeepSeek em 2 chamadas separadas
+        para evitar truncamento (deepseek-chat max output = 8K tokens).
+
+        Chamada 1: timestamps (10-20 itens com descricoes detalhadas)
+        Chamada 2: summary + key_topics + qa_list
 
         Retorna:
         {
@@ -287,9 +291,74 @@ class DeepSeekProcessor:
 
         duration_str = f"{int(video_duration // 3600)}h{int((video_duration % 3600) // 60):02d}m" if video_duration >= 3600 else f"{int(video_duration // 60)}m{int(video_duration % 60):02d}s"
 
+        # --- Chamada 1: Timestamps ---
+        logger.info("Sending request 1/2 to DeepSeek (timestamps)...")
+        timestamps_result = self._generate_timestamps(formatted_transcript, video_title, duration_str, video_duration)
+
+        # Validar e filtrar timestamps
+        valid_timestamps = []
+        for ts in timestamps_result.get('timestamps', []):
+            if ts['timestamp'] <= video_duration:
+                valid_timestamps.append(ts)
+            else:
+                logger.warning(f"Removed invalid timestamp: {ts['timestamp']}s - {ts.get('title', ts.get('titulo', 'N/A'))}")
+
+        logger.info(f"  {len(valid_timestamps)} timestamps validos")
+
+        # --- Chamada 2: Summary + Q&A ---
+        logger.info("Sending request 2/2 to DeepSeek (summary + Q&A)...")
+        summary_result = self._generate_summary_and_qa(formatted_transcript, video_title, duration_str)
+
+        logger.info(f"  {len(summary_result.get('key_topics', []))} topicos, {len(summary_result.get('qa_list', []))} Q&As")
+
+        # Merge dos resultados
+        result = {
+            'timestamps': valid_timestamps,
+            'summary': summary_result.get('summary', '[Resumo nao gerado]'),
+            'key_topics': summary_result.get('key_topics', []),
+            'qa_list': summary_result.get('qa_list', []),
+        }
+
+        logger.info(f"Analysis complete: {len(valid_timestamps)} timestamps, {len(result['qa_list'])} Q&As")
+
+        return result
+
+    def _generate_timestamps(self, formatted_transcript: str, video_title: str,
+                             duration_str: str, video_duration: float) -> Dict:
+        """Chamada 1: gera apenas timestamps."""
         prompt = f"""Voce e um especialista em analise de conteudo educacional em portugues brasileiro.
 
 Analise esta transcricao de uma live chamada "{video_title}" (duracao: {duration_str}, {int(video_duration)} segundos).
+
+TRANSCRICAO:
+{formatted_transcript}
+
+---
+
+Gere um JSON com:
+
+"timestamps": Array de objetos com marcacoes de tempo para navegacao do video.
+   - Identifique TODOS os topicos relevantes (esperamos 10-20 timestamps para uma live longa)
+   - Cada objeto: {{"timestamp": segundos, "title": "titulo curto", "description": "descricao detalhada do que e discutido"}}
+   - IMPORTANTE: Todos timestamps devem estar DENTRO da duracao do video (maximo {int(video_duration)} segundos)
+   - Primeiro timestamp deve ser proximo de 0
+
+Responda APENAS com JSON valido, sem texto adicional antes ou depois."""
+
+        response = self.client.chat.completions.create(
+            model=DEEPSEEK_MODEL,
+            max_tokens=8192,
+            messages=[{"role": "user", "content": prompt}]
+        )
+
+        return self._parse_json_response(response.choices[0].message.content)
+
+    def _generate_summary_and_qa(self, formatted_transcript: str, video_title: str,
+                                  duration_str: str) -> Dict:
+        """Chamada 2: gera summary, key_topics e qa_list."""
+        prompt = f"""Voce e um especialista em analise de conteudo educacional em portugues brasileiro.
+
+Analise esta transcricao de uma live chamada "{video_title}" (duracao: {duration_str}).
 
 Esta e uma live de "Estudos Avancados" - conteudo aprofundado para membros do canal. Por isso, sua analise deve ser DETALHADA e COMPLETA.
 
@@ -298,68 +367,42 @@ TRANSCRICAO:
 
 ---
 
-Gere uma analise COMPLETA em JSON com:
+Gere um JSON com:
 
-1. "timestamps": Array de objetos com marcacoes de tempo para navegacao do video.
-   - Identifique TODOS os topicos relevantes (esperamos 10-20 timestamps para uma live longa)
-   - Cada objeto: {{"timestamp": segundos, "title": "titulo curto", "description": "descricao detalhada do que e discutido"}}
-   - IMPORTANTE: Todos timestamps devem estar DENTRO da duracao do video (maximo {int(video_duration)} segundos)
-   - Primeiro timestamp deve ser proximo de 0
-
-2. "summary": String com resumo DETALHADO (3-5 paragrafos).
+1. "summary": String com resumo DETALHADO (3-5 paragrafos).
    - Descreva os principais conceitos abordados
    - Mencione exemplos praticos citados
    - Destaque insights importantes
    - Escreva em portugues brasileiro formal
 
-3. "key_topics": Array de strings com os topicos principais (5-10 itens)
+2. "key_topics": Array de strings com os topicos principais (5-10 itens)
    - Liste os temas centrais discutidos
 
-4. "qa_list": Array de objetos com perguntas e respostas identificadas na live.
+3. "qa_list": Array de objetos com perguntas e respostas identificadas na live.
    - {{"pergunta": "pergunta feita", "resposta": "resposta dada", "timestamp": segundos}}
    - Inclua perguntas dos espectadores respondidas pelo apresentador
    - Minimo 5 perguntas, maximo 15
 
 Responda APENAS com JSON valido, sem texto adicional antes ou depois."""
 
-        logger.info("Sending request to DeepSeek...")
-
         response = self.client.chat.completions.create(
             model=DEEPSEEK_MODEL,
             max_tokens=8192,
-            messages=[
-                {"role": "user", "content": prompt}
-            ]
+            messages=[{"role": "user", "content": prompt}]
         )
 
-        response_text = response.choices[0].message.content
+        return self._parse_json_response(response.choices[0].message.content)
 
-        # Extrair JSON da resposta
+    def _parse_json_response(self, response_text: str) -> Dict:
+        """Extrai JSON de uma resposta do DeepSeek."""
         try:
-            # Tentar parse direto
-            result = json.loads(response_text)
+            return json.loads(response_text)
         except json.JSONDecodeError:
-            # Tentar encontrar JSON na resposta
             start = response_text.find('{')
             end = response_text.rfind('}') + 1
             if start >= 0 and end > start:
-                result = json.loads(response_text[start:end])
-            else:
-                raise ValueError("Could not parse JSON from Claude response")
-
-        # Validar e filtrar timestamps
-        valid_timestamps = []
-        for ts in result.get('timestamps', []):
-            if ts['timestamp'] <= video_duration:
-                valid_timestamps.append(ts)
-            else:
-                logger.warning(f"Removed invalid timestamp: {ts['timestamp']}s - {ts.get('title', ts.get('titulo', 'N/A'))}")
-
-        result['timestamps'] = valid_timestamps
-
-        logger.info(f"Analysis complete: {len(valid_timestamps)} timestamps, {len(result.get('qa_list', []))} Q&As")
-
-        return result
+                return json.loads(response_text[start:end])
+            raise ValueError("Could not parse JSON from DeepSeek response")
 
     def _format_transcript(self, snippets: List[Dict]) -> str:
         """Formata transcricao com timestamps para envio ao AI."""
