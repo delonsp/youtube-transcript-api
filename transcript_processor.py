@@ -41,15 +41,16 @@ def get_default_cookies():
 class TranscriptDownloader:
     """Handles downloading transcripts from YouTube videos"""
 
-    def __init__(self, cookies_file: Optional[str] = None):
+    def __init__(self, cookies_file: Optional[str] = None, captions_token_file: Optional[str] = None):
         self.cookies_file = cookies_file or get_default_cookies()
+        self.captions_token_file = captions_token_file
 
     def download(self, video_id: str, languages: Optional[List[str]] = None) -> Dict:
         """
         Download transcript using youtube-transcript-api first,
         fallback to yt-dlp if needed
         """
-        # Try fast method first (youtube-transcript-api)
+        # 1. Try fast method first (youtube-transcript-api)
         try:
             logger.info(f"Attempting youtube-transcript-api for {video_id}")
             result = self._download_with_transcript_api(video_id, languages)
@@ -58,14 +59,24 @@ class TranscriptDownloader:
         except Exception as e:
             logger.warning(f"youtube-transcript-api failed: {e}")
 
-        # Fallback to yt-dlp for members-only or blocked videos
+        # 2. Try YouTube Data API captions (members-only, no cookies needed)
+        if self.captions_token_file or os.path.exists('token_captions.pickle'):
+            try:
+                logger.info(f"Attempting YouTube Captions API for {video_id}")
+                result = self._download_with_captions_api(video_id, languages)
+                logger.info("✅ Captions API succeeded")
+                return result
+            except Exception as e:
+                logger.warning(f"Captions API failed: {e}")
+
+        # 3. Fallback to yt-dlp (last resort)
         try:
             logger.info(f"Attempting yt-dlp fallback for {video_id}")
             result = self._download_with_ytdlp(video_id, languages)
             logger.info("✅ yt-dlp succeeded")
             return result
         except Exception as e:
-            logger.error(f"❌ Both methods failed: {e}")
+            logger.error(f"❌ All methods failed: {e}")
             raise
 
     def _download_with_transcript_api(self, video_id: str, languages: Optional[List[str]]) -> Dict:
@@ -94,6 +105,108 @@ class TranscriptDownloader:
             ],
             'method': 'youtube-transcript-api'
         }
+
+    def _download_with_captions_api(self, video_id: str, languages: Optional[List[str]]) -> Dict:
+        """Download via YouTube Data API captions endpoint (works for channel owner's members-only videos)."""
+        import pickle
+        import io
+        from google.auth.transport.requests import Request
+        from googleapiclient.discovery import build
+        from googleapiclient.http import MediaIoBaseDownload
+
+        token_file = self.captions_token_file or 'token_captions.pickle'
+        if not os.path.exists(token_file):
+            raise FileNotFoundError(f"OAuth token not found: {token_file}")
+
+        with open(token_file, 'rb') as f:
+            creds = pickle.load(f)
+        if creds.expired and creds.refresh_token:
+            creds.refresh(Request())
+            with open(token_file, 'wb') as f:
+                pickle.dump(creds, f)
+
+        youtube = build('youtube', 'v3', credentials=creds)
+
+        # List available caption tracks
+        response = youtube.captions().list(part='snippet', videoId=video_id).execute()
+        items = response.get('items', [])
+        if not items:
+            raise Exception(f"No caption tracks found for {video_id}")
+
+        # Find best caption track: prefer serving ASR in requested language
+        target = None
+        preferred_langs = languages or ['pt', 'pt-BR', 'en']
+
+        for lang in preferred_langs:
+            for item in items:
+                s = item['snippet']
+                if s['language'] == lang and s.get('status') == 'serving':
+                    target = item
+                    break
+            if target:
+                break
+
+        # Fallback: any serving track
+        if not target:
+            for item in items:
+                if item['snippet'].get('status') == 'serving':
+                    target = item
+                    break
+
+        if not target:
+            raise Exception(f"No serving caption track for {video_id}")
+
+        # Download SRT
+        request = youtube.captions().download(id=target['id'], tfmt='srt')
+        buf = io.BytesIO()
+        downloader = MediaIoBaseDownload(buf, request)
+        done = False
+        while not done:
+            _, done = downloader.next_chunk()
+
+        srt_content = buf.getvalue().decode('utf-8')
+        snippets = self._parse_srt(srt_content)
+
+        if not snippets:
+            raise Exception("No subtitle text found in SRT")
+
+        logger.info(f"✅ Captions API: {len(snippets)} snippets, lang={target['snippet']['language']}")
+
+        return {
+            'video_id': video_id,
+            'language': target['snippet']['language'],
+            'snippets': snippets,
+            'method': 'captions-api'
+        }
+
+    @staticmethod
+    def _parse_srt(srt_content: str) -> List[Dict]:
+        """Parse SRT content into snippets with start/duration."""
+        import re
+        snippets = []
+        blocks = re.split(r'\n\n+', srt_content.strip())
+
+        for block in blocks:
+            lines = block.strip().split('\n')
+            if len(lines) < 3:
+                continue
+            time_match = re.match(
+                r'(\d{2}):(\d{2}):(\d{2}),(\d{3})\s*-->\s*(\d{2}):(\d{2}):(\d{2}),(\d{3})',
+                lines[1]
+            )
+            if not time_match:
+                continue
+            g = [int(x) for x in time_match.groups()]
+            start = g[0]*3600 + g[1]*60 + g[2] + g[3]/1000
+            end = g[4]*3600 + g[5]*60 + g[6] + g[7]/1000
+            text = ' '.join(lines[2:]).strip()
+            if text:
+                snippets.append({
+                    'text': text,
+                    'start': start,
+                    'duration': end - start
+                })
+        return snippets
 
     def _download_with_ytdlp(self, video_id: str, languages: Optional[List[str]]) -> Dict:
         """Fallback method using yt-dlp with cookies for members-only videos"""

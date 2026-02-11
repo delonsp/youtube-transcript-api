@@ -65,7 +65,9 @@ class DocSummaryFiller:
         self.youtube_service = None
         self.token_path = Path('token_docs.pickle')
         self.client_secrets_path = Path('client_secrets.json')
-        self.transcript_downloader = TranscriptDownloader()
+        self.transcript_downloader = TranscriptDownloader(
+            captions_token_file='token_captions.pickle'
+        )
 
     def authenticate(self):
         """Autentica com Google APIs."""
