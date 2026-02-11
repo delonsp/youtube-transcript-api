@@ -22,6 +22,7 @@ def main():
 
     logger.info("Listando videos pendentes de Estudos Avancados...")
     pending = manager.list_pending_estudos_avancados()
+    pending.sort(key=lambda v: v['published_at'])
 
     if not pending:
         logger.info("Nenhum video pendente.")

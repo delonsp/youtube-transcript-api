@@ -2,12 +2,10 @@ FROM python:3.12-slim
 
 WORKDIR /app
 
-# Instala cron, Node.js e utilitarios
+# Instala cron e utilitarios
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     cron \
-    nodejs \
-    npm \
     ca-certificates \
     curl \
     unzip \

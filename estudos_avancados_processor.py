@@ -326,7 +326,7 @@ Responda APENAS com JSON valido, sem texto adicional antes ou depois."""
 
         response = self.client.chat.completions.create(
             model=DEEPSEEK_MODEL,
-            max_tokens=16000,
+            max_tokens=8192,
             messages=[
                 {"role": "user", "content": prompt}
             ]
@@ -353,7 +353,7 @@ Responda APENAS com JSON valido, sem texto adicional antes ou depois."""
             if ts['timestamp'] <= video_duration:
                 valid_timestamps.append(ts)
             else:
-                logger.warning(f"Removed invalid timestamp: {ts['timestamp']}s - {ts['title']}")
+                logger.warning(f"Removed invalid timestamp: {ts['timestamp']}s - {ts.get('title', ts.get('titulo', 'N/A'))}")
 
         result['timestamps'] = valid_timestamps
 
@@ -388,7 +388,7 @@ def format_detailed_comment(analysis: Dict) -> str:
 
     for ts in analysis['timestamps']:
         timestamp_str = format_timestamp(ts['timestamp'])
-        lines.append(f"{timestamp_str} - {ts['title']}")
+        lines.append(f"{timestamp_str} - {ts.get('title', ts.get('titulo', 'N/A'))}")
         if ts.get('description'):
             lines.append(f"   {ts['description']}")
         lines.append("")
@@ -413,7 +413,7 @@ def format_detailed_description_timestamps(analysis: Dict) -> str:
 
     for ts in timestamps:
         timestamp_str = format_timestamp(ts['timestamp'])
-        lines.append(f"{timestamp_str} {ts['title']}")
+        lines.append(f"{timestamp_str} {ts.get('title', ts.get('titulo', 'N/A'))}")
 
     return '\n'.join(lines)
 
@@ -480,7 +480,7 @@ class EstudosAvancadosManager:
 
         print("\nTIMESTAMPS:")
         for ts in analysis['timestamps'][:10]:
-            print(f"  {format_timestamp(ts['timestamp'])} - {ts['title']}")
+            print(f"  {format_timestamp(ts['timestamp'])} - {ts.get('title', ts.get('titulo', 'N/A'))}")
         if len(analysis['timestamps']) > 10:
             print(f"  ... e mais {len(analysis['timestamps']) - 10} timestamps")
 
@@ -502,7 +502,7 @@ class EstudosAvancadosManager:
 
             # Converter timestamps para formato esperado pelo YouTubeManager
             topics_for_youtube = [
-                {'timestamp': ts['timestamp'], 'title': ts['title']}
+                {'timestamp': ts['timestamp'], 'title': ts.get('title', ts.get('titulo', 'N/A'))}
                 for ts in analysis['timestamps']
             ]
 
