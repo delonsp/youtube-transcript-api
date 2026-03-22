@@ -44,6 +44,21 @@ SCOPES = [
 # ID do documento
 DOCUMENT_ID = '1wUM7wHVIK5C46Tqp30e-DqMSy1gqg5wt72Ppi701U4g'
 
+# Títulos que NÃO pertencem ao doc do Nível 1
+EXCLUDED_TITLE_PATTERNS = [
+    r'estudos?\s+avan[cç]ad',
+    r'sa[úu]de\s+integrativa',
+    r'sa[úu]de\s+cerebral',
+]
+
+def _is_excluded_live(title: str) -> bool:
+    """Verifica se a live não pertence ao doc Nível 1 (Tira Dúvidas)."""
+    title_lower = title.lower()
+    for pattern in EXCLUDED_TITLE_PATTERNS:
+        if re.search(pattern, title_lower):
+            return True
+    return False
+
 # DeepSeek API - busca de keyring primeiro, fallback para env var
 def get_deepseek_api_key():
     """Obtém API key do keyring ou variável de ambiente."""
@@ -362,6 +377,9 @@ Responda SOMENTE com JSON válido no formato:
 """
 
         # Requests para inserir
+        body_start = end_index + len(date_str) + 1
+        body_end = body_start + len(entry_text)
+
         requests = [
             # 1. Inserir a data
             {
@@ -370,7 +388,7 @@ Responda SOMENTE com JSON válido no formato:
                     'text': date_str + '\n'
                 }
             },
-            # 2. Aplicar estilo "Subtítulo 1" (HEADING_1) na data
+            # 2. Aplicar estilo HEADING_1 na data
             {
                 'updateParagraphStyle': {
                     'range': {
@@ -399,10 +417,37 @@ Responda SOMENTE com JSON válido no formato:
             # 4. Inserir o conteúdo
             {
                 'insertText': {
-                    'location': {'index': end_index + len(date_str) + 1},
+                    'location': {'index': body_start},
                     'text': entry_text
                 }
-            }
+            },
+            # 5. Aplicar NORMAL_TEXT no corpo (evita herdar HEADING_1)
+            {
+                'updateParagraphStyle': {
+                    'range': {
+                        'startIndex': body_start,
+                        'endIndex': body_end
+                    },
+                    'paragraphStyle': {
+                        'namedStyleType': 'NORMAL_TEXT'
+                    },
+                    'fields': 'namedStyleType'
+                }
+            },
+            # 6. Aplicar fonte Arial 11 no corpo
+            {
+                'updateTextStyle': {
+                    'range': {
+                        'startIndex': body_start,
+                        'endIndex': body_end
+                    },
+                    'textStyle': {
+                        'fontSize': {'magnitude': 11, 'unit': 'PT'},
+                        'weightedFontFamily': {'fontFamily': 'Arial'},
+                    },
+                    'fields': 'fontSize,weightedFontFamily'
+                }
+            },
         ]
 
         self.docs_service.documents().batchUpdate(
@@ -424,9 +469,15 @@ Responda SOMENTE com JSON válido no formato:
         # Buscar lives
         all_lives = self.get_channel_lives(since_date)
 
+        # Filtrar lives que não pertencem a este doc (Estudos Avançados, Saúde Integrativa, etc.)
+        tira_duvidas_lives = [l for l in all_lives if not _is_excluded_live(l['title'])]
+        excluded_count = len(all_lives) - len(tira_duvidas_lives)
+        if excluded_count:
+            logger.info(f"Filtered out {excluded_count} non-Tira-Dúvidas lives")
+
         # Filtrar já documentadas
         documented_ids = self.get_documented_video_ids()
-        undocumented = [l for l in all_lives if l['video_id'] not in documented_ids]
+        undocumented = [l for l in tira_duvidas_lives if l['video_id'] not in documented_ids]
 
         logger.info(f"Found {len(undocumented)} undocumented lives")
 
