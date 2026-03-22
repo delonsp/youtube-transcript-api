@@ -455,12 +455,15 @@ Response format:
         import keyring
 
         # Get API key from keyring (try multiple locations, fallback to environment variable)
-        api_key = (
-            keyring.get_password('deepseek', 'alain_dutra') or
-            keyring.get_password('DEEPSEEK_API_KEY', 'alain_dutra') or
-            keyring.get_password('deepseek', 'api_key') or
-            os.getenv('DEEPSEEK_API_KEY')
-        )
+        try:
+            api_key = (
+                keyring.get_password('deepseek', 'alain_dutra') or
+                keyring.get_password('DEEPSEEK_API_KEY', 'alain_dutra') or
+                keyring.get_password('deepseek', 'api_key')
+            )
+        except Exception:
+            api_key = None
+        api_key = api_key or os.getenv('DEEPSEEK_API_KEY')
         if not api_key:
             raise ValueError(
                 "DeepSeek API key not found. Set it with:\n"
