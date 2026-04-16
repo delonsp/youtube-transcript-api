@@ -387,6 +387,7 @@ class YouTubeBatchProcessor:
             'python',
             'transcript_processor.py',
             '--cookies', 'chrome' if not os.path.exists('/.dockerenv') else 'youtube_cookies.txt',
+            '--captions-token', 'token_captions.pickle',
             '--',  # Separador para IDs que começam com hífen (ex: -YMooVl3oms)
             video_id
         ]
@@ -439,6 +440,7 @@ class YouTubeBatchProcessor:
             'python',
             'transcript_processor.py',
             '--cookies', 'chrome' if not os.path.exists('/.dockerenv') else 'youtube_cookies.txt',
+            '--captions-token', 'token_captions.pickle',
             '--sibling-videos',
             video_ids,
             '--',  # Separador para IDs que começam com hífen (ex: -YMooVl3oms)

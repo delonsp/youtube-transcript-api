@@ -923,6 +923,11 @@ def main():
         help='Comma-separated list of sibling video IDs (same live, different formats)',
         default=None
     )
+    parser.add_argument(
+        '--captions-token',
+        help='Path to OAuth token for YouTube Captions API (default: token_captions.pickle)',
+        default='token_captions.pickle'
+    )
 
     args = parser.parse_args()
 
@@ -937,7 +942,7 @@ def main():
         logger.info("STEP 1: Downloading transcript")
         logger.info("=" * 60)
 
-        downloader = TranscriptDownloader(cookies_file=args.cookies)
+        downloader = TranscriptDownloader(cookies_file=args.cookies, captions_token_file=args.captions_token)
         transcript_data = downloader.download(args.video_id, args.languages)
 
         logger.info(f"Downloaded {len(transcript_data['snippets'])} snippets")

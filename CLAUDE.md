@@ -16,24 +16,37 @@ This repository contains **two components**:
 ```
 Dokploy VPS
 └── Cron Container (single container)
-    ├── 6h UTC - download_via_api.py      (download transcripts)
+    ├── 6h UTC - download_via_api.py      (download transcripts via OAuth)
     ├── 7h UTC - batch_process_videos.py  (timestamps for members-only lives)
     ├── 8h UTC - fill_doc_summaries.py    (Google Docs summaries, level 1)
-    └── 9h UTC - run_estudos_avancados.py (Google Docs summaries, level 2)
+    ├── 9h UTC - run_estudos_avancados.py (Google Docs summaries, level 2)
+    └── 10h Mon - check_auth_health.py    (test OAuth + cookies, Telegram alert)
 ```
 
-### Cookie Authentication for Members-Only Videos
+### Authentication for Members-Only Videos
 
-Auto-detection via `get_default_cookies()` in `transcript_processor.py`:
-- **Local**: Uses `chrome` (direct browser extraction, always fresh)
+**3-tier fallback** in `TranscriptDownloader` (`transcript_processor.py`):
+1. **youtube-transcript-api** — no auth, works for public videos
+2. **YouTube Captions API (OAuth)** — `token_captions.pickle`, works for ALL channel owner videos (including members-only). OAuth refresh tokens auto-renew indefinitely. **This is the primary method.**
+3. **yt-dlp with cookies** — `youtube_cookies.txt` or browser. **Optional fallback only.** Cookies expire every 3-14 days on servers.
+
+**Cookie auto-detection** via `get_default_cookies()`:
+- **Local**: Uses `chrome` (direct browser extraction)
 - **Docker**: Uses `youtube_cookies.txt` (decoded from `YOUTUBE_COOKIES` base64 env var)
 
-**Exporting cookies** (when Docker cookies expire):
-1. Close Chrome completely (Cmd+Q)
-2. Run: `yt-dlp --cookies-from-browser chrome --cookies youtube_cookies.txt --skip-download "https://youtube.com"`
-3. Update Dokploy env var: `cat youtube_cookies.txt | base64`
+**Health check** (`check_auth_health.py`, weekly Monday 10h UTC):
+- Tests Captions API first (critical), then cookies (informational)
+- Alerts via Telegram with severity based on which method failed
 
-**Chrome profile**: Default profile (`alain.uro@gmail.com`) is the channel owner account.
+**Refreshing OAuth token** (rare — only if revoked):
+1. Run: `python download_via_api.py --max 1`
+2. Follow OAuth flow in browser
+3. Update Dokploy: `cat token_captions.pickle | base64` → `TOKEN_CAPTIONS_B64`
+
+**Refreshing cookies** (optional fallback, only if needed):
+1. Open a members-only video in Chrome
+2. Extension "Get cookies.txt LOCALLY" → Export (blue button)
+3. `cat ~/Downloads/youtube.com_cookies.txt | base64` → Dokploy `YOUTUBE_COOKIES`
 
 ### AI Provider
 
