@@ -20,3 +20,20 @@ __pycache__/
 
 # Logs
 *.log
+download_log*.txt
+
+# Secrets — OAuth tokens e credentials
+*.pickle
+client_secrets.json
+youtube_cookies*.txt
+
+# Transcripts gerados localmente (regenerados via download_via_api.py)
+transcripts/
+
+# Artefatos / capturas / docs auto-geradas
+*.pdf
+API_Documentation.html
+API_Documentation.md
+
+# MCP / IDE local
+.mcp.json
