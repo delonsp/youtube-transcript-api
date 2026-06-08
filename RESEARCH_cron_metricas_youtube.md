@@ -122,10 +122,13 @@ scripts derivam via `channels().list(mine=True)`. Na Analytics API usar `ids=cha
 10. **Health check**: estender `check_auth_health.py` com query barata da Analytics API
     (1 dia, `metrics=views`) no check semanal.
 
-**v2 (não fazer agora)**: componente Reporting API para impressões/CTR (jobs + CSV),
-espelho Google Sheets para gráficos, gráfico de tendência via sendPhoto, retenção por
-vídeo (`audienceWatchRatio`), monitor de live (`concurrentViewers` exige polling durante
-a transmissão — não cabe em cron diário).
+**v2 — IMPLEMENTADO em 2026-06-08**: rollup de 7 dias com WoW, top vídeos da semana com
+saldo de inscritos por vídeo + retenção (`averageViewPercentage`), curva de retenção
+resumida do #1 (`elapsedVideoTimeRatio`), impressões/CTR via Reporting API
+(`channel_reach_basic_a1`, fail-soft, cold-start ~48h após habilitar a API), e gráfico de
+tendência de 30 dias via `sendPhoto` (matplotlib). **Ainda não feito**: espelho Google
+Sheets (preterido — gráfico no Telegram cobre), monitor de live (`concurrentViewers` exige
+polling durante a transmissão — não cabe em cron diário).
 
 ## 5. Checklist de implementação
 

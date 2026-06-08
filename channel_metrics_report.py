@@ -1,10 +1,20 @@
 #!/usr/bin/env python3
 """
-Daily channel metrics report.
+Daily channel metrics report (V2).
 
 Fetches channel metrics from the YouTube Analytics API (exact daily values,
 ~48-72h delay) plus public counters from the YouTube Data API, persists the
 history in SQLite and sends a daily digest via Telegram.
+
+V2 adds, on top of the daily snapshot:
+  - a 7-day rollup block with week-over-week comparison
+  - per-video metrics over the week (views, watch hours, NET SUBSCRIBERS, and
+    average-view-percentage retention), ranked
+  - a retention-curve summary (hook / middle / end + relative performance) for
+    the week's #1 video
+  - thumbnail impressions & CTR from the Reporting API (fail-soft: omitted until
+    that API is enabled and its first ~48h CSV is ready) — see youtube_reporting
+  - a 30-day views trend chart sent as a photo
 
 Reference day is D-3 (data already consolidated). The last REWRITE_WINDOW_DAYS
 days are re-upserted on every run because YouTube adjusts recent numbers
@@ -15,10 +25,12 @@ Usage:
     python channel_metrics_report.py --dry-run        # no Telegram, prints digest
     python channel_metrics_report.py --date 2026-06-04  # override reference day
     python channel_metrics_report.py --backfill 90    # force backfill window
+    python channel_metrics_report.py --no-chart       # skip the trend image
 """
 
 import argparse
 import html
+import io
 import logging
 import os
 import pickle
@@ -30,7 +42,8 @@ from google.auth.transport.requests import Request
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
-from telegram_utils import send_telegram
+import youtube_reporting
+from telegram_utils import send_telegram, send_telegram_photo
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -42,12 +55,17 @@ SCOPES = [
 TOKEN_FILE = 'token_analytics.pickle'
 DB_PATH = os.environ.get('METRICS_DB', 'metrics/metrics.db')
 
-# Daily metrics queried from the Analytics API (dimensions=day).
-# NOTE: thumbnail impressions/CTR do NOT exist in the Analytics API (targeted
-# queries) — they require the Reporting API reach reports (v2 of this job).
+# Daily channel metrics (dimensions=day). averageViewPercentage = retention.
+# NOTE: thumbnail impressions/CTR do NOT exist here — they come from the
+# Reporting API (youtube_reporting.py).
 DAILY_METRICS = (
     'views,engagedViews,estimatedMinutesWatched,averageViewDuration,'
-    'subscribersGained,subscribersLost,likes,comments,shares'
+    'averageViewPercentage,subscribersGained,subscribersLost,likes,comments,shares'
+)
+# Per-video metrics over a window (dimensions=video, sort required, <=200 rows).
+VIDEO_METRICS = (
+    'views,estimatedMinutesWatched,subscribersGained,subscribersLost,'
+    'averageViewPercentage'
 )
 
 REPORT_LAG_DAYS = 3        # digest reports D-3 (consolidated data)
@@ -55,8 +73,11 @@ REWRITE_WINDOW_DAYS = 7    # re-upsert this many trailing days each run
 CONSOLIDATED_AFTER_DAYS = 3  # a day is final once it is >= 72h old
 DEFAULT_BACKFILL_DAYS = 365  # history loaded on first run (empty DB)
 MAX_WINDOW_DAYS = 366      # single-query ceiling (no startIndex pagination here)
-TOP_VIDEOS = 10            # stored per day
-TOP_VIDEOS_IN_DIGEST = 3
+WEEK_DAYS = 7              # rollup / per-video window length
+TOP_VIDEOS_STORED = 15     # stored per window
+TOP_VIDEOS_IN_DIGEST = 5
+RETENTION_CURVE_WINDOW = 30  # days of data for the curve of the #1 video
+TREND_CHART_DAYS = 30
 ANOMALY_Z_THRESHOLD = 2.5
 ANOMALY_DROP_PCT = 0.40    # drop > 40% vs 7d average
 BASELINE_DAYS = 28
@@ -69,9 +90,9 @@ WEEKDAYS_PT = ['seg', 'ter', 'qua', 'qui', 'sex', 'sáb', 'dom']
 # --------------------------------------------------------------------------
 
 def authenticate():
-    """Load token_analytics.pickle (refresh if needed) and build both clients.
-    The interactive flow only runs locally; in Docker the token arrives ready
-    via TOKEN_ANALYTICS_B64."""
+    """Load token_analytics.pickle (refresh if needed) and build clients.
+    Returns (creds, analytics, youtube). The interactive flow only runs locally;
+    in Docker the token arrives ready via TOKEN_ANALYTICS_B64."""
     creds = None
     if os.path.exists(TOKEN_FILE):
         with open(TOKEN_FILE, 'rb') as f:
@@ -89,12 +110,18 @@ def authenticate():
 
     analytics = build('youtubeAnalytics', 'v2', credentials=creds)
     youtube = build('youtube', 'v3', credentials=creds)
-    return analytics, youtube
+    return creds, analytics, youtube
 
 
 # --------------------------------------------------------------------------
 # Storage
 # --------------------------------------------------------------------------
+
+def _add_column_if_missing(conn, table, column, decl):
+    cols = {r[1] for r in conn.execute(f'PRAGMA table_info({table})').fetchall()}
+    if column not in cols:
+        conn.execute(f'ALTER TABLE {table} ADD COLUMN {column} {decl}')
+
 
 def init_db(db_path: str) -> sqlite3.Connection:
     os.makedirs(os.path.dirname(db_path) or '.', exist_ok=True)
@@ -125,6 +152,36 @@ def init_db(db_path: str) -> sqlite3.Connection:
             PRIMARY KEY (date, video_id)
         )
     """)
+    # Per-video metrics aggregated over a window (period_end = ref_day).
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS video_window (
+            period_end TEXT,
+            video_id TEXT,
+            title TEXT,
+            views INTEGER,
+            watch_minutes INTEGER,
+            subs_gained INTEGER,
+            subs_lost INTEGER,
+            avg_view_percentage REAL,
+            PRIMARY KEY (period_end, video_id)
+        )
+    """)
+    # Thumbnail impressions / CTR per day (Reporting API).
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS channel_reach (
+            date TEXT PRIMARY KEY,
+            thumbnail_impressions INTEGER,
+            thumbnail_ctr REAL,
+            updated_at TEXT
+        )
+    """)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS reporting_jobs (
+            report_type TEXT PRIMARY KEY,
+            job_id TEXT,
+            created_at TEXT
+        )
+    """)
     conn.execute("""
         CREATE TABLE IF NOT EXISTS channel_snapshot (
             date TEXT PRIMARY KEY,
@@ -133,11 +190,13 @@ def init_db(db_path: str) -> sqlite3.Connection:
             video_count INTEGER
         )
     """)
+    # Migration: V1 channel_daily had no retention column.
+    _add_column_if_missing(conn, 'channel_daily', 'avg_view_percentage', 'REAL')
     conn.commit()
     return conn
 
 
-def upsert_channel_daily(conn: sqlite3.Connection, rows: list, headers: list, today):
+def upsert_channel_daily(conn, rows, headers, today):
     """UPSERT daily rows from the Analytics API response."""
     idx = {name: i for i, name in enumerate(headers)}
     now = datetime.now(timezone.utc).isoformat(timespec='seconds')
@@ -149,13 +208,15 @@ def upsert_channel_daily(conn: sqlite3.Connection, rows: list, headers: list, to
             """
             INSERT INTO channel_daily
                 (date, views, engaged_views, watch_minutes, avg_view_duration_sec,
-                 subs_gained, subs_lost, likes, comments, shares, consolidated, updated_at)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                 avg_view_percentage, subs_gained, subs_lost, likes, comments,
+                 shares, consolidated, updated_at)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             ON CONFLICT(date) DO UPDATE SET
                 views=excluded.views,
                 engaged_views=excluded.engaged_views,
                 watch_minutes=excluded.watch_minutes,
                 avg_view_duration_sec=excluded.avg_view_duration_sec,
+                avg_view_percentage=excluded.avg_view_percentage,
                 subs_gained=excluded.subs_gained,
                 subs_lost=excluded.subs_lost,
                 likes=excluded.likes,
@@ -170,6 +231,7 @@ def upsert_channel_daily(conn: sqlite3.Connection, rows: list, headers: list, to
                 row[idx['engagedViews']],
                 row[idx['estimatedMinutesWatched']],
                 row[idx['averageViewDuration']],
+                row[idx['averageViewPercentage']],
                 row[idx['subscribersGained']],
                 row[idx['subscribersLost']],
                 row[idx['likes']],
@@ -186,7 +248,7 @@ def upsert_channel_daily(conn: sqlite3.Connection, rows: list, headers: list, to
 # Data fetching
 # --------------------------------------------------------------------------
 
-def fetch_daily_metrics(analytics, start_date: str, end_date: str) -> dict:
+def fetch_daily_metrics(analytics, start_date, end_date) -> dict:
     """Query channel daily metrics. The API silently truncates endDate to the
     last day for which ALL requested metrics are available."""
     requested_days = (
@@ -208,7 +270,6 @@ def fetch_daily_metrics(analytics, start_date: str, end_date: str) -> dict:
     if rows:
         day_idx = headers.index('day')
         last_day = rows[-1][day_idx]
-        # Days present up to the API's truncation point (inclusive)
         expected_until_last = (
             datetime.strptime(last_day, '%Y-%m-%d').date()
             - datetime.strptime(start_date, '%Y-%m-%d').date()
@@ -229,28 +290,66 @@ def fetch_daily_metrics(analytics, start_date: str, end_date: str) -> dict:
     return {'headers': headers, 'rows': rows}
 
 
-def fetch_top_videos(analytics, day: str, max_results: int = TOP_VIDEOS) -> list:
-    """Top videos by views on a single day. Returns [(video_id, views, watch_minutes)]."""
+def fetch_top_videos_window(analytics, start_date, end_date, max_results=TOP_VIDEOS_STORED):
+    """Top videos over [start_date, end_date] with per-video net subscribers and
+    retention. NOTE: per-video subscribersGained/Lost count only (un)subscribes
+    originating on that video's watch page, so they do NOT sum to the channel net
+    — do not "reconcile" the discrepancy."""
     response = analytics.reports().query(
         ids='channel==MINE',
-        startDate=day,
-        endDate=day,
-        metrics='views,estimatedMinutesWatched',
+        startDate=start_date,
+        endDate=end_date,
+        metrics=VIDEO_METRICS,
         dimensions='video',
-        sort='-views',
-        maxResults=max_results,
+        sort='-views',          # required for this report
+        maxResults=max_results,  # <= 200
     ).execute()
+    headers = [c['name'] for c in response.get('columnHeaders', [])]
+    idx = {h: i for i, h in enumerate(headers)}
+    out = []
+    for r in (response.get('rows') or []):
+        out.append({
+            'video_id': r[idx['video']],
+            'views': r[idx['views']],
+            'watch_minutes': r[idx['estimatedMinutesWatched']],
+            'subs_gained': r[idx['subscribersGained']],
+            'subs_lost': r[idx['subscribersLost']],
+            'net_subs': r[idx['subscribersGained']] - r[idx['subscribersLost']],
+            'avg_view_pct': r[idx['averageViewPercentage']],
+        })
+    return out
+
+
+def fetch_retention_curve(analytics, video_id, start_date, end_date):
+    """Audience-retention curve for a single video. Returns a list of
+    (elapsed_ratio, audience_watch_ratio, relative_performance) or [] on any
+    failure (members-only / low-view videos can return no rows)."""
+    try:
+        response = analytics.reports().query(
+            ids='channel==MINE',
+            startDate=start_date,
+            endDate=end_date,
+            metrics='audienceWatchRatio,relativeRetentionPerformance',
+            dimensions='elapsedVideoTimeRatio',
+            filters=f'video=={video_id}',
+            sort='elapsedVideoTimeRatio',
+        ).execute()
+    except Exception as e:
+        logger.info(f'Retention curve unavailable for {video_id} ({e})')
+        return []
     return [(r[0], r[1], r[2]) for r in (response.get('rows') or [])]
 
 
-def fetch_video_titles(youtube, conn: sqlite3.Connection, video_ids: list) -> dict:
-    """Resolve video titles, using video_daily as cache (1 quota unit per call)."""
+def fetch_video_titles(youtube, conn, video_ids) -> dict:
+    """Resolve video titles, using stored titles as cache (1 quota unit/call)."""
     titles = {}
     missing = []
     for vid in video_ids:
         row = conn.execute(
-            'SELECT title FROM video_daily WHERE video_id = ? AND title IS NOT NULL LIMIT 1',
-            (vid,),
+            'SELECT title FROM video_window WHERE video_id = ? AND title IS NOT NULL '
+            'UNION SELECT title FROM video_daily WHERE video_id = ? AND title IS NOT NULL '
+            'LIMIT 1',
+            (vid, vid),
         ).fetchone()
         if row:
             titles[vid] = row[0]
@@ -279,19 +378,90 @@ def fetch_channel_snapshot(youtube) -> dict:
 
 
 # --------------------------------------------------------------------------
+# Reporting API (thumbnail impressions / CTR) — fail-soft
+# --------------------------------------------------------------------------
+
+def collect_reach(creds, conn, ref_day):
+    """Ensure the reach job exists, fetch recent reports and upsert per-day
+    impressions/CTR. Never raises — impressions are optional."""
+    try:
+        service = youtube_reporting.build_reporting(creds)
+        job_id = youtube_reporting.ensure_reach_job(service, conn)
+        if not job_id:
+            return
+        # List reports from ~10 days before ref_day to cover the weekly window.
+        created_after = (
+            datetime.strptime(ref_day, '%Y-%m-%d')
+            .replace(tzinfo=timezone.utc) - timedelta(days=10)
+        ).isoformat()
+        by_day = youtube_reporting.fetch_reach_by_day(service, creds, job_id, created_after)
+        now = datetime.now(timezone.utc).isoformat(timespec='seconds')
+        for date, vals in by_day.items():
+            conn.execute(
+                'INSERT INTO channel_reach (date, thumbnail_impressions, thumbnail_ctr, updated_at) '
+                'VALUES (?, ?, ?, ?) '
+                'ON CONFLICT(date) DO UPDATE SET '
+                'thumbnail_impressions=excluded.thumbnail_impressions, '
+                'thumbnail_ctr=excluded.thumbnail_ctr, updated_at=excluded.updated_at',
+                (date, vals['impressions'], vals['ctr'], now),
+            )
+        conn.commit()
+        if by_day:
+            logger.info(f'Stored reach data for {len(by_day)} day(s)')
+    except Exception as e:
+        logger.warning(f'Reach collection failed ({e}); impressions omitted from digest')
+
+
+def get_reach_window(conn, start, end):
+    """Impressions-weighted CTR + total impressions over [start, end].
+    Returns dict or None."""
+    rows = conn.execute(
+        'SELECT thumbnail_impressions, thumbnail_ctr FROM channel_reach '
+        'WHERE date BETWEEN ? AND ? AND thumbnail_impressions IS NOT NULL',
+        (start, end),
+    ).fetchall()
+    if not rows:
+        return None
+    total_impr = sum(r[0] for r in rows)
+    if not total_impr:
+        return None
+    total_clicks = sum(r[0] * (r[1] or 0) for r in rows)
+    return {'impressions': total_impr, 'ctr': total_clicks / total_impr}
+
+
+# --------------------------------------------------------------------------
 # Analysis
 # --------------------------------------------------------------------------
 
-def get_day(conn: sqlite3.Connection, day: str):
+def get_day(conn, day):
     return conn.execute(
         'SELECT views, engaged_views, watch_minutes, avg_view_duration_sec, '
-        'subs_gained, subs_lost, likes, comments, shares '
+        'avg_view_percentage, subs_gained, subs_lost, likes, comments, shares '
         'FROM channel_daily WHERE date = ?',
         (day,),
     ).fetchone()
 
 
-def get_baseline(conn: sqlite3.Connection, before_day: str, n_days: int, column: str) -> list:
+def get_window_sum(conn, start, end):
+    """Sum channel_daily over [start, end]. Returns (sums dict, fully_consolidated)."""
+    rows = conn.execute(
+        'SELECT views, watch_minutes, subs_gained, subs_lost, consolidated '
+        'FROM channel_daily WHERE date BETWEEN ? AND ?',
+        (start, end),
+    ).fetchall()
+    expected = (datetime.strptime(end, '%Y-%m-%d').date()
+                - datetime.strptime(start, '%Y-%m-%d').date()).days + 1
+    sums = {
+        'views': sum(r[0] or 0 for r in rows),
+        'watch_minutes': sum(r[1] or 0 for r in rows),
+        'subs_gained': sum(r[2] or 0 for r in rows),
+        'subs_lost': sum(r[3] or 0 for r in rows),
+    }
+    fully = len(rows) == expected and all(r[4] == 1 for r in rows)
+    return sums, fully
+
+
+def get_baseline(conn, before_day, n_days, column):
     """Values of a column for the N consolidated days before before_day (oldest first)."""
     rows = conn.execute(
         f'SELECT {column} FROM channel_daily '
@@ -301,10 +471,10 @@ def get_baseline(conn: sqlite3.Connection, before_day: str, n_days: int, column:
     return [r[0] for r in reversed(rows)]
 
 
-def detect_anomaly(value: float, baseline: list, label: str):
+def detect_anomaly(value, baseline, label):
     """z-score vs baseline + percentage-drop fallback. Returns message or None."""
     if len(baseline) < BASELINE_DAYS:
-        return None  # not enough consolidated history — stay quiet
+        return None
 
     mean = sum(baseline) / len(baseline)
     variance = sum((x - mean) ** 2 for x in baseline) / len(baseline)
@@ -326,6 +496,48 @@ def detect_anomaly(value: float, baseline: list, label: str):
 
 
 # --------------------------------------------------------------------------
+# Trend chart
+# --------------------------------------------------------------------------
+
+def generate_trend_chart(conn, ref_day, days=TREND_CHART_DAYS):
+    """30-day views line chart ending at ref_day. Returns PNG bytes or None."""
+    start = (datetime.strptime(ref_day, '%Y-%m-%d').date() - timedelta(days=days - 1)).isoformat()
+    rows = conn.execute(
+        'SELECT date, views FROM channel_daily WHERE date BETWEEN ? AND ? ORDER BY date',
+        (start, ref_day),
+    ).fetchall()
+    if len(rows) < 7:
+        return None
+    try:
+        import matplotlib
+        matplotlib.use('Agg')
+        import matplotlib.pyplot as plt
+        import matplotlib.dates as mdates
+
+        dates = [datetime.strptime(r[0], '%Y-%m-%d') for r in rows]
+        views = [r[1] or 0 for r in rows]
+
+        fig, ax = plt.subplots(figsize=(8, 3.2), dpi=120)
+        ax.plot(dates, views, color='#cc0000', linewidth=2)
+        ax.fill_between(dates, views, color='#cc0000', alpha=0.12)
+        ax.set_title(f'Views diárias — últimos {len(rows)} dias', fontsize=11)
+        ax.xaxis.set_major_formatter(mdates.DateFormatter('%d/%m'))
+        ax.grid(True, alpha=0.25)
+        ax.spines['top'].set_visible(False)
+        ax.spines['right'].set_visible(False)
+        fig.autofmt_xdate(rotation=45)
+        fig.tight_layout()
+
+        buf = io.BytesIO()
+        fig.savefig(buf, format='png')
+        plt.close(fig)
+        return buf.getvalue()
+    except Exception as e:
+        logger.warning(f'Trend chart generation failed ({e}); skipping image')
+        return None
+
+
+# --------------------------------------------------------------------------
 # Digest
 # --------------------------------------------------------------------------
 
@@ -333,63 +545,149 @@ def fmt_int(n) -> str:
     return f'{int(n):,}'.replace(',', '.')
 
 
-def fmt_duration(seconds: float) -> str:
-    m, s = divmod(int(seconds), 60)
-    return f'{m}min{s:02d}s'
+def fmt_signed(n) -> str:
+    """Signed integer with pt-BR thousands separator, e.g. +2.266 / -283."""
+    return ('+' if n >= 0 else '-') + fmt_int(abs(n))
 
 
-def fmt_pct_delta(value: float, reference: float) -> str:
+def fmt_pct_delta(value, reference, suffix) -> str:
     if not reference:
         return ''
     delta = (value / reference - 1) * 100
-    return f' ({delta:+.0f}% vs média 7d)'
+    return f' ({delta:+.0f}% {suffix})'
 
 
-def day_label_pt(day: str) -> str:
+def day_label_pt(day) -> str:
     d = datetime.strptime(day, '%Y-%m-%d').date()
     return f'{WEEKDAYS_PT[d.weekday()]} {d.strftime("%d/%m")}'
 
 
-def build_digest(conn, ref_day, top_videos, titles, snapshot, anomalies) -> str:
-    row = get_day(conn, ref_day)
-    (views, engaged, watch_min, avg_dur,
-     gained, lost, likes, comments, shares) = row
+def short_date(day) -> str:
+    return datetime.strptime(day, '%Y-%m-%d').strftime('%d/%m')
 
+
+def retention_emoji(pct) -> str:
+    if pct is None:
+        return ''
+    if pct >= 50:
+        return ' 🔥'
+    if pct < 25:
+        return ' ⚠️'
+    return ''
+
+
+def trunc_title(title, limit=52) -> str:
+    title = title or ''
+    if len(title) > limit:
+        title = title[:limit - 3] + '...'
+    return html.escape(title)
+
+
+def build_digest(conn, ref_day, week, top_videos, titles, retention,
+                 reach, snapshot, anomalies) -> str:
+    lines = []
+
+    # Anomalies first (visible in the push notification)
+    for anomaly in anomalies:
+        lines.append(anomaly)
+    if anomalies:
+        lines.append('')
+
+    lines.append(f'📊 <b>Canal Dr. Alain — {day_label_pt(ref_day)}</b>')
+
+    # 7-day rollup (the actionable signal for a large channel)
+    wk_start = (datetime.strptime(ref_day, '%Y-%m-%d').date()
+                - timedelta(days=WEEK_DAYS - 1)).isoformat()
+    sums, wow = week['sums'], week['wow']
+    net_wk = sums['subs_gained'] - sums['subs_lost']
+    lines.append('')
+    lines.append(f'🗓 <b>Últimos 7 dias</b> ({short_date(wk_start)}–{short_date(ref_day)})')
+    lines.append(
+        f'👁 {fmt_int(sums["views"])} views'
+        + fmt_pct_delta(sums['views'], wow.get('views'), 'vs semana ant.')
+    )
+    lines.append(
+        f'⏱ {fmt_int(sums["watch_minutes"] // 60)}h assistidas'
+        + fmt_pct_delta(sums['watch_minutes'], wow.get('watch_minutes'), 'vs sem. ant.')
+    )
+    lines.append(
+        f'👥 Inscritos: net {fmt_signed(net_wk)} (+{fmt_int(sums["subs_gained"])}'
+        f'/−{fmt_int(sums["subs_lost"])})'
+    )
+    if reach:
+        lines.append(
+            f'🖼 {fmt_int(reach["impressions"])} impressões · CTR {reach["ctr"] * 100:.1f}%'
+        )
+
+    # Daily snapshot (D-3)
+    (views, _eng, watch_min, _dur, avg_pct,
+     gained, lost, likes, comments, shares) = get_day(conn, ref_day)
     views_7d = get_baseline(conn, ref_day, 7, 'views')
     avg_views_7d = sum(views_7d) / len(views_7d) if views_7d else 0
-    net_subs = gained - lost
+    ret_d = f'{avg_pct:.0f}%' if avg_pct is not None else 'n/d'
+    lines.append('')
+    lines.append(f'📅 <b>Dia {day_label_pt(ref_day)}</b> (D-3)')
+    lines.append(f'👁 {fmt_int(views)}' + fmt_pct_delta(views, avg_views_7d, 'vs média 7d'))
+    lines.append(f'⏱ {fmt_int(watch_min // 60)}h · retenção média {ret_d}')
+    lines.append(
+        f'👥 net {fmt_signed(gained - lost)} (+{fmt_int(gained)}/−{fmt_int(lost)}) · '
+        f'❤️ {fmt_int(likes)} 💬 {fmt_int(comments)} 🔁 {fmt_int(shares)}'
+    )
 
-    lines = [
-        f'📊 <b>Métricas do canal — {day_label_pt(ref_day)}</b>',
-        '',
-        f'👁 Views: <b>{fmt_int(views)}</b>{fmt_pct_delta(views, avg_views_7d)}',
-        f'⏱ Watch time: {fmt_int(watch_min // 60)}h | duração média {fmt_duration(avg_dur)}',
-        f'👥 Inscritos: +{fmt_int(gained)} / -{fmt_int(lost)} (net {net_subs:+d})',
-        f'❤️ {fmt_int(likes)} likes | 💬 {fmt_int(comments)} | 🔁 {fmt_int(shares)}',
-    ]
-
+    # Top videos of the week
     if top_videos:
         lines.append('')
-        lines.append('🏆 <b>Top vídeos do dia:</b>')
-        for i, (vid, v_views, _) in enumerate(top_videos[:TOP_VIDEOS_IN_DIGEST], 1):
-            # Truncate BEFORE escaping so an HTML entity is never cut in half
-            title = titles.get(vid, vid)
-            if len(title) > 60:
-                title = title[:57] + '...'
-            lines.append(f'{i}. {html.escape(title)} ({fmt_int(v_views)})')
+        lines.append('🏆 <b>Top vídeos (7d)</b>')
+        for i, v in enumerate(top_videos[:TOP_VIDEOS_IN_DIGEST], 1):
+            pct = v['avg_view_pct']
+            lines.append(
+                f'{i}. {trunc_title(titles.get(v["video_id"], v["video_id"]))} — '
+                f'{fmt_int(v["views"])}v · {fmt_int(v["watch_minutes"] // 60)}h · '
+                f'{fmt_signed(v["net_subs"])} insc · {pct:.0f}%{retention_emoji(pct)}'
+            )
 
-    for anomaly in anomalies:
+    # Retention-curve summary for the #1 video
+    if retention:
         lines.append('')
-        lines.append(anomaly)
+        lines.append(
+            f'🎬 <b>Retenção #1</b>: início {retention["hook"]:.0f}% · '
+            f'meio {retention["mid"]:.0f}% · fim {retention["end"]:.0f}% · '
+            f'{retention["vs_similar"]}'
+        )
 
+    # Totals
     if snapshot:
         lines.append('')
         lines.append(
-            f'📈 Total: ~{fmt_int(snapshot["subscriber_count"])} inscritos | '
-            f'{fmt_int(snapshot["total_views"])} views'
+            f'📈 ~{fmt_int(snapshot["subscriber_count"])} inscritos · '
+            f'{fmt_int(snapshot["total_views"])} views totais'
         )
 
     return '\n'.join(lines)
+
+
+def summarize_retention(curve):
+    """Reduce a retention curve to hook/mid/end percentages + a similar-videos
+    verdict. Returns dict or None."""
+    if not curve:
+        return None
+
+    def at(ratio):
+        i = min(range(len(curve)), key=lambda k: abs(curve[k][0] - ratio))
+        return curve[i][1] * 100
+
+    rel_values = [c[2] for c in curve if c[2] is not None]
+    rel = sum(rel_values) / len(rel_values) if rel_values else None
+    if rel is None:
+        verdict = 'sem comparativo'
+    elif rel >= 0.55:
+        verdict = 'retém melhor que similares'
+    elif rel <= 0.45:
+        verdict = 'retém pior que similares'
+    else:
+        verdict = 'na média de similares'
+
+    return {'hook': at(0.0), 'mid': at(0.5), 'end': at(0.99), 'vs_similar': verdict}
 
 
 # --------------------------------------------------------------------------
@@ -400,7 +698,7 @@ def run(args) -> int:
     today = datetime.now(timezone.utc).date()
     conn = init_db(args.db)
 
-    analytics, youtube = authenticate()
+    creds, analytics, youtube = authenticate()
 
     # Fetch window: backfill on first run (empty DB), trailing window otherwise
     has_history = conn.execute('SELECT COUNT(*) FROM channel_daily').fetchone()[0] > 0
@@ -411,9 +709,7 @@ def run(args) -> int:
         logger.info(f'Empty DB — backfilling {window_days} days of history')
     else:
         window_days = REWRITE_WINDOW_DAYS
-        # Self-heal gaps after downtime: re-fetch everything since the last
-        # consolidated day, otherwise days that left the rewrite window while
-        # the container was down would stay partial/missing forever
+        # Self-heal gaps after downtime: re-fetch since the last consolidated day
         last_final = conn.execute(
             'SELECT MAX(date) FROM channel_daily WHERE consolidated = 1'
         ).fetchone()[0]
@@ -443,8 +739,7 @@ def run(args) -> int:
         logger.info(f'Upserted {len(daily["rows"])} days')
 
     # Reference day: D-3, falling back to the most recent day available.
-    # An explicit --date never falls back — silently reporting another day
-    # would defeat the flag's debugging purpose.
+    # An explicit --date never falls back.
     if args.date:
         ref_day = args.date
         if not get_day(conn, ref_day):
@@ -458,21 +753,47 @@ def run(args) -> int:
             logger.warning(f'No data for {ref_day}, falling back to {latest}')
             ref_day = latest
 
-    # Top videos of the reference day
-    logger.info(f'Fetching top videos for {ref_day}')
-    top_videos = fetch_top_videos(analytics, ref_day)
-    titles = fetch_video_titles(youtube, conn, [v[0] for v in top_videos])
-    for vid, v_views, v_watch in top_videos:
+    ref_date = datetime.strptime(ref_day, '%Y-%m-%d').date()
+    wk_start = (ref_date - timedelta(days=WEEK_DAYS - 1)).isoformat()
+    prev_start = (ref_date - timedelta(days=2 * WEEK_DAYS - 1)).isoformat()
+    prev_end = (ref_date - timedelta(days=WEEK_DAYS)).isoformat()
+
+    # Weekly rollup + week-over-week (WoW only if previous week fully consolidated)
+    sums, _ = get_window_sum(conn, wk_start, ref_day)
+    prev_sums, prev_full = get_window_sum(conn, prev_start, prev_end)
+    wow = prev_sums if prev_full else {}
+    week = {'sums': sums, 'wow': wow}
+
+    # Top videos of the week (per-video net subs + retention)
+    logger.info(f'Fetching weekly top videos {wk_start} → {ref_day}')
+    top_videos = fetch_top_videos_window(analytics, wk_start, ref_day)
+    titles = fetch_video_titles(youtube, conn, [v['video_id'] for v in top_videos])
+    for v in top_videos:
         conn.execute(
-            'INSERT INTO video_daily (date, video_id, title, views, watch_minutes) '
-            'VALUES (?, ?, ?, ?, ?) '
-            'ON CONFLICT(date, video_id) DO UPDATE SET '
-            'title=excluded.title, views=excluded.views, watch_minutes=excluded.watch_minutes',
-            (ref_day, vid, titles.get(vid), v_views, v_watch),
+            'INSERT INTO video_window '
+            '(period_end, video_id, title, views, watch_minutes, subs_gained, '
+            ' subs_lost, avg_view_percentage) VALUES (?, ?, ?, ?, ?, ?, ?, ?) '
+            'ON CONFLICT(period_end, video_id) DO UPDATE SET '
+            'title=excluded.title, views=excluded.views, watch_minutes=excluded.watch_minutes, '
+            'subs_gained=excluded.subs_gained, subs_lost=excluded.subs_lost, '
+            'avg_view_percentage=excluded.avg_view_percentage',
+            (ref_day, v['video_id'], titles.get(v['video_id']), v['views'],
+             v['watch_minutes'], v['subs_gained'], v['subs_lost'], v['avg_view_pct']),
         )
     conn.commit()
 
-    # Public counters snapshot (subscriberCount is rounded — display as "~")
+    # Retention curve for the week's #1 video (fail-soft)
+    retention = None
+    if top_videos:
+        curve_start = (ref_date - timedelta(days=RETENTION_CURVE_WINDOW - 1)).isoformat()
+        curve = fetch_retention_curve(analytics, top_videos[0]['video_id'], curve_start, ref_day)
+        retention = summarize_retention(curve)
+
+    # Thumbnail impressions / CTR (fail-soft; omitted until Reporting API ready)
+    collect_reach(creds, conn, ref_day)
+    reach = get_reach_window(conn, wk_start, ref_day)
+
+    # Public counters snapshot
     snapshot = fetch_channel_snapshot(youtube)
     conn.execute(
         'INSERT OR REPLACE INTO channel_snapshot (date, subscriber_count, total_views, video_count) '
@@ -483,33 +804,40 @@ def run(args) -> int:
     conn.commit()
 
     # Anomaly detection (consolidated days only)
-    row = get_day(conn, ref_day)
+    drow = get_day(conn, ref_day)
     anomalies = []
     for value, column, label in (
-        (row[0], 'views', 'views'),
-        (row[4] - row[5], 'subs_gained - subs_lost', 'inscritos (net)'),
+        (drow[0], 'views', 'views'),
+        (drow[5] - drow[6], 'subs_gained - subs_lost', 'inscritos (net)'),
     ):
         baseline = get_baseline(conn, ref_day, BASELINE_DAYS, column)
         anomaly = detect_anomaly(value, baseline, label)
         if anomaly:
             anomalies.append(anomaly)
 
-    digest = build_digest(conn, ref_day, top_videos, titles, snapshot, anomalies)
+    digest = build_digest(conn, ref_day, week, top_videos, titles,
+                          retention, reach, snapshot, anomalies)
+
+    chart = None if args.no_chart else generate_trend_chart(conn, ref_day)
 
     if args.dry_run:
         logger.info('Dry run — digest below (not sent):')
         print('\n' + digest + '\n')
+        if chart:
+            logger.info(f'Trend chart generated ({len(chart)} bytes, not sent)')
         sent = True
     else:
         sent = send_telegram(digest)
         if not sent:
             logger.error('Digest was computed and stored but could not be delivered')
+        if chart:
+            send_telegram_photo(chart, caption='📈 Tendência de views (30 dias)')
 
     conn.close()
     return 0 if sent else 1
 
 
-def iso_date(value: str) -> str:
+def iso_date(value):
     try:
         return datetime.strptime(value, '%Y-%m-%d').date().isoformat()
     except ValueError:
@@ -523,6 +851,7 @@ def main():
     parser.add_argument('--date', type=iso_date, help='Override reference day (YYYY-MM-DD)')
     parser.add_argument('--backfill', type=int, metavar='N',
                         help=f'Force fetching the last N days (capped at {MAX_WINDOW_DAYS})')
+    parser.add_argument('--no-chart', action='store_true', help='Skip the trend chart image')
     parser.add_argument('--db', default=DB_PATH, help='SQLite path')
     args = parser.parse_args()
 

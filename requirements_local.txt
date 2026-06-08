@@ -17,3 +17,6 @@ keyring>=24.0.0
 
 # Utilities
 defusedxml>=0.7.1
+
+# Channel metrics digest (trend chart image)
+matplotlib>=3.7.0

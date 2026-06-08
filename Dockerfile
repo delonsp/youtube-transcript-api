@@ -30,6 +30,7 @@ COPY check_auth_health.py .
 COPY google_docs_manager.py .
 COPY channel_metrics_report.py .
 COPY telegram_utils.py .
+COPY youtube_reporting.py .
 
 # Crontab e entrypoint
 COPY crontab.txt .
@@ -38,5 +39,7 @@ RUN chmod +x entrypoint-cron.sh
 
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
+# Writable matplotlib config/cache dir (font cache) for the metrics chart
+ENV MPLCONFIGDIR=/tmp/matplotlib
 
 CMD ["/app/entrypoint-cron.sh"]

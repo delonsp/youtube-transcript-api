@@ -41,14 +41,21 @@ Dokploy VPS
 
 ### Channel Metrics (channel_metrics_report.py)
 
-Daily digest of channel metrics via Telegram (11h UTC, reference day D-3 in UTC):
-- **YouTube Analytics API v2** (`token_analytics.pickle`, scopes `yt-analytics.readonly` + `youtube.readonly`): exact daily views, watch time, subscribers gained/lost, engagement, top videos
-- **YouTube Data API v3** (same token): public counters snapshot (`subscriberCount` is rounded DOWN to 3 significant figures even for the owner — display as "~")
-- **Storage**: SQLite at `metrics/metrics.db` (named volume `metrics:` in Docker). Last 7 days re-upserted each run (YouTube adjusts recent data for ~72h); `consolidated` flag marks days >= 72h old
+Daily digest of channel metrics via Telegram (11h UTC, reference day D-3 in UTC).
+Digest layout: anomalies → 7-day rollup (WoW) → daily D-3 → top 5 videos (week) →
+retention curve of #1 → totals, plus a 30-day trend chart image.
+
+- **YouTube Analytics API v2** (`token_analytics.pickle`, scopes `yt-analytics.readonly` + `youtube.readonly`): daily + 7-day views, watch time, subscribers gained/lost, engagement; per-video net subscribers and retention (`averageViewPercentage`); retention curve of the #1 video (`elapsedVideoTimeRatio`, fail-soft — empty for members-only/low-view)
+- **YouTube Reporting API v1** (`youtube_reporting.py`, same token): thumbnail impressions + CTR (`channel_reach_basic_a1` bulk CSV). **Fail-soft**: omitted from the digest until the *YouTube Reporting API* is enabled in GCP AND its first report is ready (~48h cold start). Dedupes backfill reports by newest `createTime`.
+- **YouTube Data API v3** (same token): public counters snapshot (`subscriberCount` rounded DOWN to 3 sig figs even for the owner — shown as "~")
+- **Trend chart**: 30-day views line via matplotlib (Agg), sent with `sendPhoto`
+- **Storage**: SQLite at `metrics/metrics.db` (named volume `metrics:`). Tables: `channel_daily`, `video_daily`, `video_window`, `channel_reach`, `reporting_jobs`, `channel_snapshot`. Last 7 days re-upserted each run; `consolidated` flag marks days >= 72h old; self-heals gaps after downtime
 - **Anomaly alerts**: z-score >= 2.5 vs 28 consolidated days + fallback drop > 40% vs 7d average
 - First run with empty DB backfills 365 days automatically
 - Members-only videos ARE included in Analytics API data (verified empirically)
-- **NOT available in the Analytics API**: thumbnail impressions/CTR (only in Reporting API bulk reports — v2 feature), memberships revenue (only in YouTube Studio)
+- **Caveat**: per-video subscriber delta is watch-page-only and does NOT sum to the channel net (documented in code — don't "fix" the discrepancy). `averageViewPercentage` can exceed 100% for Shorts (replays)
+- **NOT available anywhere via API**: memberships/Super Chat revenue (only in YouTube Studio)
+- Flags: `--dry-run`, `--date YYYY-MM-DD`, `--backfill N`, `--no-chart`
 - Full research: `RESEARCH_cron_metricas_youtube.md`
 
 **Refreshing OAuth token** (rare — only if revoked):
@@ -109,7 +116,8 @@ docker compose --env-file .env run --rm cron bash -c ". /app/.env.cron && python
 ├── download_via_api.py              # Download transcripts via YouTube Captions API
 ├── google_docs_manager.py           # Google Docs stub entry manager
 ├── channel_metrics_report.py        # Daily channel metrics digest (Analytics API -> SQLite -> Telegram)
-├── telegram_utils.py                # Shared Telegram notification helper
+├── youtube_reporting.py             # Reporting API component: thumbnail impressions/CTR (fail-soft)
+├── telegram_utils.py                # Shared Telegram helper (send_telegram + send_telegram_photo)
 ├── Dockerfile                       # Cron container (python:3.12-slim + cron)
 ├── docker-compose.yml               # Single service: cron
 ├── entrypoint-cron.sh               # Decodes base64 secrets, installs crontab

@@ -81,3 +81,27 @@ def send_telegram(message: str) -> bool:
 
     logger.error('Telegram send failed after all retries')
     return False
+
+
+def send_telegram_photo(photo_bytes: bytes, caption: str = '') -> bool:
+    """Send a photo (e.g. a trend chart) via Telegram. Uses requests for the
+    multipart upload. Caption is limited to 1024 chars by the Bot API. Returns
+    True if sent; failures are logged, never raised."""
+    bot_token = os.environ.get('TELEGRAM_BOT_TOKEN')
+    chat_id = os.environ.get('TELEGRAM_CHAT_ID')
+    if not bot_token or not chat_id:
+        logger.warning('TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID not set, skipping photo send')
+        return False
+
+    try:
+        import requests
+        url = f'https://api.telegram.org/bot{bot_token}/sendPhoto'
+        files = {'photo': ('trend.png', photo_bytes, 'image/png')}
+        data = {'chat_id': chat_id, 'caption': caption[:1024], 'parse_mode': 'HTML'}
+        resp = requests.post(url, files=files, data=data, timeout=30)
+        resp.raise_for_status()
+        logger.info('Telegram photo sent')
+        return True
+    except Exception as e:
+        logger.error(f'Telegram photo send failed: {e}')
+        return False
