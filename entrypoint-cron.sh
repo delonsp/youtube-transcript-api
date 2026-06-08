@@ -29,6 +29,11 @@ if [ -n "$TOKEN_ESTUDOS_B64" ]; then
     echo "OK: token_estudos_avancados.pickle"
 fi
 
+if [ -n "$TOKEN_ANALYTICS_B64" ]; then
+    echo "$TOKEN_ANALYTICS_B64" | base64 -d > /app/token_analytics.pickle
+    echo "OK: token_analytics.pickle"
+fi
+
 # [OPCIONAL] Cookies de fallback para yt-dlp (apenas se Captions API falhar)
 if [ -n "$YOUTUBE_COOKIES" ]; then
     echo "$YOUTUBE_COOKIES" | base64 -d > /app/youtube_cookies.txt

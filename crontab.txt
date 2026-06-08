@@ -13,3 +13,6 @@
 # Auth health check - 10h segunda-feira (testa OAuth + cookies)
 0 10 * * 1 cd /app && python check_auth_health.py >> /var/log/cron.log 2>&1
 
+# Metricas do canal - 11h diariamente (digest Telegram, dados D-3)
+0 11 * * * cd /app && python channel_metrics_report.py >> /var/log/cron.log 2>&1
+

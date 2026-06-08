@@ -20,7 +20,8 @@ Dokploy VPS
     ├── 7h UTC - batch_process_videos.py  (timestamps for members-only lives)
     ├── 8h UTC - fill_doc_summaries.py    (Google Docs summaries, level 1)
     ├── 9h UTC - run_estudos_avancados.py (Google Docs summaries, level 2)
-    └── 10h Mon - check_auth_health.py    (test OAuth + cookies, Telegram alert)
+    ├── 10h Mon - check_auth_health.py    (test OAuth + cookies + analytics, Telegram alert)
+    └── 11h UTC - channel_metrics_report.py (channel metrics digest via Telegram)
 ```
 
 ### Authentication for Members-Only Videos
@@ -35,8 +36,20 @@ Dokploy VPS
 - **Docker**: Uses `youtube_cookies.txt` (decoded from `YOUTUBE_COOKIES` base64 env var)
 
 **Health check** (`check_auth_health.py`, weekly Monday 10h UTC):
-- Tests Captions API first (critical), then cookies (informational)
+- Tests Captions API first (critical), then cookies (informational), then Analytics API (metrics job)
 - Alerts via Telegram with severity based on which method failed
+
+### Channel Metrics (channel_metrics_report.py)
+
+Daily digest of channel metrics via Telegram (11h UTC, reference day D-3 in UTC):
+- **YouTube Analytics API v2** (`token_analytics.pickle`, scopes `yt-analytics.readonly` + `youtube.readonly`): exact daily views, watch time, subscribers gained/lost, engagement, top videos
+- **YouTube Data API v3** (same token): public counters snapshot (`subscriberCount` is rounded DOWN to 3 significant figures even for the owner — display as "~")
+- **Storage**: SQLite at `metrics/metrics.db` (named volume `metrics:` in Docker). Last 7 days re-upserted each run (YouTube adjusts recent data for ~72h); `consolidated` flag marks days >= 72h old
+- **Anomaly alerts**: z-score >= 2.5 vs 28 consolidated days + fallback drop > 40% vs 7d average
+- First run with empty DB backfills 365 days automatically
+- Members-only videos ARE included in Analytics API data (verified empirically)
+- **NOT available in the Analytics API**: thumbnail impressions/CTR (only in Reporting API bulk reports — v2 feature), memberships revenue (only in YouTube Studio)
+- Full research: `RESEARCH_cron_metricas_youtube.md`
 
 **Refreshing OAuth token** (rare — only if revoked):
 1. Run: `python download_via_api.py --max 1`
@@ -95,10 +108,12 @@ docker compose --env-file .env run --rm cron bash -c ". /app/.env.cron && python
 ├── run_estudos_avancados.py         # Wrapper: lists pending and processes each
 ├── download_via_api.py              # Download transcripts via YouTube Captions API
 ├── google_docs_manager.py           # Google Docs stub entry manager
+├── channel_metrics_report.py        # Daily channel metrics digest (Analytics API -> SQLite -> Telegram)
+├── telegram_utils.py                # Shared Telegram notification helper
 ├── Dockerfile                       # Cron container (python:3.12-slim + cron)
 ├── docker-compose.yml               # Single service: cron
 ├── entrypoint-cron.sh               # Decodes base64 secrets, installs crontab
-├── crontab.txt                      # 4 daily jobs (6h, 7h, 8h, 9h UTC)
+├── crontab.txt                      # 5 daily jobs (6h-9h, 11h UTC) + weekly health check
 ├── requirements_local.txt           # Python dependencies
 ├── .env                             # Local env vars with base64 secrets (gitignored)
 ├── youtube_cookies.txt              # Cookies for members-only (gitignored)
@@ -106,7 +121,8 @@ docker compose --env-file .env run --rm cron bash -c ". /app/.env.cron && python
 ├── token.pickle                     # YouTube API OAuth token
 ├── token_captions.pickle            # YouTube Captions API OAuth token
 ├── token_docs.pickle                # Google Docs API OAuth token (level 1)
-└── token_estudos_avancados.pickle   # Google Docs API OAuth token (level 2)
+├── token_estudos_avancados.pickle   # Google Docs API OAuth token (level 2)
+└── token_analytics.pickle           # YouTube Analytics API OAuth token (metrics)
 ```
 
 ## Environment Variables (Dokploy)
@@ -120,6 +136,7 @@ All tokens/secrets as base64, decoded by `entrypoint-cron.sh`:
 | `TOKEN_CAPTIONS_B64` | token_captions.pickle | YouTube Captions API |
 | `TOKEN_DOCS_B64` | token_docs.pickle | Google Docs (level 1) |
 | `TOKEN_ESTUDOS_B64` | token_estudos_avancados.pickle | Google Docs (level 2) |
+| `TOKEN_ANALYTICS_B64` | token_analytics.pickle | YouTube Analytics API (metrics) |
 | `YOUTUBE_COOKIES` | youtube_cookies.txt | yt-dlp members-only |
 | `DEEPSEEK_API_KEY` | (direct) | DeepSeek AI API |
 
@@ -169,6 +186,17 @@ python download_via_api.py --max 500 --delay 2 --output ./transcripts
 ```
 
 Uses YouTube Captions API directly (all videos, public + members).
+
+### channel_metrics_report.py - Channel Metrics Digest
+
+```bash
+python channel_metrics_report.py --dry-run            # Print digest, no Telegram
+python channel_metrics_report.py --date 2026-06-04    # Override reference day
+python channel_metrics_report.py --backfill 90        # Force re-fetch window
+python channel_metrics_report.py                      # Full run (DB + Telegram)
+```
+
+First run on an empty DB backfills 365 days. Reference day is D-3 (UTC).
 
 ## Important Patterns
 

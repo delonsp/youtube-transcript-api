@@ -28,6 +28,8 @@ COPY download_via_api.py .
 COPY run_estudos_avancados.py .
 COPY check_auth_health.py .
 COPY google_docs_manager.py .
+COPY channel_metrics_report.py .
+COPY telegram_utils.py .
 
 # Crontab e entrypoint
 COPY crontab.txt .

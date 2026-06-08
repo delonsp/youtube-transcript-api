@@ -4,35 +4,16 @@
 import os
 import sys
 import pickle
-import urllib.request
-import urllib.parse
 import subprocess
 import logging
+
+from telegram_utils import send_telegram
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-TELEGRAM_BOT_TOKEN = os.environ['TELEGRAM_BOT_TOKEN']
-TELEGRAM_CHAT_ID = os.environ['TELEGRAM_CHAT_ID']
-
 # Members-only video to test authentication
 TEST_VIDEO_ID = '53Ft9fLaiCE'  # Estudos Avancados - Live 4
-
-
-def send_telegram(message: str):
-    """Send a message via Telegram bot."""
-    url = f'https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage'
-    data = urllib.parse.urlencode({
-        'chat_id': TELEGRAM_CHAT_ID,
-        'text': message,
-        'parse_mode': 'HTML',
-    }).encode()
-    try:
-        req = urllib.request.Request(url, data=data)
-        urllib.request.urlopen(req, timeout=10)
-        logger.info('Telegram alert sent')
-    except Exception as e:
-        logger.error(f'Failed to send Telegram alert: {e}')
 
 
 def check_captions_api() -> bool:
@@ -68,6 +49,40 @@ def check_captions_api() -> bool:
 
     except Exception as e:
         logger.error(f'Captions API check failed: {e}')
+        return False
+
+
+def check_analytics_api() -> bool:
+    """Test the YouTube Analytics API token with a minimal 1-day query. Returns True if OK."""
+    token_file = 'token_analytics.pickle'
+    if not os.path.exists(token_file):
+        logger.warning(f'{token_file} not found (metrics job will fail)')
+        return False
+
+    try:
+        from datetime import date, timedelta
+        from google.auth.transport.requests import Request
+        from googleapiclient.discovery import build
+
+        with open(token_file, 'rb') as f:
+            creds = pickle.load(f)
+
+        if creds.expired and creds.refresh_token:
+            creds.refresh(Request())
+            with open(token_file, 'wb') as f:
+                pickle.dump(creds, f)
+            logger.info('Analytics OAuth token refreshed')
+
+        analytics = build('youtubeAnalytics', 'v2', credentials=creds)
+        day = (date.today() - timedelta(days=7)).isoformat()
+        analytics.reports().query(
+            ids='channel==MINE', startDate=day, endDate=day, metrics='views',
+        ).execute()
+        logger.info('Analytics API OK')
+        return True
+
+    except Exception as e:
+        logger.error(f'Analytics API check failed: {e}')
         return False
 
 
@@ -108,9 +123,23 @@ def main():
 
     api_ok = check_captions_api()
     cookies_ok = check_cookies()
+    analytics_ok = check_analytics_api()
+
+    if not analytics_ok:
+        logger.warning('Analytics API token FAILED (metrics job will fail)')
+        send_telegram(
+            '⚠️ <b>youtube-adm: token de Analytics com problema!</b>\n\n'
+            'O job diario de metricas do canal (11h UTC) vai falhar.\n\n'
+            '<b>Para corrigir (no Mac):</b>\n'
+            '1. Rode: <code>python channel_metrics_report.py --dry-run</code>\n'
+            '2. Siga o fluxo OAuth no browser\n'
+            '3. Atualize token_analytics.pickle no Dokploy:\n'
+            '<code>cat token_analytics.pickle | base64</code>\n'
+            '→ Dokploy → Environment → TOKEN_ANALYTICS_B64'
+        )
 
     if api_ok and cookies_ok:
-        logger.info('All auth methods healthy')
+        logger.info('Captions API and cookies healthy')
     elif api_ok and not cookies_ok:
         # Captions API works, cookies expired — informational only
         logger.info('Captions API OK, cookies expired (no action needed)')
@@ -154,6 +183,9 @@ def main():
             '3. <code>cat ~/Downloads/youtube.com_cookies.txt | base64</code>\n'
             '→ Dokploy → Environment → YOUTUBE_COOKIES'
         )
+        sys.exit(1)
+
+    if not analytics_ok:
         sys.exit(1)
 
 

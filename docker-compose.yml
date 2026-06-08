@@ -10,10 +10,13 @@ services:
       - TOKEN_CAPTIONS_B64
       - TOKEN_DOCS_B64
       - TOKEN_ESTUDOS_B64
+      - TOKEN_ANALYTICS_B64
       - TELEGRAM_BOT_TOKEN
       - TELEGRAM_CHAT_ID
     volumes:
       - transcripts:/app/transcripts
+      - metrics:/app/metrics
 
 volumes:
   transcripts:
+  metrics:
