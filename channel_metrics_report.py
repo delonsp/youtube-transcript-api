@@ -576,16 +576,57 @@ def retention_emoji(pct) -> str:
     return ''
 
 
-def trunc_title(title, limit=52) -> str:
-    title = title or ''
-    if len(title) > limit:
-        title = title[:limit - 3] + '...'
-    return html.escape(title)
+def short_label(title, limit=12) -> str:
+    """Short keyword label for the table's Vídeo column: whole words up to
+    `limit` chars (e.g. 'PÂNCREAS pedindo...' -> 'PÂNCREAS')."""
+    title = (title or '').strip()
+    out = ''
+    for word in title.split():
+        cand = (out + ' ' + word).strip()
+        if len(cand) > limit:
+            if not out:           # first word already too long
+                return cand[:limit]
+            break
+        out = cand
+    out = out.rstrip(' -–—:·.')
+    return out or title[:limit]
+
+
+def build_video_table(top_videos, titles) -> list:
+    """Top videos as a monospace <pre> table: Vídeo | Views | Inscr | Conv | Ret.
+    Conv = net subscribers / views (subscriber conversion)."""
+    rows = []
+    for v in top_videos[:TOP_VIDEOS_IN_DIGEST]:
+        views = v['views'] or 0
+        conv = (v['net_subs'] / views * 100) if views else 0
+        pct = v['avg_view_pct'] or 0
+        rows.append({
+            'video': short_label(titles.get(v['video_id'], v['video_id'])),
+            'views': fmt_int(views),
+            'inscr': fmt_signed(v['net_subs']),
+            'conv': f'~{conv:.1f}%'.replace('.', ','),
+            'ret': f'{pct:.0f}%{retention_emoji(pct)}',
+        })
+
+    headers = {'video': 'Vídeo', 'views': 'Views', 'inscr': 'Inscr',
+               'conv': 'Conv', 'ret': 'Ret'}
+    # Column widths from data; 'ret' is last (trailing emoji) so it isn't padded.
+    w = {k: max(len(headers[k]), *(len(r[k]) for r in rows))
+         for k in ('video', 'views', 'inscr', 'conv')}
+
+    def fmt_row(get):
+        return (f"{get('video'):<{w['video']}}  {get('views'):>{w['views']}}  "
+                f"{get('inscr'):>{w['inscr']}}  {get('conv'):>{w['conv']}}  {get('ret')}")
+
+    table = [fmt_row(headers.__getitem__)]
+    table += [fmt_row(r.__getitem__) for r in rows]
+    return ['🏆 <b>Top vídeos (7d)</b>', f'<pre>{html.escape(chr(10).join(table))}</pre>']
 
 
 def build_digest(conn, ref_day, week, top_videos, titles, retention,
                  reach, snapshot, anomalies) -> str:
-    lines = []
+    # Origin tag so this is never confused with other bots on the same chat
+    lines = ['<i>[vindo do módulo YT da VPS]</i>', '']
 
     # Anomalies first (visible in the push notification)
     for anomaly in anomalies:
@@ -634,17 +675,10 @@ def build_digest(conn, ref_day, week, top_videos, titles, retention,
         f'❤️ {fmt_int(likes)} 💬 {fmt_int(comments)} 🔁 {fmt_int(shares)}'
     )
 
-    # Top videos of the week
+    # Top videos of the week (monospace table)
     if top_videos:
         lines.append('')
-        lines.append('🏆 <b>Top vídeos (7d)</b>')
-        for i, v in enumerate(top_videos[:TOP_VIDEOS_IN_DIGEST], 1):
-            pct = v['avg_view_pct']
-            lines.append(
-                f'{i}. {trunc_title(titles.get(v["video_id"], v["video_id"]))} — '
-                f'{fmt_int(v["views"])}v · {fmt_int(v["watch_minutes"] // 60)}h · '
-                f'{fmt_signed(v["net_subs"])} insc · {pct:.0f}%{retention_emoji(pct)}'
-            )
+        lines.extend(build_video_table(top_videos, titles))
 
     # Retention-curve summary for the #1 video
     if retention:

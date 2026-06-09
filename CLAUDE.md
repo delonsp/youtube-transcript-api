@@ -42,8 +42,10 @@ Dokploy VPS
 ### Channel Metrics (channel_metrics_report.py)
 
 Daily digest of channel metrics via Telegram (11h UTC, reference day D-3 in UTC).
-Digest layout: anomalies → 7-day rollup (WoW) → daily D-3 → top 5 videos (week) →
-retention curve of #1 → totals, plus a 30-day trend chart image.
+Digest layout: origin tag `[vindo do módulo YT da VPS]` → anomalies → 7-day rollup
+(WoW) → daily D-3 → top 5 videos as a monospace `<pre>` table (Vídeo/Views/Inscr/
+Conv/Ret, where Conv = net subs ÷ views) → retention curve of #1 → totals, plus a
+30-day trend chart image.
 
 - **YouTube Analytics API v2** (`token_analytics.pickle`, scopes `yt-analytics.readonly` + `youtube.readonly`): daily + 7-day views, watch time, subscribers gained/lost, engagement; per-video net subscribers and retention (`averageViewPercentage`); retention curve of the #1 video (`elapsedVideoTimeRatio`, fail-soft — empty for members-only/low-view)
 - **YouTube Reporting API v1** (`youtube_reporting.py`, same token): thumbnail impressions + CTR (`channel_reach_basic_a1` bulk CSV). **Fail-soft**: omitted from the digest until the *YouTube Reporting API* is enabled in GCP AND its first report is ready (~48h cold start). Dedupes backfill reports by newest `createTime`.
