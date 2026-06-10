@@ -43,6 +43,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
 import youtube_reporting
+from supabase_sync import sync_to_supabase
 from telegram_utils import send_telegram, send_telegram_photo
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -848,6 +849,10 @@ def run(args) -> int:
         anomaly = detect_anomaly(value, baseline, label)
         if anomaly:
             anomalies.append(anomaly)
+
+    # Mirror to Supabase (durable, queryable). Fail-soft; skipped on dry-run.
+    if not args.dry_run:
+        sync_to_supabase(conn, ref_day)
 
     digest = build_digest(conn, ref_day, week, top_videos, titles,
                           retention, reach, snapshot, anomalies)

@@ -13,6 +13,8 @@ services:
       - TOKEN_ANALYTICS_B64
       - TELEGRAM_BOT_TOKEN
       - TELEGRAM_CHAT_ID
+      - SUPABASE_URL
+      - SUPABASE_SERVICE_KEY
     volumes:
       - transcripts:/app/transcripts
       - metrics:/app/metrics

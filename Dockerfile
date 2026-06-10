@@ -31,6 +31,7 @@ COPY google_docs_manager.py .
 COPY channel_metrics_report.py .
 COPY telegram_utils.py .
 COPY youtube_reporting.py .
+COPY supabase_sync.py .
 
 # Crontab e entrypoint
 COPY crontab.txt .

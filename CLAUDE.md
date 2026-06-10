@@ -52,6 +52,7 @@ Conv/Ret, where Conv = net subs ÷ views) → retention curve of #1 → totals, 
 - **YouTube Data API v3** (same token): public counters snapshot (`subscriberCount` rounded DOWN to 3 sig figs even for the owner — shown as "~")
 - **Trend chart**: 30-day views line via matplotlib (Agg), sent with `sendPhoto`
 - **Storage**: SQLite at `metrics/metrics.db` (named volume `metrics:`). Tables: `channel_daily`, `video_daily`, `video_window`, `channel_reach`, `reporting_jobs`, `channel_snapshot`. Last 7 days re-upserted each run; `consolidated` flag marks days >= 72h old; self-heals gaps after downtime
+- **Supabase mirror** (`supabase_sync.py`, fail-soft): each run upserts the SQLite history into Postgres tables `public.yt_metrics_*` in the **N8N** project (`ajcsyvqlruambfavyqfd`) for dashboards/queries. SQLite stays primary. Uses PostgREST + service_role key (`SUPABASE_URL` + `SUPABASE_SERVICE_KEY` env); tables have RLS enabled with no policies (service_role only). Skipped on `--dry-run`
 - **Anomaly alerts**: z-score >= 2.5 vs 28 consolidated days + fallback drop > 40% vs 7d average
 - First run with empty DB backfills 365 days automatically
 - Members-only videos ARE included in Analytics API data (verified empirically)
@@ -119,6 +120,7 @@ docker compose --env-file .env run --rm cron bash -c ". /app/.env.cron && python
 ├── google_docs_manager.py           # Google Docs stub entry manager
 ├── channel_metrics_report.py        # Daily channel metrics digest (Analytics API -> SQLite -> Telegram)
 ├── youtube_reporting.py             # Reporting API component: thumbnail impressions/CTR (fail-soft)
+├── supabase_sync.py                 # Mirror metrics to Supabase Postgres (fail-soft, PostgREST)
 ├── telegram_utils.py                # Shared Telegram helper (send_telegram + send_telegram_photo)
 ├── Dockerfile                       # Cron container (python:3.12-slim + cron)
 ├── docker-compose.yml               # Single service: cron
@@ -149,6 +151,8 @@ All tokens/secrets as base64, decoded by `entrypoint-cron.sh`:
 | `TOKEN_ANALYTICS_B64` | token_analytics.pickle | YouTube Analytics API (metrics) |
 | `YOUTUBE_COOKIES` | youtube_cookies.txt | yt-dlp members-only |
 | `DEEPSEEK_API_KEY` | (direct) | DeepSeek AI API |
+| `SUPABASE_URL` | (direct) | Supabase metrics mirror (N8N project) |
+| `SUPABASE_SERVICE_KEY` | (direct) | Supabase service_role key (server-only) |
 
 Generate with: `cat <file> | base64`
 
