@@ -241,15 +241,18 @@ def _suggestions_deepseek(prompt):
 
 def ai_suggestions(videos):
     """Fable 5 first (best strategic analysis, ~1 call/day), DeepSeek as
-    fallback so the AI section survives an Anthropic outage/key issue."""
+    fallback so the AI section survives an Anthropic outage/key issue.
+    The result carries a `modelo` label shown on the dashboard."""
     prompt = _ai_prompt(videos)
     try:
         out = _suggestions_fable(prompt)
+        out['modelo'] = 'Claude Fable 5'
         logger.info('Sugestões geradas com Fable 5')
         return out
     except Exception as e:
         logger.warning(f'Fable 5 indisponível ({e}); usando DeepSeek')
         out = _suggestions_deepseek(prompt)
+        out['modelo'] = 'DeepSeek (fallback)'
         logger.info('Sugestões geradas com DeepSeek (fallback)')
         return out
 
@@ -311,8 +314,9 @@ HTML = """<!doctype html>
 <div class="sub" id="sub"></div>
 <div class="kpis" id="kpis"></div>
 <div class="card" id="aiCard" style="display:none">
-  <h2>🤖 O que publicar — sugestões da IA (base: top 20 vídeos / 90 dias)</h2>
+  <h2 id="aiTitle">🤖 O que publicar — sugestões da IA (base: top 20 vídeos / 90 dias)</h2>
   <div id="aiPats"></div><div id="aiSugs"></div>
+  <div class="sub" id="aiModel" style="margin:10px 0 0"></div>
 </div>
 <div class="card"><h2 id="vtitle">Top vídeos</h2>
   <div class="tabs" id="tabs"></div>
@@ -345,6 +349,7 @@ if (D.ai && D.ai.sugestoes && D.ai.sugestoes.length){
   document.getElementById('aiPats').innerHTML = (D.ai.padroes||[]).map(p=>`<div class="pat">${p}</div>`).join('');
   document.getElementById('aiSugs').innerHTML = D.ai.sugestoes.map(s=>
     `<div class="sug"><div class="t">${s.titulo}</div><div class="j"><b>${s.tema}</b> — ${s.justificativa}</div></div>`).join('');
+  document.getElementById('aiModel').textContent = '🧠 Análise gerada por: ' + (D.ai.modelo || 'IA');
 }
 
 // top vídeos com períodos
