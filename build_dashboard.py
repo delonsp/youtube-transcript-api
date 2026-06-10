@@ -375,11 +375,13 @@ HTML = """<!doctype html>
   .tabs{display:flex;gap:8px;margin-bottom:12px}
   .tab{background:#242832;border:0;color:var(--muted);padding:6px 14px;border-radius:8px;cursor:pointer;font-size:13px}
   .tab.on{background:var(--accent);color:#fff}
-  .sug{border-left:3px solid var(--accent);padding:10px 12px;margin:10px 0;background:#1d2029;border-radius:0 10px 10px 0}
-  .sug .t{font-weight:700}
-  .sug .j{color:var(--muted);font-size:13px;margin-top:4px}
-  .pat{color:var(--muted);font-size:13px;margin:4px 0}
-  .pat::before{content:"• "}
+  .sug{border-left:3px solid var(--accent);padding:12px 14px;margin:14px 0;background:#1d2029;border-radius:0 10px 10px 0}
+  .sug .t{font-weight:700;line-height:1.5}
+  .sug .j{color:var(--muted);font-size:13px;line-height:1.6;margin-top:6px}
+  #aiPats{margin:14px 0 22px}
+  .pat{color:var(--muted);font-size:13px;line-height:1.65;margin:0 0 14px;padding-left:16px;position:relative}
+  .pat:last-child{margin-bottom:0}
+  .pat::before{content:"•";position:absolute;left:2px;color:var(--accent);font-weight:700}
 </style></head><body>
 <h1>📊 Canal Dr. Alain — métricas</h1>
 <div class="sub" id="sub"></div>
