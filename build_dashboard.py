@@ -179,26 +179,13 @@ except Exception as e:
 
 # ---------------- AI suggestions (DeepSeek, fail-soft) ----------------------
 
-def ai_suggestions(videos):
-    api_key = None
-    try:
-        import keyring
-        api_key = keyring.get_password('deepseek', 'api_key')
-    except Exception:
-        pass
-    api_key = api_key or os.getenv('DEEPSEEK_API_KEY')
-    if not api_key:
-        logger.warning('DeepSeek key ausente — seção de IA omitida')
-        return []
-
-    from openai import OpenAI
-    client = OpenAI(api_key=api_key, base_url='https://api.deepseek.com')
+def _ai_prompt(videos):
     table = '\n'.join(
         f"- {v['title']} | {v['views']} views | {v['net_subs']:+d} inscritos | "
         f"conversão {v['conv']}% | retenção {v['retention']}%"
         for v in videos
     )
-    prompt = f"""Você é estrategista de conteúdo de um canal de saúde no YouTube (Dr. Alain Dutra, ~920 mil inscritos, público brasileiro leigo interessado em saúde preventiva).
+    return f"""Você é estrategista de conteúdo de um canal de saúde no YouTube (Dr. Alain Dutra, ~920 mil inscritos, público brasileiro leigo interessado em saúde preventiva).
 
 Top {len(videos)} vídeos dos últimos 90 dias (views, inscritos ganhos via página do vídeo, conversão = inscritos/views, retenção = % médio assistido):
 
@@ -207,15 +194,64 @@ Top {len(videos)} vídeos dos últimos 90 dias (views, inscritos ganhos via pág
 Analise os padrões (temas, formatos de título, o que converte inscrito vs o que só dá view, o que retém) e sugira 5 PRÓXIMOS VÍDEOS a publicar. Responda APENAS JSON válido, sem markdown:
 {{"padroes": ["3-4 insights curtos sobre o que funciona"], "sugestoes": [{{"titulo": "título pronto no estilo do canal", "tema": "tema/ângulo", "justificativa": "por que deve performar, citando os dados"}}]}}"""
 
+
+def _parse_ai_json(text):
+    text = text.strip()
+    if text.startswith('```'):
+        text = text.split('```')[1].lstrip('json').strip()
+    return json.loads(text)
+
+
+def _suggestions_fable(prompt):
+    """Primary: Claude Fable 5 via the Anthropic API (ANTHROPIC_API_KEY).
+    Fable 5 rejects temperature/top_p and an explicit thinking=disabled —
+    send neither."""
+    import anthropic
+    client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY
+    response = client.messages.create(
+        model='claude-fable-5',
+        max_tokens=3000,
+        messages=[{'role': 'user', 'content': prompt}],
+    )
+    text = next(b.text for b in response.content if b.type == 'text')
+    return _parse_ai_json(text)
+
+
+def _suggestions_deepseek(prompt):
+    """Fallback: DeepSeek (project default for the other jobs)."""
+    api_key = None
+    try:
+        import keyring
+        api_key = keyring.get_password('deepseek', 'api_key')
+    except Exception:
+        pass
+    api_key = api_key or os.getenv('DEEPSEEK_API_KEY')
+    if not api_key:
+        raise RuntimeError('DEEPSEEK_API_KEY ausente')
+
+    from openai import OpenAI
+    client = OpenAI(api_key=api_key, base_url='https://api.deepseek.com')
     resp = client.chat.completions.create(
         model=DEEPSEEK_MODEL,
         messages=[{'role': 'user', 'content': prompt}],
         temperature=0.7, max_tokens=2000,
     )
-    text = resp.choices[0].message.content.strip()
-    if text.startswith('```'):
-        text = text.split('```')[1].lstrip('json').strip()
-    return json.loads(text)
+    return _parse_ai_json(resp.choices[0].message.content)
+
+
+def ai_suggestions(videos):
+    """Fable 5 first (best strategic analysis, ~1 call/day), DeepSeek as
+    fallback so the AI section survives an Anthropic outage/key issue."""
+    prompt = _ai_prompt(videos)
+    try:
+        out = _suggestions_fable(prompt)
+        logger.info('Sugestões geradas com Fable 5')
+        return out
+    except Exception as e:
+        logger.warning(f'Fable 5 indisponível ({e}); usando DeepSeek')
+        out = _suggestions_deepseek(prompt)
+        logger.info('Sugestões geradas com DeepSeek (fallback)')
+        return out
 
 
 ai = {}
