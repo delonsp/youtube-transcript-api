@@ -408,6 +408,9 @@ def collect_reach(creds, conn, ref_day):
         ).isoformat()
         reach = youtube_reporting.fetch_reach_by_day(service, creds, job_id, created_after)
         now = datetime.now(timezone.utc).isoformat(timespec='seconds')
+        # One-time cleanup: early runs stored compact CSV dates (20260509)
+        conn.execute("DELETE FROM channel_reach WHERE date NOT LIKE '____-__-__'")
+        conn.execute("DELETE FROM video_reach WHERE date NOT LIKE '____-__-__'")
         for date, vals in reach['by_day'].items():
             conn.execute(
                 'INSERT INTO channel_reach (date, thumbnail_impressions, thumbnail_ctr, updated_at) '

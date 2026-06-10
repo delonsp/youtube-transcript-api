@@ -151,6 +151,9 @@ def _parse_reach_csv(text: str) -> tuple:
         if len(parts) <= max(di, ii, ci if ci >= 0 else 0, vi if vi >= 0 else 0):
             continue
         date = parts[di]
+        # CSV ships compact dates (20260509) — normalize to ISO (2026-05-09)
+        if len(date) == 8 and date.isdigit():
+            date = f'{date[:4]}-{date[4:6]}-{date[6:]}'
         try:
             impressions = int(float(parts[ii] or 0))
         except ValueError:
