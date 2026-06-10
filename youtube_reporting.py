@@ -36,6 +36,7 @@ JOB_NAME = 'channel-metrics-reach-basic'
 
 # Column name candidates in the reach CSV (lower-cased, exact then substring)
 _DATE_COLS = ('date',)
+_VIDEO_COLS = ('video_id',)
 _IMPRESSION_COLS = ('video_thumbnail_impressions',)
 _CTR_COLS = ('video_thumbnail_impressions_ctr',)
 
@@ -123,28 +124,31 @@ def _find_col(header: list, candidates) -> int:
     return -1
 
 
-def _parse_reach_csv(text: str) -> dict:
-    """Aggregate one CSV into {date: {'impressions': int, 'clicks': float}}.
-    CTR per row is impressions*ctr = clicks; channel CTR is recomputed later as
+def _parse_reach_csv(text: str) -> tuple:
+    """Aggregate one CSV into (by_day, by_video_day):
+      by_day:       {date: {'impressions': int, 'clicks': float}}
+      by_video_day: {(date, video_id): {'impressions': int, 'clicks': float}}
+    CTR per row is impressions*ctr = clicks; CTR is recomputed later as
     total clicks / total impressions so multi-row aggregation stays correct."""
     reader = csv.reader(io.StringIO(text))
     try:
         header = next(reader)
     except StopIteration:
-        return {}
+        return {}, {}
 
     di = _find_col(header, _DATE_COLS)
+    vi = _find_col(header, _VIDEO_COLS)
     ii = _find_col(header, _IMPRESSION_COLS)
     ci = _find_col(header, _CTR_COLS)
     if di < 0 or ii < 0:
         logger.warning(
             f'Reach CSV missing expected columns (date/impressions); header={header}'
         )
-        return {}
+        return {}, {}
 
-    agg = {}
+    by_day, by_video = {}, {}
     for parts in reader:
-        if len(parts) <= max(di, ii, ci if ci >= 0 else 0):
+        if len(parts) <= max(di, ii, ci if ci >= 0 else 0, vi if vi >= 0 else 0):
             continue
         date = parts[di]
         try:
@@ -157,14 +161,21 @@ def _parse_reach_csv(text: str) -> dict:
                 ctr = float(parts[ci] or 0)
             except ValueError:
                 ctr = 0.0
-        slot = agg.setdefault(date, {'impressions': 0, 'clicks': 0.0})
+        slot = by_day.setdefault(date, {'impressions': 0, 'clicks': 0.0})
         slot['impressions'] += impressions
         slot['clicks'] += impressions * ctr
-    return agg
+        if vi >= 0 and parts[vi]:
+            vslot = by_video.setdefault((date, parts[vi]),
+                                        {'impressions': 0, 'clicks': 0.0})
+            vslot['impressions'] += impressions
+            vslot['clicks'] += impressions * ctr
+    return by_day, by_video
 
 
 def fetch_reach_by_day(service, creds, job_id: str, created_after: str = None) -> dict:
-    """Download the job's reports and return {date: {'impressions', 'ctr'}}.
+    """Download the job's reports and return
+    {'by_day': {date: {'impressions', 'ctr'}},
+     'by_video': {(date, video_id): {'impressions', 'ctr'}}}.
     created_after: RFC3339 timestamp to limit which reports are listed.
 
     YouTube emits multiple reports for the same day when it reprocesses/backfills
@@ -204,7 +215,8 @@ def fetch_reach_by_day(service, creds, job_id: str, created_after: str = None) -
     from google.auth.transport.requests import AuthorizedSession
     session = AuthorizedSession(creds)
 
-    merged = {}  # date -> {'impressions', 'clicks'} (winners cover distinct days)
+    merged = {}        # date -> {'impressions', 'clicks'} (winners = distinct days)
+    merged_video = {}  # (date, video_id) -> {'impressions', 'clicks'}
     for rep in winners.values():
         url = rep.get('downloadUrl')
         if not url:
@@ -215,19 +227,27 @@ def fetch_reach_by_day(service, creds, job_id: str, created_after: str = None) -
         except Exception as e:
             logger.warning(f'Failed to download a reach report ({e}); skipping')
             continue
-        for date, slot in _parse_reach_csv(resp.text).items():
+        by_day, by_video = _parse_reach_csv(resp.text)
+        for date, slot in by_day.items():
             m = merged.setdefault(date, {'impressions': 0, 'clicks': 0.0})
             m['impressions'] += slot['impressions']
             m['clicks'] += slot['clicks']
+        for key, slot in by_video.items():
+            m = merged_video.setdefault(key, {'impressions': 0, 'clicks': 0.0})
+            m['impressions'] += slot['impressions']
+            m['clicks'] += slot['clicks']
 
-    out = {}
-    for date, m in merged.items():
-        impr = m['impressions']
-        ctr = (m['clicks'] / impr) if impr else 0.0
-        # Defensive: the CSV column might ship CTR as a percentage (0-100)
-        # rather than a fraction (0-1). A real thumbnail CTR is never > 1.0
-        # as a fraction, so treat anything above 1 as a percentage.
-        if ctr > 1:
-            ctr /= 100
-        out[date] = {'impressions': impr, 'ctr': ctr}
-    return out
+    def _finalize(agg):
+        out = {}
+        for key, m in agg.items():
+            impr = m['impressions']
+            ctr = (m['clicks'] / impr) if impr else 0.0
+            # Defensive: the CSV column might ship CTR as a percentage (0-100)
+            # rather than a fraction (0-1). A real thumbnail CTR is never > 1.0
+            # as a fraction, so treat anything above 1 as a percentage.
+            if ctr > 1:
+                ctr /= 100
+            out[key] = {'impressions': impr, 'ctr': ctr}
+        return out
+
+    return {'by_day': _finalize(merged), 'by_video': _finalize(merged_video)}

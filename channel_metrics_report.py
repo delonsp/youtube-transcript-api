@@ -176,6 +176,17 @@ def init_db(db_path: str) -> sqlite3.Connection:
             updated_at TEXT
         )
     """)
+    # Same, broken down per video (feeds the AI thumbnail analysis).
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS video_reach (
+            date TEXT,
+            video_id TEXT,
+            thumbnail_impressions INTEGER,
+            thumbnail_ctr REAL,
+            updated_at TEXT,
+            PRIMARY KEY (date, video_id)
+        )
+    """)
     conn.execute("""
         CREATE TABLE IF NOT EXISTS reporting_jobs (
             report_type TEXT PRIMARY KEY,
@@ -395,9 +406,9 @@ def collect_reach(creds, conn, ref_day):
             datetime.strptime(ref_day, '%Y-%m-%d')
             .replace(tzinfo=timezone.utc) - timedelta(days=10)
         ).isoformat()
-        by_day = youtube_reporting.fetch_reach_by_day(service, creds, job_id, created_after)
+        reach = youtube_reporting.fetch_reach_by_day(service, creds, job_id, created_after)
         now = datetime.now(timezone.utc).isoformat(timespec='seconds')
-        for date, vals in by_day.items():
+        for date, vals in reach['by_day'].items():
             conn.execute(
                 'INSERT INTO channel_reach (date, thumbnail_impressions, thumbnail_ctr, updated_at) '
                 'VALUES (?, ?, ?, ?) '
@@ -406,9 +417,21 @@ def collect_reach(creds, conn, ref_day):
                 'thumbnail_ctr=excluded.thumbnail_ctr, updated_at=excluded.updated_at',
                 (date, vals['impressions'], vals['ctr'], now),
             )
+        for (date, vid), vals in reach['by_video'].items():
+            conn.execute(
+                'INSERT INTO video_reach (date, video_id, thumbnail_impressions, thumbnail_ctr, updated_at) '
+                'VALUES (?, ?, ?, ?, ?) '
+                'ON CONFLICT(date, video_id) DO UPDATE SET '
+                'thumbnail_impressions=excluded.thumbnail_impressions, '
+                'thumbnail_ctr=excluded.thumbnail_ctr, updated_at=excluded.updated_at',
+                (date, vid, vals['impressions'], vals['ctr'], now),
+            )
         conn.commit()
-        if by_day:
-            logger.info(f'Stored reach data for {len(by_day)} day(s)')
+        if reach['by_day']:
+            logger.info(
+                f"Stored reach data for {len(reach['by_day'])} day(s), "
+                f"{len(reach['by_video'])} video-day rows"
+            )
     except Exception as e:
         logger.warning(f'Reach collection failed ({e}); impressions omitted from digest')
 

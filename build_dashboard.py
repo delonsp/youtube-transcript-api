@@ -137,6 +137,7 @@ def video_row(v, titles):
     views = v['views'] or 0
     net = v['net_subs']
     return {
+        'video_id': v['video_id'],
         'title': titles.get(v['video_id'], v['video_id']),
         'views': views, 'net_subs': net,
         'watch_hours': round((v['watch_minutes'] or 0) / 60),
@@ -145,8 +146,32 @@ def video_row(v, titles):
     }
 
 
+def get_video_reach(conn, ref_day, days=30):
+    """Per-video impressions + weighted CTR over the last N days of reach data.
+    Returns {video_id: {'impressions', 'ctr'}} (empty if reach not collected)."""
+    start = (datetime.strptime(ref_day, '%Y-%m-%d').date()
+             - timedelta(days=days - 1)).isoformat()
+    try:
+        rows = conn.execute(
+            'SELECT video_id, SUM(thumbnail_impressions), '
+            'SUM(thumbnail_impressions * thumbnail_ctr) '
+            'FROM video_reach WHERE date BETWEEN ? AND ? GROUP BY video_id',
+            (start, ref_day)).fetchall()
+    except sqlite3.OperationalError:
+        return {}  # table absent (pre-migration DB)
+    out = {}
+    for vid, impr, clicks in rows:
+        if impr:
+            out[vid] = {'impressions': impr, 'ctr': clicks / impr}
+    return out
+
+
+CONV_MIN_VIEWS = 5000   # floor to keep conversion ranking statistically sane
+CONV_TOP_N = 10
+
 periods_data = {}
 ai_input = []
+ai_conv_input = []
 try:
     from channel_metrics_report import (authenticate, fetch_top_videos_window,
                                         fetch_video_titles)
@@ -159,6 +184,16 @@ try:
         periods_data[label] = [video_row(v, titles) for v in vids]
         logger.info(f'Top vídeos {label}: {len(vids)}')
     ai_input = periods_data.get('90d', [])[:AI_TOP_N]
+
+    # Top by CONVERSION over 90d (wide fetch removes the top-by-views bias)
+    start90q = (ref_date - timedelta(days=89)).isoformat()
+    wide = fetch_top_videos_window(analytics, start90q, ref_day, max_results=200)
+    eligible = [v for v in wide if (v['views'] or 0) >= CONV_MIN_VIEWS]
+    eligible.sort(key=lambda v: v['net_subs'] / v['views'], reverse=True)
+    conv_ids = [v['video_id'] for v in eligible[:CONV_TOP_N]]
+    conv_titles = fetch_video_titles(youtube, conn, conv_ids)
+    ai_conv_input = [video_row(v, conv_titles) for v in eligible[:CONV_TOP_N]]
+    logger.info(f'Top conversão (90d, ≥{CONV_MIN_VIEWS} views): {len(ai_conv_input)}')
 except Exception as e:
     logger.warning(f'Analytics API indisponível ({e}); usando só o SQLite')
     vw_period = conn.execute('SELECT MAX(period_end) FROM video_window').fetchone()[0]
@@ -179,20 +214,44 @@ except Exception as e:
 
 # ---------------- AI suggestions (DeepSeek, fail-soft) ----------------------
 
-def _ai_prompt(videos):
-    table = '\n'.join(
-        f"- {v['title']} | {v['views']} views | {v['net_subs']:+d} inscritos | "
-        f"conversão {v['conv']}% | retenção {v['retention']}%"
-        for v in videos
-    )
+def _ai_video_line(v, reach):
+    line = (f"- {v['title']} | {v['views']} views | {v['net_subs']:+d} inscritos | "
+            f"conversão {v['conv']}% | retenção {v['retention']}%")
+    r = reach.get(v.get('video_id'))
+    if r:
+        line += (f" | CTR thumb {r['ctr'] * 100:.1f}% "
+                 f"({r['impressions']:,} impressões/30d)".replace(',', '.'))
+    return line
+
+
+def _ai_prompt(videos, conv_videos=None, reach=None):
+    reach = reach or {}
+    table = '\n'.join(_ai_video_line(v, reach) for v in videos)
+
+    conv_block = ''
+    if conv_videos:
+        conv_table = '\n'.join(_ai_video_line(v, reach) for v in conv_videos)
+        conv_block = f"""
+
+Top {len(conv_videos)} vídeos por CONVERSÃO de inscritos nos últimos 90 dias (mínimo 5 mil views — inclui vídeos de menor alcance que convertem muito bem; esta lista elimina o viés de olhar só os mais vistos):
+
+{conv_table}"""
+
+    ctr_note = ''
+    if reach:
+        ctr_note = ('\nCTR thumb = taxa de cliques na thumbnail quando exibida '
+                    '(últimos 30 dias). CTR baixo + retenção alta = vídeo bom com '
+                    'thumbnail/título fracos (retrabalhar packaging); CTR alto + '
+                    'retenção baixa = promessa que o conteúdo não entrega.')
+
     return f"""Você é estrategista de conteúdo de um canal de saúde no YouTube (Dr. Alain Dutra, ~920 mil inscritos, público brasileiro leigo interessado em saúde preventiva).
 
-Top {len(videos)} vídeos dos últimos 90 dias (views, inscritos ganhos via página do vídeo, conversão = inscritos/views, retenção = % médio assistido):
+Top {len(videos)} vídeos por VIEWS dos últimos 90 dias (views, inscritos ganhos via página do vídeo, conversão = inscritos/views, retenção = % médio assistido):
 
-{table}
-
-Analise os padrões (temas, formatos de título, o que converte inscrito vs o que só dá view, o que retém) e sugira 5 PRÓXIMOS VÍDEOS a publicar. Responda APENAS JSON válido, sem markdown:
-{{"padroes": ["3-4 insights curtos sobre o que funciona"], "sugestoes": [{{"titulo": "título pronto no estilo do canal", "tema": "tema/ângulo", "justificativa": "por que deve performar, citando os dados"}}]}}"""
+{table}{conv_block}
+{ctr_note}
+Analise os padrões cruzando as 4 dimensões (alcance/views, CTR de thumbnail, retenção, conversão de inscritos): temas e formatos de título que funcionam, o que converte vs o que só dá view, o que retém, e onde o packaging (thumb/título) está desperdiçando vídeo bom. Sugira 5 PRÓXIMOS VÍDEOS a publicar. Responda APENAS JSON válido, sem markdown:
+{{"padroes": ["4-5 insights curtos sobre o que funciona, incluindo ao menos 1 sobre CTR/packaging se houver dados"], "sugestoes": [{{"titulo": "título pronto no estilo do canal", "tema": "tema/ângulo", "justificativa": "por que deve performar, citando os dados"}}]}}"""
 
 
 def _parse_ai_json(text):
@@ -239,11 +298,11 @@ def _suggestions_deepseek(prompt):
     return _parse_ai_json(resp.choices[0].message.content)
 
 
-def ai_suggestions(videos):
+def ai_suggestions(videos, conv_videos=None, reach=None):
     """Fable 5 first (best strategic analysis, ~1 call/day), DeepSeek as
     fallback so the AI section survives an Anthropic outage/key issue.
     The result carries a `modelo` label shown on the dashboard."""
-    prompt = _ai_prompt(videos)
+    prompt = _ai_prompt(videos, conv_videos, reach)
     try:
         out = _suggestions_fable(prompt)
         out['modelo'] = 'Claude Fable 5'
@@ -260,7 +319,10 @@ def ai_suggestions(videos):
 ai = {}
 if not NO_AI and ai_input:
     try:
-        ai = ai_suggestions(ai_input)
+        video_reach = get_video_reach(conn, ref_day)
+        if video_reach:
+            logger.info(f'CTR por vídeo disponível para {len(video_reach)} vídeos')
+        ai = ai_suggestions(ai_input, ai_conv_input, video_reach)
         logger.info(f"IA: {len(ai.get('sugestoes', []))} sugestões geradas")
     except Exception as e:
         logger.warning(f'Sugestões de IA falharam ({e}); seção omitida')
@@ -314,7 +376,7 @@ HTML = """<!doctype html>
 <div class="sub" id="sub"></div>
 <div class="kpis" id="kpis"></div>
 <div class="card" id="aiCard" style="display:none">
-  <h2 id="aiTitle">🤖 O que publicar — sugestões da IA (base: top 20 vídeos / 90 dias)</h2>
+  <h2 id="aiTitle">🤖 O que publicar — sugestões da IA (base 90d: top 20 por views + top 10 por conversão + CTR de thumbnail)</h2>
   <div id="aiPats"></div><div id="aiSugs"></div>
   <div class="sub" id="aiModel" style="margin:10px 0 0"></div>
 </div>

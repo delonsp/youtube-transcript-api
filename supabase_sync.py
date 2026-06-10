@@ -73,6 +73,11 @@ def sync_to_supabase(conn, ref_day):
         reach = _fetch(conn, f'SELECT {",".join(reach_cols)} FROM channel_reach', reach_cols)
         _upsert(f'{TABLE_PREFIX}channel_reach', reach, 'date')
 
+        vreach_cols = ['date', 'video_id', 'thumbnail_impressions', 'thumbnail_ctr',
+                       'updated_at']
+        vreach = _fetch(conn, f'SELECT {",".join(vreach_cols)} FROM video_reach', vreach_cols)
+        _upsert(f'{TABLE_PREFIX}video_reach', vreach, 'date,video_id')
+
         snap_cols = ['date', 'subscriber_count', 'total_views', 'video_count']
         snap = _fetch(conn, f'SELECT {",".join(snap_cols)} FROM channel_snapshot', snap_cols)
         _upsert(f'{TABLE_PREFIX}channel_snapshot', snap, 'date')
