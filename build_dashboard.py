@@ -276,9 +276,11 @@ def _suggestions_fable(prompt):
     client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY
     response = client.messages.create(
         model='claude-fable-5',
-        max_tokens=3000,
+        max_tokens=8000,  # 3000 truncated the JSON mid-string (parse error -> fallback)
         messages=[{'role': 'user', 'content': prompt}],
     )
+    if response.stop_reason == 'max_tokens':
+        raise RuntimeError('Fable response truncated at max_tokens')
     text = next(b.text for b in response.content if b.type == 'text')
     return _parse_ai_json(text)
 
