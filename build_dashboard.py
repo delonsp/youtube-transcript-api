@@ -8,7 +8,11 @@ the AI section are fail-soft: without token/key the dashboard still builds
 with whatever is available.
 
 Usage:
-    python build_dashboard.py [output.html] [--no-ai]
+    python build_dashboard.py [output.html] [--no-ai] [--publish]
+
+--publish pushes the generated HTML to the password-protected here.now site
+(env HERENOW_API_KEY required; slug via HERENOW_DASHBOARD_SLUG). Republishing
+keeps the site password. Used by the daily cron at 11h30 UTC.
 """
 
 import json
@@ -26,11 +30,56 @@ PERIODS = [('7d', 7), ('28d', 28), ('90d', 90)]
 AI_TOP_N = 20
 DEEPSEEK_MODEL = 'deepseek-chat'
 
+DASHBOARD_SLUG = os.environ.get('HERENOW_DASHBOARD_SLUG', 'polite-riddle-javf')
+
 OUT = '/tmp/yt-dashboard/index.html'
 NO_AI = '--no-ai' in sys.argv
+PUBLISH = '--publish' in sys.argv
 for a in sys.argv[1:]:
     if not a.startswith('--'):
         OUT = a
+
+
+def publish_herenow(html_path):
+    """Publish the dashboard HTML to here.now (create/update flow:
+    PUT manifest -> upload presigned -> finalize). Password set on the site
+    persists across republishes. Raises on failure."""
+    import hashlib
+    import requests
+
+    api_key = os.environ.get('HERENOW_API_KEY', '').strip()
+    if not api_key:
+        raise RuntimeError('HERENOW_API_KEY not set')
+
+    content = open(html_path, 'rb').read()
+    headers = {'authorization': f'Bearer {api_key}',
+               'x-herenow-client': 'channel-metrics/build-dashboard'}
+    body = {
+        'files': [{'path': 'index.html', 'size': len(content),
+                   'contentType': 'text/html',
+                   'hash': hashlib.sha256(content).hexdigest()}],
+        'viewer': {'title': 'Métricas do Canal — Dr. Alain',
+                   'description': 'Dashboard privado de métricas do YouTube'},
+    }
+    r = requests.put(f'https://here.now/api/v1/publish/{DASHBOARD_SLUG}',
+                     headers=headers, json=body, timeout=30)
+    r.raise_for_status()
+    resp = r.json()
+    if resp.get('error'):
+        raise RuntimeError(f"here.now: {resp['error']}")
+
+    for up in resp['upload'].get('uploads', []):
+        put_headers = {}
+        ct = (up.get('headers') or {}).get('Content-Type')
+        if ct:
+            put_headers['Content-Type'] = ct
+        u = requests.put(up['url'], data=content, headers=put_headers, timeout=60)
+        u.raise_for_status()
+
+    f = requests.post(resp['upload']['finalizeUrl'], headers=headers,
+                      json={'versionId': resp['upload']['versionId']}, timeout=30)
+    f.raise_for_status()
+    logger.info(f"Publicado: {resp.get('siteUrl', DASHBOARD_SLUG)}")
 
 conn = sqlite3.connect(DB)
 conn.row_factory = sqlite3.Row
@@ -299,3 +348,17 @@ with open(OUT, 'w') as f:
     f.write(HTML.replace('__DATA__', json.dumps(data, ensure_ascii=False)))
 print(f'Dashboard: {OUT} | períodos: {list(periods_data)} | '
       f'IA: {len(ai.get("sugestoes", []))} sugestões | ref {ref_day}')
+
+if PUBLISH:
+    try:
+        publish_herenow(OUT)
+    except Exception as e:
+        logger.error(f'Publicação no here.now falhou: {e}')
+        try:
+            from telegram_utils import send_telegram
+            send_telegram('⚠️ <b>youtube-adm: refresh do dashboard FALHOU</b>\n\n'
+                          f'<code>{str(e)[:300]}</code>\n'
+                          'O digest não é afetado; dashboard ficou na versão anterior.')
+        except Exception:
+            pass
+        sys.exit(1)

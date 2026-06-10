@@ -21,7 +21,8 @@ Dokploy VPS
     ├── 8h UTC - fill_doc_summaries.py    (Google Docs summaries, level 1)
     ├── 9h UTC - run_estudos_avancados.py (Google Docs summaries, level 2)
     ├── 10h Mon - check_auth_health.py    (test OAuth + cookies + analytics, Telegram alert)
-    └── 11h UTC - channel_metrics_report.py (channel metrics digest via Telegram)
+    ├── 11h UTC - channel_metrics_report.py (channel metrics digest via Telegram)
+    └── 11h30 UTC - build_dashboard.py --publish (refresh here.now dashboard)
 ```
 
 ### Authentication for Members-Only Videos
@@ -59,6 +60,12 @@ Conv/Ret, where Conv = net subs ÷ views) → retention curve of #1 → totals, 
 - **Caveat**: per-video subscriber delta is watch-page-only and does NOT sum to the channel net (documented in code — don't "fix" the discrepancy). `averageViewPercentage` can exceed 100% for Shorts (replays)
 - **NOT available anywhere via API**: memberships/Super Chat revenue (only in YouTube Studio)
 - Flags: `--dry-run`, `--date YYYY-MM-DD`, `--backfill N`, `--no-chart`
+- **Dashboard** (`build_dashboard.py`, daily 11h30 UTC): self-contained HTML at the
+  password-protected here.now site (slug `polite-riddle-javf`, default overridable via
+  `HERENOW_DASHBOARD_SLUG`). Multi-period top videos (7d/28d/90d via Analytics API),
+  90-day charts, and DeepSeek publish suggestions from the top 20 videos of 90d.
+  Publishes via here.now API (`HERENOW_API_KEY` env); site password persists across
+  republishes. Fail-soft: AI/API sections degrade, publish failure alerts via Telegram
 - Full research: `RESEARCH_cron_metricas_youtube.md`
 
 **Refreshing OAuth token** (rare — only if revoked):
@@ -121,6 +128,7 @@ docker compose --env-file .env run --rm cron bash -c ". /app/.env.cron && python
 ├── channel_metrics_report.py        # Daily channel metrics digest (Analytics API -> SQLite -> Telegram)
 ├── youtube_reporting.py             # Reporting API component: thumbnail impressions/CTR (fail-soft)
 ├── supabase_sync.py                 # Mirror metrics to Supabase Postgres (fail-soft, PostgREST)
+├── build_dashboard.py               # Generate + publish here.now dashboard (multi-period, AI suggestions)
 ├── telegram_utils.py                # Shared Telegram helper (send_telegram + send_telegram_photo)
 ├── Dockerfile                       # Cron container (python:3.12-slim + cron)
 ├── docker-compose.yml               # Single service: cron
@@ -153,6 +161,7 @@ All tokens/secrets as base64, decoded by `entrypoint-cron.sh`:
 | `DEEPSEEK_API_KEY` | (direct) | DeepSeek AI API |
 | `SUPABASE_URL` | (direct) | Supabase metrics mirror (N8N project) |
 | `SUPABASE_SERVICE_KEY` | (direct) | Supabase service_role key (server-only) |
+| `HERENOW_API_KEY` | ~/.herenow/credentials | here.now dashboard publish |
 
 Generate with: `cat <file> | base64`
 

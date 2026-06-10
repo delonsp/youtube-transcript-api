@@ -16,3 +16,6 @@
 # Metricas do canal - 11h diariamente (digest Telegram, dados D-3)
 0 11 * * * cd /app && python channel_metrics_report.py >> /var/log/cron.log 2>&1
 
+# Refresh do dashboard here.now - 11h30 diariamente (apos o job de metricas)
+30 11 * * * cd /app && python build_dashboard.py /tmp/yt-dashboard/index.html --publish >> /var/log/cron.log 2>&1
+
