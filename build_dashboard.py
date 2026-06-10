@@ -250,8 +250,15 @@ Top {len(videos)} vídeos por VIEWS dos últimos 90 dias (views, inscritos ganho
 
 {table}{conv_block}
 {ctr_note}
-Analise os padrões cruzando as 4 dimensões (alcance/views, CTR de thumbnail, retenção, conversão de inscritos): temas e formatos de título que funcionam, o que converte vs o que só dá view, o que retém, e onde o packaging (thumb/título) está desperdiçando vídeo bom. Sugira 5 PRÓXIMOS VÍDEOS a publicar. Responda APENAS JSON válido, sem markdown:
-{{"padroes": ["4-5 insights curtos sobre o que funciona, incluindo ao menos 1 sobre CTR/packaging se houver dados"], "sugestoes": [{{"titulo": "título pronto no estilo do canal", "tema": "tema/ângulo", "justificativa": "por que deve performar, citando os dados"}}]}}"""
+PONDERAÇÃO DAS MÉTRICAS (hierarquia definida pelo dono do canal, alinhada ao algoritmo 2026 que prioriza contribuição de sessão e testa vídeos em audiências pequenas antes de expandir):
+1. CTR × retenção JUNTAS são as métricas-norte — são as alavancas de distribuição do algoritmo. CTR alto + retenção alta = vídeo que o YouTube empurra sozinho.
+2. Conversão de inscritos é o sinal de profundidade/funil (o canal monetiza por membros) — segunda prioridade.
+3. Views são CONSEQUÊNCIA das anteriores, nunca o objetivo.
+
+CONTEXTO 2026 (fontes oficiais do YouTube): a plataforma prioriza TV/sala de estar (neste canal TV já é 24% do watch time com duração média maior — pace mais calmo e thumbnails legíveis de longe ajudam); conteúdo com cara de IA genérica recebe rótulo automático desde mai/2026 e perde confiança do público — rosto real do médico na thumb é vantagem; formatos SERIALIZÁVEIS (séries/temporadas/playlists, ex: "Tomei X por 30 dias" como série mensal) aumentam tempo de sessão, que o algoritmo recompensa.
+
+Analise os padrões cruzando as 4 dimensões com essa hierarquia: o que tem CTR e retenção pra ser distribuído, o que converte inscrito, e onde o packaging (thumb/título) está desperdiçando vídeo bom. Nas sugestões, PREFIRA pautas que possam virar série/formato recorrente (indique a série quando aplicável). Sugira 5 PRÓXIMOS VÍDEOS. Responda APENAS JSON válido, sem markdown:
+{{"padroes": ["4-5 insights curtos seguindo a hierarquia CTR×retenção > conversão > views, incluindo ao menos 1 sobre packaging"], "sugestoes": [{{"titulo": "título pronto no estilo do canal", "tema": "tema/ângulo", "serie": "nome da série recorrente que esta pauta inaugura/continua, ou null", "justificativa": "por que deve performar, citando os dados"}}]}}"""
 
 
 def _parse_ai_json(text):
@@ -409,8 +416,9 @@ document.getElementById('kpis').innerHTML = [
 if (D.ai && D.ai.sugestoes && D.ai.sugestoes.length){
   document.getElementById('aiCard').style.display='block';
   document.getElementById('aiPats').innerHTML = (D.ai.padroes||[]).map(p=>`<div class="pat">${p}</div>`).join('');
-  document.getElementById('aiSugs').innerHTML = D.ai.sugestoes.map(s=>
-    `<div class="sug"><div class="t">${s.titulo}</div><div class="j"><b>${s.tema}</b> — ${s.justificativa}</div></div>`).join('');
+  document.getElementById('aiSugs').innerHTML = D.ai.sugestoes.map(s=>{
+    const serie = s.serie ? ` <span class="badge hot">📺 série: ${s.serie}</span>` : '';
+    return `<div class="sug"><div class="t">${s.titulo}${serie}</div><div class="j"><b>${s.tema}</b> — ${s.justificativa}</div></div>`;}).join('');
   document.getElementById('aiModel').textContent = '🧠 Análise gerada por: ' + (D.ai.modelo || 'IA');
 }
 
