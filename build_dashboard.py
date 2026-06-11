@@ -35,9 +35,35 @@ DASHBOARD_SLUG = os.environ.get('HERENOW_DASHBOARD_SLUG', 'polite-riddle-javf')
 OUT = '/tmp/yt-dashboard/index.html'
 NO_AI = '--no-ai' in sys.argv
 PUBLISH = '--publish' in sys.argv
+FORCE_AI = '--force-ai' in sys.argv
+AI_REFRESH_DAYS = 7  # editorial cadence: AI analysis regenerates weekly
 for a in sys.argv[1:]:
     if not a.startswith('--'):
         OUT = a
+
+
+def load_cached_ai(conn):
+    """Return (ai_dict, age_days) of the latest stored analysis, or (None, None)."""
+    conn.execute('CREATE TABLE IF NOT EXISTS ai_analysis '
+                 '(generated_at TEXT PRIMARY KEY, payload TEXT)')
+    conn.commit()
+    row = conn.execute('SELECT generated_at, payload FROM ai_analysis '
+                       'ORDER BY generated_at DESC LIMIT 1').fetchone()
+    if not row:
+        return None, None
+    age = (datetime.now(timezone.utc)
+           - datetime.fromisoformat(row[0])).days
+    try:
+        return json.loads(row[1]), age
+    except Exception:
+        return None, None
+
+
+def store_ai(conn, ai):
+    conn.execute('INSERT OR REPLACE INTO ai_analysis (generated_at, payload) VALUES (?, ?)',
+                 (datetime.now(timezone.utc).isoformat(timespec='seconds'),
+                  json.dumps(ai, ensure_ascii=False)))
+    conn.commit()
 
 
 def publish_herenow(html_path):
@@ -327,14 +353,23 @@ def ai_suggestions(videos, conv_videos=None, reach=None):
 
 ai = {}
 if not NO_AI and ai_input:
-    try:
-        video_reach = get_video_reach(conn, ref_day)
-        if video_reach:
-            logger.info(f'CTR por vídeo disponível para {len(video_reach)} vídeos')
-        ai = ai_suggestions(ai_input, ai_conv_input, video_reach)
-        logger.info(f"IA: {len(ai.get('sugestoes', []))} sugestões geradas")
-    except Exception as e:
-        logger.warning(f'Sugestões de IA falharam ({e}); seção omitida')
+    cached, age = load_cached_ai(conn)
+    if cached and age is not None and age < AI_REFRESH_DAYS and not FORCE_AI:
+        ai = cached
+        logger.info(f'IA: usando análise cacheada de {age} dia(s) atrás '
+                    f'(regenera a cada {AI_REFRESH_DAYS}d; --force-ai força)')
+    else:
+        try:
+            video_reach = get_video_reach(conn, ref_day)
+            if video_reach:
+                logger.info(f'CTR por vídeo disponível para {len(video_reach)} vídeos')
+            ai = ai_suggestions(ai_input, ai_conv_input, video_reach)
+            ai['gerada_em'] = datetime.now(timezone.utc).strftime('%d/%m')
+            store_ai(conn, ai)
+            logger.info(f"IA: {len(ai.get('sugestoes', []))} sugestões geradas (nova análise semanal)")
+        except Exception as e:
+            logger.warning(f'Sugestões de IA falharam ({e}); usando cache antigo se houver')
+            ai = cached or {}
 
 data = {
     'ref_day': ref_day,
@@ -423,7 +458,8 @@ if (D.ai && D.ai.sugestoes && D.ai.sugestoes.length){
   document.getElementById('aiSugs').innerHTML = D.ai.sugestoes.map(s=>{
     const serie = s.serie ? ` <span class="badge hot">📺 série: ${s.serie}</span>` : '';
     return `<div class="sug"><div class="t">${s.titulo}${serie}</div><div class="j"><b>${s.tema}</b> — ${s.justificativa}</div></div>`;}).join('');
-  document.getElementById('aiModel').textContent = '🧠 Análise gerada por: ' + (D.ai.modelo || 'IA');
+  const quando = D.ai.gerada_em ? ' em ' + D.ai.gerada_em : '';
+  document.getElementById('aiModel').textContent = '🧠 Análise gerada por: ' + (D.ai.modelo || 'IA') + quando + ' · renovada semanalmente';
 }
 
 // top vídeos com períodos
