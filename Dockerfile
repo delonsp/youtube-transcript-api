@@ -33,6 +33,7 @@ COPY telegram_utils.py .
 COPY youtube_reporting.py .
 COPY supabase_sync.py .
 COPY build_dashboard.py .
+COPY check_video_performance.py .
 
 # Crontab e entrypoint
 COPY crontab.txt .

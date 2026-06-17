@@ -19,3 +19,6 @@
 # Refresh do dashboard here.now - 11h30 diariamente (apos o job de metricas)
 30 11 * * * cd /app && python build_dashboard.py /tmp/yt-dashboard/index.html --publish >> /var/log/cron.log 2>&1
 
+# Checagem unica do video NODULOS DE TIREOIDE - 19/06 14h UTC (trava de data no script)
+0 14 19 6 * cd /app && python check_video_performance.py >> /var/log/cron.log 2>&1
+
