@@ -29,6 +29,10 @@ DB = 'metrics/metrics.db'
 PERIODS = [('7d', 7), ('28d', 28), ('90d', 90)]
 AI_TOP_N = 20
 DEEPSEEK_MODEL = 'deepseek-chat'
+# Primary analysis model (Anthropic). Was claude-fable-5 until it was withdrawn
+# worldwide on 2026-06-12; switched to the most capable available GA model.
+ANTHROPIC_MODEL = 'claude-opus-4-8'
+ANTHROPIC_LABEL = 'Claude Opus 4.8'
 
 DASHBOARD_SLUG = os.environ.get('HERENOW_DASHBOARD_SLUG', 'polite-riddle-javf')
 
@@ -294,19 +298,18 @@ def _parse_ai_json(text):
     return json.loads(text)
 
 
-def _suggestions_fable(prompt):
-    """Primary: Claude Fable 5 via the Anthropic API (ANTHROPIC_API_KEY).
-    Fable 5 rejects temperature/top_p and an explicit thinking=disabled —
-    send neither."""
+def _suggestions_anthropic(prompt):
+    """Primary: ANTHROPIC_MODEL via the Anthropic API (ANTHROPIC_API_KEY).
+    These models reject temperature/top_p; send neither (no thinking param)."""
     import anthropic
     client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY
     response = client.messages.create(
-        model='claude-fable-5',
+        model=ANTHROPIC_MODEL,
         max_tokens=8000,  # 3000 truncated the JSON mid-string (parse error -> fallback)
         messages=[{'role': 'user', 'content': prompt}],
     )
     if response.stop_reason == 'max_tokens':
-        raise RuntimeError('Fable response truncated at max_tokens')
+        raise RuntimeError(f'{ANTHROPIC_LABEL} response truncated at max_tokens')
     text = next(b.text for b in response.content if b.type == 'text')
     return _parse_ai_json(text)
 
@@ -334,17 +337,17 @@ def _suggestions_deepseek(prompt):
 
 
 def ai_suggestions(videos, conv_videos=None, reach=None):
-    """Fable 5 first (best strategic analysis, ~1 call/day), DeepSeek as
-    fallback so the AI section survives an Anthropic outage/key issue.
+    """Anthropic model first (best strategic analysis, ~1 call/week), DeepSeek
+    as fallback so the AI section survives an Anthropic outage/key issue.
     The result carries a `modelo` label shown on the dashboard."""
     prompt = _ai_prompt(videos, conv_videos, reach)
     try:
-        out = _suggestions_fable(prompt)
-        out['modelo'] = 'Claude Fable 5'
-        logger.info('Sugestões geradas com Fable 5')
+        out = _suggestions_anthropic(prompt)
+        out['modelo'] = ANTHROPIC_LABEL
+        logger.info(f'Sugestões geradas com {ANTHROPIC_LABEL}')
         return out
     except Exception as e:
-        logger.warning(f'Fable 5 indisponível ({e}); usando DeepSeek')
+        logger.warning(f'{ANTHROPIC_LABEL} indisponível ({e}); usando DeepSeek')
         out = _suggestions_deepseek(prompt)
         out['modelo'] = 'DeepSeek (fallback)'
         logger.info('Sugestões geradas com DeepSeek (fallback)')
