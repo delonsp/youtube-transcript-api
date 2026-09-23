@@ -1,6 +1,11 @@
 services:
   cron:
     build: .
+    init: true
+    stop_grace_period: 60s
+    cap_drop: [ALL]
+    cap_add: [CHOWN, SETUID, SETGID]
+    security_opt: ["no-new-privileges:true"]
     environment:
       - YOUTUBE_COOKIES
       - DEEPSEEK_API_KEY

@@ -1,3 +1,8 @@
+> **Estado vigente23/09/2026:** produção Magalu via Compose, Locaweb/Dokploy
+> encerrados. Push/merge não fazem deploy. Horários do cron em produção são BRT.
+> Leia deploy/README.md antes de operar. Não execute exemplos de jobs com
+> credenciais reais para testar. As instruções Dokploy abaixo são históricas.
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -110,7 +115,7 @@ docker compose --env-file .env run --rm cron bash -c "crontab -l"
 docker compose --env-file .env run --rm cron bash -c ". /app/.env.cron && python batch_process_videos.py --max-videos 5"
 ```
 
-**Deployment**: Automatic via Dokploy on push to `origin-new`.
+**Deployment**: manual, reviewed Magalu maintenance procedure; see `deploy/README.md`.
 
 ## File Structure
 
@@ -169,10 +174,10 @@ Generate with: `cat <file> | base64`
 
 Fork with two remotes:
 - `origin` -> `jdepoix/youtube-transcript-api` (upstream, read-only)
-- `origin-new` -> `delonsp/youtube-transcript-api` (push here, triggers Dokploy)
+- `origin-new` -> `delonsp/youtube-transcript-api` (your fork; publishing does not deploy)
 
 ```bash
-git push origin-new master    # Deploy
+git push origin-new master    # Publish code only
 # NEVER push to origin
 ```
 

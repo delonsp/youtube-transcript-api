@@ -73,4 +73,4 @@ touch /var/log/cron.log
 
 echo "=== Iniciando cron ==="
 # Rodar cron em foreground e tail do log
-cron && tail -f /var/log/cron.log
+exec python3 /app/cron-supervisor.py
