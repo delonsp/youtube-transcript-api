@@ -38,6 +38,7 @@ COPY check_video_performance.py .
 # Crontab e entrypoint
 COPY crontab.txt .
 COPY entrypoint-cron.sh .
+COPY cron-supervisor.py .
 RUN chmod +x entrypoint-cron.sh
 
 ENV PYTHONDONTWRITEBYTECODE=1

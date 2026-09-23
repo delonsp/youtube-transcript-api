@@ -1,0 +1,23 @@
+{
+  "name": "youtube-admin",
+  "services": {
+    "youtube-admin": {
+      "image": "sha256:cfbeee695e963845bbcb6decb3a250376ba659c9e39d8071b3a5958f683ba05b",
+      "init": true,
+      "stop_grace_period": "60s",
+      "cap_drop": ["ALL"],
+      "cap_add": ["CHOWN", "SETUID", "SETGID"],
+      "security_opt": ["no-new-privileges:true"]
+    }
+  },
+  "volumes": {
+    "metrics": {
+      "external": true,
+      "name": "youtube-admin_metrics"
+    },
+    "transcripts": {
+      "external": true,
+      "name": "youtube-admin_transcripts"
+    }
+  }
+}
